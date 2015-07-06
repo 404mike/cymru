@@ -1,5 +1,10 @@
 <?xml version="1.0"?>
-<county name="Anglesey/Sir Fon">
+<county id="anglesey">
+    <name lang="en">Anglesey</name>
+    <name lang="cy">Ynys Môn</name>
+    <population href="https://en.wikipedia.org/wiki/List_of_Welsh_principal_areas_by_population">69900</population>
+    <about lang="en" href="https://en.wikipedia.org/wiki/Anglesey">Anglesey","extract":"Anglesey (Welsh: Ynys M\u00f4n, [\u02c8\u0259n\u0268s \u02c8mo\u02d0n]) is an island off the north-west coast of Wales. With an area of 714 square kilometres (276 sq mi), Anglesey is the largest island of Wales and the fifth-largest island surrounding Great Britain (and the largest outside of Scotland). Anglesey is also the largest island in the Irish Sea by area, and the second most populous island in the Irish Sea (after the Isle of Man). The actual population taken at the 2011 census was 69,751. Two bridges span the Menai Strait, connecting the island to the mainland: the Menai Suspension Bridge, designed by Thomas Telford in 1826, and the Britannia Bridge.\nFormerly a historic county of Wales and later part of Gwynedd, Anglesey today makes up the Isle of Anglesey County along with Holy Island and other smaller islands. Almost three-quarters of Anglesey's inhabitants are Welsh speakers and Ynys M\u00f4n, the Welsh name for the island, is used for the UK Parliament and National Assembly constituencies.</about>
+    <about lang="cy" href="https://cy.wikipedia.org/wiki/Ynys_M%C3%B4n">Sir ac ynys yng ngogledd-orllewin Cymru yw Ynys Môn (Saesneg: Anglesey, Lladin: Mona). Gwahenir yr ynys oddi wrth y tir mawr gan gulfor Afon Menai. Cysylltir y tir mawr â'r ynys gan ddwy bont, y bont wreiddiol Pont Y Borth a godwyd gan Thomas Telford ym 1826 a'r un fwy, Pont Britannia sydd yn cysylltu'r A55 â'r ynys ynghyd â Rheilffordd Arfordir Gogledd Cymru. Ymhlith yr ynysoedd llai o gwmpas arfordir Môn mae Ynys Gybi, Ynys Seiriol, Ynys Llanddwyn ac Ynys Moelfre. Dynodwyd arfordir yr ynys yn Ardal o Harddwch Naturiol Eithriadol, ac mae Llwybr Arfordirol Ynys Môn yn mynd o'i chwmpas. Er i rannau o'r sir gael eu Seisnigeiddio dros y degawdau diweddar wrth i bobl symud yno i fyw o Loegr a llefydd eraill, erys Môn yn un o gadarnleoedd yr iaith Gymraeg a gellir cyfrif rhan sylweddol ohoni yn rhan o'r Fro Gymraeg. Gweinyddir y sir gan Gyngor Sir Ynys Môn sydd â'i bencadlys yn Llangefni.</about>
     <postcodes>
         <postcode>LL58</postcode>
         <postcode>LL59</postcode>
@@ -27,13 +32,7 @@
             <name>Aberffraw</name>
             <lat>53.19196</lat>
             <lon>-4.463753</lon>
-            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Aberffraw">Aberffraw (Welsh: Aberffro) is a small village and community on the south west coast of the Isle of Anglesey (Welsh: Ynys Môn), in Wales, by the west bank of the River Ffraw. Access by road is by way of the A4080 and the nearest rail station is Bodorgan. In the early Middle Ages Aberffraw was the capital of the Kingdom of Gwynedd from c.860 AD until c.1170. Under the eponymous Aberffraw Dynasty it came to be the most important political centre in medieval Wales. The Llys remained the symbolic throne of the Kings of Gwynedd from the 9th century to the 13th century. The Royal Annals of Edward I of England show the Llys was dismantled in 1315 to provide building materials for nearby Beaumaris Castle.
-
-...appeared to demonstrate the presence of a two-phase, round-angled, rectangular enclosure, at least 70m NNE-SSW, thought to represent a Roman military work, refurnished in the early medieval period as a llys (Princely court) enclosure; although a radio-carbon date centring on the period 27-387AD, appears to support this thesis, the identification of a Roman work is currently out of favour: the site of the llys, whose (partial?) dismantling is recorded in 1317, is regarded as uncertain: two sculptured heads, of apparent C13 style, are known from the village (White 1978): the putative curving angle of the enclosure has been suggested to hint at the former presence of a motte: excavations at the traditional site of the llys, about 650m to the WSW, recorded only C18 remains. Excavation, 1973-4 (White 1979) [1].
-
-^ "Community population 2011". Retrieved 18 May 2015. 
-^ "Search: Aberffraw". Enwau Cymru. University of Wales. Retrieved 16 April 2013. 
-^ Spelled variously in period sources, including Aberfrau.</wikipedia>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Aberffraw">Aberffraw (Welsh: Aberffro) is a small village and community on the south west coast of the Isle of Anglesey (Welsh: Ynys Môn), in Wales, by the west bank of the River Ffraw. Access by road is by way of the A4080 and the nearest rail station is Bodorgan. In the early Middle Ages Aberffraw was the capital of the Kingdom of Gwynedd from c.860 AD until c.1170. Under the eponymous Aberffraw Dynasty it came to be the most important political centre in medieval Wales. The Llys remained the symbolic throne of the Kings of Gwynedd from the 9th century to the 13th century. The Royal Annals of Edward I of England show the Llys was dismantled in 1315 to provide building materials for nearby Beaumaris Castle.</wikipedia>
             <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Aberffraw">Mae Aberffraw yn bentref ar arfordir gorllewinol Ynys Môn, rhwng Rhosneigr a Llangadwaladr, yng ngogledd Cymru. Mae'n cymryd ei enw o Afon Ffraw. Yn Oes y Tywysogion Aberffraw oedd maenor cwmwd Malltraeth, cantref Aberffraw. Ers cyfnod cynnar iawn roedd yn gartref i brif lys teyrnas Gwynedd, cartref traddodiadol brenhinoedd a thywysogion Gwynedd.</wikipedia>
         </town>
         <town id="anglesey/sir fon#alaw">
@@ -41,33 +40,26 @@
             <lat>53.2939122</lat>
             <lon>-4.5013224</lon>
             <wikipedia />
-            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Alaw">Gall alaw gyfeirio at:
-Alaw (blodyn) - blodyn
-Alaw (cerddoriaeth) - tiwn neu gainc
-Afon Alaw - afon ar Ynys Môn
-Llyn Alaw - llyn ar Ynys Môn
-Afon Alaw (llong) - enw llong hwylio</wikipedia>
+            <wikipedia />
         </town>
         <town id="anglesey/sir fon#amlwch">
             <name>Amlwch</name>
             <lat>53.410658</lat>
             <lon>-4.345693</lon>
             <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Amlwch">Amlwch (Welsh pronunciation: [ˈamlʊχ]) is a community and the most northerly town in Wales. It is situated on the north coast of the Isle of Anglesey, on the A5025 which connects it to Holyhead and to Menai Bridge. The town has no beach, but it has impressive coastal cliffs. Tourism is an important element of the local economy. At one time it was a busy port, with boats sailing to the Isle of Man and to Liverpool. A number of the houses date from the 19th century and add to the atmosphere of the town.
-The local newspaper for northeastern Anglesey is Yr Arwydd ('The Sign'). Yr Arwydd is the local Welsh name for Mynydd Bodafon, the paper covers the area surrounding the mountain, and has an image of the summit as its logo.
-The name Amlwch – a reference to the site of the town's harbour, Porth Amlwch – derives from Welsh am ("about, on or around") and llwch (an old word meaning "inlet, creek" - similar to the Gaelic word "loch" for a body of water).
-According to legend in the Middle Ages, the town developed on a site that had a harbour but was not visible from the sea, which helped to reduce the chance of Viking attacks.
-It grew rapidly in the 18th century near what was then the world's biggest copper mine at the nearby Parys Mountain. By the late 18th century, Amlwch had a population of around 10,000 and was the second largest town in Wales after Merthyr Tydfil. It was at this time that its harbour was also extended to accommodate the ships needed to transport the ore. At the 2011 census the Community had a population of 3,789
-When copper mining began to decline in the mid-1850s, shipbuilding became the main industry with many people also becoming involved in the ship repair and other maritime industries. The town was home to a brewing industry and also had tobacco works, producing the famous Amlwch Shag Tobacco - "Baco Shag Amlwch". Even after the decline of the copper mine some chemical industries remained and in 1953 a chemical plant to extract bromine from sea water (for use in petrol engines) was built but this closed in 2004.
-At the peak of the copper mining, it is believed that Amlwch had a record of public house to person ratio, with there being one pub for every four people. Today the ratio is nowhere near that mark but you can find pubs such as the King's Head, the Queen's Head, the Mariner, the Dinorben Arms Hotel and the Market Tavern in the town, and the Liverpool Arms and the Adelphi Vaults down in the port area. It also used to have a station, the northern terminus of the Anglesey Central Railway which was open between 1864 and 1993. There are some that would like to see the line restored, including the County Council's Economic Development Representative and consultants English, Welsh &amp; Scottish Railway, believing that it would be beneficial for the local tourism industry as well as providing further public transport, linking the town with Bangor via rail.
-
-Attractions in Amlwch include its restored port, the Anglesey Coastal Path which passes through it, its watch tower containing an exhibition by Geo Môn, maritime and copper mining museums, St Eleth's Church (which dates from 1800) and the reinforced concrete Catholic church Our Lady Star of the Sea and St Winefride, built in 1937. The town's leisure centre is one of the few on Anglesey and has a swimming pool, sports centre and squash courts. It is situated on Anglesey's 125-mile stretch of coast that is designated Area of Outstanding Natural Beauty, and the coastal walks and heritage walks provide for unique and spectacular views.
-The town also has two football clubs, Amlwch Town F.C., who play in the Welsh Alliance League, and the Adelphi Vaults F.C., a Sunday League pub team currently playing in the My Scaffolding League Division 1.
-Amlwch has a sea rowing club based in Bull Bay, Trireme Ynys Mon Rowing Club. Training takes place Tuesday and Thursday evenings, and Sunday mornings. The club is the most successful rowing club in North Wales, and competes in the Welsh Sea Rowing Association League.
-It is also home to the local secondary school, Ysgol Syr Thomas Jones which Lemmy attended, and the town also has a primary school. The high street is home to a number of small private businesses, many with a unique and boutique feel.</wikipedia>
+            The local newspaper for northeastern Anglesey is Yr Arwydd ('The Sign'). Yr Arwydd is the local Welsh name for Mynydd Bodafon, the paper covers the area surrounding the mountain, and has an image of the summit as its logo.
+            The name Amlwch – a reference to the site of the town's harbour, Porth Amlwch – derives from Welsh am ("about, on or around") and llwch (an old word meaning "inlet, creek" - similar to the Gaelic word "loch" for a body of water).
+            According to legend in the Middle Ages, the town developed on a site that had a harbour but was not visible from the sea, which helped to reduce the chance of Viking attacks.
+            It grew rapidly in the 18th century near what was then the world's biggest copper mine at the nearby Parys Mountain. By the late 18th century, Amlwch had a population of around 10,000 and was the second largest town in Wales after Merthyr Tydfil. It was at this time that its harbour was also extended to accommodate the ships needed to transport the ore. At the 2011 census the Community had a population of 3,789.
+            When copper mining began to decline in the mid-1850s, shipbuilding became the main industry with many people also becoming involved in the ship repair and other maritime industries. The town was home to a brewing industry and also had tobacco works, producing the famous Amlwch Shag Tobacco - "Baco Shag Amlwch". Even after the decline of the copper mine some chemical industries remained and in 1953 a chemical plant to extract bromine from sea water (for use in petrol engines) was built but this closed in 2004.
+            At the peak of the copper mining, it is believed that Amlwch had a record of public house to person ratio, with there being one pub for every four people. Today the ratio is nowhere near that mark but you can find pubs such as the King's Head, the Queen's Head, the Mariner, the Dinorben Arms Hotel and the Market Tavern in the town, and the Liverpool Arms and the Adelphi Vaults down in the port area. It also used to have a station, the northern terminus of the Anglesey Central Railway which was open between 1864 and 1993. There are some that would like to see the line restored, including the County Council's Economic Development Representative and consultants English, Welsh &amp; Scottish Railway, believing that it would be beneficial for the local tourism industry as well as providing further public transport, linking the town with Bangor via rail.
+            Attractions in Amlwch include its restored port, the Anglesey Coastal Path which passes through it, its watch tower containing an exhibition by Geo Môn, maritime and copper mining museums, St Eleth's Church (which dates from 1800) and the reinforced concrete Catholic church Our Lady Star of the Sea and St Winefride, built in 1937. The town's leisure centre is one of the few on Anglesey and has a swimming pool, sports centre and squash courts. It is situated on Anglesey's 125-mile stretch of coast that is designated Area of Outstanding Natural Beauty, and the coastal walks and heritage walks provide for unique and spectacular views.
+            The town also has two football clubs, Amlwch Town F.C., who play in the Welsh Alliance League, and the Adelphi Vaults F.C., a Sunday League pub team currently playing in the My Scaffolding League Division 1.
+            Amlwch has a sea rowing club based in Bull Bay, Trireme Ynys Mon Rowing Club. Training takes place Tuesday and Thursday evenings, and Sunday mornings. The club is the most successful rowing club in North Wales, and competes in the Welsh Sea Rowing Association League.
+            It is also home to the local secondary school, Ysgol Syr Thomas Jones which Lemmy attended, and the town also has a primary school. The high street is home to a number of small private businesses, many with a unique and boutique feel.</wikipedia>
             <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Amlwch">Tref fach yng ngogledd Môn yw Amlwch, ar lôn yr A5025 tua 15 milltir i'r gogledd o Borthaethwy, hanner ffordd rhwng Cemaes a Moelfre. Mae Caerdydd 229.2 km i ffwrdd o Amlwch ac mae Llundain yn 356.8 km. Y ddinas agosaf ydy Bangor sy'n 25.5 km i ffwrdd.
-Tref sy'n gorwedd ar lan y môr yw hi, heb draeth ond gyda chlogwynni arfordirol trawiadol. Mae twristiaeth yn elfen bwysig yn yr economi leol. Ar un adeg roedd yn borthladd eithaf prysur gyda llongau yn hwylio oddi yno i Ynys Manaw a Lerpwl. Mae nifer o'r tai yn dyddio o'r 19eg ganrif ac yn ychwanegu at awyrgylch y dref.
-
-Yr Arwydd yw papur bro Benllech a gweddill cylch Mynydd Bodafon.</wikipedia>
+            Tref sy'n gorwedd ar lan y môr yw hi, heb draeth ond gyda chlogwynni arfordirol trawiadol. Mae twristiaeth yn elfen bwysig yn yr economi leol. Ar un adeg roedd yn borthladd eithaf prysur gyda llongau yn hwylio oddi yno i Ynys Manaw a Lerpwl. Mae nifer o'r tai yn dyddio o'r 19eg ganrif ac yn ychwanegu at awyrgylch y dref.
+            Yr Arwydd yw papur bro Benllech a gweddill cylch Mynydd Bodafon.</wikipedia>
         </town>
         <town id="anglesey/sir fon#amlwch port">
             <name>Amlwch Port</name>
@@ -81,7 +73,7 @@ Yr Arwydd yw papur bro Benllech a gweddill cylch Mynydd Bodafon.</wikipedia>
             <lat>53.2692804</lat>
             <lon>-4.3212852</lon>
             <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Anglesey">Anglesey (Welsh: Ynys Môn, [ˈənɨs ˈmoːn]) is an island off the north-west coast of Wales. With an area of 714 square kilometres (276 sq mi), Anglesey is the largest island of Wales and the fifth-largest island surrounding Great Britain (and the largest outside of Scotland). Anglesey is also the largest island in the Irish Sea by area, and the second most populous island in the Irish Sea (after the Isle of Man). The actual population taken at the 2011 census was 69,751. Two bridges span the Menai Strait, connecting the island to the mainland: the Menai Suspension Bridge, designed by Thomas Telford in 1826, and the Britannia Bridge.
-Formerly a historic county of Wales and later part of Gwynedd, Anglesey today makes up the Isle of Anglesey County along with Holy Island and other smaller islands. Almost three-quarters of Anglesey's inhabitants are Welsh speakers and Ynys Môn, the Welsh name for the island, is used for the UK Parliament and National Assembly constituencies.</wikipedia>
+            Formerly a historic county of Wales and later part of Gwynedd, Anglesey today makes up the Isle of Anglesey County along with Holy Island and other smaller islands. Almost three-quarters of Anglesey's inhabitants are Welsh speakers and Ynys Môn, the Welsh name for the island, is used for the UK Parliament and National Assembly constituencies.</wikipedia>
             <wikipedia />
         </town>
         <town id="anglesey/sir fon#bachau">
@@ -96,40 +88,35 @@ Formerly a historic county of Wales and later part of Gwynedd, Anglesey today ma
             <lat>53.265865</lat>
             <lon>-4.09199</lon>
             <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Beaumaris">Beaumaris (/bjuːˈmærɨs/; Welsh: Biwmares [bɪuˈmɑːrɛs]) is a former royal borough, a community, and the former county town of Anglesey, Wales. It was located in the commote of Dindaethwy and historic rural deanery of Tindaethwy, and is at the eastern entrance to the Menai Strait, the tidal waterway separating Anglesey from the coast of North Wales. At the 2001 census it had a population of 2,040, reducing to 1,938 at the 2011 Census.</wikipedia>
-            <wikipedia />
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Biwmares">Mae Biwmares (Saesneg: Beaumaris) yn dref hanesyddol yn ne-ddwyrain Ynys Môn, ar lan Afon Menai. Enw Ffrangeg Normanaidd sydd i'r dref a'i ystyr yw Morfa Deg.
+            Yn ôl Cyfrifiad 2011, roedd 1,892 o bobl yn byw yn y gymuned hon a 748 (sef 39.5%) o'r boblogaeth dros dair oed a hŷn yn gallu siarad Cymraeg.[2] Roedd 448 yn ddi-waith, sef 45.7% o'r rhai o fewn yr oedran priodol.</wikipedia>
         </town>
         <town id="anglesey/sir fon#benllech">
             <name>Benllech</name>
             <lat>53.321861</lat>
             <lon>-4.225891</lon>
             <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Benllech">Benllech is a small town on the Isle of Anglesey in Wales. It is in the community of Llanfair-Mathafarn-Eithaf, which has a population of 3,382, making it the 5th largest town by population on the island. The name of Benllech village had been removed by the time of the 2011 census with the community being listed under Llanfair-Mathafarn-Eithaf with the electoral ward being listed under Llanddyfnan.
-The name Benllech is perhaps a mutated form of penllech, literally "head slab" or "head rock", i.e. "capstone" or "head of the rock", or possibly meaning 'on slate', shortened from the Welsh term 'ar ben llech'.
-Benllech is a popular beach holiday destination. Winner of the European Blue Flag award since 2004, the beach shelves and has an abundance of clean yellow sand and looks out toward the Great Orme and Penmon Point. The Anglesey Coastal Path and Wales Coast Path pass through Benllech. The village won the 'tidiest village on Anglesey' competition in the years 1973–79 and was also awarded a Civic Trust Award which recognises the very best in architecture, design, planning, landscape and public art. The award was given to projects of the highest quality design, which have made a positive cultural, social and economic contribution to the local community.
-The village has a range of businesses which include public houses and hotels, camping and caravan sites and several bed and breakfasts. The community has a primary school, Ysgol Goronwy Owen; library, doctors' surgery, chemist, several churches, community centre, police and fire station, tennis court and bowling green, and most recently a Tesco Express supermarket. Between 1909 and 1950 there was a railway station close to the village which was the terminus of the Red Wharf Bay branch line. The old station house still exists and several railway bridges can be seen along the road approaching the village.
-^ Ordnance Survey : Election Maps : Isle of Anglesey Retrieved 2009-08-18
-^ Office for National Statistics : Census 2001 : Parish Headcounts : Isle of Anglesey Retrieved 2009-08-18
-^ BBC Wales: What's in a name?</wikipedia>
+            The name Benllech is perhaps a mutated form of penllech, literally "head slab" or "head rock", i.e. "capstone" or "head of the rock", or possibly meaning 'on slate', shortened from the Welsh term 'ar ben llech'.
+            Benllech is a popular beach holiday destination. Winner of the European Blue Flag award since 2004, the beach shelves and has an abundance of clean yellow sand and looks out toward the Great Orme and Penmon Point. The Anglesey Coastal Path and Wales Coast Path pass through Benllech. The village won the 'tidiest village on Anglesey' competition in the years 1973–79 and was also awarded a Civic Trust Award which recognises the very best in architecture, design, planning, landscape and public art. The award was given to projects of the highest quality design, which have made a positive cultural, social and economic contribution to the local community.
+            The village has a range of businesses which include public houses and hotels, camping and caravan sites and several bed and breakfasts. The community has a primary school, Ysgol Goronwy Owen; library, doctors' surgery, chemist, several churches, community centre, police and fire station, tennis court and bowling green, and most recently a Tesco Express supermarket. Between 1909 and 1950 there was a railway station close to the village which was the terminus of the Red Wharf Bay branch line. The old station house still exists and several railway bridges can be seen along the road approaching the village.</wikipedia>
             <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Benllech">Tref ar arfordir ddwyreiniol Ynys Môn, ym mhwlyf Llanfair Mathafarn Eithaf yw Benllech. Fe'i lleolir 7 milltir i'r gogledd-ddwyrain o Borthaethwy ar lôn yr A5025, hanner ffordd rhwng Pentraeth a Moelfre. Mae ar Lwybr Arfordirol Ynys Mon. Mae'n ganolfan gwyliau glan-môr boblogaidd yn yr haf ac mae twristiaeth yn chwarae rhan bwysig yn yr economi leol. Mae nifer o dai newydd a byngalos yn gymysg â thai hŷn yn y dref. Mae Traeth Benllech yn lân a diogel. I'r gorllewin ceir meysydd carafanau ar gyfer ymwelwyr.</wikipedia>
         </town>
         <town id="anglesey/sir fon#bethel">
             <name>Bethel</name>
             <lat>53.16313</lat>
             <lon>-4.212325</lon>
-            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Bethel">Bethel (Ugaritic: bt il, meaning "House of El" or "House of God", Hebrew: בֵּית אֵל, also transliterated Beth El, Beth-El, or Beit El; Greek: Βαιθηλ; Latin: Bethel) was a border city described in the Hebrew Bible as being located between Benjamin and Ephraim and also a location named by Jacob. Edward Robinson identified the village of Beitin in the West Bank with ancient Bethel in Biblical Researches in Palestine, 1838–52. He based this assessment on its fitting the location described in earlier texts, and on the philological similarities between the modern and ancient name, arguing that the replacement of the Hebrew el with the Arabic in was not unusual. During Israelite rule, Bethel first belonged to the Tribe of Benjamin, but was later conquered by the Tribe of Ephraim. Eusebius of Caesarea and Jerome describe it in their time as a small village that lay 12 Roman miles north of Jerusalem, to the right or east of the road leading to Neapolis.
-Ten years after the Six Day War, the biblical name was applied to an Israeli settlement Beit El constructed adjacent to Beitin. In several countries - particularly in the US - the name was given to various locations (see Bethel (disambiguation)).
-A second biblical Bethel, in the southern Judah, is mentioned in the Book of Joshua (Joshua 8:17 and Joshua 12:16), and seems to be the same as Bethul or Bethuel, a city of the tribe of Simeon.
-↑ Bleeker and Widegren, 1988, p. 257.
-↑ Robinson and Smith, 1856, pp. 449–450.</wikipedia>
-            <wikipedia />
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Bethel,_Anglesey">Bethel is a relatively small and quiet village set centrally within the wider community and larger Parish of Bodorgan. The village is located inland (approximately three miles) from the south-western coast on the isle of Anglesey in North Wales.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Bethel,_Ynys_M%C3%B4n">Pentref bychan ar Ynys Môn yw Bethel. Mae'n un o sawl lle a enwir ar ôl y dref Feiblaidd Bethel (Hebraeg: בֵּית־אֵל Bet El, yn golygy "Tŷ Dduw"). Yn yr achos yma enwir y pentref ar ôl Capel Bethel a godwyd yno.
+            Gorwedd Bethel ar ffordd y B4422 tua milltir i'gogledd o bentref Llangadwaladr a thua dwy filltir i'r gogledd-ddwyrain o Falltraeth.
+            Tua chwarter milltir i'r de o Fethel ceir Llyn Coron.</wikipedia>
         </town>
         <town id="anglesey/sir fon#bodedern">
             <name>Bodedern</name>
             <lat>53.294814</lat>
             <lon>-4.502152</lon>
             <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Bodedern">Bodedern is a village and community in the west of Anglesey, Wales. At the 2001 census, it had a population of 1,074, decreasing slightly to 1,051 at the 2011 census. The village has a bilingual primary school, Ysgol Gynradd Bodedern, and secondary school, Ysgol Uwchradd Bodedern. The village's football team, Bodedern Athletic F.C. play in the Welsh Alliance League. Bodedern is the closest village to the island's largest natural lake, Llyn Llywenan, 1 kilometre (0.6 mi) to the north. The parish church (St Edern's Church, Bodedern) dates from the 14th century and is a Grade II* listed building. The Valley Wetlands are the other side of the A55 about 2 miles from Bodedern.
-Presaddfed Hall is a small grade II* listed country house which stands amongst woodlands to the north-east of the village at the southern tip of Llyn Llywenan. The main block was built in 1686 and is joined to an earlier block by a later block built in 1875. A walled garden lies to the east of the house  Once the seat of the Lewis family, several of whom served as High Sheriff of Anglesey, it is now a country hotel.</wikipedia>
-            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Bodedern">Pentref a chymuned yng ngorllewin Ynys Môn yw Bodedern. Yn ôl Cyfrifiad 2011, roedd 1,016 o bobl yn byw yn y gymuned hon a 718 (sef 70.7%) o'r boblogaeth dros dair oed a hŷn yn gallu siarad Cymraeg. Roedd 142 yn ddi-waith, sef 32.1% o'r rhai o fewn yr oedran priodol.
-↑ Cyfrifiad 2011; gwefan Saesneg "Ystadegau Cenedlaethol y DU". Adalwyd 28 Ebrill 2013.</wikipedia>
+            Presaddfed Hall is a small grade II* listed country house which stands amongst woodlands to the north-east of the village at the southern tip of Llyn Llywenan. The main block was built in 1686 and is joined to an earlier block by a later block built in 1875. A walled garden lies to the east of the house  Once the seat of the Lewis family, several of whom served as High Sheriff of Anglesey, it is now a country hotel.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Bodedern">Pentref a chymuned yng ngorllewin Ynys Môn yw Bodedern. Yn ôl Cyfrifiad 2011, roedd 1,016 o bobl yn byw yn y gymuned hon a 718 (sef 70.7%) o'r boblogaeth dros dair oed a hŷn yn gallu siarad Cymraeg. Roedd 142 yn ddi-waith, sef 32.1% o'r rhai o fewn yr oedran priodol.</wikipedia>
         </town>
         <town id="anglesey/sir fon#bodewryd">
             <name>Bodewryd</name>
@@ -137,23 +124,21 @@ Presaddfed Hall is a small grade II* listed country house which stands amongst w
             <lon>-4.405427</lon>
             <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Bodewryd">Bodewryd is a village in Anglesey, Wales.</wikipedia>
             <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Bodewryd">Cymuned wledig ar Ynys Môn yw Bodewryd. Mae'n gorwedd yng ngogledd yr ynys tua dwy filltir i'r dwyrain o Llanfechell a thair milltir a hanner i'r de-orllewin o Amlwch.
-Mae'r enw yn golygu 'Annedd Ewryd', ar ôl y sant cynnar Ewryd/Gerwyd (Lladin: Euridius), sydd fel arall yn anhysbys. Yr unig beth a wyddys amdano yw ei fod, yn ôl traddodiad, yn un o feibion Cynyr Ceinfarfog ac felly'n frawd i'r seintiau Non, Gwen a Banhadlwen.
-Roedd Plas Bodewryd yn adnabyddus fel un o'r tai a noddai beirdd Môn yn yr Oesoedd Canol.
-Brodor o Fodewryd oedd Edward Wyn (m. 1637), gŵr y brydyddes Elen Gwdman.</wikipedia>
+            Mae'r enw yn golygu 'Annedd Ewryd', ar ôl y sant cynnar Ewryd/Gerwyd (Lladin: Euridius), sydd fel arall yn anhysbys. Yr unig beth a wyddys amdano yw ei fod, yn ôl traddodiad, yn un o feibion Cynyr Ceinfarfog ac felly'n frawd i'r seintiau Non, Gwen a Banhadlwen.
+            Roedd Plas Bodewryd yn adnabyddus fel un o'r tai a noddai beirdd Môn yn yr Oesoedd Canol.
+            Brodor o Fodewryd oedd Edward Wyn (m. 1637), gŵr y brydyddes Elen Gwdman.</wikipedia>
         </town>
         <town id="anglesey/sir fon#bodffordd">
             <name>Bodffordd</name>
             <lat>53.265662</lat>
             <lon>-4.359899</lon>
             <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Bodffordd">Bodffordd is a village and community in central Anglesey, Wales. At the 2011 census, the population of the community was 960.
-Bodffordd is located just under 2 miles (3.2 km) from the county town, Llangefni and is on the south-western edge of the reservoir Llyn Cefni. It is the nearest settlement to RAF Mona and as a community council it includes the village of Trefor. According to the United Kingdom Census 2001, 77.9% of the population in the electoral division can speak the Welsh language. The age group with the highest number is the 15 year olds, where 100% can speak the language.
-The village was originally called Bodffordd Esgob, the Esgob indicating that it belonged to a bishop, the Bishop of Bangor in this case. Village life once revolved around the windmill just north of the village and its related trades. This has now been converted into a private residence. The village was also on a drovers road on the way to Llangefni market and there were two poor houses nearby. Many of these older dwelling have fallen into disrepair but the village church, dedicated to St. Llwydian's, is still in good condition.
-Despite the fact that the village has few facilities (it does have a primary school/village hall, electrical outlet/shop, MOT garage/computer workshop and small shop) it was chosen to host the 2007 Anglesey Eisteddfod, a considerable honour.
-The village is the site of the Mona Industrial Estate, which in 2009 was given planning permission to build a 25,000 tonne animal waste anaerobic digestion plant. Developer Ecoparc Môn, part of Anglesey-based Gray’s Waste Management Systems, has been promised £1.1m in grants from the Welsh Assembly Government through the Waste &amp; Resources Action Programme, towards the developments £3.5m projected cost.
-^ "Parish Headcounts: Isle of Anglesey". Neighbourhood Statistics. Office for National Statistics. Retrieved 17 April 2013. 
-^ http://www.theonlinemail.co.uk/bangor-and-anglesey-news/local-bangor-and-anglesey-news/2011/07/06/bodffordd-biodigester-awarded-environment-agency-wales-licence-66580-28995760/</wikipedia>
+            Bodffordd is located just under 2 miles (3.2 km) from the county town, Llangefni and is on the south-western edge of the reservoir Llyn Cefni. It is the nearest settlement to RAF Mona and as a community council it includes the village of Trefor. According to the United Kingdom Census 2001, 77.9% of the population in the electoral division can speak the Welsh language. The age group with the highest number is the 15 year olds, where 100% can speak the language.
+            The village was originally called Bodffordd Esgob, the Esgob indicating that it belonged to a bishop, the Bishop of Bangor in this case. Village life once revolved around the windmill just north of the village and its related trades. This has now been converted into a private residence. The village was also on a drovers road on the way to Llangefni market and there were two poor houses nearby. Many of these older dwelling have fallen into disrepair but the village church, dedicated to St. Llwydian's, is still in good condition.
+            Despite the fact that the village has few facilities (it does have a primary school/village hall, electrical outlet/shop, MOT garage/computer workshop and small shop) it was chosen to host the 2007 Anglesey Eisteddfod, a considerable honour.
+            The village is the site of the Mona Industrial Estate, which in 2009 was given planning permission to build a 25,000 tonne animal waste anaerobic digestion plant. Developer Ecoparc Môn, part of Anglesey-based Gray’s Waste Management Systems, has been promised £1.1m in grants from the Welsh Assembly Government through the Waste &amp; Resources Action Programme, towards the developments £3.5m projected cost.</wikipedia>
             <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Bodffordd">Pentref bychan a chymuned yng nghanol Ynys Môn yw Bodffordd (neu Botffordd). Fe'i lleolir ar y lôn gefn B 5109 tua dwy filltir a hanner i'r gorllewin o Langefni, ar ben deheuol Llyn Cefni. Tri chwarter milltir i'r de mae Heneglwys ac mae Bodffordd ei hun yn rhan o'r plwyf honno.
-Fymryn i'r gorllewin o'r pentref ceir Maes Awyr Môn.</wikipedia>
+            Fymryn i'r gorllewin o'r pentref ceir Maes Awyr Môn.</wikipedia>
         </town>
         <town id="anglesey/sir fon#braint">
             <name>Braint</name>
@@ -166,7 +151,7 @@ Fymryn i'r gorllewin o'r pentref ceir Maes Awyr Môn.</wikipedia>
             <name>Bryn Celyn</name>
             <lat />
             <lon />
-            <wikipedia />
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Bryn_Celyn,_Llangoed">Bryn Celyn is an area in the community of Llangoed, Ynys Môn, Wales, which is 131.2 miles (211.1 km) from Cardiff and 207.8 miles (334.4 km) from London.</wikipedia>
             <wikipedia />
         </town>
         <town id="anglesey/sir fon#bryn du">
@@ -175,26 +160,14 @@ Fymryn i'r gorllewin o'r pentref ceir Maes Awyr Môn.</wikipedia>
             <lon />
             <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Bryn Du">Bryn Du is a village in Anglesey, in north-west Wales. Its a cool place, you should go here one day.</wikipedia>
             <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Bryn Du">Mae Bryn Du yn gopa mynydd a geir yn Ne-orllewin Cymru; cyfeiriad grid SN845800. Uchder cymharol, neu ”amlygrwydd” y copa, ydy 498 metr: dyma'r uchder mae'r copa'n codi uwchlaw'r mynydd agosaf.
-Dosberthir copaon Cymru, a gweddill gwledydd Prydain, yn rhestri arbennig yn ôl uchder ac yn ôl amlygrwydd y copa; mae'r copa hwn yn cael ei alw'n Dewey. Mae sawl cymdeithas yn mesur, gwiro a chasglu'r rhestri hyn a dônt ynghŷd ar wefan “Database of British and Irish hills”. Uchder y copa o lefel y môr ydy 562 metr (1844 tr). Cafodd yr uchder ei fesur a'i gadarnhau ar 10 Mawrth 2007.
-↑ “Database of British and Irish hills”</wikipedia>
+            Dosberthir copaon Cymru, a gweddill gwledydd Prydain, yn rhestri arbennig yn ôl uchder ac yn ôl amlygrwydd y copa; mae'r copa hwn yn cael ei alw'n Dewey. Mae sawl cymdeithas yn mesur, gwiro a chasglu'r rhestri hyn a dônt ynghŷd ar wefan “Database of British and Irish hills”. Uchder y copa o lefel y môr ydy 562 metr (1844 tr). Cafodd yr uchder ei fesur a'i gadarnhau ar 10 Mawrth 2007.</wikipedia>
         </town>
         <town id="anglesey/sir fon#bryngwran">
             <name>Bryngwran</name>
             <lat>53.269233</lat>
             <lon>-4.473994</lon>
             <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Bryngwran">Bryngwran is a village and community in the Welsh county of Anglesey, located on the A5 London to Holyhead trunk road. It lies 8.1 miles (13.0 km) west of Llangefni, 7.0 miles (11.3 km) south west of Llannerch-y-medd and 7.4 miles (11.9 km) south east of Holyhead, and includes the villages of Bryngwran, Capel Gwyn and Engedi. At the 2001 census the community had a population of 781, increasing to 894 at the 2011 election.
-Saint Peulan's Church stands in an isolated position at Llanbeulan, in the south east of the community. A medieval building, it partly dates from the 12th century, but was extended in the 14th, and restored in the mid-19th century. The gritstone font dates from late 12th century. It is considered an example of a "rural medieval church retaining its simple character" and is Grade II* listed. Pandy Treban, a former fulling mill in the north of the community, and the 18th-century bridge at Pont Factory Cymunod, over the Afon Crigyll on the border with Bodedern, are Grade II listed.
-Alun Michael, the First Minister of Wales and leader of Welsh Labour from May 1999 to February 2000, was born in Bryngwran in 1943. A former journalist and youth worker, he was elected to the House of Commons in 1987. As a Home Office minister, he was responsible for steering through Parliament the Crime and Disorder Act 1998, which introduced anti-social behaviour orders. In 2001, he was appointed Minister of State for Rural Affairs, where he oversaw the introduction of the Hunting Act 2004, which banned the use of dogs to hunt wild mammals. Michael resigned from Parliament in October 2012 to stand as Police and Crime Commissioner for South Wales, to which he was elected the following month.
-^ "Parish Headcounts: Isle of Anglesey". Neighbourhood Statistics. Office for National Statistics. Retrieved 17 April 2013. 
-^ "Community population 2011". Retrieved 19 May 2015. 
-^ "Church of St Peulan". Historic Wales. Cadw. Retrieved 17 April 2013. 
-^ "Pandy Treban". Coflein. Royal Commission on the Ancient and Historic Monuments of Wales. Retrieved 17 April 2013. 
-^ "Pont Factory Cymunod". Coflein. Royal Commission on the Ancient and Historic Monuments of Wales. Retrieved 17 April 2013. 
-^ "Members of Parliament: Rt Hon Alun Michael MP". Welsh Labour. Retrieved 17 April 2013. 
-^ "Alun Michael: Electoral History and Profile". The Guardian. Retrieved 17 April 2013. 
-^ Evans, Jason (9 November 2012). "Former MP Alun Michael Wants Bad Behaviour Tackled Early". This Is South Wales. Retrieved 17 April 2013. 
-^ "Hunting Vote Sparks Angry Scenes". British Broadcasting Corporation. 17 December 2002. Retrieved 17 April 2013. 
-^ "Alun Michael Is New South Wales Police and Crime Commissioner". British Broadcasting Corporation. 16 November 2012. Retrieved 17 April 2013.</wikipedia>
+            Saint Peulan's Church stands in an isolated position at Llanbeulan, in the south east of the community. A medieval building, it partly dates from the 12th century, but was extended in the 14th, and restored in the mid-19th century. The gritstone font dates from late 12th century. It is considered an example of a "rural medieval church retaining its simple character" and is Grade II* listed. Pandy Treban, a former fulling mill in the north of the community, and the 18th-century bridge at Pont Factory Cymunod, over the Afon Crigyll on the border with Bodedern, are Grade II listed.</wikipedia>
             <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Bryngwran">Pentref a chymuned yng ngogledd-orllewin Ynys Môn yw Bryngwran(cyfeiriad grid SH351774). Saif ar y briffordd A5, rhwng Caergeiliog a Gwalchmai. Hyd yn ddiweddar, roedd y drafnidiaeth i Gaergybi yn mynd trwy'r pentref, ond wedi adeiladu'r A55, sy'n mynd ychydig i'r de o'r pentref, mae'n ddistawach. Mae'r rhan fwyaf o'r pentref ym mhlwyf eglwysig Llechylched, gydag ychydig o'r rhan ddwyreiniol ym mhlwyf Llanbeulan.</wikipedia>
         </town>
         <town id="anglesey/sir fon#brynrefail">
@@ -202,9 +175,8 @@ Alun Michael, the First Minister of Wales and leader of Welsh Labour from May 19
             <lat>53.141036</lat>
             <lon>-4.1549319</lon>
             <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Brynrefail">Brynrefail is a small village in north-east Anglesey, Wales.</wikipedia>
-            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Brynrefail">Gall Brynrefail (bryn + gefail) gyfeirio at:
-Brynrefail, pentref yng Ngwynedd gerllaw Llanberis.
-Brynrefail, pentref bychan yng ngogledd-ddwyrain Ynys Môn.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Brynrefail,_Ynys_M%C3%B4n">Pentref bychan yng ngogledd-ddwyrain Ynys Môn yw Brynrefail. Saif ar y briffordd A5025, tua hanner y ffordd rhwng Amlwch a Benllech.
+            Saif y pentref yn agos i Draeth Dulas a Thraeth Llugwy, ac mae twristiaeth yn bwysig yn yr ardal, gyda nifer o wersylloedd carafannau. Dyddia'r eglwys i ddiwedd y 19eg ganrif, ac agorwyd neuadd gymumedol yn 1995. Ceir yma hefyd ganolfan arddio a Tyddyn Môn, canolfan ddysgu i rai dan anfantais.</wikipedia>
         </town>
         <town id="anglesey/sir fon#brynsiencyn">
             <name>Brynsiencyn</name>
@@ -217,15 +189,13 @@ Brynrefail, pentref bychan yng ngogledd-ddwyrain Ynys Môn.</wikipedia>
             <name>Brynteg</name>
             <lat>53.065927</lat>
             <lon>-3.039355</lon>
-            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Brynteg">Brynteg may refer to:
-Places
-Brynteg, Anglesey, Wales
-Brynteg, Wrexham, Wales
-Other
-Ysgol Brynteg, Bridgend, Wales</wikipedia>
-            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Brynteg">Gallai Brynteg neu Bryn-teg gyfeirio at un o sawl lle:
-Brynteg (Ynys Môn)
-Brynteg (Wrecsam)</wikipedia>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Brynteg,_Anglesey">Brynteg is a crossroads village and post town on the Isle of Anglesey, North Wales.
+            Brynteg is located on the east of the island on the B5108 and B5110 roads due west of the coastal resort of Benllech. It gives its name to an electoral ward of the island's council. The population of this ward taken at the 2011 Census was 1,869.
+            During October 2013 the residents of Brynteg were invited to vote for changing the name of the village to Rhosfawr. The results of this vote was 19 for the proposal and 34 against.
+            In 2014, Brynteg was rated one of the most attractive postcode areas to live in Wales.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Brynteg,_Ynys_M%C3%B4n">Pentref bychan yn nwyrain Ynys Môn yw Brynteg (cyfeiriad grid SH496824). Yn gorwedd tua milltir a hanner i'r gorllewin o dref Benllech, ar groesffordd y B5108 a'r B5110. Mae yng nghymuned Llanfair Mathafarn Eithaf.
+            Ceir hen felin wynt ar gyrion y pentref a hefyd cwrs golff Brynteg. Mae tafarn y California Arms yng nghanol y pentref.
+            Tua chwarter milltir i'r dwyrain o Frynteg ceir hen fryngaer o'r enw Dinas.</wikipedia>
         </town>
         <town id="anglesey/sir fon#bull bay (porthllechog)">
             <name>Bull Bay (Porthllechog)</name>
