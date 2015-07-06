@@ -63,8 +63,8 @@
         </town>
         <town id="anglesey/sir fon#amlwch port">
             <name>Amlwch Port</name>
-            <lat />
-            <lon />
+            <lat>53.413001</lat>
+            <lon>-4.334221</lon>
             <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Amlwch Port">Amlwch Port is a port village in Anglesey, in north-west Wales.</wikipedia>
             <wikipedia />
         </town>
