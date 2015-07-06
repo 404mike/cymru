@@ -1,0 +1,1345 @@
+<?xml version="1.0"?>
+<county name="Denbighshire">
+    <postcodes>
+        <postcode>CH7</postcode>
+        <postcode>LL11</postcode>
+        <postcode>LL15</postcode>
+        <postcode>LL16</postcode>
+        <postcode>LL17</postcode>
+        <postcode>LL18</postcode>
+        <postcode>LL19</postcode>
+        <postcode>LL20</postcode>
+        <postcode>LL21</postcode>
+        <postcode>LL22</postcode>
+    </postcodes>
+    <towns>
+        <town id="denbighshire#aifft">
+            <name>Aifft</name>
+            <lat />
+            <lon />
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="denbighshire#berwyn">
+            <name>Berwyn</name>
+            <lat>53.0102656</lat>
+            <lon>-3.0367785</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Berwyn">Berwyn originally referred to the Berwyn range of mountains in northeast Wales:
+Cadair Berwyn or Cader Berwyn is a mountain summit in north east Wales
+Cadair Berwyn North Top or Cadair Berwyn (Old Top) is a top of Cadair Berwyn in north east Wales
+Berwyn Mountain UFO incident, the second most well known British "UFO crash"
+Berwyn can also refer to:
+
+</wikipedia>
+            <wikipedia />
+        </town>
+        <town id="denbighshire#bettws gwerfil goch">
+            <name>Bettws Gwerfil Goch</name>
+            <lat />
+            <lon />
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Bettws Gwerfil Goch">This is a redirect from a misspelling or typographical error. The correct form is given by the target of the redirect. For more information follow the category link.
+This redirect is made available to aid searches. Pages that use this link should be updated to link directly to the target without the use of a piped link that hides the correct details.</wikipedia>
+            <wikipedia />
+        </town>
+        <town id="denbighshire#bodelwyddan">
+            <name>Bodelwyddan</name>
+            <lat>53.268061</lat>
+            <lon>-3.498458</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Bodelwyddan">Bodelwyddan (Welsh pronunciation: [bɔdɛlˈwəðan]) is a town, electoral ward and community in Denbighshire, Wales, approximately 5 miles (8 km) South of Rhyl. The Parish includes several smaller hamlets, including Pengwern, approximately 1 mile (1.8 km) to the North West of Bodelwyddan itself.
+Bodelwyddan has a long history and is home to over sixty listed buildings including notable locations such as the Marble Church and Bodelwyddan Castle.
+The population of only 2,106, increasing to 2,147 at the 2011 census, is served by a single public house, a small number of shops, a primary school and a driving range; as well as having its own Community Centre.
+It is now bypassed by the A55 road, but continues to be a hub of activity due to the presence of Glan Clwyd Hospital, and has a Town Council who take a role in community development and hold regular meetings that are open to the public in the Local Community Centre. Since 2011, and after local residents petitioned the Town Council, invoking the Allotments Act 1908-1950, Bodelwyddan also has allotments for willing members of the Parish.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Bodelwyddan">Pentref bychan a chymuned yn Sir Ddinbych yw Bodelwyddan. Fe'i lleolir ar yr A55 hanner ffordd rhwng Abergele i'r gorllewin a Llanelwy i'r dwyrain. Saif Castell Bodelwyddan tua hanner cilometr o'r pentref. Mae'n gartref i Ysbyty Glan Clwyd, y prif ysbyty ar gyfer gogledd-ddwyrain Cymru. Mae'n fwyaf adnabyddus am Yr Eglwys Farmor (Eglwys Sant Marged), a godwyd ganol y 19eg ganrif mewn marmor gwyn trawiadol.
+I'r gogledd o'r pentref ceir gwlybdir eang Morfa Rhuddlan, safle brwydr waedlyd rhwng y Cymry a rhyfelwyr Mercia yn 797.</wikipedia>
+        </town>
+        <town id="denbighshire#bodfari">
+            <name>Bodfari</name>
+            <lat>53.22452</lat>
+            <lon>-3.360863</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Bodfari">Bodfari is a village in Denbighshire, Wales. Until the local government reorganisation of 1974, Bodfari was in the historic county of Flintshire.
+The ancient parish of Bodfari comprised the townships of Bodfari, which was in historic Flintshire, and Aberwheeler, in historic Denbighshire.
+
+</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Bodfari">Pentref bychan a chymuned wrth droed Bryniau Clwyd yn Sir Ddinbych yw Bodfari. Fe'i lleolir tua 2 filltir i'r gogledd-ddwyrain o dref Dinbych, Dyffryn Clwyd. I'r dwyrain o'r pentref ceir bryn isel Moel y Gaer a'i fryngaer a bryn uwch Moel y Parc. Mae Bodfari yn gorwedd ar y lôn A541 o Ddinbych i Gaerwys trwy fwlch ym Mryniau Clwyd. Ar un adeg roedd gan y pentref orsaf reilffordd ar yr hen reilffordd rhwng Dinbych a'r Wyddgrug.
+Cynrychiolir Bodfari yn y Cynulliad Cenedlaethol gan Sandy Mewies (Y Blaid Lafur) a'r Aelod Seneddol yw Chris Ruane (Y Blaid Lafur).
+Rhed Llwybr Clawdd Offa trwy'r pentref. I'r gogledd ceir bryngaer Moel y Gaer sy'n dyddio o Oes yr Haearn.</wikipedia>
+        </town>
+        <town id="denbighshire#bontuchel">
+            <name>Bontuchel</name>
+            <lat>53.110075</lat>
+            <lon>-3.367145</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Bontuchel">Bontuchel is a hamlet in Denbighshire, Wales, located 2.8 miles (4.5 km) by road west of Ruthin. The father of Calvinist Isaac Hughes hailed from Bontuchel.
+
+</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Bontuchel">Pentref a chymuned yn Sir Ddinbych yw Bontuchel (cyfeiriad grid SJ083577). Saif ar y ffordd gefn rhwng tref Rhuthun a phentref Cyffylliog, rhyw ddwy filltir i'r gorllewin o Rhuthun a 112.8 milltir (181.6 km) o Gaerdydd a 176.1 milltir (283.3 km) o Lundain.
+Daw'r enw o'r bont uchel dros Afon Clywedog, sydd yn llifo heibio'r pentref.
+Ar un adeg roedd yno dafarn, y Bridge, a siop, ond mae'r rhain wedi cau bellach.
+Cynrychiolir Bontuchel yn y Cynulliad Cenedlaethol gan Darren Millar (Y Blaid Geidwadol) a'r Aelod Seneddol yw David Jones (Y Blaid Geidwadol).</wikipedia>
+        </town>
+        <town id="denbighshire#brookhouse">
+            <name>Brookhouse</name>
+            <lat>53.178531</lat>
+            <lon>-3.383467</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Brookhouse">Brookhouse may refer to:
+Brookhouse, Lancashire
+Brookhouse Colliery, near Sheffield, Yorkshire
+Brookhouse Elementary School, a Canadian public school in Dartmouth, Nova Scotia
+Brookhouse School, Nairobi
+Graham Brookhouse (b. 1962), a British Olympic athlete
+
+</wikipedia>
+            <wikipedia />
+        </town>
+        <town id="denbighshire#bryn saith marchog">
+            <name>Bryn Saith Marchog</name>
+            <lat />
+            <lon />
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Bryn Saith Marchog">This is a redirect from a title that potentially could be expanded into a new article or other type of associated Wikipedia page. The topic described by this title is more detailed than what is currently provided on the target page, or section of that page. For more information follow the category link.
+When the target page becomes too large, this redirect may be replaced with a page carved out of the target page. See also {{R to section}}, and when appropriate, use both together.
+If the topic is not susceptible to a major expansion, then instead of this rcat, tag this redirect with {{R to section}} or {{R to list entry}} as applicable.
+Do not replace links to this redirect with a link directly to the target page.
+
+This is a redirect from a topic that does not have its own page to a section of a page on the subject. For more information follow the category link.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Bryn Saith Marchog">Pentref bach gwledig yn rhan deheuol Dyffryn Clwyd, Sir Ddinbych, yw Bryn Saith Marchog (neu Brynsaithmarchog) - (cyfeiriad grid SJ078505). Saif ar lan ddwyreiniol Afon Clwyd gyferbyn â phentref Derwen, tua 5 milltir i'r gogledd o Gorwen. Mae ar yr A494.
+Cyfeirir at Fryn Saith Marchog yng Nghainc Gyntaf y Mabinogi, chwedl Branwen ferch Llŷr. Cyfeiriad onomastig i esbonio enw lle ydyw. Pan â Bendigeidfran i Iwerddon mae'n gadael saith tywysog a'u saith marchog i warchod Ynys Prydain. Nid enwir y marchogion ond ceir cyfeiriad at y lle:
+Yn Edeirn[i]on yd edewit y gwyr hynny, ac o achaws hynny y dodet Seith Marchawc ar y dref.
+Mae Ifor Williams yn nodi, gan ddilyn awgrym yr Athro Joseph Loth, fod 'seith/saith' yn gallu golygu "sant" mewn Cymraeg Canol. Mae'n bosibl felly mai "Bryn Sant Marchog" a olygid yn wreiddiol (ceir enghreifftiau o'r enw 'Sadwrn Farchog' am Sant Sadwrn hefyd).</wikipedia>
+        </town>
+        <town id="denbighshire#bryn-newydd">
+            <name>Bryn-newydd</name>
+            <lat>53.334421</lat>
+            <lon>-3.395464</lon>
+            <wikipedia />
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Bryn-newydd">Pentrefan yng nghymuned Llangollen, Sir Ddinbych, Cymru yw Bryn-newydd, sydd 102.8 milltir (165.5 km) o Gaerdydd a 164.9 milltir (265.3 km) o Lundain.
+Cynrychiolir Bryn-newydd yn y Cynulliad Cenedlaethol gan Ken Skates (Y Blaid Lafur) a'r Aelod Seneddol yw Susan Elan Jones (Y Blaid Lafur).</wikipedia>
+        </town>
+        <town id="denbighshire#bryn-yr-ogof">
+            <name>Bryn-yr-ogof</name>
+            <lat>53.3277083</lat>
+            <lon>-3.8335257</lon>
+            <wikipedia />
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Bryn-yr-ogof">Pentrefan yng nghymuned Llanarmon-yn-Iâl, Sir Ddinbych, Cymru yw Bryn-yr-ogof, sydd 111.8 milltir (179.9 km) o Gaerdydd a 170.2 milltir (273.9 km) o Lundain.
+Cynrychiolir Bryn-yr-ogof yn y Cynulliad Cenedlaethol gan Darren Millar (Y Blaid Geidwadol) a'r Aelod Seneddol yw David Jones (Y Blaid Geidwadol).
+↑ Gwefan y Cynulliad; adalwyd 24 Chwefror 2014
+↑ Gwefan parliament.uk; adalwyd 24 Chwefror 2014</wikipedia>
+        </town>
+        <town id="denbighshire#bryneglwys">
+            <name>Bryneglwys</name>
+            <lat>53.013436</lat>
+            <lon>-3.2795709</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Bryneglwys">Bryneglwys is a village and community in Denbighshire, Wales. The village lies to the northeast of Corwen on a hill above a small river, Afon Morwynion. The community covers an area of 24.48 km2 and extends to the top of Llantysilio Mountain. It had a population of 369 at the time of the 2011 census, an increase from 344 during the 2001 census. The name of the village means "church hill" and was first recorded in 1284 with the spelling "Breneglus".
+The village church is dedicated to Saint Tysilio. There has been a church on the site since the 7th century but the current building dates from the 15th century and was restored around 1570 and again in 1875. Yale Chapel was added to the church around 1575.
+The local primary school is Ysgol Dyffryn Iâl which has two sites, one in Bryneglwys and one in the nearby village of Llandegla. It is a bilingual school under the control of the Church in Wales.
+The 16th-century historian David Powel came from the village. To the northeast of the village stands Plas yn Iâl, the ancestral home of the Yale family who included Elihu Yale, a benefactor of Yale University in the USA.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Bryneglwys">Am y chwarel lechi ger Abergynolwyn, gweler Chwarel Bryn Eglwys.
+Pentref, plwyf, a chymuned yn Sir Ddinbych yw Bryneglwys. Saif i'r gogledd-orllewin o dref Llangollen ac i'r gogledd-ddwyrain o Gorwen, ar y briffordd A5104.
+Mae'r gymuned yn cynnwys copa Mynydd Llandysilio, i'r de o'r pentref, a Plas-yn-Iâl, cartref gwreiddiol teulu Yale. Ganed Elihu Yale yno, yr enwir Prifysgol Yale ar ei ôl. Roedd poblogaeth y gymuned yn 2001 yn 344.
+Yn yr Oesoedd Canol roedd y plwyf yn rhan o gwmwd Iâl, yn nheyrnas Powys (Powys Fadog). Mae adeilad presennol eglwys y plwyf, sef Eglwys Tysilio Sant, yn dyddio o'r 15fed ganrif ond mae'n debyg fod y safle yn hŷn.</wikipedia>
+        </town>
+        <town id="denbighshire#bryniau">
+            <name>Bryniau</name>
+            <lat>52.8769524</lat>
+            <lon>-3.6579323</lon>
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="denbighshire#cader">
+            <name>Cader</name>
+            <lat>53.1348521</lat>
+            <lon>-3.4799098</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Cader">Cader is a village in Denbighshire, Wales.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Cader">Mae cader (Llydaweg: cadoer, Gwydd Cynn: cathair; Ll: cathedra) yn hen enw Cymraeg ar 'eisteddle' uchelwr neu fryngaer, ac yn enw ar sawl bryn neu gopa mynydd. Yng Ngeiriadur Ysgrythyrol Thomas Charles ceir y diffiniad:
+"CADAIR, CADER -EIRIAU. (cad) Gr. καθεδρα (cathedra); eisteddfa, eisteddfa gyffredin ; amddiffynfa, caer, cadarnle – Cader ymadrodd, areithfa; cader buwch, pwrs buwch. Y mae amryw fryniau amddiffynedig yn cadw yr enw Cader ; megys Cader Dinmael, Cader Idris, &amp;c. –Cader Moses, yr ydoedd y Phariseaid yn chwennych eistedd ynddi i farnu a llywodraethu y bobl, fel Moses..."
+Yr ynganiad lleol o 'Gadair Idris' yw 'Cader Idris' a dyna a ddefnyddir hefyd fel sillafiad lleol e.e. enw'r ysgol uwchradd yn Nolgellau yw 'Ysgol y Gader', 'Deintyddfa Cader' a llawer o strydoedd.
+Yn anghywir, cred rhai mai Seisnigiad o'r gair Cymraeg yw 'cader', e.e. ar wefan y BBC dywedir: "Cadair Idris (sometimes know by its anglicised title, Cader Idris) is a mountain."</wikipedia>
+        </town>
+        <town id="denbighshire#cadole">
+            <name>Cadole</name>
+            <lat>53.158989</lat>
+            <lon>-3.186446</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Cadole">Cadole is a village in Flintshire, Wales; the name was originally Cat hole or Cathole and the village was known as this in living memory.
+It lies west of Gwernymynydd and Mold (Yr Wyddgrug), south of Gwernaffield and to the east of the Clwydian Range, an Area of Outstanding Natural Beauty.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Cadole">Pentref yng nghymuned Llanferres, Sir Ddinbych, Cymru yw Cadole, sydd 115.7 milltir (186.2 km) o Gaerdydd a 172.2 milltir (277.2 km) o Lundain.
+Cynrychiolir Cadole yn y Cynulliad Cenedlaethol gan Darren Millar (Y Blaid Geidwadol) a'r Aelod Seneddol yw David Jones (Y Blaid Geidwadol).</wikipedia>
+        </town>
+        <town id="denbighshire#carrog">
+            <name>Carrog</name>
+            <lat>52.982236</lat>
+            <lon>-3.323885</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Carrog">Carrog is a village in Denbighshire, Wales. Formerly referred to as Llansanffraid-Glyn Dyfrdwy, as it lies within the parish of Llansanffraid Glyndyfrdwy, it takes its modern name from the Great Western Railway station on the opposite bank of the River Dee, which in turn took its name (possibly to avoid confusion with the adjacent Glyn Dyfrdwy station and that in Llansanffraid Glan Conwy) from the Carrog estate on that bank.
+Carrog Station is part of the Llangollen Railway and is a passing place on the line, now the extension to Corwen past the site of Bonwm has been opened. One notable resident is Peredur Lynch who graduated from Bangor University to become a literary historian. Carrog has one primary school, Ysgol Carrog which is over 100 years old.
+
+</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Carrog">Gweler hefyd Carrog (gwahaniaethu)
+
+Pentref bychan yn ne Sir Ddinbych, gogledd-ddwyrain Cymru, yw Carrog. Gorwedd ar lan Afon Dyfrdwy tua 2 filtir i'r dwyrain o Gorwen, ar y ffordd i gyfeiriad Llangollen (cyfeiriad grid SJ114437). Mae Carrog 104 milltir (167.3 km) o Gaerdydd a 169.3 milltir (272.4 km) o Lundain. Cyfeirwyd at y pentref fel Llansantffraid-Glyn Dyfrdwy hyd troad yr 20fed ganrif, gan y safai o fewn plwyf hynafol Llansantffraid Glyndyfrdwy. Daw ei henw cyfoes o Orsaf Reilffordd Carrog yr ochr arall i'r afon Dyfrdwy, ac enwyd hwnnw yn ei dro ar ôl ystad Carrog gerllaw.
+Cynrychiolir Carrog yn y Cynulliad Cenedlaethol gan Ken Skates (Y Blaid Lafur) a'r Aelod Seneddol yw Susan Elan Jones (Y Blaid Lafur).
+Mae'r pentref yn gorwedd ar groesffordd ar y B543 ar lan ogleddol Afon Dyfrdwy. Mae Pont Carrog yn croesi'r afon yma i gysylltu'r pentref â ffordd yr A5 yr ochr draw. Llifa Afon Morynion (Afon Morwynion) trwy'r pentref i ymuno yn Afon Dyfrdwy. Mae Gorsaf reilffordd Carrog yn ffurfio rhan o Reilffordd Llangollen erbyn hyn.
+Yn y bryniau tua milltir i'r gorllewin, ceir safle hen fryngaer Caer Drewyn.
+Mae ysgol gynradd gymunedol Ysgol Carrog dros 100 mlwydd oed.</wikipedia>
+        </town>
+        <town id="denbighshire#castell">
+            <name>Castell</name>
+            <lat>53.203865</lat>
+            <lon>-3.845998</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Castell">A castell (Catalan pronunciation: [kəsˈteʎ]) is a human tower built traditionally in festivals at many locations within Catalonia. At these festivals, several colles castelleres or teams often succeed in building and dismantling a tower's structure. On November 16, 2010, castells were declared by UNESCO to be amongst the Masterpieces of the Oral and Intangible Heritage of Humanity.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Castell">Mae Castell (benthyciad o'r Lladin castellum; Llydaweg Canol castell, Gwyddeleg Canol caisel. Lluosog Cestyll.) yn adeilad sydd wedi'i amddiffyn yn gryf. Math arbennig o amddiffynfa a ddatblygwyd yn yr Oesoedd Canol yw castell, ond mae ei gynseiliau'n gorffwys yng nghyfnod pobl fel y Celtiaid yn Oes yr Haearn a godai fryngaerau niferus, a'r Rhufeiniaid a godai gaerau ledled Ewrop a'r Môr Canoldir. Ceir traddodiad o godi cestyll mewn nifer o wledydd eraill hefyd, e.e. yn Tsieina a Siapan.</wikipedia>
+        </town>
+        <town id="denbighshire#clawdd poncen">
+            <name>Clawdd Poncen</name>
+            <lat />
+            <lon />
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="denbighshire#clawdd-newydd">
+            <name>Clawdd-newydd</name>
+            <lat>53.063586</lat>
+            <lon>-3.36502</lon>
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="denbighshire#clocaenog">
+            <name>Clocaenog</name>
+            <lat>53.0739019</lat>
+            <lon>-3.369052</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Clocaenog">Clocaenog is a village and community in Denbighshire, north-east Wales. It lies on the outskirts of Ruthin. The forest near the village has many walks of varying length and is one of the venues for the Wales Rally GB.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Clocaenog">Penref a chymuned yn Sir Ddinbych ydy Clocaenog, 3.5 milltir i'r de o Rhuthin.
+Ynddi mae ysgol gynradd ac Eglwys Sant Trillo. Gerllaw mae Coedwig Clocaenog.</wikipedia>
+        </town>
+        <town id="denbighshire#clwyd">
+            <name>Clwyd</name>
+            <lat>51.4430747</lat>
+            <lon>-3.1661868</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Clwyd">Clwyd (Welsh pronunciation: [ˈklʊɨd]) is a preserved county of Wales, situated in the north-east, bordering England with Cheshire to its east, Shropshire to the south-east, and the Welsh counties of Gwynedd to its immediate west and Powys to the south. It additionally shares a maritime border with the metropolitan county of Merseyside along the River Dee. Between 1974 and 1996, it was a county with a county council, and it was divided into six districts. It is named after the River Clwyd, which runs through the region. It was also a Royal Mail postal county before the postal county scheme was abolished in 1996. Clwyd County Council was based in the county town of Mold.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Clwyd">Sir yng ngogledd ddwyrain Cymru a fodolai o 1974 hyd 1996, oedd Clwyd. Cafodd ei henwi ar ôl Afon Clwyd am fod yr afon honno'n rhedeg trwy ei chanol. Roedd ei diriogaeth yn cyfateb yn fras i'r Berfeddwlad ganoloesol. Yr Wyddgrug oedd canolfan weinyddol y sir.</wikipedia>
+        </town>
+        <town id="denbighshire#commins">
+            <name>Commins</name>
+            <lat>52.8471959</lat>
+            <lon>-3.366276</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Commins">Commins Coch is a small settlement of about half a dozen dwellings in Denbighshire, Wales. It is 4 kilometres (2 mi) north of the town of Ruthin.
+
+</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Commins">Pentrefan yng nghymuned Llangynhafal, Sir Ddinbych, Cymru yw Commins, sydd 115.9 milltir (186.6 km) o Gaerdydd a 176.3 milltir (283.8 km) o Lundain.
+Cynrychiolir Commins yn y Cynulliad Cenedlaethol gan Darren Millar (Y Blaid Geidwadol) a'r Aelod Seneddol yw David Jones (Y Blaid Geidwadol).
+↑ Gwefan y Cynulliad; adalwyd 24 Chwefror 2014
+↑ Gwefan parliament.uk; adalwyd 24 Chwefror 2014</wikipedia>
+        </town>
+        <town id="denbighshire#copenhagen">
+            <name>Copenhagen</name>
+            <lat>55.6760968</lat>
+            <lon>12.5683371</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Copenhagen">Copenhagen (IPA /ˌkoʊpənˈheɪɡən/; Danish: København [kʰøb̥m̩ˈhɑʊ̯ˀn] ( listen)) is the capital and most populated city of Denmark, with an urban population of 1,263,698 (as of 1 January 2015) and a metropolitan population of 1,992,114 (as of 1 January 2015). It is situated on the eastern coast of Zealand, 164 km (102 mi) east of Odense and 28 km (17 mi) northwest of Malmö, Sweden. The city stretches across parts of the island of Amager and contains the enclave of Frederiksberg, a municipality in its own right.
+Founded as a fishing village in the 10th century, Copenhagen became the capital of Denmark in the early 15th century. During the 17th century, under the reign of Christian IV, it developed into an important regional centre, consolidating its position as capital of Denmark and Norway with its institutions, defences and armed forces. After suffering from the effects of plague and fire in the 18th century, the city underwent a period of redevelopment. This included construction of the prestigious district of Frederiksstaden and founding of such cultural institutions as the Royal Theatre and the Royal Academy of Fine Arts. After further disasters in the early 19th century when Nelson attacked the Danish fleet and bombarded the city, rebuilding during the Danish Golden Age brought a Neoclassical look to Copenhagen's architecture. Later, following the Second World War, the Finger Plan fostered the development of housing and businesses along the five urban railway routes stretching out from the city centre.
+Since the turn of the 21st century, Copenhagen has seen strong urban and cultural development, facilitated by investment in its institutions and infrastructure. The city is the cultural, economic and governmental centre of Denmark; it is one of the major financial centres of Northern Europe with the Copenhagen Stock Exchange. In 2012, Copenhagen was third in the ranking of the richest cities in the world in terms of gross earnings, dropping from first place in 2009. Since the completion of the Øresund Bridge, a road, railway and tunnel project, the metropolitan area of Copenhagen has become increasingly integrated with the Swedish province of Scania and its largest city, Malmö, known as the Øresund Region. With a number of bridges connecting the various districts, the cityscape is characterized by parks, promenades and waterfronts. Copenhagen's landmarks such as Tivoli Gardens, the Little Mermaid Statue, the Amalienborg and Christiansborg palaces, Rosenborg Castle, Frederik's Church, and many museums, restaurants and nightclubs are significant tourist attractions. In addition to recent developments in the city service sector and the pharmaceutical industry, there have been a number of initiatives in clean technology, supporting the city's goal to be carbon-neutral by 2025.
+Copenhagen has more than 94,000 students enrolled in its largest universities and institutions, including the University of Copenhagen, the Technical University of Denmark and Copenhagen Business School. The University of Copenhagen, founded in 1479, is the oldest university in Denmark, and has repeatedly been ranked as one of the best universities in Europe. Copenhagen is home to the FC København and Brøndby football clubs and the ice hockey teams Rødovre Mighty Bulls, Herlev Eagles and Hvidovre Ligahockey. The annual Copenhagen Marathon was established in 1980. Copenhagen is one of the most bicycle-friendly cities in the world. The Copenhagen Metro serves central Copenhagen together with the S-train network connecting the outlying boroughs. Serving roughly 2 million passengers a month, Copenhagen Airport, Kastrup, is the largest airport in the Nordic countries. Especially when counting international passengers, Kastrup lacks parallels within Scandinavian and Finnish airports.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Copenhagen">Copenhagen (Daneg:  København ?/i ) yw prifddinas Denmarc a'i phrif borthladd, ar arfordir dwyreiniol Sjælland ar lan y Môr Baltig gyferbyn â Malmö yn Sweden.</wikipedia>
+        </town>
+        <town id="denbighshire#corwen">
+            <name>Corwen</name>
+            <lat>52.980051</lat>
+            <lon>-3.369242</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Corwen">Corwen is a town, community and electoral ward in the county of Denbighshire in Wales; it was previously part of the county of Meirionnydd. Corwen stands on the banks of the River Dee beneath the Berwyn mountains. The town is situated 10 miles (16 km) west of Llangollen and 13 miles (21 km) south of Ruthin. At the 2001 Census, Corwen had a population of 2,398, reducing to 2,325 at the 2011 census.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Corwen">Tref fach yn Nyffryn Edeirnion yn ne Sir Ddinbych, gogledd-ddwyrain Cymru, yw Corwen. Saif ar lôn yr A5 rhwng Betws-y-Coed (23 milltir) a Llangollen (11 milltir). I'r gogledd mae Rhuthun (13 milltir) ac i'r de y mae'r Bala (12 milltir).
+Mae Afon Dyfrdwy yn llifo heibio i'r dref. Yn yr Oesoedd Canol roedd Corwen yn rhan o gwmwd Dinmael. Mae gan y dref gysylltiadau ag Owain Glyndŵr; cymysg fu'r ymateb i'r cerflun cyntaf o'r arwr a godwyd ar y sgwâr, ond mae'r Tywysog ar ei farch (gweler y llun) wedi'i dderbyn gyda breichiau agored. Yn flynyddol ers 2009 ceir gorymdaith drwy'r dref a dathliadau dros gyfnod o ddeuddydd i ddathlu Diwrnod Glyndŵr (Medi 16). Ceir hefyd hen domen neu fwnt sef Castell Glyndŵr tua kilometr i'r dwyrain, i gyfeiriad y Waun.</wikipedia>
+        </town>
+        <town id="denbighshire#cwm">
+            <name>Cwm</name>
+            <lat>51.742736</lat>
+            <lon>-3.180782</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Cwm">Cwm may refer to:
+Cwm (landform), a rounded, glaciated valley, also known as a corrie or cirque
+Cwm (software), a general-purpose data processor for the semantic web
+Cwm railway station, a station in Cwm, Blaenau Gwent, Wales, 1852–1963
+Cwm Rhondda, a famous Welsh hymn tune</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Cwm">Erthygl am y tirffurf yw hon. Am y pentref yn Sir Ddinbych, gweler Cwm, Sir Ddinbych. Am y pentref ym Mlaenau Gwent, gweler Cwm, Blaenau Gwent.
+Tirffurf a geir yn y mynyddoedd a'r bryniau yw cwm.
+
+Yn Ne Cymru, defnyddir y gair cwm bron yn gyfystyr â'r gair dyffryn yn y Gogledd, sef tirffurf is na thir cyfagos sy'n ffyrfio gwely i afon. Mae Y Cymoedd (Saesneg: The Valleys) yn tueddu i gyfeirio yn arbennig at gymoedd glofäol De Cymru - yn eu mysg Cwm Rhondda, Cwm Cynon, Cwm Afan. (Ond sylwer hefyd y defnyddir Glyn fel yn Glyn-Nedd, Glyn Ebwy).
+Yng Ngogledd Cymru, mae cwm fel arfer yn golygu dyffryn crwn bychan sy'n crogi yn uchel ar ochr dyffryn siap-U, y naill a'r llall wedi ei ffurfio gan effeithiau rhewlifoedd ac yn dirffurf nodweddiadol o Eryri, er enghraifft Cwm Idwal (Glyderau, gwelwch lun) neu Gwm Cau (Cadair Idris).
+Defnyddir cwm hefyd fel term technegol yn Naearyddiaeth i ddisgrifio'r tirffurf rhewlifol ac yn gyfystyr
+i'r corrie yn yr Alban
+ac i'r cirque yn de Ffrainc, neu combe yn nwyrain Ffrainc, gair Galeg tebyg iawn i'r gair Cymraeg.
+Mae cwm yn un o'r ychydig eiriau Cymraeg a geir fel benthyceiriau yn yr iaith Saesneg. Yr enghraifft enwocaf efallai yw'r enw lle Western Cwm i ddynodi un o'r cymoedd uchel ar lethrau Everest yn yr Himalaya.</wikipedia>
+        </town>
+        <town id="denbighshire#cyffylliog">
+            <name>Cyffylliog</name>
+            <lat>53.109452</lat>
+            <lon>-3.402295</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Cyffylliog">Cyffylliog (also Y Gyffylliog in Welsh) is a village and community in Denbighshire, Wales. It is situated to the west of Ruthin on the banks of the River Clywedog. The community covers an area of 31.59 km2 and includes the hamlet of Bontuchel and a section of Clocaenog Forest. It had a population of 495 at the time of the 2011 census, a slight increase from 484 during the 2001 census. The name of the village means "place of pollard trees/stumps" and comes from the Welsh word cyffyll meaning stumps.
+The village has a small, bilingual primary school, Ysgol Cyffylliog, which had 25 pupils in 2011.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Cyffylliog">Pentref bychan gwledig a chymuned yn ne Sir Ddinbych, gogledd-ddwyrain Cymru, yw Cyffylliog. Fe'i lleolir tua 4 milltir i'r gorllewin o dref Rhuthun ar ffordd wledig sy'n arwain i gyfeiriad Bylchau a Llansannan. Rhed Afon Clywedog trwy'r pentref ar ei ffordd o Fforest Clocaenog i ymuno yn Afon Clwyd, ac mae Afon Corris yn ymuno ag Afon Clywedog yn y pentref.
+Lleolir Ysgol Cyffylliog yn y pentref gyda tua 18 o blant.</wikipedia>
+        </town>
+        <town id="denbighshire#cynwyd">
+            <name>Cynwyd</name>
+            <lat>52.958578</lat>
+            <lon>-3.401131</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Cynwyd">Cynwyd is a small village and community in the Edeirnion area of Denbighshire in Wales, located about 2 miles (3 km) south west of the town of Corwen. It had a population of 528 in 2001, increasing to 542 at the census 2011, and is home to a large factory, run by Ifor Williams Trailers.
+Gwerclas Hall is situated approximately 1.5 km north-west of Cynwyd village. The present grade II* listed building dates mainly to 1767 and was built for Hugh Hughes Lloyd, replacing a house that had stood on the site for several hundred years. In was constructed in three storeys with a three bay frontage and a central pedimented porch entrance. The Gwerclas estate became part of the Rhug estate in 1824 on the death of Richard Hughes until it was sold in 1972.
+Cynwyd railway station was formerly a station on the Ruabon to Barmouth line; it closed to passengers on 18 January 1965.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Cynwyd">Erthygl am y pentref yw hon. Am y sant gweler Cynwyd (sant).
+
+Pentref a chymuned yn Sir Ddinbych yw Cynwyd (gynt yn yr hen Sir Feirionnydd). Saif ar y ffordd B4401, tua dwy filltir i'r de-ddwyrain o dref Corwen, lle mae Afon Trystion ym ymuno ag Afon Dyfrdwy. Gerllaw mae coedwig gonifferaidd Coed Cynwyd. Gorwedd y pentref yn Nyffryn Edeirnion, wrth droed Y Berwyn.
+Ceir yma ddwy dafarn, y Prince of Wales a'r Blue Lion, a cheir hostel ieuenctid. Yma hefyd mae lleoliad man sefydlu cwmni trelars Ifor Williams.
+Saif Eglwys Llangar rhwng Cynwyd a Chorwen, un o eglwysi mwyaf nodedig Cymru.</wikipedia>
+        </town>
+        <town id="denbighshire#denbigh (dinbych)">
+            <name>Denbigh (Dinbych)</name>
+            <lat />
+            <lon />
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="denbighshire#derwen">
+            <name>Derwen</name>
+            <lat>53.046146</lat>
+            <lon>-3.382486</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Derwen">Derwen is a rural village in the south of Denbighshire, Wales. It lies approximately half way between Corwen and Ruthin, in the upper part of Dyffryn Clwyd ond the north side of the River Clwyd, opposite the village of Brynsaithmarchog. The population of the community as taken at the 2011 census was 426.
+An old Celtic Cross stands in the village, near the church, dating from the early middle ages.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Derwen">Erthygl am y goeden yw hon. Ceir erthygl arall am y pentref yma.
+Coed a llwyni sy'n perthyn i'r genws Quercus yw derw. Maen nhw'n cynhyrchu ffrwyth a elwir yn fes. Ceir dwy rywogaeth frodorol yng Nghymru: Derwen goesog (Quercus robur) a Derwen ddigoes (Quercus petraea).</wikipedia>
+        </town>
+        <town id="denbighshire#dinbych (denbigh)">
+            <name>Dinbych (Denbigh)</name>
+            <lat />
+            <lon />
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="denbighshire#dre-goch">
+            <name>Dre-goch</name>
+            <lat>53.203407</lat>
+            <lon>-3.343732</lon>
+            <wikipedia />
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Dre-goch">Pentrefan yng nghymuned Llandyrnog, Sir Ddinbych, Cymru yw Dre-goch, sydd 119.2 milltir (191.9 km) o Gaerdydd a 179.2 milltir (288.5 km) o Lundain.
+Cynrychiolir Dre-goch yn y Cynulliad Cenedlaethol gan Sandy Mewies (Y Blaid Lafur) a'r Aelod Seneddol yw Chris Ruane (Y Blaid Lafur).
+↑ Gwefan y Cynulliad; adalwyd 24 Chwefror 2014
+↑ Gwefan parliament.uk; adalwyd 24 Chwefror 2014</wikipedia>
+        </town>
+        <town id="denbighshire#druid">
+            <name>Druid</name>
+            <lat>52.977701</lat>
+            <lon>-3.433768</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Druid">A druid (Irish: Druí; Welsh: Derwydd) was a member of the educated, professional class among the Celtic peoples of Gaul, Britain, Ireland, and possibly elsewhere during the Iron Age. The druid class included law-speakers, poets and doctors, among other learned professions, although the best known among the druids were the religious leaders.
+Very little is known about the ancient druids. They left no written accounts of themselves, and the only evidence is a few descriptions left by Greek, Roman, and various scattered authors and artists, as well as stories created by later medieval Irish writers. While archaeological evidence has been uncovered pertaining to the religious practices of the Iron Age people, "not one single artefact or image has been unearthed that can undoubtedly be connected with the ancient Druids." Various recurring themes emerge in a number of the Greco-Roman accounts of the druids, including that they performed animal and even human sacrifice, believed in a form of reincarnation, and held a high position in Gaulish society. Next to nothing is known for certain about their cultic practice, except for the ritual of oak and mistletoe as described by Pliny the Elder.
+The earliest known reference to the druids dates to 200 BCE, although the oldest actual description comes from the Roman military general Julius Caesar in his Commentarii de Bello Gallico (50s BCE). Later Greco-Roman writers also described the druids, including Cicero, Tacitus and Pliny the Elder. Following the Roman invasion of Gaul, druidism was suppressed by the Roman government under the 1st century CE emperors Tiberius and Claudius, and it had disappeared from the written record by the 2nd century.
+In about 750 CE the word druid appears in a poem by Blathmac, who wrote about Jesus, saying that he was "... better than a prophet, more knowledgeable than every druid, a king who was a bishop and a complete sage." The druids then also appear in some of the medieval tales from Christianized Ireland like the "Táin Bó Cúailnge", where they are largely portrayed as sorcerers who opposed the coming of Christianity. In the wake of the Celtic revival during the 18th and 19th centuries, fraternal and Neopagan groups were founded based on ideas about the ancient druids, a movement known as Neo-Druidism.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Druid">Gallai Druid gyfeirio at un o sawl peth:
+Derwydd, offeiriad yn y grefydd Geltaidd gynhanesyddol
+Y Ddwyryd (Saesneg: Druid), pentref bychan yn Sir Ddinbych
+Druid (band), band roc o'r 1970au
+Druids, (2001), ffilm
+Druid Theatre Company, cwmni drama yn Galway, Iwerddon</wikipedia>
+        </town>
+        <town id="denbighshire#dyserth">
+            <name>Dyserth</name>
+            <lat>53.300152</lat>
+            <lon>-3.416838</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Dyserth">Dyserth (Welsh: Diserth) is a village and electoral ward in Denbighshire, Wales. Population: 2,566 (United Kingdom Census 2001), falling to 2,269 at the 2011 census. Its main features are the extensive quarrying remains, its waterfalls, railway line (former London and North Western Railway, closed in 1930, and now footpath), and mountain (Moel Hiraddug).</wikipedia>
+            <wikipedia />
+        </town>
+        <town id="denbighshire#efenechtyd">
+            <name>Efenechtyd</name>
+            <lat>53.092015</lat>
+            <lon>-3.3312879</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Efenechtyd">Efenechtyd is a hamlet in deep and remote valley in Denbighshire, Wales which contains the Church of St Michael and All Angels.
+^ "Community Population 2011". Retrieved 23 May 2015.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Efenechtyd">Pentref bychan, plwyf a chymuned yn Sir Ddinbych yw Efenechtyd (SJ1155), weithiau Efenechdyd. Saif ar ffordd gefn ychydig i'r de o dref Rhuthun. Mae yma garreg a elwir 'maen camp', sy'n cael ei chadw yn yr eglwys a pharheir gyda'r hen drawddodiad o'i daflu mewn cystadleuaeth.
+
+Credir fod yr enw'n dod o "mynechdid", yn awgrymu cysylltiad â mynachdy. Y sillafiad yn 1254 oedd Y Fenechtid (Eccla de Wenechdit); roedd adeiadau'n perthyn i fynachty yma hyd at y 16eg ganrif pan drowyd yr adeilad yn fferm laeth. Mae'n bosib fod cysylltiad agos gydag Abaty Glyn y Groes neu Sant Saeran, Llanynys.
+Gerllaw mae Tŷ Brith, cartref y bardd ac athro barddol Simwnt Fychan (c. 1530 - 1606) a pherthyn Bryn-llan i'r 17eg ganrif.
+Treuliodd yr hynafiaethydd a chasglwr llên gwerin Gymreig, Elias Owen (1833-1899) rhan olaf ei oes yn rheithor Efenechtydd.</wikipedia>
+        </town>
+        <town id="denbighshire#eryrys">
+            <name>Eryrys</name>
+            <lat>53.111628</lat>
+            <lon>-3.189991</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Eryrys">Eryrys (Welsh pronunciation: [ɛˈrərɪs]; alternate spelling Erryrys) is a village in Denbighshire, Wales, located at approximate grid reference SJ203578, five miles south of Mold. The village is built on the limestone formation of Bryn Alyn and many limestone outcrops can be seen close by. At 350m above sea level, Eryrys is one of a number of villages with a valid claim to be the highest in Wales; others include Bwlchgwyn, Wrexham (335m, but has a still-active church, which Eryrys does not), and Garn-yr-Erw, Torfaen (390m, but has no church or pub).
+A number of sources suggested that the name is derived from the Welsh Erw Yrys, or the "acre (erw) of Gyrys", sometimes linked with the "Hen Gyrys o Iâl" indetified as the author of early Welsh collections of proverbs.
+There are several limestone quarries close to the village, some now closed but others still actively serving the local cement industry. Eryrys was formerly a lead-mining community, with the remains of several mines still visible nearby, although lead-mining in the area ceased in the late 19th century. The land around Eryrys is now primarily used for sheep-grazing, with also some dairy farming. Eryrys lies on the edge of the Clwydian Range Area of Outstanding Natural Beauty and many walking routes go through or around the village.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Eryrys">Pentref a phlwyf yn Sir Ddinbych yw Eryrys. Saif bum milltir i'r de o dref yr Wyddgrug ac ychydig i'r gogledd-ddwyrain o bentref Llanarmon-yn-Iâl ar fryn carreg galch Bryn Alyn (Cyfeirinod grid OS: SJ203578). Mae'r pentref 350m uwch lefel y môr, ac yn un o'r cystadleuwyr am y teitl o fod yn bentref uchaf Cymru, sef 1,123 troedfedd. Y ddau arall yw: Bwlchgwyn, Wrecsam (335m) a Garn-yr-Erw, Torfaen (390m). Saif ar ffin Ardal o Harddwch Naturiol Eithriadol Bryniau Clwyd.</wikipedia>
+        </town>
+        <town id="denbighshire#ffordd-las">
+            <name>Ffordd-las</name>
+            <lat>53.17286</lat>
+            <lon>-3.3178033</lon>
+            <wikipedia />
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Ffordd-las">Ceir sawl Ffordd-las neu Ffordd Las yng Nghymru, yn cynnwys:
+Pentrefi
+Ffordd-las, Powys
+Ffordd-las, Sir Ddinbych
+Cadwraeth
+Coed Ffordd-las, Sir Conwy</wikipedia>
+        </town>
+        <town id="denbighshire#fron">
+            <name>Fron</name>
+            <lat>52.6230609</lat>
+            <lon>-3.1412122</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Fron">Fron is a former municipality in Gudbrandsdal in Oppland, Norway.
+It was created in 1837 as Fron formannskapsdistrikt, but in 1851 the municipality was split into Nord-Fron and Sør-Fron. They were reunited in 1966, during a nationwide municipality merging process, but split again in 1977.
+There have been talks about reuniting the two municipalities, but the plans have not come into life due to unwillingness in Sør-Fron, the smaller of the two. Nord-Fron has instead made inquiries to merge with Sel.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Fron">Mae Fron (Y Fron) yn elfen gyffredin mewn enwau lleoedd Cymraeg. Gallai gyfeirio at un o sawl bryn neu le, yn cynnwys:
+Fron, Aberriw, Powys
+Fron, Llanbadarn Fawr, Powys
+Gweler hefyd
+Y Fron, Gwynedd
+Y Fron, Powys</wikipedia>
+        </town>
+        <town id="denbighshire#fron-bache">
+            <name>Fron-Bache</name>
+            <lat>52.9647117</lat>
+            <lon>-3.1709627</lon>
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="denbighshire#gallt melyd (meliden)">
+            <name>Gallt Melyd (Meliden)</name>
+            <lat />
+            <lon />
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="denbighshire#galltegfa">
+            <name>Galltegfa</name>
+            <lat>53.10668</lat>
+            <lon>-3.340262</lon>
+            <wikipedia />
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Galltegfa">Pentrefan yng nghymuned Rhuthun, Sir Ddinbych, Cymru yw Galltegfa, sydd 112.7 milltir (181.4 km) o Gaerdydd a 174.9 milltir (281.4 km) o Lundain.
+Cynrychiolir Galltegfa yn y Cynulliad Cenedlaethol gan Darren Millar (Y Blaid Geidwadol) a'r Aelod Seneddol yw David Jones (Y Blaid Geidwadol).</wikipedia>
+        </town>
+        <town id="denbighshire#garth">
+            <name>Garth</name>
+            <lat>52.133667</lat>
+            <lon>-3.536803</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Garth">Garth may refer to:</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Garth">Mae Garth yn enw sawl lle yng Nghymru, ac yn elfen mewn enwau lleoedd eraill:
+Garth, pentref yng Ngheredigion
+Garth, pentref ym mwrdeisdref sirol Pen-y-bont ar Ogwr
+Garth, pentref ym Mhowys
+Garth, pentref yn sir Wrecsam
+Garth (mynydd), Bannau Brycheiniog, Cyfeirnod grid OS: SO053506
+Hefyd:
+Gwaelod-y-Garth
+Garth Celyn, enw arall ar Ben-y-bryn, Abergwyngregyn
+Chwarel y Garth, SoDdGA yn Ne Powys
+Garth Isaf, SoDdGA ym Mhowys
+Gartheli, pentrefan yng Ngheredigion
+Gall hefyd fod yn enw person:
+Garth Brooks, canwr gwlad Americanaidd</wikipedia>
+        </town>
+        <town id="denbighshire#garth trevor">
+            <name>Garth Trevor</name>
+            <lat />
+            <lon />
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="denbighshire#geinas">
+            <name>Geinas</name>
+            <lat />
+            <lon />
+            <wikipedia />
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Geinas">Pentrefan yng nghymuned Aberchwiler, Sir Ddinbych, Cymru yw Geinas, sydd 120.1 milltir (193.3 km) o Gaerdydd a 180.2 milltir (290 km) o Lundain.
+Cynrychiolir Geinas yn y Cynulliad Cenedlaethol gan Sandy Mewies (Y Blaid Lafur) a'r Aelod Seneddol yw Chris Ruane (Y Blaid Lafur).
+↑ Gwefan y Cynulliad; adalwyd 24 Chwefror 2014
+↑ Gwefan parliament.uk; adalwyd 24 Chwefror 2014</wikipedia>
+        </town>
+        <town id="denbighshire#gellifor">
+            <name>Gellifor</name>
+            <lat>53.154198</lat>
+            <lon>-3.309863</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Gellifor">Gellifor is a small village in the Vale of Clwyd, Wales. Located at the foot of the Clwydian Range, in the community of Llangynhafal, it is a largely residential settlement. Community facilities are limited but include a primary school and a chapel. The last shop and post office closed around 2000, and residents rely on the towns of Ruthin and Denbigh for access to many services. Ordnance Survey map reference: SJ 1262</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Gellifor">Pentref bychan yn Sir Ddinbych yw Gellifor. Fe'i lleolir tua 3 milltir i'r gogledd o dref Rhuthun ar ochr ddwyreiniol Dyffryn Clwyd. Mae'n rhan o blwyf eglwysig Llangynhafal.
+Ceir Moel Famau, un o gopaon Bryniau Clwyd, milltir a hanner i'r dwyrain o'r pentref.
+Gwasanaethir y pentref gan Ysgol Gellifor.</wikipedia>
+        </town>
+        <town id="denbighshire#geufron">
+            <name>Geufron</name>
+            <lat>52.4566751</lat>
+            <lon>-3.646528</lon>
+            <wikipedia />
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Geufron">Gallai Geufron gyfeirio at:
+Pentrefi
+Geufron, Powys
+Geufron, Sir Ddinbych
+Safle archaeolegol
+Carnedd gron Banc y Geufron</wikipedia>
+        </town>
+        <town id="denbighshire#glascoed">
+            <name>Glascoed</name>
+            <lat>51.709835</lat>
+            <lon>-2.967851</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Glascoed">Glascoed is a village in Monmouthshire, south east Wales, United Kingdom.</wikipedia>
+            <wikipedia />
+        </town>
+        <town id="denbighshire#glyndyfrdwy">
+            <name>Glyndyfrdwy</name>
+            <lat>52.973145</lat>
+            <lon>-3.261154</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Glyndyfrdwy">Glyndyfrdwy (Welsh pronunciation: [ɡlɨnˈdəvrdʊɨ]), or sometimes Glyn Dyfrdwy, is a village in the modern county of Denbighshire, Wales. It is situated on the A5 road halfway between Corwen and Llangollen in the Dee Valley (the river Dee is Afon Dyfrdwy in Welsh).
+
+</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Glyndyfrdwy">Pentref yn Sir Ddinbych yw Glyndyfrdwy; yn flaenorol yn yr hen Sir Feirionnydd. Saif ar y briffordd A5, hanner ffordd rhwng Corwen a Llangollen, ger Afon Dyfrdwy.
+Mae'r pentref yn enwog am ei gysylltiad ag Owain Glyndŵr, Arglwydd Glyndyfrdwy. Yn ei blastŷ yma y cyhoeddodd Owain ei hun yn Dywysog Cymru ar 16 Medi 1400. Dinistriwyd y tŷ gan fyddin Seisnig dan y tywysog Harri, yn ddiweddarach Harri V yn 1403, a dim ond olion y mwnt a'r sylfeini sydd i'w gweld heddiw. Gerllaw mae olion castell mwnt a beili o'r 12fed ganrif.
+Yn Neuadd Goffa Owain Glyndŵr, gellir gweld copi o Lythyr Pennal a llythyr yn cadarnhau apwyntiad Canghellor Owain, Gruffydd Yonge, a brawd-yng-nghyfraith Owain, John Hanmer, fel llysgenhadon i frenin Ffrainc.
+Crewyd plwyf Glyndyfrdwy yn 1866; cyn hynny roedd yn rhan o blwyf Corwen. Agorwyd gorsaf reilffordd yma yn 1866. Caewyd hi yn y 1960au, ond ail-agorwyd hi fel gorsaf ar Reilffordd Llangollen yn 1992.
+Roedd R. J. Berwyn, un o arloeswyr Y Wladfa, yn enedigol o Lynceiriog.</wikipedia>
+        </town>
+        <town id="denbighshire#graianrhyd">
+            <name>Graianrhyd</name>
+            <lat>53.0967119</lat>
+            <lon>-3.176883</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Graianrhyd">Graianrhyd, also spelt Graeanrhyd, is a small, scattered village in the community of Llanarmon-yn-Iâl, Denbighshire, Wales, lying in hilly limestone country around 2 miles (3.2 km) to the east of Lanarmon-yn-Iâl village, and just to the south of Eryrys.
+The name is likely derived from the Welsh graean, "gravel", and rhyd, "ford": there is still a ford across the River Terrig on a minor road east of the village. There are several limestone and silicate quarries in the immediate area, which is on the borders of the Clwydian Range Area of Outstanding Natural Beauty; the Clwydian Way footpath runs nearby. The area is predominantly agricultural with a landscape of woods and pastureland.
+There was no church in the village, though there was a nonconformist (Congregationalist) chapel, built in 1843 and rebuilt in 1859 in a simple vernacular style. The chapel is now closed, though in 1905 it was recorded as having a congregation of 192. The former Graianrhyd primary school ceased to operate in 2002, after its intake for the year fell to only 3 pupils, though the village has retained its pub, the Rose &amp; Crown.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Graianrhyd">Pentref bychan gwledig yn Sir Ddinbych yw Graeanrhyd (amrywiad: Graianrhyd). Fe'i lleolir tua 2 filltir i'r dwyrain o Lanarmon-yn-Iâl yn nwyrain y sir ar y B5430 tua hanner ffordd rhwng Rhuthun i'r gorllewin a Wrecsam i'r dwyrain. Gorwedd wrth odrau dwyreiniol Bryniau Clwyd. Mae'n rhan o gymuned Llanarmon-yn-Iâl.
+Mae'r pentrefi cyfagos yn cynnwys Eryrys (i'r gogledd) a Rhyd Talog (i'r de-ddwyrain).</wikipedia>
+        </town>
+        <town id="denbighshire#graig">
+            <name>Graig</name>
+            <lat>53.22809</lat>
+            <lon>-3.794957</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Graig">Graig may refer to:
+Graig, Newport, an electoral ward and coterminous community of Newport, South Wales
+Graig, Pontypridd, a historic district of Pontypridd, South Wales
+Graig, Llanarmon-yn-Ial, a Site of Special Scientific Interest in Clwyd, North Wales</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Graig">Gall Graig gyfeirio at:
+Graig, Casnewydd
+Graig, Pontypridd, Rhondda Cynon Taf</wikipedia>
+        </town>
+        <town id="denbighshire#graig-fechan">
+            <name>Graig-fechan</name>
+            <lat>53.074642</lat>
+            <lon>-3.272928</lon>
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="denbighshire#green">
+            <name>Green</name>
+            <lat>40.8975435</lat>
+            <lon>-81.4731264</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Green">Green is the color between blue and yellow on the spectrum of visible light. It is evoked by light with a predominant wavelength of roughly 495–570 nm. In the subtractive color system, used in painting and color printing, it is created by a combination of yellow and blue, or yellow and cyan; in the RGB color model, used on television and computer screens, it is one of the additive primary colors, along with red and blue, which are mixed in different combinations to create all other colors.
+The modern English word green comes from the Middle English and Anglo-Saxon word grene, from the same Germanic root as the words "grass" and "grow". It is the color of living grass and leaves and as a result is the color most associated with springtime, growth and nature. By far the largest contributor to green in nature is chlorophyll, the chemical by which plants photosynthesize and convert sunlight into energy. Many creatures have adapted to their green environments by taking on a green hue themselves as camouflage. Several minerals have a green color, including the emerald, which is colored green by its chromium content.
+In surveys made in Europe and the United States, green is the color most commonly associated with nature, youth, spring, hope and envy. In Europe and the U.S. green is sometimes associated with death, sickness, or the devil, but in China its associations are very positive, as the symbol of fertility. Because of its association with youth, it is sometimes used to describe someone who is inexperienced. In the Middle Ages and Renaissance, when the color of clothing showed the owner's social status, green was worn by merchants, bankers and the gentry, while red was the color of the nobility. The Mona Lisa by Leonardo da Vinci wears green, showing she is not from noble family; the benches in the British House of Commons are green, while those in the House of Lords are red. Green is also the traditional color of safety and permission; a green light means go ahead, a green card permits permanent residence in the United States. It is the most important color in Islam. It was the color of the banner of Muhammad, and is found in the flags of nearly all Islamic countries, and represents the lush vegetation of Paradise. It is also often associated with the culture of Gaelic Ireland, and is a color of the flag of Ireland. Because of its association with nature, it is the color of the environmental movement. Political groups advocating environmental protection and social justice describe themselves as part of the Green movement, some naming themselves Green parties. This has led to similar campaigns in advertising, as companies have sold green, or environmentally friendly, products.</wikipedia>
+            <wikipedia />
+        </town>
+        <town id="denbighshire#groes efa">
+            <name>Groes Efa</name>
+            <lat />
+            <lon />
+            <wikipedia />
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Groes Efa">Pentrefan yng nghymuned Llandyrnog, Sir Ddinbych, Cymru yw Groes Efa, sydd 117.5 milltir (189.2 km) o Gaerdydd a 177.7 milltir (285.9 km) o Lundain.
+Cynrychiolir Groes Efa yn y Cynulliad Cenedlaethol gan Sandy Mewies (Y Blaid Lafur) a'r Aelod Seneddol yw Chris Ruane (Y Blaid Lafur).</wikipedia>
+        </town>
+        <town id="denbighshire#groes-fawr">
+            <name>Groes-fawr</name>
+            <lat>53.176708</lat>
+            <lon>-3.309127</lon>
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="denbighshire#gwernol">
+            <name>Gwernol</name>
+            <lat>52.6399084</lat>
+            <lon>-3.9492746</lon>
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="denbighshire#gwyddelwern">
+            <name>Gwyddelwern</name>
+            <lat>53.010338</lat>
+            <lon>-3.376316</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Gwyddelwern">Gwyddelwern is a small village and community of 508 residents, reducing to 500 at the 2011 census, situated approximately 2 miles (3.2 km) north of Corwen in Denbighshire in Wales. Historically the village was part of the Edeyrnion district of Meirionnydd. Edeyrnion was part of the Glyndŵr district of Clwyd from 1974 to 1996, when the area became part of the principal area of Denbighshire. The village straddles the A494 road (trunk road).</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Gwyddelwern">Pentref, cymuned a phlwyf eglwysig yn Sir Ddinbych yw Gwyddelwern; arferai fod yn Edeyrnion ac yn Sir Feirionnydd. Saif y pentref ar y briffordd A494 rhwng Corwen a Bryn Saith Marchog, rhyw ddwy filltir i'r gogledd o Gorwen. Cysegrwyd yr eglwys i Sant Beuno, a fu'n byw yma am gyfnod, ac mae'r fynwent gron yn awgrymu ei bod yn sefydliad hynafol.
+Roedd Arglwyddiaeth Gwyddelwern yn rhan o Powys Fadog, ac yn 1400 cofnodir bod yr arglwyddiaeth yn cael ei dal gan Tudur ap Gruffudd Fychan, brawd iau Owain Glyndŵr. Roedd sawl chwarel ger y pentref, gan gynnwys chwarel ithfaen Wern Ddu a chwarel tywodfaen Craig Lelo i'r gogledd o'r pentref, yn ogystal a chwareli llechi a phlwm.
+Gwyddelwern oedd yr orsaf reilffordd gyntaf yn Nyffryn Edeyrnion pan agorwyd hi yn 1864 gan reilffordd Dinbych, Rhuthun a Chorwen. Caeodd y rheilffordd i deithwyr yn 1953 ac i nwyddau yn 1957.</wikipedia>
+        </town>
+        <town id="denbighshire#gyrn">
+            <name>Gyrn</name>
+            <lat>51.88328</lat>
+            <lon>-3.43684</lon>
+            <wikipedia />
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Gyrn">Mae Gyrn yn elfen bur gyffredin mewn enwau lleoedd, yn enwedig ar fynyddoedd a bryniau. Gallai gyfeirio at:</wikipedia>
+        </town>
+        <town id="denbighshire#hafod-y-green">
+            <name>Hafod-y-Green</name>
+            <lat>53.1676448</lat>
+            <lon>-3.0958301</lon>
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="denbighshire#hen-efail">
+            <name>Hen-efail</name>
+            <lat>53.2776634</lat>
+            <lon>-3.7000354</lon>
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="denbighshire#hendrerwydd">
+            <name>Hendrerwydd</name>
+            <lat>53.1606735</lat>
+            <lon>-3.3153562</lon>
+            <wikipedia />
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Hendrerwydd">Pentref bychan nid nepell o Ruthun yw Hendrerwydd (Cyfeirnod OS: SJ1263). Saif rhwng y B5429 a Llangynhafal.
+Honir gan rai mai tarddiad yr enw Hunderthwaite yn Teesdale, Durham yw 'Hendrerwydd'.</wikipedia>
+        </town>
+        <town id="denbighshire#hengoed">
+            <name>Hengoed</name>
+            <lat>51.646519</lat>
+            <lon>-3.23131</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Hengoed">Hengoed /ˈhɛn.ɡɔɪd/ is a village on the west side of the Rhymney Valley - between Ystrad Mynach to the South and Cefn Hengoed to the North. Across the valley it looks towards Maesycwmmer. The village is in the county borough of Caerphilly, in the traditional county of Glamorgan, Wales. The name literally means 'old wood' in the Welsh language. The electoral ward of Hengoed includes the villages of Hengoed and Cefn Hengoed and a part of Tir-y-Berth in the north west. The ward population was recorded at 5,548 in the 2011 census, an increase of 10% over the previous 10 years (2001 = 5,046), due in part to several new-build housing developments in the ward between 2001 and 2011.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Hengoed">Pentref mawr ym Mwrdeistref Sirol Caerffili yw'r Hengoed. Mae'n rhan o gymuned Gelli-gaer sy'n cynnwys pentref cyfagos Cefn Hengoed hefyd. Fe'i lleolir ar ochr orllewinol Cwm Rhymni. Poblogaeth: 5,044 (Cyfrifiad 2001).
+Mae gan yr Hengoed ddwy sedd ar Gyngor Bwrdeistref Sirol Caerffili lle mae'n cael ei gynrychioli gan ddau gynghorwr Plaid Cymru ar hyn o bryd.
+Lleolir Ysgol Gynradd Gymraeg Ystrad Mynach yn agos i'r pentref.
+Gwasanaethir yr Hengoed gan orsaf ar lein y Cymoedd sy'n ei gysylltu gyda Rhymni i'r gogledd a gorsaf Caerdydd Canolog i'r de.</wikipedia>
+        </town>
+        <town id="denbighshire#henllan">
+            <name>Henllan</name>
+            <lat>53.201155</lat>
+            <lon>-3.4632683</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Henllan">Henllan is a village in Denbighshire, Wales with a population of approximately 750 (OfNS/2004) and lies in the countryside, approximately 2.25 miles north-west of the walled-town of Denbigh.The population had increased to 862 at the 2011 census.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Henllan">Gallai Henllan gyfeirio at un o sawl pentref:
+Henllan, Sir Ddinbych
+Henllan, Sir Gaerfyrddin
+Henllan, Ceredigion
+Henllan, Powys
+Gweler hefyd
+Henllan Amgoed, pentref yn Sir Gaerfyrddin
+Henllan Dyfrig a Theilo, Hentland yn Swydd Henffordd
+Henllan Fallteg, cymuned yn Sir Gaerfyrddin</wikipedia>
+        </town>
+        <town id="denbighshire#hirwaen">
+            <name>Hirwaen</name>
+            <lat>53.1420843</lat>
+            <lon>-3.291676</lon>
+            <wikipedia />
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Hirwaen">Pentref bychan yng nghymuned Llanbedr Dyffryn Clwyd, Sir Ddinbych, Cymru yw Hirwaen, sydd 114.9 milltir (185 km) o Gaerdydd a 174.9 milltir (281.5 km) o Lundain.
+Cynrychiolir Hirwaen yn y Cynulliad Cenedlaethol gan Darren Millar (Y Blaid Geidwadol) a'r Aelod Seneddol yw David Jones (Y Blaid Geidwadol).
+↑ Gwefan y Cynulliad; adalwyd 24 Chwefror 2014
+↑ Gwefan parliament.uk; adalwyd 24 Chwefror 2014</wikipedia>
+        </town>
+        <town id="denbighshire#lawnt">
+            <name>Lawnt</name>
+            <lat>53.169829</lat>
+            <lon>-3.434191</lon>
+            <wikipedia />
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Lawnt">Darn o dir glas, mewn gardd neu o gwmpas adeilad, a dorrir yn gwta yn gyson yw lawnt.</wikipedia>
+        </town>
+        <town id="denbighshire#lenten pool">
+            <name>Lenten Pool</name>
+            <lat />
+            <lon />
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="denbighshire#llanarmon-yn-ial">
+            <name>Llanarmon-yn-Ial</name>
+            <lat>53.0966063</lat>
+            <lon>-3.2109489</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llanarmon-yn-Ial">This is a redirect from a page name that does not have diacritical marks (accents, umlauts, etc.) to essentially the same page name with diacritical marks. For more information follow the category link.
+Apply this redirect (without piping) when the subject page concerns language translation or foreign language equivalents. Other pages that use this redirect should be updated with a direct link to the redirect target (again, without piping).</wikipedia>
+            <wikipedia />
+        </town>
+        <town id="denbighshire#llanbedr-dyffryn-clwyd">
+            <name>Llanbedr-Dyffryn-Clwyd</name>
+            <lat>53.124402</lat>
+            <lon>-3.280332</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llanbedr-Dyffryn-Clwyd">Llanbedr-Dyffryn-Clwyd is a small village in Denbighshire in Wales, approximately 2 miles north-east of the town of Ruthin on the main A494 road towards Chester.
+There are several places called Llanbedr in Wales, as the word literally translates to 'church of St. Peter' in English. There are two churches called St Peter's in Llanbedr D.C. (as it is sometimes abbreviated to), the original medieval church of St. Peter and still stands as a Grade 2 listed ruin near Llanbedr Hall, and the present parish church of St. Peter, also Grade 2 listed, is alongside the A494 dedicated in 1864, part of the Deanery of Dyffryn Clwyd in the Diocese of St. Asaph. 
+In 1831 the parish had a population of 527, a number which fell to 285 by the time of the 1901 census. In the 2011 census the population of Llanbedr was 787.
+Famous residents: Eifion Lewis-Roberts
+
+</wikipedia>
+            <wikipedia />
+        </town>
+        <town id="denbighshire#llandegla">
+            <name>Llandegla</name>
+            <lat>53.063048</lat>
+            <lon>-3.205337</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llandegla">Llandegla or Llandegla-yn-Iâl is a village and community in the county of Denbighshire in Wales. In the 2001 census, the community had a population of 494.
+
+</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Llandegla">Pentref, plwyf a chymuned yn ne-ddwyrain Sir Ddinbych yw Llandegla (hanesyddol: Llandegla-yn-Iâl). Fe'i lleolir ar groesffordd ar lôn yr A525, tua hanner ffordd rhwng Dinbych a Wrecsam. Enwir y pentref a'r plwyf ar ôl Sant Tegla.</wikipedia>
+        </town>
+        <town id="denbighshire#llandrillo">
+            <name>Llandrillo</name>
+            <lat>52.92261</lat>
+            <lon>-3.435752</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llandrillo">Llandrillo may refer to one of the following in Wales:
+Llandrillo, a village in Denbighshire
+Coleg Llandrillo Cymru, a multi-campus college in Conwy
+Rhos-on-Sea (or Llandrillo-yn-Rhos), a suburb of Colwyn Bay in Conwy</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Llandrillo">Gallai Llandrillo gyfeirio at un o ddau le yng Nghymru:
+Llandrillo, Sir Ddinbych, pentref a chymuned yn Sir Ddinbych.
+Llandrillo-yn-Rhos, pentref a chymuned ym mwrdeisdref sirol Conwy.
+Gweler hefyd
+Coleg Llandrillo Cymru</wikipedia>
+        </town>
+        <town id="denbighshire#llandynan">
+            <name>Llandynan</name>
+            <lat>52.4850266</lat>
+            <lon>-3.4368855</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llandynan">This is a redirect from a subtopic of the target article. For more information follow the category link.</wikipedia>
+            <wikipedia />
+        </town>
+        <town id="denbighshire#llandyrnog">
+            <name>Llandyrnog</name>
+            <lat>53.1748488</lat>
+            <lon>-3.3362961</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llandyrnog">Llandyrnog is a large village in Denbighshire, Wales lying in the valley of the River Clwyd, about 3 miles (4.8 km) from Denbigh and 5 miles (8.0 km) from Ruthin.
+
+</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Llandyrnog">Pentref a chymuned yn Sir Ddinbych yw Llandyrnog. Saif ar y ffordd B5429, tua tair milltir i'r dwyrain o dref Dinbych a milltir i'r dwyrain o Afon Clwyd. Y prif gyflogwr yn y pentref yw Hufenfa Llandyrnog, sy'n cynhyrchu caws. I'r dwyrain o'r pentref mae bryngaer Moel Arthur. Ceir yma ddwy dafarn, y Golden Lion a'r Ceffyl Gwyn, a siop. Ceir yma hefyd ar gyrion y pentref ffatri laeth a chaws enfawr.
+Mae'r eglwys leol yn un o bedair eglwys ganoloesol yr ardal. Cysegrwyd yr eglwys i Sant Teyrnog neu Tyrnog; credir fod yr adeilad presennol yn dyddio o'r 15fed ganrif, ond mae'r fynwent gron yn awgrymu ei bod yn sefydliad hynafol iawn. Adferwyd yr adeilad gan y pensaer Fictoraidd Eden Nesfield rhwng 1876 a 1878. Ar ochr ddwyreniol yr eglwys mae ffenestr liw nodedig.
+Bu yma ysgol ers 1840 ac yn 1856 roedd 120 o blant ar y gofrestr. Yn 2009 roedd 27 o blant.</wikipedia>
+        </town>
+        <town id="denbighshire#llanelidan">
+            <name>Llanelidan</name>
+            <lat>53.0400599</lat>
+            <lon>-3.33725</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llanelidan">Llanelidan is a small village and community in the county of Denbighshire in north-east Wales. The community also includes the hamlet of Rhydymeudwy.
+The church, village hall and pub all lie within 200 yards of each other overlooking the village cricket ground and pavilion. Also in the village centre is King George's field, land belonging to the Nantclwyd Estate, but available for use by villagers.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Llanelidan">Pentref, cymuned a phlwyf yn Sir Ddinbych yw Llanelidan. Mae'r pentref tua hanner ffordd rhwng trefi Rhuthun a Chorwen, yn nyffryn Afon y Maes, sy’n isafon i'r Afon Clwyd. Mae pentrefan Rhydymeudwy o fewn y gymuned hon.
+Mae'r eglwys yno wedi ei chysegru i Sant Elidan, a dyma darddiad enw'r pentref. Adeiladwyd yr eglwys yn y 15fed ganrif; mae'n parhau i gadw nifer o'i nodweddion gwreiddiol o'r Oesoedd Canol, er gwaethaf gwaith adnewyddu sylweddol yn y 19eg ganrif.
+Rhwng Bryneglwys a Chorwen, ceir swp o gerrig hynafol a elwir yn 'Fwrdd y Tri Arglwydd'. Yn ôl traddodiad, mae'r cerrig hyn yn nodi'r ffin ganoloesol rhwng Arglwyddiaeth Dinbych, ym meddiant Reginald de Grey, a chwmwd Cynllaith Owain, ym meddiant Owain Glyndŵr. Ceir plac ar y cerrig sy'n cofnodi'r hanes. Ychydig lathenni o'r garreg ceir cerrig eraill - olion hen siambr gladdu neolithig. Yn ddiweddarach, yma oedd y ffin rhwng yr hen Sir Ddinbych a Meirionnydd, gyda phlwyfi Llanelidan, Bryneglwys, Gwyddelwern a Llansanffraid Glyn Dyfrdwy yn cwrdd yma, fel oedd arglwyddiaethi Rhuthun, Glyndyfrdwy ac Iâl.</wikipedia>
+        </town>
+        <town id="denbighshire#llanelwy (st asaph)">
+            <name>Llanelwy (St Asaph)</name>
+            <lat />
+            <lon />
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="denbighshire#llanfair dyffryn clwyd">
+            <name>Llanfair Dyffryn Clwyd</name>
+            <lat />
+            <lon />
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llanfair Dyffryn Clwyd">Llanfair Dyffryn Clwyd is a village in Denbighshire, Wales, situated in the Vale of Clwyd about one mile south of the town of Ruthin. By the 2001 census, it had 1048 residents and 50.6% of them could speak Welsh. The figures for the 2011 census were: population 1,053:Welsh speakers 46.9%. The age group with the highest percentage of Welsh speakers was the 15 year olds where every one could speak it.
+
+</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Llanfair Dyffryn Clwyd">Pentref a chymuned yn Nyffryn Clwyd tua dwy filltir i'r de o dref Rhuthun yn ne Sir Ddinbych yw Llanfair Dyffryn Clwyd.
+Mae'n bentref tawel mewn lleoliad gwledig o fewn tafliad carreg i Afon Clwyd. Rhed yr A525 trwyddo. Mae nifer o'r tai wedi'u hadeiladu o garreg lwyd y fro, gan gynnwys yr hen ysgol a rhes o elusendai sy'n dyddio o ganol y 19eg ganrif</wikipedia>
+        </town>
+        <town id="denbighshire#llanferres">
+            <name>Llanferres</name>
+            <lat>53.135656</lat>
+            <lon>-3.214048</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llanferres">Llanferres is a village and parish in the county of Denbighshire in Wales. At the 2001 Census the population of the village was recorded as 676, increasing to 827 at the 2011 census.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Llanferres">Pentref bychan, cymuned a phlwyf yn Sir Ddinbych, gogledd-ddwyrain Cymru, yw Llanferres. Mae'n gorwedd wrth droed llethrau dwyreiniol Bryniau Clwyd, ar y briffordd A494, tua hanner ffordd rhwng Yr Wyddgrug i'r gogledd-ddwyrain a Rhuthun i'r de-orllewin.
+Saif y pentref ar lan orllewinol Afon Alun. I'r gorllewin ceir bryngaer Foel Fenlli.
+Yn yr Oesoedd Canol roedd y plwyf yn rhan o gwmwd Iâl, yn nheyrnas Powys (Powys Fadog).</wikipedia>
+        </town>
+        <town id="denbighshire#llanfwrog">
+            <name>Llanfwrog</name>
+            <lat>53.111044</lat>
+            <lon>-3.329039</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llanfwrog">Llanfwrog may refer to:
+Llanfwrog, Anglesey
+Llanfwrog, Denbighshire</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Llanfwrog">Gallai Llanfwrog gyfeirio at un o ddau bentref yng Nghymru:
+Llanfwrog, pentref ger Rhuthun yn Sir Ddinbych
+Llanfwrog, pentref ar Ynys Môn</wikipedia>
+        </town>
+        <town id="denbighshire#llangollen">
+            <name>Llangollen</name>
+            <lat>52.969215</lat>
+            <lon>-3.17166</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llangollen">Llangollen (Welsh pronunciation: [ɬaŋˈɡɔɬɛn]) is a small town and community in Denbighshire, north-east Wales, situated on the River Dee and on the edge of the Berwyn mountains. It has a population of 3,412, increasing to 3,658 at the 2011 census.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Llangollen">Mae Llangollen yn dref yn Sir Ddinbych, sy'n enwog am ei phont hynafol a'i hadeiladau deniadol. Saif ar lan Afon Dyfrdwy. Mae priffordd yr A5 yn mynd drwy Langollen. Mae Caerdydd 165 km i ffwrdd o Llangollen ac mae Llundain yn 264 km. Y ddinas agosaf ydy Caer sy'n 31.4 km i ffwrdd.
+Mae'n enwog am ei safle ar lan Afon Dyfrdwy a'r Eisteddfod Ryngwladol a gynhelir yno'n flynyddol ac sy'n denu cantorion a dawnswyr o bob rhan o'r byd.
+Cymerodd yr ysgol uwchradd, sef Ysgol Dinas Brân ei henw o'r castell lleol .</wikipedia>
+        </town>
+        <town id="denbighshire#llangwyfan">
+            <name>Llangwyfan</name>
+            <lat>53.186558</lat>
+            <lon>-3.311598</lon>
+            <wikipedia />
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Llangwyfan">Gallai Llangwyfan gyfeirio at:
+Llangwyfan, pentref yn Sir Ddinbych.
+Eglwys Llangwyfan ar Ynys Cribinau, ynys fechan gerllaw Aberffraw ar Ynys Môn</wikipedia>
+        </town>
+        <town id="denbighshire#llangynhafal">
+            <name>Llangynhafal</name>
+            <lat>53.163021</lat>
+            <lon>-3.304019</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llangynhafal">Llangynhafal is a community and village to the north of Ruthin, in Denbighshire, North Wales. It has a thriving public house, the Golden Lion.
+
+</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Llangynhafal">Pentref bychan a chymuned yn Sir Ddinbych i'r gogledd-ddwyrain o Rhuthun, i'r de-ddwyrain o dref Dinbych ac i'r gorllewin o fryn Moel Famau yw Llangynhafal. Saif yr eglwys, sydd wedi ei chysegru i Sant Cynhafal, ar ei phen ei hun gryn bellter o'r pentref, y drws nesaf i hen ffermdy.</wikipedia>
+        </town>
+        <town id="denbighshire#llanrhaeadr">
+            <name>Llanrhaeadr</name>
+            <lat>53.16086</lat>
+            <lon>-3.379577</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llanrhaeadr">Llanrhaeadr could be:
+Llanrhaeadr-ym-Mochnant, a village in Powys, Wales (historically in Denbighshire until 1974)
+Llanrhaeadr-yng-Nghinmeirch, a village in Denbighshire, Wales
+Historically, the anglicised spelling of Llanrhaiadr was also used, but has fallen into disuse.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Llanrhaeadr">Gall Llanrhaeadr gyfeirio at:
+Llanrhaeadr-ym-Mochnant, pentref ym Mhowys
+Llanrhaeadr-yng-Nghinmeirch, pentref yn Nyffryn Clwyd, Sir Ddinbych</wikipedia>
+        </town>
+        <town id="denbighshire#llanynys">
+            <name>Llanynys</name>
+            <lat>53.156007</lat>
+            <lon>-3.346839</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llanynys">Llanynys is a hamlet and community (Llanynys and Rhewl Community Council) in Denbighshire, north-east Wales; (OS grid reference: SJ1062). The community population at the 2011 census was 762. It lies in the Vale of Clwyd, a few miles north of Ruthin. The local church, St. Saeran, was built in the 13th Century on the site of a 6th Century monastery; Saeran was a Celtic bishop-saint. It is situated on a small rise between the winding Clwyd and Clywedog rivers, hence the name "ynys" (island).
+^ Llanynys Community website; accessed 16 April 2014.
+^ "Community population 2011". Retrieved 23 May 2015.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Llanynys">Pentref bychan, plwyf a chymuned yn Sir Ddinbych yw Llanynys (Cyfeirnod OS: SJ1062). Saif yn Nyffryn Clwyd i'r gogledd o dref Rhuthun ac i'r dwyrain o'r briffordd A525. Mae cymuned Llanynys hefyd yn cynnwys pentref Rhewl a phlasdai Plas-y-ward a Bachymbyd. Roedd poblogaeth y gymuned yn 2001 yn 784.</wikipedia>
+        </town>
+        <town id="denbighshire#llidiart-y-parc">
+            <name>Llidiart-y-Parc</name>
+            <lat>52.9800873</lat>
+            <lon>-3.313897</lon>
+            <wikipedia />
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Llidiart-y-Parc">Pentref bychan yng nghymuned Corwen, Sir Ddinbych, Cymru yw Llidiart-y-Parc, sydd 103.7 milltir (167 km) o Gaerdydd a 168.8 milltir (271.7 km) o Lundain. Saif oddeutu dwy gilometr i'r dwyrain o Garrog.
+Cynrychiolir Llidiart-y-Parc yn y Cynulliad Cenedlaethol gan Ken Skates (Y Blaid Lafur) a'r Aelod Seneddol yw Susan Elan Jones (Y Blaid Lafur).
+↑ Gwefan y Cynulliad; adalwyd 24 Chwefror 2014
+↑ Gwefan parliament.uk; adalwyd 24 Chwefror 2014</wikipedia>
+        </town>
+        <town id="denbighshire#llwyn">
+            <name>Llwyn</name>
+            <lat>53.2907039</lat>
+            <lon>-4.5033857</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llwyn">Llwyn is a Site of Special Scientific Interest in the preserved county of Clwyd, north Wales.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Llwyn">Ceir sawl ystyr i'r gair Llwyn, yn cynnwys:</wikipedia>
+        </town>
+        <town id="denbighshire#loggerheads">
+            <name>Loggerheads</name>
+            <lat>53.1649003</lat>
+            <lon>-3.2233588</lon>
+            <wikipedia />
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Loggerheads">Pentref bychan yn Sir Ddinbych yw Loggerheads (ni cheir enw Cymraeg). Fe'i lleolir ger y ffin rhwng Sir Ddinbych a Sir y Fflint, tua 4 milltir i'r gorllewin o'r Wyddgrug ger Gwernymynydd, wrth droed llethrau dwyreiniol Bryniau Clwyd.
+Llifa Afon Alun, un o lednentydd Afon Dyfrdwy, trwy Loggerheads. Dim ond ychydig o dai a thafarn sydd yno.
+Nodir y ffin rhwng siroedd Dinbych a'r Fflint gan Garreg Carn March Arthur. Yn ôl y chwedl, gadawodd march y Brenin Arthur ôl ei garn arni pan neidiodd i lawr o ben Moel Famau. Saif y garreg ar ymyl y briffordd A494, wedi'i chysgodi dan fwa. Gosodwyd plac Saesneg yno yn esbonio ei harwyddocad yn 1763. Bu gan y dafarn leol arwydd ar un adeg yn dangos dau ddyn yn ysgyrnygu ar ei gilydd dan y geiriau "We Three Loggerheads": y gwyliwr oedd y trydydd "loggerhead".
+Ceir Parc Gwledig Loggerheads ger y pentref.</wikipedia>
+        </town>
+        <town id="denbighshire#maeshafn">
+            <name>Maeshafn</name>
+            <lat>53.140057</lat>
+            <lon>-3.194254</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Maeshafn">Maeshafn is a very small village in Denbighshire, Wales. It is located near the border with Flintshire.
+There are no shops in the village, but there is a pub called the Miners Arms. The A494 road is 1 mile (1.6 km) away. Maeshafn and the villages nearby are popular with tourists who enjoy walking in the Area of Outstanding Natural Beauty; there are some walks nearby up Loggerheads and Moel Famau, both within a 2 mile (3.2 km) distance. The Offa's Dyke Path is also nearby. The nearest town to Maeshafn is Mold which is 3 miles (4.83 km) away.
+Maeshafn was originally a lead mining village called Maes y safn - the field of the mouth of the dog - presumably due to the shape of the mine entrance. [1]
+Maeshafn is overlooked by Moel Findeg hill, site of historical lead mining and part of which is a designated local nature reserve.
+Maeshafn also has an extremely competitive cricket team who proudly tour Stratford-upon-Avon each year.
+In 1996, the village won an award for the best kept village in Denbighshire.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Maeshafn">Pentref bychan yn Sir Ddinbych yw Maeshafn, a leolir ger y ffin rhwng y sir honno a Sir y Fflint tua 4 milltir i'r de-ddwyrain o'r Wyddgrug.
+Gorwedd y pentref mewn ardal wledig ar lôn sy'n ei gysylltu â'r briffordd A494, sy'n mynd heibio i'r gogledd o Faeshafn. Y pentref agosaf yw Llanferres.
+Ceir capel yn y pentref. Y Miner's Arms yw'r dafarn leol. Ar un adeg bu Maeshafn yn bentref mwyngloddio, yn gartref i weithwyr ym mwyngloddiau plwm y fro. Ceir hen chwareli calchfaen gerllaw hefyd.</wikipedia>
+        </town>
+        <town id="denbighshire#marian cwm">
+            <name>Marian Cwm</name>
+            <lat />
+            <lon />
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="denbighshire#meliden (gallt melyd)">
+            <name>Meliden (Gallt Melyd)</name>
+            <lat />
+            <lon />
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="denbighshire#melin-y-wig">
+            <name>Melin-y-Wig</name>
+            <lat>53.02544</lat>
+            <lon>-3.425484</lon>
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="denbighshire#morfydd">
+            <name>Morfydd</name>
+            <lat>51.662048</lat>
+            <lon>-3.9247255</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Morfydd">Morfydd ferch Urien (Middle Welsh orthographical variations include Morvydd verch Urien; "Morfydd daughter of Urien") is a figure of Welsh Arthurian legend. She is the daughter of Urien Rheged by Modron, and twin sister to Owain. Morfydd appears in the Welsh Triads and is also referred to in Culhwch and Olwen. The enduring love between her and Cynon son of Clydno, one of Arthur's warriors, is remarked on in several of the Triads, pointing to a now lost popular tradition.
+The circumstances of their birth is related in a Welsh folktale:
+In Denbighshire there is a parish which is called Llanferes, and there is there Rhyd y Gyfarthfa (the Ford of Barking). In the old days the hounds of the countryside used to come together to the side of that the ford to bark, and nobody dared go to find out what was there until Urien Rheged came. And when he came to the side of the ford he saw nothing except a woman washing. And then the hounds ceased barking, and Urien seized the woman and he had his will of her; and then she said "God's blessing on the feet which brought thee here." "Why?" said he. "Because I have been fated to wash here until I should conceive a son by a Christian. And I am daughter to the King of Annwfn, and come thou here at the end of the year and then thou shalt receive that boy." And so he came and he received there a boy and a girl: that is, Owain son of Urien and Morvydd daughter of Urien.</wikipedia>
+            <wikipedia />
+        </town>
+        <town id="denbighshire#morwynion">
+            <name>Morwynion</name>
+            <lat>52.9631555</lat>
+            <lon>-3.882043</lon>
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="denbighshire#nant">
+            <name>Nant</name>
+            <lat>53.1284064</lat>
+            <lon>-3.220738</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Nant">This is a redirect from a title with another method of capitalisation. It leads to the title in accordance with the Wikipedia naming conventions for capitalisation, or it leads to a title that is associated in some way with the conventional capitalisation of this redirect title. This may help writing, searching and international language issues. For more information follow the category link.
+Use this rcat to tag only mainspace redirects; when other capitalisations are in different namespaces, use {{R from modification}} instead.</wikipedia>
+            <wikipedia />
+        </town>
+        <town id="denbighshire#nantglyn">
+            <name>Nantglyn</name>
+            <lat>53.143399</lat>
+            <lon>-3.488933</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Nantglyn">Nantglyn is a small village and community in Denbighshire, Wales. The population of the community taken at the 2011 census was 323. It is situated in a rural location about 4.5 miles (7.2 km) away from the nearest town, Denbigh. Nantglyn is located on a small river, the Lliwen. This river and its parent, the Afon Ystrad, provided the water to power several corn and fulling mills in the parish.
+^ "Community population 2011". Retrieved 24 May 2015.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Nantglyn">Pentref bychan a chymuned yn Sir Ddinbych yw Nantglyn, rhyw bedair milltir a hanner o dref Dinbych ac ychydig i'r gorllewin o Fynydd Hiraethog. Ychydig llai na milltir i'r gogledd-orllewin mae Waen, Nantglyn.
+Saif Nantglyn ar Afon Ystrad, sy'n llifo i mewn i Afon Clwyd. Mae afon lai, Afon Lliwen, yn ymuno a'r Ystrad ger y pentref. Mae traddodiad fod clas wedi ei sefydlu yma gan Mordeyrn, ŵyr i Gunedda Wledig. Ymhlith hynodion y pentref mae'r "pulpud mewn coeden", a ddefnyddiwyd unwaith gan John Wesley yn ôl y traddodiad. Caeodd yr ysgol yn y 1990au ac erbyn hyn nid oes siop yn y pentref.</wikipedia>
+        </town>
+        <town id="denbighshire#ochr-y-foel">
+            <name>Ochr-y-foel</name>
+            <lat>53.3009867</lat>
+            <lon>-3.4087985</lon>
+            <wikipedia />
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Ochr-y-foel">Ardal yng nghymuned Dyserth, Sir Ddinbych, Cymru yw Ochr-y-foel, sydd 126.1 milltir (202.9 km) o Gaerdydd a 185.7 milltir (298.8 km) o Lundain. Mae Ochr-y-Foel, bellach yn rhan o Ddyserth ei hun.
+Cynrychiolir Ochr-y-foel yn y Cynulliad Cenedlaethol gan Sandy Mewies (Y Blaid Lafur) a'r Aelod Seneddol yw Chris Ruane (Y Blaid Lafur).
+↑ Gwefan y Cynulliad; adalwyd 24 Chwefror 2014
+↑ Gwefan parliament.uk; adalwyd 24 Chwefror 2014</wikipedia>
+        </town>
+        <town id="denbighshire#pant">
+            <name>Pant</name>
+            <lat>51.7726429</lat>
+            <lon>-3.3571127</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Pant">Pant may refer to:
+Underpants, an item of men's underwear
+Trousers, an article of clothing worn on the lower half of the body
+To breathe quickly, spasmodically, or in a labored manner
+Panting is used by many furry animals as a means of thermoregulation
+
+Pant (surname), a North Indian and Nepalese surname
+Public Drinking Fountain
+Places
+Pant (meaning "a hollow" in Welsh) is a common Welsh place name element
+Places named Pant include:
+Pant, Denbighshire, Wales
+Pant, Merthyr Tydfil, Wales
+Pant, Shropshire, England
+Pant, Wrexham, Wales
+PANT is an ICAO code for Annette Island Airport</wikipedia>
+            <wikipedia />
+        </town>
+        <town id="denbighshire#pant-pastynog">
+            <name>Pant-pastynog</name>
+            <lat>53.1445359</lat>
+            <lon>-3.425292</lon>
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="denbighshire#pen-y-ffordd">
+            <name>Pen-y-ffordd</name>
+            <lat>53.327895</lat>
+            <lon>-3.302742</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Pen-y-ffordd">Pen-y-ffordd is a hamlet in Flintshire, Wales. It is located between Holywell and Prestatyn, to the north west of Mostyn.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Pen-y-ffordd">Pentref a chymuned yn Sir y Fflint yw Pen-y-ffordd (sillafiad amgen: Penyffordd). Saif fymryn oddi ar y briffordd A550, i'r de-ddwyrain o dref Bwcle. Roedd y boblogaeth yn 2001 yn 3,715.
+Ceir dwy ysgol gynradd a gorsaf reilffordd yn y pentref.</wikipedia>
+        </town>
+        <town id="denbighshire#pen-y-stryt">
+            <name>Pen-y-stryt</name>
+            <lat>53.057259</lat>
+            <lon>-3.199019</lon>
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="denbighshire#pengwern">
+            <name>Pengwern</name>
+            <lat>53.2758412</lat>
+            <lon>-3.4734419</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Pengwern">Pengwern was a Brythonic settlement of sub-Roman Britain situated in what is now the English county of Shropshire, adjoining the modern Welsh border. It is generally regarded as being the early seat of the kings of Powys before its establishment at Mathrafal, further west, but the theory that it may have been an early kingdom (or a sub-kingdom of Powys itself) has also been postulated. Its precise location is uncertain.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Pengwern">Erthygl am y llys Gymreig yw hon. Am y pentrefan yn Sir Ddinbych gweler Pengwern, Sir Ddinbych
+Pengwern oedd llys brenhinoedd hen deyrnas Powys cyn i'r deyrnas gynnar honno golli'r rhan helaeth o'i dir yn y dwyrain i frenhinoedd Mercia.
+Mae gan Bengwern le arbennig yn llenyddiaeth Gymraeg oherwydd y gyfres o englynion a elwir 'Canu Heledd', sy'n rhan o 'Canu Llywarch Hen'. Yn yr englynion hynny mae Heledd yn galaru am farwolaeth ei frawd Cynddylan wrth amddiffyn Powys. Mae'r neuadd wedi'i llosgi ac mae Eryr Pengwern yn aros ei gyfle i fwyta cyrff y meirwon.
+Mae union leoliad Pengwern yn ansicr, ond cytunir yn gyffredinol ei fod yn ardal Swydd Amwythig heddiw (sir sy'n gyfateb yn fras i diriogaeth yr hen Bowys yn y dwyrain). Mae safle Amwythig yn cael ei awgrymu'n aml ond nid oes tystiolaeth archaeolegol o drigfa yno cyn ei meddianu gan Mercia. Lleoliad arall a gynigir yw bryngaer gref Din Gwrygon (Saesneg: The Wrekin). Roedd y gaer ar diriogaeth y Cornovii, y llwyth Celtaidd y tybir bod Cynddylan yn perthyn iddi.
+Yn ôl Gerallt Gymro, yn ei lyfrau Hanes y Daith Trwy Gymru a'r Disgrifiad o Gymru, roedd Pengwern yn un o dri brif lys Cymru yn yr hen amser (ac felly'n un o Dair Talaith Cymru gyda Aberffraw a Dinefwr). Ar ôl cwymp Pengwern symudwyd llys brenhinoedd Powys i Fathrafal, gogledd Powys.
+Ceir hen ddywediad tywydd ym Mhowys o hyd am y 'gwynt oer o Bengwern', pan fo gwynt oer a main yn chwythu o'r dwyrain yn y gaeaf.
+Mae'r nofelwraig Rhiannon Davies-Jones wedi ysgrifennu nofel gofiadwy am hanes Cynddylan, Heledd a Pengwern, o'r enw Eryr Pengwern.</wikipedia>
+        </town>
+        <town id="denbighshire#peniel">
+            <name>Peniel</name>
+            <lat>51.893999</lat>
+            <lon>-4.275101</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Peniel">Peniel may refer to: I have seen God face to face and my life is preserved. Gen 32:30
+
+</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Peniel">Gallai Peniel gyfeirio at un o nifer o leoedd:
+Ffurf arall ar Penuel, lle a grybwyllir yn Genesis 32
+Peniel, Sir Gaerfyrddin
+Peniel, Sir Ddinbych</wikipedia>
+        </town>
+        <town id="denbighshire#pentre">
+            <name>Pentre</name>
+            <lat>51.654745</lat>
+            <lon>-3.491629</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Pentre">Pentre is a village and community, near Treorchy in Rhondda valley, falling within the county borough of Rhondda Cynon Taf, Wales. The village's name is taken from the Welsh word Pentref, which translates as homestead, though Pentre is named after a large farm that dominated the area before the coming of industrialisation. The community takes in the neighbouring village of Ton Pentre.</wikipedia>
+            <wikipedia />
+        </town>
+        <town id="denbighshire#pentre llanrhaeadr">
+            <name>Pentre Llanrhaeadr</name>
+            <lat />
+            <lon />
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="denbighshire#pentre-celyn">
+            <name>Pentre-celyn</name>
+            <lat>53.069729</lat>
+            <lon>-3.274409</lon>
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="denbighshire#pentredwr">
+            <name>Pentredwr</name>
+            <lat>53.005865</lat>
+            <lon>-3.197572</lon>
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="denbighshire#pentrefelin">
+            <name>Pentrefelin</name>
+            <lat>52.934281</lat>
+            <lon>-4.193056</lon>
+            <wikipedia />
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Pentrefelin">Mae Pentrefelin yn enw ar sawl lle yng Nghymru:
+Pentrefelin, Ceredigion
+Pentrefelin, Conwy
+Pentrefelin, Gwynedd
+Pentrefelin, Powys
+Pentrefelin, Sir Gaerfyrddin
+Pentrefelin, Ynys Môn, ar gyrion Amlwch
+Gweler hefyd:
+Pentre'r Felin (gwahaniaethu)</wikipedia>
+        </town>
+        <town id="denbighshire#plas berwyn">
+            <name>Plas Berwyn</name>
+            <lat />
+            <lon />
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="denbighshire#pont-ystrad">
+            <name>Pont-Ystrad</name>
+            <lat>51.638859</lat>
+            <lon>-3.450731</lon>
+            <wikipedia />
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Pont-Ystrad">Pentrefan yng nghymuned Dinbych, Sir Ddinbych, Cymru yw Pont-Ystrad, sydd 117.2 milltir (188.7 km) o Gaerdydd a 180.1 milltir (289.9 km) o Lundain. Saif tua chilometr i'r de o Ddinbych.
+Cynrychiolir Pont-Ystrad yn y Cynulliad Cenedlaethol gan Sandy Mewies (Y Blaid Lafur) a'r Aelod Seneddol yw Chris Ruane (Y Blaid Lafur).</wikipedia>
+        </town>
+        <town id="denbighshire#prestatyn">
+            <name>Prestatyn</name>
+            <lat>53.336512</lat>
+            <lon>-3.407613</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Prestatyn">Prestatyn /prɛˈstætɪn/ is a seaside resort, town and community in Denbighshire, Wales. It is located on the Irish Sea coast, to the east of Rhuddlan. At the 2001 Census, Prestatyn had a population of 18,496,  increasing to 18,849 at the 2011 census.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Prestatyn">Erthygl am y dref yw hon. Am y cwmwd canoloesol o'r un enw gweler Prestatyn (cwmwd).
+Mae Prestatyn yn dref ar arfordir gogleddol Sir Ddinbych, gogledd-ddwyrain Cymru. Cyn ail-drefnu llywodraeth leol ym 1974, roedd hi'n rhan o Sir y Fflint. Mae gan y dref orsaf ar Reilffordd Arfordir Gogledd Cymru. Mae Llwybr y Gogledd yn cychwyn/gorffen yn y dref.
+Lleolir Prestatyn tua 4 milltir i'r dwyrain o'r Rhyl wrth droed y cyntaf o Fryniau Clwyd. Mae'r pentrefi cyfagos yn cynnwys Talacre a'r Gronant i'r dwyrain ac Allt Melyd a Diserth i'r de. Mae Caerdydd 206.3 km i ffwrdd o Prestatyn ac mae Llundain yn 301.7 km. Y ddinas agosaf ydy Lerpwl sy'n 32.2 km i ffwrdd.
+Mae Prestatyn yn dref glan môr poblogaidd gyda thraeth braf sy'n estyniad o draeth enwog Y Rhyl. Gorwedd canol y dref fechan tua hanner milltir i mewn o'r traeth. Erbyn heddiw mae nifer o stadau tai newydd yno ac mae canran uchel o'r boblogaeth yn bobl wedi ymddeol.
+
+</wikipedia>
+        </town>
+        <town id="denbighshire#prion">
+            <name>Prion</name>
+            <lat>53.1497341</lat>
+            <lon>-3.4175859</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Prion">A prion (/ˈpriːɒn/) is a protein that can fold in multiple, structurally distinct ways, at least one of which is transmissible to other prion proteins. It is this form of replication that leads to disease that is similar to viral infection. The word prion, coined in 1982 by Stanley B. Prusiner, is derived from the words protein and infection, in reference to a prion's ability to self-propagate and transmit its conformation to other prions. While several yeast proteins have been identified as having prionogenic properties, the first prion protein was discovered in mammals and is referred to as the major prion protein (PrP). This infectious agent causes mammalian transmissible spongiform encephalopathies, including bovine spongiform encephalopathy (BSE, also known as "mad cow disease") and scrapie in sheep. In humans, PrP causes Creutzfeldt-Jakob Disease (CJD), variant Creutzfeldt-Jakob Disease (vCJD), Gerstmann–Sträussler–Scheinker syndrome, Fatal Familial Insomnia and kuru.
+A protein as an infectious agent stands in contrast to all other known infectious agents, like viruses, bacteria, fungi, or parasites—all of which must contain nucleic acids (either DNA, RNA, or both). All known prion diseases in mammals affect the structure of the brain or other neural tissue and all are currently untreatable and universally fatal.
+While PrP is considered the only mammalian prion, prion-like domains have been found in a variety of other mammalian proteins. Some of these proteins have been implicated in the ontogeny of age-related degenerative disorders such as amyotrophic lateral sclerosis (ALS), frontotemporal lobar degeneration with ubiquitin-positive inclusions (FTLD-U), Alzheimer's disease, and Huntington's disease. This has given rise to the 'prion paradigm', where otherwise harmless proteins can be converted to a pathogenic form by a small number of misfolded, nucleating proteins.
+Prions are not considered living organisms because they are misfolded protein molecules which may propagate by transmitting a misfolded protein state. If a prion enters a healthy organism, it induces existing, properly folded proteins to convert into the misfolded prion form. In this way, the prion acts as a template to guide the misfolding of more proteins into prion form. In yeast, this refolding is assisted by chaperone proteins such as Hsp104p. These refolded prions can then go on to convert more proteins themselves, leading to a chain reaction resulting in large amounts of the prion form. All known prions induce the formation of an amyloid fold, in which the protein polymerises into an aggregate consisting of tightly packed beta sheets. Amyloid aggregates are fibrils, growing at their ends, and replicate when breakage causes two growing ends to become four growing ends. The incubation period of prion diseases is determined by the exponential growth rate associated with prion replication, which is a balance between the linear growth and the breakage of aggregates. (Note that the propagation of the prion depends on the presence of normally folded protein in which the prion can induce misfolding; animals that do not express the normal form of the prion protein can neither develop nor transmit the disease.)
+Prion aggregates are extremely stable and accumulate in infected tissue, causing tissue damage and cell death. This structural stability means that prions are resistant to denaturation by chemical and physical agents, making disposal and containment of these particles difficult. Prion structure varies slightly between species, but nonetheless prion replication is subject to occasional epimutation and natural selection just like other forms of replication.
+All known mammalian prion diseases are caused by the so-called prion protein, PrP. The endogenous, properly folded form is denoted PrPC (for Common or Cellular), whereas the disease-linked, misfolded form is denoted PrPSc (for Scrapie, after one of the diseases first linked to prions and neurodegeneration.) The precise structure of the prion is not known, though they can be formed by combining PrPC, polyadenylic acid, and lipids in a Protein Misfolding Cyclic Amplification (PMCA) reaction. Proteins showing prion-type behavior are also found in some fungi, which has been useful in helping to understand mammalian prions. Fungal prions do not appear to cause disease in their hosts.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Prion">Gall Prion olygu sawl peth gwahanol.
+Enw lle yng Nghymru
+Prion - pentref yn Sir Ddinbych
+Gwyddoniaeth
+Prion - math o brotein sy'n gysylltiedig ag Afiechyd Creutzfeldt–Jakob (CJD)</wikipedia>
+        </town>
+        <town id="denbighshire#pwll-glas">
+            <name>Pwll-glas</name>
+            <lat>53.081383</lat>
+            <lon>-3.3250989</lon>
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="denbighshire#rhewl">
+            <name>Rhewl</name>
+            <lat>53.136572</lat>
+            <lon>-3.337721</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Rhewl">Rhewl may refer to:
+Rhewl (River Clywedog, Denbighshire) - a village on the River Clwedog in Denbighshire, Wales, United Kingdom
+Rhewl (Overton, Shropshire) - a place near the village of Overton in Shropshire, England, United Kingdom
+Rhewl (River Dee, Denbighshire) - a place on the River Dee near Llantysilio in Denbighshire, Wales, United Kingdom
+Rhewl (Nant Mawr, Denbighshire) - a place near the Nant Mawr in Denbighshire, Wales, United Kingdom
+Rhewl (Gobowen, Shropshire) - a place near the village of Gobowen in Shropshire, England, United Kingdom</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Rhewl">Ceir mwy nag un lle o'r enw Rhewl:
+Rhewl (Dyffryn Clwyd), pentref ger Rhuthun, Sir Ddinbych
+Rhewl (Glyn Dyfrdwy), pentref ger Llangollen, Sir Ddinbych
+Rhewl (Swydd Amwythig), pentref yn Swydd Amwythig</wikipedia>
+        </town>
+        <town id="denbighshire#rhiwbebyll">
+            <name>Rhiwbebyll</name>
+            <lat>53.1853616</lat>
+            <lon>-3.3071455</lon>
+            <wikipedia />
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Rhiwbebyll">Pentrefan yng nghymuned Llandyrnog, Sir Ddinbych, Cymru yw Rhiwbebyll, sydd 117.7 milltir (189.5 km) o Gaerdydd a 177.4 milltir (285.4 km) o Lundain.
+Cynrychiolir Rhiwbebyll yn y Cynulliad Cenedlaethol gan Sandy Mewies (Y Blaid Lafur) a'r Aelod Seneddol yw Chris Ruane (Y Blaid Lafur).
+↑ Gwefan y Cynulliad; adalwyd 24 Chwefror 2014
+↑ Gwefan parliament.uk; adalwyd 24 Chwefror 2014</wikipedia>
+        </town>
+        <town id="denbighshire#rhos">
+            <name>Rhos</name>
+            <lat>51.712548</lat>
+            <lon>-3.827005</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Rhos">Rhos (meaning "moorland" in Welsh) may refer to the following places in Wales:
+Rhos, Neath Port Talbot a village in Neath Port Talbot, Wales
+Rhos-on-Sea (or Llandrillo-yn-Rhos), a village on the outskirts of Colwyn Bay, north Wales
+Rhosllannerchrugog, a village in the County Borough of Wrexham in northeast Wales
+Historic subdivisions
+Rhos (north Wales), a cantref and prior to that a small kingdom in medieval mid-north Wales
+Rhos, later the Hundred of Roose, a cantref around Milford Haven in southwest Wales</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Rhos">Am y cantref yn Sir Benfro, gweler Rhos. Gweler hefyd Rhos (gwahaniaethu)
+Cantref yn Y Berfeddwlad yng ngogledd Cymru oedd Rhos (gorllewin Sir Ddinbych a dwyrain sir Conwy heddiw). Ymddengys yn bosibl fod Rhos yn un o fân deyrnasoedd Cymru yn y cyfnod ôl-Rufeinig a ddaeth yn rhan o deyrnas Gwynedd.</wikipedia>
+        </town>
+        <town id="denbighshire#rhuallt">
+            <name>Rhuallt</name>
+            <lat>53.264251</lat>
+            <lon>-3.387932</lon>
+            <wikipedia />
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Rhuallt">Pentref bychan yn Sir Ddinbych yw Rhuallt. Fe'i lleolir ar yr A55 tua 2 filltir i'r dwyrain o Lanelwy wrth droed Bryniau Clwyd. Mae'n adnabyddus i deithwyr yng ngogledd Cymru am fod y ffordd yn dringo'n syrth o'r pentref i'r bwlch yn y bryniau.
+Mae'r pentref ar Lwybr Clawdd Offa. Yn y cyfnod Rhufeinig yr oedd y ffordd Rufeinig o Gaer i Segontiwm yn mynd trwy safle'r pentref.</wikipedia>
+        </town>
+        <town id="denbighshire#rhuddlan">
+            <name>Rhuddlan</name>
+            <lat>53.291911</lat>
+            <lon>-3.468319</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Rhuddlan">Rhuddlan (Welsh pronunciation: [ˈr̥ɨðlan], approximately "RITH-lan") is a town, community and electoral ward in the county of Denbighshire within the historic boundaries of Flintshire, in north Wales. It is situated to the south of the coastal town of Rhyl and overlooks the River Clwyd. The town gave its name to the Welsh district of Rhuddlan from 1974 to 1996. At the 2001 Census, the population was 4,296, decreasing to 3,709 at the 2011 census.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Rhuddlan">Erthygl am y dref yw hon. Gweler hefyd Rhuddlan (gwahaniaethu).
+Tref yn Sir Ddinbych yw Rhuddlan. Mae'n adnabyddus am ei gastell hynafol ac fel tref farchnad leol.</wikipedia>
+        </town>
+        <town id="denbighshire#rhuthun (ruthin)">
+            <name>Rhuthun (Ruthin)</name>
+            <lat />
+            <lon />
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="denbighshire#rhyd-y-meudwy">
+            <name>Rhyd-y-meudwy</name>
+            <lat />
+            <lon />
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="denbighshire#rhydtalog">
+            <name>Rhydtalog</name>
+            <lat>53.085635</lat>
+            <lon>-3.147489</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Rhydtalog">Rhydtalog is a small, isolated village in Flintshire, Wales. It lies in hilly country on the border with Denbighshire in the community of Treuddyn. There are lots of farms including Ffrainc Farm there. There are two holiday houses with nice views and it is a wonderful place to go on holiday.
+The current name translates as "Talog's ford", but it was given as "Rhydhalawg" in 1699, and it seems likely that it was originally Rhydhalog, "dirty ford", and later changed due to the old name's negative associations. There is no ford in the village now, but there is a bridge over a tributary of the River Terrig immediately to the north-west. The River Cegidog also rises in the area.
+The surrounding countryside is high pasture and moorland; the nearest villages are Graianrhyd, to the north-west, and Treuddyn, to the north-east. Rhydtalog is at the junction of the A5104 and B5430 roads. There used to be a pub, the Liver Inn (pronounced as in Liver bird) but it closed in 2007.
+There was formerly an isolation hospital nearby in the hamlet of Blaenau; this was converted into a hostel in the 1970s.
+
+</wikipedia>
+            <wikipedia />
+        </town>
+        <town id="denbighshire#rhyl">
+            <name>Rhyl</name>
+            <lat>53.319141</lat>
+            <lon>-3.491634</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Rhyl">Rhyl (/rɪl/; Welsh: Y Rhyl, pronounced [ə ˈr̥ɨl]) is a seaside resort town and community in Denbighshire, situated on the north east coast of Wales, at the mouth of the River Clwyd (Welsh: Afon Clwyd). To the west is the suburb of Kinmel Bay, with the resort of Towyn further west, Prestatyn to the east and Rhuddlan to the south. At the 2011 Census, Rhyl had a population of 25,149. The conurbation of Abergele-Rhyl-Prestatyn has a population of over 60,000.
+Rhyl has long been a popular tourist destination for people from all over Britain.
+Once an elegant Victorian resort, there was an influx of people from Liverpool and Manchester after World War II changing the face of the town. The area had declined dramatically by 1990, but has since improved due to a series of regeneration projects bringing in major investment. European funding, secured by the Welsh Government, has produced millions for the development of Rhyl's seafront.
+The town is also the post town for one of three acute general hospitals in North Wales. Glan Clwyd Hospital, located in nearby Bodelwyddan, is the second largest of the three (after Wrexham Maelor) and provides emergency care and general surgery.</wikipedia>
+            <wikipedia />
+        </town>
+        <town id="denbighshire#roe, the">
+            <name>Roe, The</name>
+            <lat />
+            <lon />
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="denbighshire#ruthin (rhuthun)">
+            <name>Ruthin (Rhuthun)</name>
+            <lat />
+            <lon />
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="denbighshire#saron">
+            <name>Saron</name>
+            <lat>52.017731</lat>
+            <lon>-4.370707</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Saron">Saron may refer to:
+Saron, Western Cape, a town in South Africa
+Saron, Thiruvannamalai,a township in the Indian district of Thiruvannamalai
+Saron (Cantabria, Spain) a village of Santa Maria de Cayón Municipalitie
+Saron, a mythical king who gave his name to the Saronic Gulf
+A Biblical name also written as Sharon
+Saron Läänmäe (born 1996), Estonian footballer
+
+Saron (instrument), an instrument in the Indonesian gamelan ensemble
+Saron, Carmarthenshire, a small mining village in West Wales near Ammanford
+Saron, a small village in Denbighshire, Wales
+Saron, Gwynedd, a hamlet near Caernarfon (grid reference SH4659)
+Saron Gas, original name of hard rock band Seether
+Bedehuset Saron, a Gospel Hall in Bryne, Norway
+SARON, Swiss Average Rate Overnight, an interest rate statistic
+Saron, a genus of shrimp</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Saron">Gall Saron (o'r Hebraeg: שָׁרוֹ, Šaron) gyfeirio at:
+Gwastadedd Saron yn Israel.
+Saron, pentref yn Sir Ddinbych
+Saron, pentref yn Sir Gaerfyrddin gerllaw Rhydaman
+Saron, pentref yn Sir Gaerfyrddin gerllaw Castell Newydd Emlyn
+Saron, pentref yng Ngwynedd i'r de o Gaernarfon
+Saron, pentref yng Ngwynedd gerllaw Bethel
+Hefyd:
+Rhosyn Saron (Hypericum calycinum), planhigyn</wikipedia>
+        </town>
+        <town id="denbighshire#sodom">
+            <name>Sodom</name>
+            <lat>53.2339649</lat>
+            <lon>-3.3565521</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Sodom">Sodom may refer to:</wikipedia>
+            <wikipedia />
+        </town>
+        <town id="denbighshire#st asaph (llanelwy)">
+            <name>St Asaph (Llanelwy)</name>
+            <lat />
+            <lon />
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="denbighshire#tafarn-y-gelyn">
+            <name>Tafarn-y-Gelyn</name>
+            <lat>53.14839</lat>
+            <lon>-3.210208</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Tafarn-y-Gelyn">Tafarn-y-Gelyn is a small village in the east of Denbighshire, North East Wales. Situated near Llanferres, at the foot of Moel Famau, just off the A494 road halfway between Ruthin and Mold.
+Tafarn-y-Gelyn (225m) is the start of the old coach road Bwlch Pen Barras across the Clwydian Range, between Moel Famau and Moel Fenlli. This was the original road from the Vale of Clwyd to Mold before the advent of the A494.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Tafarn-y-Gelyn">Pentref bychan iawn yn nwyrain canolbarth Sir Ddinbych, gogledd-ddwyrain Cymru, yw Tafarn-y-Gelyn. Fe'i lleolir ar ffordd yr A494 tua hanner ffordd rhwng Yr Wyddgrug i'r dwyrain a Rhuthun i'r gorllewin.
+I'r gorllewin o Dafarn-y-Gelyn mae hen lôn yn codi i groesi Bwlch Pen Barras (551m) ym Mryniau Clwyd, rhwng Moel Famau a Moel Fenlli. Dyma'r hen lôn rhwng Dyffryn Clwyd a'r Wyddgrug cyn i'r A494 gael ei adeiladau. Mae'n dod allan yn Llanbedr Dyffryn Clwyd.</wikipedia>
+        </town>
+        <town id="denbighshire#tan-yr-allt">
+            <name>Tan-yr-allt</name>
+            <lat>53.314761</lat>
+            <lon>-3.403868</lon>
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="denbighshire#three sisters">
+            <name>Three Sisters</name>
+            <lat />
+            <lon />
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Three Sisters">Three Sisters may be:</wikipedia>
+            <wikipedia />
+        </town>
+        <town id="denbighshire#trefnant">
+            <name>Trefnant</name>
+            <lat>53.225096</lat>
+            <lon>-3.423296</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Trefnant">Trefnant is a village and community in Denbighshire, Wales. It is located on the A525 road in the Vale of Clwyd (Dyffryn Clwyd), about halfway between St Asaph (Llanelwy) to the north and Denbigh to the south. At the 2001 Census, the community had a population of 1,409, increasing to 1,581 at the 2011 Census.
+Welsh language author and polemicist Emrys ap Iwan was a minister at Trefnant at the end of the 19th century.
+Trefnant railway station served the village. It closed in the 1960s.
+Trefnant used to have a football team called Trefnant Village FC. They dropped out of the Clwyd League due to a cash crisis. They have a Summer league team which won the first summer title in 1927 and they last won a trophy in 2004, the shield, beating Henllan in the final.
+
+</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Trefnant">Pentref a chymuned yn Sir Ddinbych yw Trefnant. Fe'i lleolir ar yr A525 yn Nyffryn Clwyd, hanner ffordd rhwng Llanelwy i'r gogledd a Dinbych i'r de. Mae 120.9 milltir (194.6 km) o Gaerdydd a 182.7 milltir (294 km) o Lundain.
+Treuliodd y llenor enwog Emrys ap Iwan gyfnod yn Nhrefnant fel gweinidog ar ddiwedd y 19eg ganrif.</wikipedia>
+        </town>
+        <town id="denbighshire#trelawnyd">
+            <name>Trelawnyd</name>
+            <lat>53.3068821</lat>
+            <lon>-3.3665917</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Trelawnyd">Trelawnyd (formerly Newmarket from 1710 to 1954) is a village in Flintshire, Wales. The Community includes Gwaenysgor with a total population taken at the 2011 census was 820.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Trelawnyd">Pentref bychan yn Sir y Fflint yw Trelawnyd (Newmarket rhwng 1710 ac 1954). Mae'n gorwedd yn y bryniau isel tua hanner ffordd rhwng Diserth i'r gorllewin a Trelogan i'r dwyrain. I'r gogledd ceir pentref Gwaenysgor. Rhed yr A5151 trwy'r pentref.</wikipedia>
+        </town>
+        <town id="denbighshire#tremeirchion">
+            <name>Tremeirchion</name>
+            <lat>53.248316</lat>
+            <lon>-3.373845</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Tremeirchion">Tremeirchion (previously known as Lleweni) is a small residential community in Denbighshire, Wales. It is located on the B5429 road, to the north east of Denbigh and to the east of St Asaph.
+The town was part of the traditional lands of the Salusbury family and the Cotton baronets. It was dominated by these two families until the early part of the twentieth century. It briefly became well known during the fin de siècle after a series of dinosaur bones were found in the area. The town does not possess a shop or any other commercial activity although one pub, the Salusbury Arms, operates daily with the exception of Monday.
+
+</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Tremeirchion">Pentref yn Sir Ddinbych wrth odrau gorllewinol Bryniau Clwyd yw Tremeirchion. Fe'i lleolir tua 5 milltir i'r gogledd-ddwyrain o dref Dinbych a 4 milltir i'r de-ddwyrain o Lanelwy, ar lôn heb gategori rhwng Rhuallt yn y gogledd a Bodfari yn y de. Mae'n tua milltir a hanner o Afon Clwyd gyda golygfeydd braf dros rannau isaf Dyffryn Clwyd a bryniau Rhos. Mae'n rhan o gymuned Tremeirchion, Cwm a'r Waun.</wikipedia>
+        </town>
+        <town id="denbighshire#trevor uchaf">
+            <name>Trevor Uchaf</name>
+            <lat />
+            <lon />
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="denbighshire#tyddyn angharad">
+            <name>Tyddyn Angharad</name>
+            <lat />
+            <lon />
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="denbighshire#waen">
+            <name>Waen</name>
+            <lat>53.186802</lat>
+            <lon>-3.334615</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Waen">Waen is a sparsely populated community in the Vale of Clwyd, in the Welsh county of Denbighshire. It includes the hamlet of Waen Goleugoed. The former civil parish was created in 1896 from the Flintshire portion of St Asaph, and lies on the eastern bank of the River Clwyd, 2.7 miles (4.3 km) east of St Asaph, 15.4 miles (24.8 km) north west of Mold, 5.1 miles (8.2 km) north of Denbigh and 11.9 miles (19.2 km) north of Ruthin. At the 2001 census the community had a population of 245, falling slightly to 241 at the 2011 census. The North Wales Expressway (A55) crosses the community from east to west, on its route from Chester to Bangor.
+The farmhouse at Bodeugan, in the north of the community, dates from the 17th century, and is Grade II* listed. The Flintshire county archives at Hawarden contain a letter dated Christmas 1812, in which the then tenant, Robert Roberts, complained that the house was bewitched, recounting a series of poltergeist activity in which stones, coals, dung and water were thrown at the inhabitants, windows were broken and milk churns smashed. On Christmas Eve, the spirit was claimed to have thrown the servants out of their beds. Pont Dafydd, built in 1630 across the River Clwyd, but now standing in a field since the river was diverted, is an ancient monument and is Grade II listed.</wikipedia>
+            <wikipedia />
+        </town>
+        <town id="denbighshire#waen aberwheeler">
+            <name>Waen Aberwheeler</name>
+            <lat />
+            <lon />
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="denbighshire#wrecsam (wrexham)">
+            <name>Wrecsam (Wrexham)</name>
+            <lat />
+            <lon />
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="denbighshire#wrexham (wrecsam)">
+            <name>Wrexham (Wrecsam)</name>
+            <lat />
+            <lon />
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="denbighshire#y-ffrith">
+            <name>y-Ffrith</name>
+            <lat>53.093609</lat>
+            <lon>-3.07027</lon>
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="denbighshire#ysgeibion">
+            <name>Ysgeibion</name>
+            <lat />
+            <lon />
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="denbighshire#ystrad">
+            <name>Ystrad</name>
+            <lat>51.644183</lat>
+            <lon>-3.462833</lon>
+            <wikipedia />
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Ystrad">Ystyr y gair ystrad yw 'dyffryn', 'glyn' neu 'wastadedd'. Mae'n air Cymraeg cynhenid sy'n tarddu o'r gwraidd Celteg *strato-. Dan ddylanwad y gair Lladin cytras strata, datblygodd yr ystyr hynafiaethol 'stryd' hefyd. Mae'n elfen gyffredin mewn enwau lleoedd, yn cynnwys:
+Ystrad Aeron, pentref yn Nyffryn Aeron, Ceredigion
+Ystrad Alun, cantref canoloesol yn ne-ddwyrain Cymru
+Ystrad Clud, teyrnas Frythonig yn yr Hen Ogledd
+Ystrad Fflur (Abaty Ystrad Fflur; Strata Florida), Ceredigion
+Ystradgynlais, tref yng Nghwm Tawe Uchaf, Powys
+Ystrad Marchell, cwmwd canoloesol, Powys
+Abaty Ystrad Marchell (Strata Marcella)
+
+Ystrad Meurig, pentref yng Ngheredigion
+Castell Ystrad Meurig
+
+Ystrad Mynach, tref ym mwrdeistref sirol Caerffili
+Ystrad Rhondda (neu 'Ystrad'), pentref yn Rhondda Cynon Taf
+Ystrad Tywi, rhanbarth hanesyddol, Sir Gaerfyrddin
+Hefyd:
+Afon Ystrad, Clwyd
+Llanfihangel Ystrad, Ceredigion
+Yr Ystrad, cymuned yn Rhondda Cynon Taf</wikipedia>
+        </town>
+    </towns>
+</county>

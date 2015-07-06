@@ -1,0 +1,492 @@
+<?xml version="1.0"?>
+<county name="Blaenau Gwent">
+    <postcodes>
+        <postcode>NP23</postcode>
+    </postcodes>
+    <towns>
+        <town id="blaenau gwent#aberbeeg">
+            <name>Aberbeeg</name>
+            <lat />
+            <lon />
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Aberbeeg">The small village of Aberbeeg (from Welsh Aber-bîg, meaning "mouth of the river Bîg") lies in the county borough of Blaenau Gwent in Wales, within the historic boundaries of Monmouthshire. It is part of the community of Llanhilleth.
+Nearby are the villages of Llanhilleth and Six Bells, where the former colliery allowed the whole community to thrive as part of the South Wales coalfield community.
+
+Today, one of the most prominent sights in Aberbeeg area is the grade II* listed St. Illtyd's parish church, which is thought to have been built in the late 5th century, and underwent extensive renovation over the last 200 years. After closing in 1962, the church was privately acquired in 1984. It has now returned to public ownership and is now open to visitors. The friends of St. Illtyd [1] help Blaenau Gwent [2] look after the building.
+Aberbeeg railway station closed in 30 April 1962. The Ebbw Valley Railway re-opened in February 2008. A bus service between Aberbeeg and Llanhilleth, the nearest railway station on the line, runs every hour.</wikipedia>
+            <wikipedia />
+        </town>
+        <town id="blaenau gwent#abertillery (abertyleri)">
+            <name>Abertillery (Abertyleri)</name>
+            <lat />
+            <lon />
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="blaenau gwent#abertyleri (abertillery)">
+            <name>Abertyleri (Abertillery)</name>
+            <lat />
+            <lon />
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="blaenau gwent#ashvale">
+            <name>Ashvale</name>
+            <lat />
+            <lon />
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="blaenau gwent#beaufort">
+            <name>Beaufort</name>
+            <lat />
+            <lon />
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Beaufort">Beaufort may refer to:
+
+</wikipedia>
+            <wikipedia />
+        </town>
+        <town id="blaenau gwent#bedwellty pits">
+            <name>Bedwellty Pits</name>
+            <lat />
+            <lon />
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="blaenau gwent#blaen-y-cwm">
+            <name>Blaen-y-cwm</name>
+            <lat />
+            <lon />
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="blaenau gwent#blaenau-gwent">
+            <name>Blaenau-Gwent</name>
+            <lat />
+            <lon />
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="blaenau gwent#blaina">
+            <name>Blaina</name>
+            <lat />
+            <lon />
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Blaina">Blaina (Welsh: Y Blaenau) is a small town, situated deep within the South Wales Valleys between Brynmawr and Abertillery in the unitary authority of Blaenau Gwent, ancient parish of Aberystruth, preserved county of Gwent and historic county of Monmouthshire. As of 2011, the town has a population of 4,808.</wikipedia>
+            <wikipedia />
+        </town>
+        <town id="blaenau gwent#briery hill">
+            <name>Briery Hill</name>
+            <lat />
+            <lon />
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="blaenau gwent#bryn-mawr">
+            <name>Bryn-Mawr</name>
+            <lat />
+            <lon />
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="blaenau gwent#brynithel">
+            <name>Brynithel</name>
+            <lat />
+            <lon />
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="blaenau gwent#cefn golau">
+            <name>Cefn Golau</name>
+            <lat />
+            <lon />
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Cefn Golau">Cefn Golau is a disused cholera cemetery situated on a narrow mountain ridge in the county borough of Blaenau Gwent, and located between Rhymney and Tredegar in south-east Wales. A suburb of Tredegar and a nearby feeder reservoir (or pond) have the same name. The graves date from 1832 to 1855 with many for August and September 1849.</wikipedia>
+            <wikipedia />
+        </town>
+        <town id="blaenau gwent#clydach terrace">
+            <name>Clydach Terrace</name>
+            <lat />
+            <lon />
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="blaenau gwent#coalbrookvale">
+            <name>Coalbrookvale</name>
+            <lat />
+            <lon />
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="blaenau gwent#coedcae">
+            <name>Coedcae</name>
+            <lat />
+            <lon />
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="blaenau gwent#cwm">
+            <name>Cwm</name>
+            <lat />
+            <lon />
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Cwm">Cwm may refer to:
+Cwm (landform), a rounded, glaciated valley, also known as a corrie or cirque
+Cwm (software), a general-purpose data processor for the semantic web
+Cwm railway station, a station in Cwm, Blaenau Gwent, Wales, 1852–1963
+Cwm Rhondda, a famous Welsh hymn tune</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Cwm">Erthygl am y tirffurf yw hon. Am y pentref yn Sir Ddinbych, gweler Cwm, Sir Ddinbych. Am y pentref ym Mlaenau Gwent, gweler Cwm, Blaenau Gwent.
+Tirffurf a geir yn y mynyddoedd a'r bryniau yw cwm.
+
+Yn Ne Cymru, defnyddir y gair cwm bron yn gyfystyr â'r gair dyffryn yn y Gogledd, sef tirffurf is na thir cyfagos sy'n ffyrfio gwely i afon. Mae Y Cymoedd (Saesneg: The Valleys) yn tueddu i gyfeirio yn arbennig at gymoedd glofäol De Cymru - yn eu mysg Cwm Rhondda, Cwm Cynon, Cwm Afan. (Ond sylwer hefyd y defnyddir Glyn fel yn Glyn-Nedd, Glyn Ebwy).
+Yng Ngogledd Cymru, mae cwm fel arfer yn golygu dyffryn crwn bychan sy'n crogi yn uchel ar ochr dyffryn siap-U, y naill a'r llall wedi ei ffurfio gan effeithiau rhewlifoedd ac yn dirffurf nodweddiadol o Eryri, er enghraifft Cwm Idwal (Glyderau, gwelwch lun) neu Gwm Cau (Cadair Idris).
+Defnyddir cwm hefyd fel term technegol yn Naearyddiaeth i ddisgrifio'r tirffurf rhewlifol ac yn gyfystyr
+i'r corrie yn yr Alban
+ac i'r cirque yn de Ffrainc, neu combe yn nwyrain Ffrainc, gair Galeg tebyg iawn i'r gair Cymraeg.
+Mae cwm yn un o'r ychydig eiriau Cymraeg a geir fel benthyceiriau yn yr iaith Saesneg. Yr enghraifft enwocaf efallai yw'r enw lle Western Cwm i ddynodi un o'r cymoedd uchel ar lethrau Everest yn yr Himalaya.</wikipedia>
+        </town>
+        <town id="blaenau gwent#cwm nant-gam">
+            <name>Cwm Nant-gam</name>
+            <lat />
+            <lon />
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="blaenau gwent#cwm-celyn">
+            <name>Cwm-celyn</name>
+            <lat />
+            <lon />
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="blaenau gwent#cwmtillery">
+            <name>Cwmtillery</name>
+            <lat />
+            <lon />
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Cwmtillery">Cwmtillery (from Welsh Cwmtyleri, meaning "valley of Tyleri") (population 4749) is a village in Abertillery. Located within the historic boundaries of Monmouthshire, it is part of the administrative area of the county borough of Blaenau Gwent, Wales.
+
+</wikipedia>
+            <wikipedia />
+        </town>
+        <town id="blaenau gwent#dukestown">
+            <name>Dukestown</name>
+            <lat />
+            <lon />
+            <wikipedia />
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Dukestown">Pentref ym Mlaenau Gwent yw Dukestown (does dim enw Cymraeg). Mae'n gorwedd yn Nyffryn Sirhywi tua milltir i'r gogledd-orllewin o Sirhywi ei hun a thua 2.5 milltir i'r gorllewin o dref Glyn Ebwy.
+Fymryn i'r gogledd ceir cefnffordd yr A465 gyda chyffordd am Dukestown, Sirhywi a Thredegar.</wikipedia>
+        </town>
+        <town id="blaenau gwent#east bank">
+            <name>East Bank</name>
+            <lat />
+            <lon />
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/East Bank">This is a redirect from a title that is another name such as a pseudonym, a nickname, or a synonym of the target, or of a name associated with the target. For more information follow the category link.
+This redirect leads to the title in accordance with the naming conventions for common names and can help writing. It is not necessary to replace these redirected links with a piped link.
+If this redirect is an incorrect name for the target, then use {{R from incorrect name}} instead.
+
+This is a redirect from a title that potentially could be expanded into a new article or other type of associated Wikipedia page. The topic described by this title is more detailed than what is currently provided on the target page, or section of that page. For more information follow the category link.
+When the target page becomes too large, this redirect may be replaced with a page carved out of the target page. See also {{R to section}}, and when appropriate, use both together.
+If the topic is not susceptible to a major expansion, then instead of this rcat, tag this redirect with {{R to section}} or {{R to list entry}} as applicable.
+Do not replace links to this redirect with a link directly to the target page.</wikipedia>
+            <wikipedia />
+        </town>
+        <town id="blaenau gwent#ebbw vale">
+            <name>Ebbw Vale</name>
+            <lat />
+            <lon />
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Ebbw Vale">Ebbw Vale (/ˈɛbuː veɪl/; Welsh: Glyn Ebwy) is a town at the head of the valley formed by the Ebbw Fawr tributary of the Ebbw River in Wales. It is the largest town and the administrative centre of Blaenau Gwent county borough. The Ebbw Vale and Brynmawr conurbation has a population of roughly 33,000.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Ebbw Vale">Casgliad o ffotograffau mewn cyfrol yn yr iaith Saesneg gan Idwal Williams yw Ebbw Vale a gyhoeddwyd gan Tempus Publishing Limited yn 2004. Yn 2014 roedd y gyfrol allan o brint.
+Casgliad o tua 200 o ffotograffau du-a-gwyn ynghyd â nodiadau eglurhaol perthnasol am amryfal agweddau ar fywydau trigolion Glynebwy a'r ardal ym meysydd diwydiant a busnes, llywodraeth leol a thrafnidiaeth, diwylliant a sefydliadau, addysg a chrefydd, chwaraeon a hamdden, 1900-2003.
+↑ Gwefan Gwales; adalwyd 28 Mehefin, 2013</wikipedia>
+        </town>
+        <town id="blaenau gwent#garden city">
+            <name>Garden City</name>
+            <lat />
+            <lon />
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Garden City">Garden City or Garden Suburb may refer to:</wikipedia>
+            <wikipedia />
+        </town>
+        <town id="blaenau gwent#garnlydan">
+            <name>Garnlydan</name>
+            <lat />
+            <lon />
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="blaenau gwent#georgetown">
+            <name>Georgetown</name>
+            <lat />
+            <lon />
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Georgetown">Georgetown or George Town may refer to:</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Georgetown">Gallai Georgetown gyfeirio at:
+Georgetown, Ascension, prifddinas Ascension
+Georgetown, Ynysoedd y Caiman, prifddinas Ynysoedd y Caiman
+Georgetown, Guyana, prifddinas Guyana
+George Town, Malaysia, prifddinas talaith Penang, Malaysia</wikipedia>
+        </town>
+        <town id="blaenau gwent#glyn etwy">
+            <name>Glyn Etwy</name>
+            <lat />
+            <lon />
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="blaenau gwent#glyncoed">
+            <name>Glyncoed</name>
+            <lat />
+            <lon />
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="blaenau gwent#hafodyrynys">
+            <name>Hafodyrynys</name>
+            <lat />
+            <lon />
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Hafodyrynys">Hafodyrynys is a village on the A472 road between Pontypool and Crumlin in Caerphilly county borough, south-east Wales. It lies within the historic boundaries of Monmouthshire.
+The village is served by an inn, a takeaway, a rugby club and car wash/valet service. As of 2008 a new housing estate has been completed on the western periphery of the village.
+
+Hafodyrynys Colliery was located east of the village. The mine was actively worked from 1914 until 1966. It was redeveloped by the NCB in the 1950s, including the creation of new drifts. However, it never fully lived up to production expectations. Today the remains of the washery are a listed building and mark the site of the mine. The mine continued to process coal from other collieries following its closure.
+The mine and village were located on the Taff Vale Extension of the Newport, Abergavenny and Hereford Railway. This ran from Pontypool to Crumlin and beyond. The 280-yard Glyn Tunnel in the village enabled the line to avoid the highest ground as it proceeded towards the Crumlin Viaduct.</wikipedia>
+            <wikipedia />
+        </town>
+        <town id="blaenau gwent#hilltop">
+            <name>Hilltop</name>
+            <lat />
+            <lon />
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Hilltop">Hilltop or Hill Top may refer to:
+The top of a hill</wikipedia>
+            <wikipedia />
+        </town>
+        <town id="blaenau gwent#mountain air">
+            <name>Mountain Air</name>
+            <lat />
+            <lon />
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Mountain Air">Mountain Air may refer to:
+Mountain Air (New Zealand), an airline based in New Zealand
+Mountain Air (Nepal), a defunct airline from Nepal</wikipedia>
+            <wikipedia />
+        </town>
+        <town id="blaenau gwent#nant-y-bwch">
+            <name>Nant-y-Bwch</name>
+            <lat />
+            <lon />
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="blaenau gwent#nantyglo">
+            <name>Nantyglo</name>
+            <lat />
+            <lon />
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Nantyglo">Nantyglo (from Welsh Nant-y-glo, meaning "brook of coal") is a village in the ancient parish of Aberystruth and county of Monmouth situated deep within the South Wales Valleys between Blaina and Brynmawr in the county borough of Blaenau Gwent.
+
+</wikipedia>
+            <wikipedia />
+        </town>
+        <town id="blaenau gwent#newchurch">
+            <name>Newchurch</name>
+            <lat />
+            <lon />
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Newchurch">Newchurch is the name of several places in the United Kingdom:
+Newchurch, Blaenau Gwent, Wales
+Newchurch, Carmarthenshire, Wales
+Newchurch, Herefordshire, England
+Newchurch, Isle of Wight, England
+Newchurch, Kent, England
+Newchurch, Lancashire, England
+Newchurch, Monmouthshire, Wales
+Newchurch, Powys, Wales
+Newchurch, Staffordshire, England
+Newchurch in Pendle, Lancashire</wikipedia>
+            <wikipedia />
+        </town>
+        <town id="blaenau gwent#newport">
+            <name>Newport</name>
+            <lat />
+            <lon />
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Newport">Newport most commonly refers to
+Newport, Wales, United Kingdom
+Newport, Rhode Island, United States
+Newport or New Port may also refer to:</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Newport">Mae Newport yn enw ar sawl lle.
+Cymru
+Newport, yr enw Saesneg ar Casnewydd
+Newport, yr enw Saesneg ar bentref Trefdraeth, Sir Benfro
+Lloegr
+Newport, Cernyw
+Newport, Dwyrain Riding Swydd Efrog
+Newport, Essex
+Newport, Swydd Amwythig
+Newport, Swydd Gaerloyw
+Newport, Ynys Wyth
+Newport Pagnell
+Yr Alban
+Newport-on-Tay
+Yr Unol Daleithiau
+Newport, Arkansas
+Newport, Delaware
+Newport, Florida
+Newport, Indiana
+Newport, Kentucky
+Newport, Maine
+Newport, Michigan
+Newport, Minnesota
+Newport, Nebraska
+Newport, New Hampshire
+Newport, New Jersey
+Newport, Efrog Newydd
+Newport, Gogledd Carolina
+Newport, Oregon
+Newport, Pennsylvania
+Newport, Rhode Island
+Newport, De Carolina
+Newport, Tennessee
+Newport, Vermont
+Newport, Washington
+Newport, Wisconsin
+Newport Beach, California
+Newport Coast, California
+Newport News, Virginia
+Fountain City, Indiana, a elwyd yn "Newport" yn wreiddiol
+Awstralia
+Newport, De Cymru Newydd
+Newport, Victoria
+Gogledd Iwerddon
+Newport, Swydd Mayo
+Newport, Swydd Tipperary
+Seland Newydd
+Opua, a elwyd yn "Newport" yn wreiddiol
+Gwlad Pwyl
+Nowy Port - ardal o Gdańsk</wikipedia>
+        </town>
+        <town id="blaenau gwent#newtown">
+            <name>Newtown</name>
+            <lat />
+            <lon />
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Newtown">Newtown may refer to:</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Newtown">Gallai Newtown gyfeirio at:</wikipedia>
+        </town>
+        <town id="blaenau gwent#pen-y-bont">
+            <name>Pen-y-Bont</name>
+            <lat />
+            <lon />
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Pen-y-Bont">Pen-y-Bont may refer to:
+Pen-y-bont, an area at the edge of Bala lake in Snowdonia where the River Dee leaves the lake
+Bridgend, a town in south Wales with the Welsh name Pen-y-bont ar Ogwr
+Penybont, a village in mid Wales
+Pen-y-Bont railway station, a station serving Penybont village</wikipedia>
+            <wikipedia />
+        </town>
+        <town id="blaenau gwent#penrhiwgarreg">
+            <name>Penrhiwgarreg</name>
+            <lat />
+            <lon />
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="blaenau gwent#rassau">
+            <name>Rassau</name>
+            <lat />
+            <lon />
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Rassau">Rassau, sometimes The Rassau (Welsh: Rasa (Gwenhwyseg)), is a village located in the historic county of Brecknockshire (Breconshire) and the preserved county of Gwent. It currently lies on the northern edge of the county borough of Blaenau Gwent in Wales. According to the 2011 census, the population of Rassau is 3,234. Residents often refer to either Old Rassau and New Rassau or Bottom Rassau and Top Rassau to distinguish the different parts of the village.
+Rassau was originally a part of Beaufort and therefore part of the historic county of Brecknockshire (Breconshire). In 1888 it was transferred, together with a number of other industrialized areas, to the historic county of Monmouthshire (not co-extensive with the modern county of the same name). The postal address of 6 Tramroad Side, for example, would then have been "6 Tramroad Side, Rassau, Beaufort, Monmouthshire". Note that Ebbw Vale was not part of the address as Rassau and Beaufort are on the other side of the river Ebbw – a distinction often ignored today.</wikipedia>
+            <wikipedia />
+        </town>
+        <town id="blaenau gwent#sirhowy">
+            <name>Sirhowy</name>
+            <lat />
+            <lon />
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="blaenau gwent#six bells">
+            <name>Six Bells</name>
+            <lat />
+            <lon />
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="blaenau gwent#st illtyd">
+            <name>St Illtyd</name>
+            <lat />
+            <lon />
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/St Illtyd">For the Welsh saint, see Saint Illtyd.
+St Illtyd is a hamlet near Aberbeeg, in south-east Wales, within the historic boundaries of Monmouthshire. It is situated on the mountain road between Pontypool and Abertillery in Blaenau Gwent. It rests at about 1200 feet above sea level. The Royal Mail postcode is NP13 2AY.
+
+In and around the hamlet there can be found cottages, farms, former farms, a public house, a former public house, a huge former open cast site, former levels, a canyon left by an opencast or strip mining, a television transmitter, a graveyard and what was once the parish church of Llanhilleth in the Diocese of Monmouth.
+The Friends of St Illtyd[1] help Blaenau Gwent County Borough Council[2] look after the church building. The graveyard is still in the hands of the Church in Wales
+John Wesley visited St Illtyd twice to speak at the preaching cross which is now in the graveyard.
+grid reference SO218020</wikipedia>
+            <wikipedia />
+        </town>
+        <town id="blaenau gwent#tredegar">
+            <name>Tredegar</name>
+            <lat />
+            <lon />
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Tredegar">Tredegar (pronounced /trɪˈdiːɡə/) is a town situated on the Sirhowy River in the county borough of Blaenau Gwent, in south-east Wales. Located within the historic boundaries of Monmouthshire, it became an early centre of the Industrial Revolution in South Wales. The historic Tredegar Iron Works in Richmond, Virginia, United States was named in honour of the town.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Tredegar">Am leoedd eraill yn dwyn yr enw, gweler Tredegar (gwahaniaethu)
+
+Tref yn Nyffryn Sirhywi, Blaenau Gwent, yw Tredegar. Mae Caerdydd 33.2 km i ffwrdd o Tredegar ac mae Llundain yn 218.7 km. Y ddinas agosaf ydy Casnewydd sy'n 27 km i ffwrdd.</wikipedia>
+        </town>
+        <town id="blaenau gwent#trefil">
+            <name>Trefil</name>
+            <lat />
+            <lon />
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Trefil">Trefil is a small village in the county borough of Blaenau Gwent, south Wales. It lies at the top of the Sirhowy Valley, three miles northwest of Tredegar. The boundary of the Brecon Beacons National Park lies one mile to the north of the village.
+The village is sited in the bottom of a broad valley which cuts through the moorlands between the Heads of the Valleys Road and the Dyffryn Crawnon valley to the north. At a height of 400m above sea level it is one of the highest villages in Wales. Trefil is served by a single cul-de-sac road which leaves the A465 Heads of the Valleys Road 1.5 miles to the south.
+Trefil is perhaps best known for its limestone quarries - a major one immediately north of the village is operational whilst Cwar yr Ystrad, Cwar yr Hendre and Cwar Blaen-dyffryn to the west and northwest are no longer operational. The Trefil Tramroad and the Sirhowy Tramroad formerly linked the quarries with the heavily industrialised areas to the south, providing limestone for the furnaces. The former Brinore Tramroad connected the quarries at Trefil with the Monmouthshire and Brecon Canal at Talybont in the Usk Valley to the north.
+Open moorland rises to east and west of the village, the slopes to the west being known as Trefil Ddu and those to the east as Trefil Las. The moorland of Mynydd Llangynidr to the east undulates considerably and contains a number of caves beneath its surface. Most famous amongst these is Chartist's Cave one mile to the northeast of the village
+The village name may derive from the terms 'tref' and 'mil' signifying the 'farm of the lesser celandine', a plant which might be expected to grow in the stream which flows through the place, the Nant Trefil.
+Trefil Quarries and Trefil Ddu are noted birding sites; this area is the last remaining site in Gwent where Ring Ouzel occurs regularly, and other species present include Raven, Wheatear, Stonechat, Whinchat, Snipe and Red Grouse.
+^ Ordnance Survey Explorer map OL13 'Brecon Beacons National Park: eastern area'
+^ Owen, H.W. &amp; Morgan, R. 2007 'Dictionary of the Place-names of Wales' Gomer Press, Ceredigion
+^ Venables, W. A. et al (2008) The Birds of Gwent ISBN 978-0-7136-7633-4, page 21</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Trefil">Pentref bychan gwledig ym Mlaenau Gwent yw Trefil. Mae'n gorwedd yn rhan uchaf Dyffryn Sirhywi, tua 3 milltir i'r gogledd-orllewin o Dredegar yn rhan uchaf y sir. Mae ffin ddeheuol Parc Cenedlaethol Bannau Brycheiniog yn gorwedd milltir i'r gogledd o'r pentref. Mae'n rhan o blwyf eglwysig Dukestown.</wikipedia>
+        </town>
+        <town id="blaenau gwent#troearhiwgwair">
+            <name>Troearhiwgwair</name>
+            <lat />
+            <lon />
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="blaenau gwent#ty llwyn">
+            <name>Ty Llwyn</name>
+            <lat />
+            <lon />
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="blaenau gwent#waun-lwyd">
+            <name>Waun-Lwyd</name>
+            <lat />
+            <lon />
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="blaenau gwent#west bank">
+            <name>West Bank</name>
+            <lat />
+            <lon />
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/West Bank">The West Bank (Arabic: الضفة الغربية‎ aḍ-Ḍaffah l-Ġarbiyyah; Hebrew: הגדה המערבית‎, HaGadah HaMa'aravit or Cisjordan is a landlocked territory near the Mediterranean coast of Western Asia, forming the bulk of the Palestinian territories. The West Bank shares boundaries (demarcated by the Jordanian-Israeli armistice of 1949) to the west, north, and south with the state of Israel, and to the east, across the Jordan River, with Jordan. The West Bank also contains a significant coastline along the western bank of the Dead Sea.
+The West Bank, including East Jerusalem, has a land area of 5,640 km2 and 220 km2 water, the northwest quarter of the Dead Sea. It has an estimated population of 2,676,740 (July 2013). More than 80%, about 2,100,000, are Palestinian Arabs, and approximately 500,000 are Jewish Israelis living in the West Bank, including about 192,000 in East Jerusalem, in Israeli settlements. The international community considers Israeli settlements in the West Bank, including East Jerusalem, illegal under international law, though Israel disputes this. The International Court of Justice advisory ruling (2004) concluded that events that came after the 1967 occupation of the West Bank by Israel, including the Jerusalem Law, Israel's peace treaty with Jordan and the Oslo Accords, did not change the status of the West Bank (including East Jerusalem) as occupied territory with Israel as the occupying power.</wikipedia>
+            <wikipedia />
+        </town>
+        <town id="blaenau gwent#west side">
+            <name>West Side</name>
+            <lat />
+            <lon />
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/West Side">West Side or Westside may refer to:</wikipedia>
+            <wikipedia />
+        </town>
+        <town id="blaenau gwent#willowtown">
+            <name>Willowtown</name>
+            <lat />
+            <lon />
+            <wikipedia />
+            <wikipedia />
+        </town>
+        <town id="blaenau gwent#winchestown">
+            <name>Winchestown</name>
+            <lat />
+            <lon />
+            <wikipedia />
+            <wikipedia />
+        </town>
+    </towns>
+</county>

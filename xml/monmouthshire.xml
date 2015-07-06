@@ -1,0 +1,1901 @@
+<?xml version="1.0"?>
+<county name="Monmouthshire">
+    <postcodes>
+        <postcode>NP4</postcode>
+        <postcode>NP7</postcode>
+    </postcodes>
+    <towns>
+        <town id="monmouthshire#aberffrwd">
+            <name>Aberffrwd</name>
+            <lat>52.392098</lat>
+            <lon>-3.938282</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Aberffrwd">Aberffrwd may refer to one of the following places in Wales:
+Aberffrwd, Ceredigion
+Aberffrwd, Monmouthshire</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Aberffrwd">Ceir dau bentref yng Nghymru o'r enw Aberffrwd:
+Aberffrwd, Ceredigion
+Aberffrwd, Sir Fynwy</wikipedia>
+        </town>
+        <town id="monmouthshire#abergavenny (y fenni)">
+            <name>Abergavenny (Y Fenni)</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#beili-glas">
+            <name>Beili-glas</name>
+            <lat>51.7851708</lat>
+            <lon>-3.0050382</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#bettws">
+            <name>Bettws</name>
+            <lat>51.608505</lat>
+            <lon>-3.027364</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Bettws">Betws or Bettws /&#x2C8;b&#x25B;tu&#x2D0;s/ may refer to one of several communities in Wales, or one in England:
+Bettws, Bridgend, Llynfi Valley
+Betws, Carmarthenshire
+Betws Ifan
+Betws Bledrws, Llangybi
+Capel Betws Lleucu
+Betws-y-Coed
+Betws yn Rhos
+Betws Gwerfil Goch
+Betws Garmon
+Bettws, Newport
+Bettws Cedewain
+Betws Diserth
+Bettws-y-Crwyn, Shropshire, England</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#bettws newydd">
+            <name>Bettws Newydd</name>
+            <lat/>
+            <lon/>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Bettws Newydd">Bettws Newydd (Welsh: Betws Newydd) is a small village in Monmouthshire, in southeast Wales located about 3 1&#x2044;2 miles (5.6 km) north of Usk, a few miles south of Clytha near Raglan, Monmouthshire.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#blackrock">
+            <name>Blackrock</name>
+            <lat>51.80741</lat>
+            <lon>-3.143472</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Blackrock">This is a redirect from a title with another method of capitalisation. It leads to the title in accordance with the Wikipedia naming conventions for capitalisation, or it leads to a title that is associated in some way with the conventional capitalisation of this redirect title. This may help writing, searching and international language issues. For more information follow the category link.
+If this redirect is an incorrect capitalization (a typo), then it is made available to aid searches, so pages that use this link should be updated to link directly to the target.
+Use this rcat to tag only mainspace redirects; when other capitalisations are in different namespaces, use {{R from modification}} instead.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#botany bay">
+            <name>Botany Bay</name>
+            <lat/>
+            <lon/>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Botany Bay">Botany Bay, an open oceanic embayment, is located in Sydney, New South Wales, Australia, 13 km (8 mi) south of the Sydney central business district. Botany Bay has its source in the confluence of the Georges River at Taren Point and the Cooks River at Kyeemagh and flows 10 km (6 mi) to the east before meeting its mouth, the Tasman Sea, midpoint between La Perouse and Kurnell.
+The total catchment area of the bay is approximately 55 km2 (21 sq mi) and the area surrounding the bay is generally managed by Roads and Maritime Services. Despite its relative shallowness, the bay serves as greater metropolitan Sydney's main cargo seaport, located at Port Botany, with facilities managed by Sydney Ports Corporation. Two runways of Sydney Airport extend into the bay. Botany Bay National Park is located on the northern and southern headlands of the bay.
+The land adjacent to Botany Bay was occupied for many thousands of years by the Tharawal and Eora Aboriginal peoples and their associated clans. On 29 April 1770, Botany Bay was the site of James Cook's first landing of HMS Endeavour on the continent of Australia, after his extensive navigation of New Zealand. Later the British planned Botany Bay as the site for a penal colony. Out of these plans came the first European habitation of Australia at Sydney Cove. Even though the penal settlement was almost immediately shifted to Sydney Cove, for some time in Britain transportation to "Botany Bay" was a metonym for transportation to any of the Australian penal settlements.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#broadstone">
+            <name>Broadstone</name>
+            <lat>51.7237564</lat>
+            <lon>-2.7197128</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Broadstone">Broadstone can mean:
+Broadstone, Dublin, an inner city area of Dublin, Ireland
+Broadstone Station, a railway station in the Dublin Suburb
+
+Broadstone, Dorset, a suburb of Poole in Dorset, England
+Broadstone (Dorset) railway station
+
+Broadstone, Kent
+Broadstone, Shropshire
+Broadstone, Monmouthshire
+Broadstone, North Ayrshire Site of an old castle and barony</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#brynbuga (usk)">
+            <name>Brynbuga (Usk)</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#bryngwyn">
+            <name>Bryngwyn</name>
+            <lat>51.779285</lat>
+            <lon>-2.884213</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Bryngwyn">Bryngwyn is a village and rural location in Monmouthshire, south east Wales.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#brynygwenin">
+            <name>Brynygwenin</name>
+            <lat>51.838292</lat>
+            <lon>-2.974967</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#buckholt">
+            <name>Buckholt</name>
+            <lat>51.843427</lat>
+            <lon>-2.717149</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Buckholt">Buckholt may refer to:
+Buckholt, Hampshire, England
+Buckholt, Monmouthshire, Wales</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#bullyhole bottom">
+            <name>Bullyhole Bottom</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#bulwark">
+            <name>Bulwark</name>
+            <lat>51.6284966</lat>
+            <lon>-2.6727091</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#caerwent">
+            <name>Caerwent</name>
+            <lat>51.6106852</lat>
+            <lon>-2.7647246</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Caerwent">Caerwent is a village and community in Monmouthshire, Wales. It is located about five miles west of Chepstow and eleven miles east of Newport, and was originally founded by the Romans as the market town of Venta Silurum, an important settlement of the Brythonic Silures tribe. The modern village is built around the Roman ruins, which are some of the best-preserved in Europe. It remained prominent through the Roman era and Early Middle Ages as the site of a road crossing between several important civic centres.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#caerwent brook">
+            <name>Caerwent Brook</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#caggle street">
+            <name>Caggle Street</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#caldicot">
+            <name>Caldicot</name>
+            <lat>51.591518</lat>
+            <lon>-2.750868</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Caldicot">Caldicot may refer to:
+In the United Kingdom:
+Caldicot, Monmouthshire
+Caldicot Castle, Monmouthshire
+Caldicot (hundred)
+
+Caldicot, Buckinghamshire</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Caldicot">Tref a chymuned yn Sir Fynwy, ar lan M&#xF4;r Hafren yw Caldicot (weithiau (er nad yn safonol): "Cil-y-coed"). Mae'n gorwedd rhwng Cas-gwent a dinas Casnewydd. Poblogaeth y dref yw oddeutu 11,000 o bobol. Mae ganddi ysgol leol, sef Ysgol Gyfun Cil-y-coed. Saif Castell Cil-y-coed gerllaw.</wikipedia>
+        </town>
+        <town id="monmouthshire#carrow hill">
+            <name>Carrow Hill</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#cas-gwent (chepstow)">
+            <name>Cas-Gwent (Chepstow)</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#catbrook">
+            <name>Catbrook</name>
+            <lat>51.722484</lat>
+            <lon>-2.708958</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Catbrook">Catbrook (Welsh: Catffrwd) is a village in Monmouthshire, south east Wales, United Kingdom.
+
+</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#causeway">
+            <name>Causeway</name>
+            <lat>51.8519492</lat>
+            <lon>-5.0270634</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Causeway">In modern usage, a causeway is a road or railway elevated, usually across a broad body of water or wetland.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#chapel hill">
+            <name>Chapel Hill</name>
+            <lat/>
+            <lon/>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Chapel Hill">Chapel Hill or Chapelhill may refer to:
+Chapel Hill, North Carolina, a town in the United States
+University of North Carolina at Chapel Hill, a major university within the town
+
+Chapel Hill, Alabama (disambiguation)
+Chapel Hill, New Jersey, an unincorporated community in the United States
+Chapel Hill, Queensland, a suburb of Brisbane, Queensland, Australia
+Chapel Hill (Gloucester), a neighbourhood of Ottawa, Canada
+Chapel Hill, Indiana
+Chapelhill (townland), in County Laois, Ireland
+Chapel Hill, Tennessee, a town in the United States
+Chapel Hill, Monmouthshire, Wales
+Chapel Hill, Lincolnshire, England
+Chapel Hill (Berryville, Virginia), historic home
+Chapel Hill (Lexington, Virginia), historic home
+Chapel Hill (Mint Spring, Virginia), historic home
+Chapel Hill, a neighborhood centered on Chapel Hill Mall in Akron, Ohio
+"Chapel Hill", a song by Sonic Youth from the album Dirty</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#chepstow">
+            <name>Chepstow</name>
+            <lat>51.641856</lat>
+            <lon>-2.673804</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Chepstow">Chepstow (Welsh: Cas-gwent) is a town in Monmouthshire, Wales, adjoining the border with Gloucestershire, England. It is located on the River Wye, about 2 miles (3.2 km) above its confluence with the River Severn, and adjoining the western end of the Severn Bridge. It is 16 miles (26 km) east of Newport, 18 miles (29 km) north-west of Bristol and 110 miles (180 km) west of London.
+Chepstow Castle, situated on a clifftop above the Wye and its bridge, is often cited as the oldest surviving stone castle in Britain. The castle was established by William FitzOsbern immediately after the Norman conquest, and was extended in later centuries before becoming ruined after the Civil War. A Benedictine priory was also established within the walled town, which was the centre of the Marcher lordship of Striguil. The port of Chepstow became noted in the Middle Ages for its imports of wine, and also became a major centre for the export of timber and bark, from nearby woodland in the Wye valley and Forest of Dean. In the late eighteenth century the town was a focus of early tourism as part of the "Wye Tour", and the tourist industry remains important. Other important industries included shipbuilding &#x2013; one of the First World War National Shipyards was established in the town &#x2013; and heavy engineering, including the prefabrication of bridges and, now, wind turbine towers. Chepstow is also well known for its racecourse, which has hosted the Welsh National each year since 1949.
+The town had a population of 10,821 according to the 2001 census, increasing to 12,350 at the 2011 census. It is served by the M48 motorway, and its accessibility to the cities of Bristol, Newport and Cardiff means it has a large number of commuters. It is administered as part of Monmouthshire County Council, and is within the Monmouth parliamentary constituency and Wales Assembly constituency. Chepstow is on the western bank of the Wye, while adjoining villages on the eastern bank of the river, Tutshill and Sedbury, are located in England.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#cicelyford">
+            <name>Cicelyford</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#cleddon">
+            <name>Cleddon</name>
+            <lat>51.6008521</lat>
+            <lon>-2.9102215</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#clydach">
+            <name>Clydach</name>
+            <lat>51.694293</lat>
+            <lon>-3.898795</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Clydach">Clydach may refer to any of various settlements and rivers in South Wales:
+Clydach, Monmouthshire (village)
+Clydach, Swansea (village)
+Clydach Gorge, (Welsh Cwm Clydach) Monmouthshire
+River Clydach, Monmouthshire, (Welsh Afon Clydach)
+Lower Clydach River, Swansea Valley
+Upper Clydach River, Swansea Valley
+River Clydach (Neath), tributary of River Neath at Neath
+Clydach Vale, (Rhondda Cynon Taff)</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Clydach">Gweler hefyd Clydach (gwahaniaethu).
+Tref fechan yn Sir Abertawe, Cymru, yw Clydach. Saif gerllaw traffordd yr M4. Mae tua chwarter y boblogaeth yn siarad Cymraeg.</wikipedia>
+        </town>
+        <town id="monmouthshire#coed cwnwr">
+            <name>Coed Cwnwr</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#coed morgan">
+            <name>Coed Morgan</name>
+            <lat/>
+            <lon/>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Coed Morgan">Coed Morgan is a village and rural area in Monmouthshire, south east Wales, in the United Kingdom.
+
+</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Coed Morgan">Pentref gwledig bychan yn Sir Fynwy yw Coed Morgan. Fe'i lleolir ger Llanddewi Rhydderch yn y bryniau yng ngogledd-orllewin y sir, tua 3 filltir i'r dwyrain o'r Fenni.</wikipedia>
+        </town>
+        <town id="monmouthshire#coed-y-fedw">
+            <name>Coed-y-fedw</name>
+            <lat>51.6420149</lat>
+            <lon>-2.6909047</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#coed-y-paen">
+            <name>Coed-y-paen</name>
+            <lat>51.68083</lat>
+            <lon>-2.964107</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Coed-y-paen">Coed-y-paen is a village in south Wales, situated at the south-eastern end of Llandegfedd Reservoir, 2.5 miles (4 km) north-west of Llangybi. The village is home to HM Prison Prescoed, a Category D prison.
+The village has one public house, the Carpenters Arms.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#common cefn-llwyn">
+            <name>Common Cefn-llwyn</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#common-y-coed">
+            <name>Common-y-coed</name>
+            <lat>52.5418299</lat>
+            <lon>-3.0820698</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#cotland">
+            <name>Cotland</name>
+            <lat>53.1402259</lat>
+            <lon>-3.7948968</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#creigau">
+            <name>Creigau</name>
+            <lat>51.690871</lat>
+            <lon>-2.749708</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#crick">
+            <name>Crick</name>
+            <lat>51.608224</lat>
+            <lon>-2.742787</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Crick">Crick may refer to:
+Crick (surname)</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#croes llanfair">
+            <name>Croes Llanfair</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#croes y pant">
+            <name>Croes y pant</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#croes-hywel">
+            <name>Croes-Hywel</name>
+            <lat>51.8211775</lat>
+            <lon>-2.964266</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#cross ash">
+            <name>Cross Ash</name>
+            <lat/>
+            <lon/>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Cross Ash">Cross Ash (Welsh: Croes Onnen) is a village in Monmouthshire, south east Wales. It is located on the B4521 Ross-on-Wye to Abergavenny road, some six miles north east of Abergavenny.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#crossway">
+            <name>Crossway</name>
+            <lat>52.2109262</lat>
+            <lon>-3.3939947</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Crossway">Crossway may refer to
+Crossway Baptist Church in Melbourne
+Crossway Books, a division of Good News Publishers
+Crossway College in Queensland
+Crossway Green, village in Worcestershire</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#crossway green">
+            <name>Crossway Green</name>
+            <lat/>
+            <lon/>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Crossway Green">Crossway Green is a village in Worcestershire, England.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#crossways">
+            <name>Crossways</name>
+            <lat>53.197509</lat>
+            <lon>-3.0177862</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Crossways">Crossways may refer to:
+Crossways, Dorset, England
+Crossways (Aiken, South Carolina), listed on the U.S. National Register of Historic Places
+The Crossways, Toronto, a residential and commercial complex.
+Crossways (Deathlands novel)</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#cwmcarvan">
+            <name>Cwmcarvan</name>
+            <lat>51.762911</lat>
+            <lon>-2.756512</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Cwmcarvan">Cwmcarvan (Welsh: Cwmcarfan) is a small rural village in Monmouthshire, south east Wales. It is located 4 miles south west of Monmouth and about 4 miles east of Raglan, off the old A40 road not far from Trellech. 
+
+</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#cwmyoy">
+            <name>Cwmyoy</name>
+            <lat>51.902213</lat>
+            <lon>-3.01669</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Cwmyoy">Cwmyoy (Welsh: Cwm-iou) is an extensive rural parish in Monmouthshire, Wales. Alternate spellings include Cwm Iau, the name translating from the Welsh as "valley of the yoke"
+The village of Cwmyoy is located 7 miles north of Abergavenny and 4 miles south of Llanthony in the Vale of Ewyas in the Black Mountains. It is within the Brecon Beacons National Park, in an upland location just below the broad ridge of Hatterrall Hill, which carries the Wales-England border along which runs Offa's Dyke Path.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#deepweir">
+            <name>Deepweir</name>
+            <lat>51.5887249</lat>
+            <lon>-2.741929</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#devauden">
+            <name>Devauden</name>
+            <lat>51.6860039</lat>
+            <lon>-2.7478379</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Devauden">Devauden (Welsh: Y Dyfawden) is a village in Monmouthshire, south east Wales. It is located between Chepstow and Monmouth near the top of the Trellech ridge on the B4293 road.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#dingestow">
+            <name>Dingestow</name>
+            <lat>51.789034</lat>
+            <lon>-2.787868</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Dingestow">Dingestow (pronounced /&#x2C8;d&#x26A;nd&#x292;sto&#x28A;/ DINJ-stoh, Welsh: Llanddingad) is a small village in Monmouthshire, Wales. It is located 4 miles (6.4 km) south-west of Monmouth and approximately the same distance north-east of Raglan in rural Monmouthshire. The River Trothy passes through the village.
+
+</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#earlswood">
+            <name>Earlswood</name>
+            <lat>51.65484</lat>
+            <lon>-2.793811</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Earlswood">Earlswood is a suburb of Redhill in Surrey, England forming the south of the town of Redhill, and part of its RH1 postcode district. Earlswood lies on the A23 between Redhill (in the direction of London) and Horley (next to Gatwick Airport), from which the neighbouring community, Whitebushes is separated by a wide rural buffer zone. The two main southern communities of Redhill are in local administration grouped together to form a ward, Earlswood and Whitebushes. Earlswood Common is a Local Nature Reserve that separates the suburb from the southern suburbs of Reigate, and has two lakes known as Earlswood Lakes, picnic areas and a golf course. South Earlswood is contiguous with Whitebushes but is also to the west. East of its station and the Brighton Main Line are three unconnected estates: east Earlswood; Royal Earlswood Park and East Surrey Hospital with Whitebushes.
+Redhill Football Club Redhill F.C. has its ground, Kiln Brow, on a site in Earlswood on the East side of the A23 immediately north of East Surrey Hospital.
+
+</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#five lanes">
+            <name>Five Lanes</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#forest coal pit">
+            <name>Forest Coal Pit</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#gaer-fawr">
+            <name>Gaer-fawr</name>
+            <lat>52.7084821</lat>
+            <lon>-3.1392017</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#gaerllwydd">
+            <name>Gaerllwydd</name>
+            <lat>51.665968</lat>
+            <lon>-2.799155</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#ganarew">
+            <name>Ganarew</name>
+            <lat>51.846941</lat>
+            <lon>-2.685359</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Ganarew">Ganarew (from Welsh: Genau'r Rhiw; 'Gana-rhiw', and 'Gan y rew') is a village and small civil parish in south Herefordshire, England near the River Wye and the border with Wales. The village is located 1 km southwest of the village of Whitchurch on the main A40 road, and lies within the electoral ward of Kerne Bridge. The village is about 2 miles (3.2 km) from Monmouth and 8 miles (13 km) from Ross-on-Wye. It contains the Church of St Swithin and Ganarew Manor.
+
+</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Ganarew">Pentref yn Swydd Henffordd, Gorllewin Canolbarth Lloegr, Lloegr ydy Ganarew.
+Tref weinyddol Swydd Henffordd ydy Henffordd a fu'n bencadlys ymosodiadau'r Normaniaid ar dde-ddwyrain Cymru.</wikipedia>
+        </town>
+        <town id="monmouthshire#gilwern">
+            <name>Gilwern</name>
+            <lat>51.82351</lat>
+            <lon>-3.097385</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Gilwern">Gilwern is a village in Monmouthshire, Wales. The name translates from the Welsh Y Gilwern (from cil-gwern) as "the recess (or bend) of the alders", probably a reference to its position at the point where the Clydach Gorge opens out into the Usk Valley and the River Clydach flows into a sharp bend in the River Usk. It is within the Llanelly parish ward of Monmouthshire County Council, just off the A465 road 3.5 miles (5.6 km) west of the market town of Abergavenny.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Gilwern">Pentref yn Sir Fynwy yw Gilwern. Fe'i lleolir 3 milltir i'r gorllewin o'r Fenni yng ngogledd-orllewin y sir.
+Mae Camlas Sir Fynwy a Brycheiniog yn rhedeg trwy'r pentref.</wikipedia>
+        </town>
+        <town id="monmouthshire#glascoed">
+            <name>Glascoed</name>
+            <lat>51.709835</lat>
+            <lon>-2.967851</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Glascoed">Glascoed is a village in Monmouthshire, south east Wales, United Kingdom.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#glyn">
+            <name>Glyn</name>
+            <lat>53.1015611</lat>
+            <lon>-3.8683983</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Glyn">Glyn [&#x2C8;&#x261;l&#x26A;n] means "Valley" in Welsh, and may refer to:</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Glyn">Gallai Glyn gyfeirio at:</wikipedia>
+        </town>
+        <town id="monmouthshire#goetre">
+            <name>Goetre</name>
+            <lat>51.738804</lat>
+            <lon>-2.979924</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Goetre">Goytre is a village and community in Monmouthshire, south east Wales, United Kingdom. The civil is known as Goetre Fawr. The population of this parish and of the electoral ward of the same name, taken at the 2011 census was 2,393.
+
+</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#govilon">
+            <name>Govilon</name>
+            <lat>51.820017</lat>
+            <lon>-3.0688399</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Govilon">Govilon (Welsh: Gofilon) is a small Welsh village located between Llanfoist and Gilwern near Abergavenny in north Monmouthshire.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#great oak">
+            <name>Great Oak</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#groes-lwyd">
+            <name>Groes-lwyd</name>
+            <lat>52.693615</lat>
+            <lon>-3.1704893</lon>
+            <wikipedia/>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Groes-lwyd">Pentref yng nghymuned Cegidfa, Powys, Cymru yw Groes-lwyd, sydd 83.8 milltir (134.9km) o Gaerdydd a 152.9 milltir (246km) o Lundain.
+
+Cynrychiolir Groes-lwyd yn y Cynulliad Cenedlaethol gan Russel George (Ceidwadwyr) a'r Aelod Seneddol yw Glyn Davies (Ceidwadwyr).
+
+</wikipedia>
+        </town>
+        <town id="monmouthshire#grosmont">
+            <name>Grosmont</name>
+            <lat>51.912533</lat>
+            <lon>-2.8673989</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Grosmont">Grosmont may refer to:
+Grosmont, Monmouthshire, a village in Monmouthshire, Wales
+Grosmont Castle, a ruined castle in Grosmont, Monmouthshire
+
+Grosmont, North Yorkshire, a small village and civil parish in the Scarborough district of North Yorkshire, England
+Grosmont Priory, a priory in North Yorkshire, England
+
+Grosmont, Alberta, a hamlet in Alberta, Canada
+Grosmont Formation, a stratigraphical unit in the Western Canadian Sedimentary Basin</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#gwehelog">
+            <name>Gwehelog</name>
+            <lat>51.737773</lat>
+            <lon>-2.893404</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Gwehelog">Gwehelog is a village settlement in Monmouthshire, south east Wales.
+
+</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#gwernesney">
+            <name>Gwernesney</name>
+            <lat>51.70998</lat>
+            <lon>-2.846649</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Gwernesney">Gwernesney (Welsh: Gwernesni) is a village in Monmouthshire in southeast Wales.
+
+</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#highmoor hill">
+            <name>Highmoor Hill</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#honddu">
+            <name>Honddu</name>
+            <lat>52.0147565</lat>
+            <lon>-3.4285056</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#hoop">
+            <name>Hoop</name>
+            <lat>51.769144</lat>
+            <lon>-2.704844</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Hoop">Hoop may refer to:
+A hoop is the metal ring on a barrel
+Hoop (rhythmic gymnastics) is one apparatus in rhythmic gymnastics
+Hoop (magazine), an American basketball magazine
+Hoop (surname)
+"Hoops" (song), a 1996 song by Ruby
+Hoops (video game), a 1989 basketball video game
+Hooping, a modern subculture revolving around hoopdance
+Basketball, also referred to as Hoops
+Celtic F.C., nicknamed the Hoops
+Shamrock Rovers F.C., nicknamed the Hoops
+Queens Park Rangers, nicknamed the Hoops
+Shamrock Rovers Hoops, an Irish basketball club
+HOOPS 3D Graphics System, a 3D Graphics API, part of The HOOPS 3D Application Framework
+Sphincter, a colloquial term for the anatomical structure, a circular muscle</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#howick">
+            <name>Howick</name>
+            <lat>51.657837</lat>
+            <lon>-2.721344</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Howick">Howick can refer to:
+Places
+Howick, KwaZulu-Natal, in South Africa
+Howick Falls
+
+Howick, Lancashire, a small hamlet (Howick Cross) and former civil parish in England
+Howick, New Zealand
+Howick Historical Village
+
+Howick, Northumberland, a small town in England
+Howick house
+
+Howick, Ontario, Canada
+Howick, Quebec, Canada
+Howick Group National Park
+Howick Island, Australia
+People
+Baron Howick of Glendale
+Baron Grey of Howick and Viscount Howick, subsidiary titles of Earl Grey
+Things
+USS Howick Hall, a United States Navy ship</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#itton">
+            <name>Itton</name>
+            <lat>51.654763</lat>
+            <lon>-2.734265</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Itton">Itton (Welsh: Llanddinol), is a small village in Monmouthshire, south-east Wales, about 3 miles (4.8 km) north-west of Chepstow. The village covers about a 2-mile (3.2 km) radius, with about 70 properties across a rural area. The parish also includes the hamlet of Howick.
+The church and Itton Court, the manor house, are located about 1-mile (1.6 km) from the main housing development at Itton Common on the B4293 road between Chepstow and Devauden. The woodland between Itton and Devauden is Chepstow Park Wood.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#itton common">
+            <name>Itton Common</name>
+            <lat/>
+            <lon/>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Itton Common">This is a redirect from a subtopic of the target article. For more information follow the category link.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#jingle street">
+            <name>Jingle Street</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#kentchurch">
+            <name>Kentchurch</name>
+            <lat>51.926952</lat>
+            <lon>-2.845596</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Kentchurch">Kentchurch is a small village in Herefordshire, England. It is located some 13 miles (21 km) south-west of Hereford and 13 miles (21 km) north-east of Abergavenny, beside the River Monnow and adjoining the boundary between England and Wales. The village name probably derives from an original dedication of the church to a 5th-century nun, Cein, or her sister Ceingar, who were daughters of Brychan, king of Brycheiniog.
+According to one version of the legend, Kentchurch was the home of the folk figure Jack o' Kent.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Kentchurch">Pentref gwledig yn ne-orllewin Swydd Henffordd, Lloegr, yw Kentchurch (Cymraeg: Llan-gain). Saif deg milltir i'r de-orllewin o Henffordd, bron ar y ffin &#xE2; Sir Fynwy, de-ddwyrain Cymru, gyferbyn &#xE2; phentref Y Grysmwnt yn y sir honno.
+Ceir traddodiadau sy'n cysylltu'r bardd Cymraeg canoloesol Si&#xF4;n Cent &#xE2; Kentchurch. Cyfeirir at 'Ysgubor Si&#xF4;n Cent' a 'Derwen Si&#xF4;n Cent' ym mharc plasdy y teulu Scudamore yn Kentchurch, er enghraifft. Mae cysylltiad rhwng y Scudamores ac Owain Glynd&#x175;r yn ogystal; mae traddodiad fod Owain wedi cael lloches ym Monnington gyda'i ferch Alys, a oedd yn briod &#xE2; John Scudamore, a'i fod wedi ei gladdu yn Kentchurch.</wikipedia>
+        </town>
+        <town id="monmouthshire#kilgwrrwg common">
+            <name>Kilgwrrwg Common</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#kingcoed">
+            <name>Kingcoed</name>
+            <lat>51.74815</lat>
+            <lon>-2.830458</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#knollbury">
+            <name>Knollbury</name>
+            <lat/>
+            <lon/>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Knollbury">Knollbury is a scheduled neolithic enclosure to the north west of Chadlington in Oxfordshire. Believed to be defensive in nature the enclosure is rectangular (100 metres by 150 metres) formed by a two to four metre high and ten metre wide earth banks. The two gaps in the earth banks at the eastern corners are believed to be of a later date.
+
+</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#kymin">
+            <name>Kymin</name>
+            <lat>51.810623</lat>
+            <lon>-2.6901959</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#leechpool">
+            <name>Leechpool</name>
+            <lat>51.6038458</lat>
+            <lon>-2.7100031</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#llanarth">
+            <name>Llanarth</name>
+            <lat>52.194335</lat>
+            <lon>-4.307419</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llanarth">Llanarth may refer to:
+Llanarth, Ceredigion
+Llanarth, Monmouthshire
+Llanarth, Queensland</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Llanarth">Ceir mwy nag un lle o'r enw Llanarth yng Nghymru:
+Llanarth (Ceredigion)
+Llanarth (Sir Fynwy)</wikipedia>
+        </town>
+        <town id="monmouthshire#llanbadoc">
+            <name>Llanbadoc</name>
+            <lat>51.6953036</lat>
+            <lon>-2.9044203</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llanbadoc">Llanbadoc (Welsh: Llanbadog Fawr) is a village and former civil parish in the ceremonial county of Monmouthshire in Wales.The population of the village at the 2011 census was 806.
+The village is in the Newport postal district of NP15, just across the River Usk from the town of Usk (Welsh: Brynbuga), off the A472. Llanbadoc is within the British House of Commons and National Assembly of Wales constituencies of Monmouth.
+There are not many facilities in this small village - there is a village and parish church, a garage, a saw mill, an open prison and an agricultural college.
+Llanbadoc is the birthplace (1823) of Alfred Russel Wallace.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#llancayo">
+            <name>Llancayo</name>
+            <lat>51.720624</lat>
+            <lon>-2.914516</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llancayo">Llancayo is a village in Monmouthshire, south east Wales, United Kingdom. It is located two miles north of Usk on the B4598 road to Abergavenny.
+
+</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#llanddewi fach">
+            <name>Llanddewi Fach</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#llanddewi rhydderch">
+            <name>Llanddewi Rhydderch</name>
+            <lat/>
+            <lon/>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llanddewi Rhydderch">Llanddewi Rhydderch is a village in Monmouthshire, Wales at grid reference SO351130. It is off the B4233 road, roughly five miles from Abergavenny.
+
+</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Llanddewi Rhydderch">Gweler hefyd Llanddewi.
+Pentref gwledig yn Sir Fynwy yw Llanddewi Rhydderch. Fe'i lleolir yn y bryniau yng ngogledd-orllewin y sir, 2 filltir i'r dwyrain o'r Fenni.</wikipedia>
+        </town>
+        <town id="monmouthshire#llandegveth">
+            <name>Llandegveth</name>
+            <lat>51.654777</lat>
+            <lon>-2.955599</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llandegveth">Llandegveth (Welsh: Llandegfedd) is a village in Monmouthshire, south east Wales, United Kingdom.
+
+</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#llandenny">
+            <name>Llandenny</name>
+            <lat>51.730353</lat>
+            <lon>-2.8513639</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llandenny">Llandenny (Welsh: Llandenni or, lesser used, Mathenni) is a village in Monmouthshire, south east Wales, United Kingdom. Llandenny is located three miles south of Raglan and three miles north of Usk.
+
+</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#llandenny walks">
+            <name>Llandenny Walks</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#llandogo">
+            <name>Llandogo</name>
+            <lat>51.729451</lat>
+            <lon>-2.692179</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llandogo">Llandogo (Welsh: Llaneuddogwy) is a small village in Monmouthshire, south Wales, between Monmouth and Chepstow in the lower reaches of the Wye Valley AONB, two miles north of Tintern. It is set on a steep hillside overlooking the River Wye and across into the Forest of Dean in Gloucestershire, England.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#llanellen">
+            <name>Llanellen</name>
+            <lat>51.792695</lat>
+            <lon>-3.010146</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llanellen">Llanellen (Welsh: Llanelen) is a village in Monmouthshire, south east Wales, United Kingdom.
+
+</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#llanelly">
+            <name>Llanelly</name>
+            <lat>51.824049</lat>
+            <lon>-3.114332</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llanelly">Llanelly (Welsh: Llanelli) is the name of both a parish and community in Monmouthshire principal area, within the historic boundaries of Brecknockshire, south-east Wales. It roughly covers the area of the Clydach Gorge. The population of both the civil parish and electoral ward at the 2011 census was 3,899.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#llanfair kilgeddin">
+            <name>Llanfair Kilgeddin</name>
+            <lat/>
+            <lon/>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llanfair Kilgeddin">Llanfair Kilgeddin (Welsh: Llanfair Cilgedin) is a small village in Monmouthshire, south east Wales. It is located four miles north west of Usk and six miles south east of Abergavenny on the B4598 road. The River Usk passes close by.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#llanfihangel rogiet">
+            <name>Llanfihangel Rogiet</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#llanfoist">
+            <name>Llanfoist</name>
+            <lat>51.811387</lat>
+            <lon>-3.035078</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llanfoist">Llanfoist (Welsh: Llanffwyst) is a village, near Abergavenny, in Monmouthshire, Wales.
+The name of the village derives from St. Fwyst, an early Christian Welsh saint, although the anglicised name of the church patron is St Faith.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#llangattock lingoed">
+            <name>Llangattock Lingoed</name>
+            <lat/>
+            <lon/>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llangattock Lingoed">Llangattock Lingoed (Welsh: Llangatwg Lingoed) is a small rural village in Monmouthshire, south east Wales. It is located approximately five miles north of Abergavenny, between Abergavenny and Grosmont, a few miles south of the Wales-England border. Offa's Dyke Path passes through the village. The village is near the Black Mountains and the Brecon Beacons National Park.
+
+</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#llangattock-vibon-avel">
+            <name>Llangattock-Vibon-Avel</name>
+            <lat>51.8363548</lat>
+            <lon>-2.786493</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llangattock-Vibon-Avel">Llangattock-Vibon-Avel (Welsh: Llangatwg Feibion Afel) is a rural parish in Monmouthshire, south east Wales, in the United Kingdom. It is located five miles west of Monmouth and some thirteen miles east of Abergavenny, just off the B4233 old road between the two. 
+
+</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#llangeview">
+            <name>Llangeview</name>
+            <lat>51.695837</lat>
+            <lon>-2.868276</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#llangovan">
+            <name>Llangovan</name>
+            <lat>51.746626</lat>
+            <lon>-2.789889</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llangovan">Llangovan (Welsh: Llangofen) is a small village in Monmouthshire, south east Wales, United Kingdom. It is located five miles south west of Monmouth.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#llangua">
+            <name>Llangua</name>
+            <lat>51.926708</lat>
+            <lon>-2.879021</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llangua">Llangua (Welsh: Llangiwa) is a village in Monmouthshire, south-east Wales, United Kingdom.
+
+</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#llangwm">
+            <name>Llangwm</name>
+            <lat>51.747112</lat>
+            <lon>-4.91223</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llangwm">Llangwm could be one of several places in Wales:
+Llangwm, Conwy
+Llangwm, Monmouthshire
+Llangwm, Pembrokeshire</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Llangwm">Gall Llangwm gyfeirio at sawl lle yng Nghymru:
+Llangwm, pentref a chymuned ym mwrdeisdref sirol Conwy
+Llangwm, pentref a chymuned yn Sir Benfro
+Llan-gwm, pentref a chymuned yn Sir Fynwy</wikipedia>
+        </town>
+        <town id="monmouthshire#llangybi">
+            <name>Llangybi</name>
+            <lat>51.665196</lat>
+            <lon>-2.907844</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llangybi">Llangybi can refer to one of several villages named after Saint Cybi, their reputed founder.
+In Wales
+Llangybi, Ceredigion
+Llangybi, Gwynedd
+Llangybi, Monmouthshire</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Llangybi">Ceir mwy nag un enghraifft o'r enw lle Llangybi:
+Llangybi, Gwynedd
+Llangybi, Ceredigion
+Llangybi, Sir Fynwy
+Gweler hefyd:
+Caergybi, M&#xF4;n
+a'r sant Cybi.</wikipedia>
+        </town>
+        <town id="monmouthshire#llanhennock">
+            <name>Llanhennock</name>
+            <lat>51.63005</lat>
+            <lon>-2.936042</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llanhennock">Llanhennock (Welsh: Llanhenwg) is a village and community in Monmouthshire, south east Wales, United Kingdom. The population taken at the 2011 census was 496.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#llanishen">
+            <name>Llanishen</name>
+            <lat>51.529552</lat>
+            <lon>-3.190499</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llanishen">Llanishen (Welsh Llanisien llan church + Isien Saint Isan) is a district in the north of Cardiff, the capital city of Wales. The Cardiff ward population taken at the 2011 census was 17,149. Llanishen is well known as the home of the 'Tax Offices', the tallest buildings in north Cardiff and a landmark for miles around. The office complex overlooks the 'Crystal and Fishguard estates', Parc Ty Glas industrial estate, old village, leafy suburban roads and various parkland that constitute the district. Llanishen is also home to a fully featured Leisure Centre and the former 60-acre (240,000 m2) Llanishen Reservoir - a local beauty spot that is connected to a green corridor which bisects the city from the rising hills in the north to Cardiff Bay in the south.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Llanishen">Gallai Llanishen (Seisnigiad o'r enw Llanisien) gyfeirio at un o ddau le:
+Llanisien, Caerdydd
+Llanisien, Sir Fynwy</wikipedia>
+        </town>
+        <town id="monmouthshire#llanllowell">
+            <name>Llanllowell</name>
+            <lat>51.6864849</lat>
+            <lon>-2.8647462</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llanllowell">Llanllowell (Welsh: Llanllywel) is a village in Monmouthshire, southeast Wales, in the United Kingdom. It is two miles southeast of Usk.
+
+</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#llanover">
+            <name>Llanover</name>
+            <lat>51.7672101</lat>
+            <lon>-2.996728</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llanover">Llanover (Welsh: Llanofer) is a village and community in Monmouthshire, south east Wales, United Kingdom. The population taken at the 2011 census was 1,392.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#llansoy">
+            <name>Llansoy</name>
+            <lat>51.71946</lat>
+            <lon>-2.809581</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llansoy">Llansoy (Welsh: Llan-soe) is a small village in Monmouthshire, south east Wales, United Kingdom, located about 3 miles south east of Raglan.
+
+</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#llanteems">
+            <name>Llanteems</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#llanthony">
+            <name>Llanthony</name>
+            <lat>51.943793</lat>
+            <lon>-3.035708</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llanthony">Llanthony (Welsh: Llanddewi Nant Honddu) is a village in Monmouthshire, south east Wales, United Kingdom.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#llantilio crossenny">
+            <name>Llantilio Crossenny</name>
+            <lat/>
+            <lon/>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llantilio Crossenny">Llantilio Crossenny (Welsh: Llandeilo Gresynni) is a small village in Monmouthshire, south east Wales, in the United Kingdom. It is situated between the two towns of Abergavenny and Monmouth on the B4233 road.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#llantilio pertholey">
+            <name>Llantilio Pertholey</name>
+            <lat/>
+            <lon/>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llantilio Pertholey">Llantilio Pertholey (Welsh: Llandeilo Bertholau) is a small village in Monmouthshire, south east Wales. It is located 1.5 miles (2.4 km) to the north-east of the market town of Abergavenny, just off the A465 road to Hereford. The parish covers a large area beneath the Skirrid, an outlier of the Black Mountains; much of the parish lies within the easternmost part of the Brecon Beacons National Park.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#llantrisant">
+            <name>Llantrisant</name>
+            <lat>51.5429188</lat>
+            <lon>-3.3749525</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llantrisant">Llantrisant ("Parish of the Three Saints") is a town in the county borough of Rhondda Cynon Taf in Wales, within the historic county boundaries of Glamorgan, Wales, lying on the River Ely and the Afon Clun. The three saints of the city's name are SS. Illtyd, Gwynno, and Dyfodwg. Llantrisant is a hilltop settlement, at an altitude of 174 m (565 ft) above sea level. The town is home to the Royal Mint.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Llantrisant">Ceir mwy nag un lle o'r enw Llantrisant:
+Llantrisant, Rhondda Cynon Taf
+Llantrisant, Sir Fynwy
+Llantrisant, Ynys M&#xF4;n</wikipedia>
+        </town>
+        <town id="monmouthshire#llanvaches">
+            <name>Llanvaches</name>
+            <lat>51.621857</lat>
+            <lon>-2.820318</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llanvaches">Llanvaches or Llanfaches is a village and community parish within the boundaries of the city of Newport, Wales. It lies to the east of the urban area, in the historic county of Monmouthshire and the preserved county of Gwent.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#llanvapley">
+            <name>Llanvapley</name>
+            <lat>51.82196</lat>
+            <lon>-2.924037</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llanvapley">Llanvapley (Welsh: Llanfable) is a village in Monmouthshire, south east Wales, United Kingdom. Llan has replaced the (earlier) Eglwys (1254).
+
+</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#llanvetherine">
+            <name>Llanvetherine</name>
+            <lat>51.849275</lat>
+            <lon>-2.922915</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llanvetherine">Llanvetherine (Welsh: Llanwytherin) is a village in Monmouthshire, Wales. It is located five miles north east of Abergavenny on the B4521 road to Ross-on-Wye. The name comes from the Welsh Saint Gwytherin.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#llanvihangel crucorney">
+            <name>Llanvihangel Crucorney</name>
+            <lat/>
+            <lon/>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llanvihangel Crucorney">Llanvihangel Crucorney (Welsh: Llanfihangel Crucornau) is a small village in Monmouthshire, south east Wales. It is located 5 miles (8.0 km) north of Abergavenny and 18 miles (29 km) south-west of Hereford, England on the A465 road.
+
+</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#llanvihangel gobion">
+            <name>Llanvihangel Gobion</name>
+            <lat/>
+            <lon/>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llanvihangel Gobion">Llanvihangel Gobion (Welsh: Llanfihangel-y-gofion) is a village and rural parish of Monmouthshire, Wales.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#llanvihangel-ystern-llewern">
+            <name>Llanvihangel-Ystern-Llewern</name>
+            <lat>51.820627</lat>
+            <lon>-2.826301</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llanvihangel-Ystern-Llewern">Llanvihangel-Ystern-Llewern (Welsh: Llanfihangel-Ystum-Llywern) is a village in Monmouthshire, south east Wales. It is located between Abergavenny and Monmouth and north of Raglan. The River Trothy passes close by.
+
+</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#llanwenarth">
+            <name>Llanwenarth</name>
+            <lat>51.8356269</lat>
+            <lon>-3.0629985</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llanwenarth">Llanwenarth is a small village and parish in the Usk Valley of Monmouthshire, south-east Wales, United Kingdom.It is in the community of Llanfoist Fawr.
+
+</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Llanwenarth">Pentref bychan a phlwyf yn Sir Fynwy yw Llanwenarth. Fe'i lleolir 2 filltir i'r gorllewin o'r Fenni yng ngogledd-orllewin y sir.
+Rhes Camlas Sir Fynwy a Brycheiniog heibio i'r pentref.</wikipedia>
+        </town>
+        <town id="monmouthshire#llwyn-du">
+            <name>Llwyn-du</name>
+            <lat>53.2106685</lat>
+            <lon>-3.7820361</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#lower common">
+            <name>Lower Common</name>
+            <lat/>
+            <lon/>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Lower Common">Lower Common is a village in the civil parish of Eversley in the district of Hart in Hampshire, England. Its nearest town is Yateley, approximately 3.1 miles (5 km) south-east to the village.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Lower Common">Pentref a chymuned yn Lloegr ydy Lower Common.</wikipedia>
+        </town>
+        <town id="monmouthshire#maesygwartha">
+            <name>Maesygwartha</name>
+            <lat>51.8219743</lat>
+            <lon>-3.1044907</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#magor">
+            <name>Magor</name>
+            <lat>51.5815849</lat>
+            <lon>-2.829734</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Magor">Magor may refer to the following:
+Ivan Martin Jirous &#x2013; a Czech underground poet
+Magor, a character from J. R. R. Tolkien's legendarium of Middle-earth
+Magor is a legendary ancestor of the Hungarian people, see Hunor and Magor
+Magor, Monmouthshire &#x2013; a place in Wales, United Kingdom
+Magor Farm, a Romano-British villa near Illogan in Cornwall
+Place names
+Magor is:
+Breton name for Magoar
+Cornish name for Maker, Cornwall</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#mamhilad">
+            <name>Mamhilad</name>
+            <lat>51.726715</lat>
+            <lon>-3.0075759</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Mamhilad">Mamhilad (Welsh: Mamheilad) is a village in Monmouthshire, south east Wales.
+
+</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#mardy">
+            <name>Mardy</name>
+            <lat>51.836683</lat>
+            <lon>-3.005649</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Mardy">Mardy can refer to:
+As a place name
+Mardy, Monmouthshire, Wales
+Mardy, Shropshire, England
+People
+Mardy Collins, American professional basketball player
+Mardy Fish, American professional tennis player
+As a word
+Mardy is a word in some dialects of English meaning: awkward; uncooperative; bad tempered; whiny; aloof; stroppy, moody, miserable or sulking like a small child. Its usage tends to be more common around, but not exclusive to Yorkshire, the West Midlands, East Midlands and Staffordshire. It is often used in phrases such as "He/She's a mardy bum/mardy cow/mardy bugger/in a mard/ mardy bastard/mard-arse/mardy mustard..." etc.
+In music
+Mardy Bum is a song by UK indie band Arctic Monkeys, from their debut album Whatever People Say I Am, That's What I'm Not</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#maryland">
+            <name>Maryland</name>
+            <lat>51.6570209</lat>
+            <lon>-4.731892</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Maryland">Maryland /&#x2C8;m&#x25B;r&#x268;l&#x259;nd/ is a state located in the Mid-Atlantic region of the United States, bordering Virginia, West Virginia, and Washington, D.C. to its south and west; Pennsylvania to its north; and Delaware to its east. Maryland was the seventh state to ratify the United States Constitution, and has three occasionally used nicknames: the Old Line State, the Free State, and the Chesapeake Bay State.
+Maryland is also considered to be the birthplace of religious freedom in America, dating back to its earliest colonial days when it was made a refuge for persecuted Catholics from England by George Calvert the first Lord Baltimore, and the first English proprietor of the then-Maryland colonial grant.
+Maryland is one of the smallest states in terms of area, as well as one of the most densely populated states of the United States. Maryland has the highest median household income, making it the wealthiest state in the USA. The state's largest city is Baltimore, and its capital is Annapolis.
+Although the state is officially claimed to be named after Queen Henrietta Maria, some Catholics believe Maryland was named after Mary, the mother of Jesus, by George Calvert, 1st Lord Baltimore prior to his death in 1632. The original intent may never be known. There is a St. Mary's County in Maryland.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Maryland">Mae Maryland yn dalaith yn nwyrain yr Unol Daleithiau, ar arfordir Cefnfor Iwerydd. Mae'n ymrannu'n ddwy ardal ddaearyddol; gwastadir arfordirol Cefnfor Iwerydd, a ymrennir yn ei thro gan Fae Chesapeake, ac ardal o ucheldiroedd yn y gogledd a'r gorllewin sy'n rhan o Fryniau'r Alleghenies. Roedd Maryland yn un o 13 talaith gwreiddiol yr Unol Daleithiau. Y Saeson oedd yr Ewropeiaid cyntaf i ymsefydlu yno. Fe'i rhoddwyd ganddynt i George Calvert, Baron 1af Baltimore, yn 1632 ac fe'i henwyd yn Maryland ganddo ar &#xF4;l ei wraig Henrietta Maria. Yn ddiweddarach roedd yn lloches i Gatholigion yn ffoi erledigaeth yn Lloegr. Annapolis yw'r brifddinas ac mae Baltimore yn borthladd pwysig.</wikipedia>
+        </town>
+        <town id="monmouthshire#mathern">
+            <name>Mathern</name>
+            <lat>51.6161437</lat>
+            <lon>-2.6880372</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Mathern">Mathern (Welsh: Matharn; older form: Merthyr Tewdrig) is a historic village in Monmouthshire, south east Wales, about 3 miles (4.8 km) south west of the town of Chepstow, close to the Severn estuary, the Bristol Channel and the M48 motorway. The village is designated as a Conservation Area. It is now bisected by the motorway, which passes over the road through the village, with the original village located to the south and the more recent development, known as Newton Green, to the north.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#may hill">
+            <name>May Hill</name>
+            <lat/>
+            <lon/>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/May Hill">May Hill is a hill between Gloucester and Ross-on-Wye. Its summit is on the western edge of Gloucestershire, though its northern slopes are in Herefordshire. The hill is made distinctive by a clump of trees on its top.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#maypole">
+            <name>Maypole</name>
+            <lat>51.842006</lat>
+            <lon>-2.769621</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Maypole">A maypole is a tall wooden pole erected as a part of various European folk festivals, around which a maypole dance often takes place.
+The festivals may occur on May Day or Pentecost (Whitsun), although in some countries it is instead erected at Midsummer. In some cases the maypole is a permanent feature that is only utilised during the festival, although in other cases it is erected specifically for the purpose before being taken down again.
+Primarily found within the nations of Germanic Europe and the neighbouring areas which they have influenced, its origins remain unknown, although it has been speculated that it originally had some importance in the Germanic paganism of Iron Age and early Medieval cultures, and that the tradition survived Christianisation, albeit losing any original meaning that it had. It has been a recorded practice in many parts of Europe throughout the Medieval and Early Modern periods, although became less popular in the 18th and 19th centuries. Today, the tradition is still observed in some parts of Europe and among European communities in North America.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#mitchel troy">
+            <name>Mitchel Troy</name>
+            <lat/>
+            <lon/>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Mitchel Troy">Mitchel Troy (Welsh: Llanfihangel Troddi, that is "church of St. Michael on the River Trothy") is a village and community in Monmouthshire, south east Wales, in the United Kingdom. It is located 3 miles south west of the county town of Monmouth, just off the A40 road leading towards Raglan.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#monkswood">
+            <name>Monkswood</name>
+            <lat>51.719244</lat>
+            <lon>-2.9445929</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Monkswood">Monkswood is a small residential area in Welwyn Garden City, Hertfordshire, England.
+The area contains around 300 houses and flats and the population is about 500. The Monks Walk School, Shoplands shopping parade and Welwyn Garden City Cricket Club are nearby.
+The area is served by the a number of local bus services to Welwyn Garden City town centre, Welwyn Village, and Stevenage.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#monmouth (trefynwy)">
+            <name>Monmouth (Trefynwy)</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#monmouth cap">
+            <name>Monmouth Cap</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#monnow">
+            <name>Monnow</name>
+            <lat>51.8661684</lat>
+            <lon>-2.7867131</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#mount ballan">
+            <name>Mount Ballan</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#mounton">
+            <name>Mounton</name>
+            <lat>51.635965</lat>
+            <lon>-2.70355</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Mounton">Mounton is a hamlet in Monmouthshire, south east Wales, United Kingdom, located two miles west of Chepstow in a rural setting.
+The parish was originally part of the holdings of Chepstow Priory, with the name Monktown. It has a tiny parish church dedicated to St. Andoenus, which was almost wholly rebuilt in 1880 and which lies in the Parish of Mathern and Mounton with St Pierre.
+St. Andoenus has been identified by some with St. Owen, and by others as an obscure Greek saint. It has been suggested that he was initially a 7th-century French scribe, but became Bishop of Rouen and Chancellor to three French monarchs. He is represented in the Grouped Parish logo by the quill of the scribe.
+The furnishings in the Sanctuary are mainly a memorial to Capt. Ian Oswald Lidell, VC, 5th Battalion Coldstream Guards, killed in action in 1945. The stained glass windows are memorials to the Evill and Bragington families. One of the gravestones, to a Christopher Cooper who died on 8 April 1680, indicates that the churchyard is much older than the present church building.
+Until the late 19th century the village had three water mills, producing paper, carpets and cloth. These were called Lady Mill, Lark Mill and Linnet Mill. The last owner, John Birt, closed the mills down in 1876 after being accused of polluting Mounton Brook. According to Fred Hando one of the mills produced the paper used for Bank of England notes, but a monograph by local historian Ivor Waters states that they "rarely made anything but brown and blue packing paper", using old rags, rope and straw as raw materials.
+Mounton House, now a special school for boys, was built as a country house in the Arts and Crafts style in 1914 by Henry Avray Tipping, a leading garden designer and writer, assisted by local architect Eric Francis.
+Robin Williams, coach to Great Britain's 2012 Olympic women's pairs rowing champions Helen Glover and Heather Stanning, is from Mounton. He learnt to row at Monmouth School and went on to win world silver and bronze medals and coached Cambridge to seven Boat Race wins. His GB pair won world gold in a new world record at the world championships in Amsterdam in August 2014.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Mounton">Pentref bychan yn Sir Fynwy yw Mounton (ymddengys nad oes enw Cymraeg am y pentref). Fe'i lleolir 2 filltir i'r gorllewin o Gas-gwent yn ne-ddwyrain y sir, ger y ffin rhwng Cymru a Lloegr.
+Mae'n gorwedd ar lan afon fechan (Mounton Brook) sy'n aberu yn Afon Hafren ger y pentref.</wikipedia>
+        </town>
+        <town id="monmouthshire#mounton brook">
+            <name>Mounton Brook</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#mynydd-bach">
+            <name>Mynydd-bach</name>
+            <lat>51.646062</lat>
+            <lon>-2.748088</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Mynydd-bach">This is a redirect from a title with another method of capitalisation. It leads to the title in accordance with the Wikipedia naming conventions for capitalisation, or it leads to a title that is associated in some way with the conventional capitalisation of this redirect title. This may help writing, searching and international language issues. For more information follow the category link.
+If this redirect is an incorrect capitalization (a typo), then it is made available to aid searches, so pages that use this link should be updated to link directly to the target.
+Use this rcat to tag only mainspace redirects; when other capitalisations are in different namespaces, use {{R from modification}} instead.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Mynydd-bach">Am y bryniau yng Ngheredigion, gweler yma.
+Cymuned ym mwrdeisdref sirol Abertawe yw Mynydd-bach, weithiau Mynydd-Bach. Saif tua dwy filltir a hanner i'r gogledd o ganol dinas Abertawe, rhwng Treforys a Llangyfelach. Roedd y boblogaeth yn 2001 yn 8,756.
+Y cyflogwr mwyaf yma yw'r Asiantaeth Trwyddedu Gyrwyr a Cherbydau (DVLA), a symudodd yma yn 1974. Ceir amlosgfa Abertawe yma hefyd.</wikipedia>
+        </town>
+        <town id="monmouthshire#nant-y-derry">
+            <name>Nant-y-derry</name>
+            <lat>51.7498414</lat>
+            <lon>-2.9728033</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Nant-y-derry">Nant-y-derry (Welsh: Nant-y-deri) is a village in the county of Monmouthshire, Wales, located six miles south east of Abergavenny and four miles northwest of Usk.
+
+</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#new inn">
+            <name>New Inn</name>
+            <lat/>
+            <lon/>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/New Inn">New Inn is a village and community of approximately 3,000 households located to the south east of Pontypool, within the County Borough of Torfaen in Wales, within the historic boundaries of Monmouthshire.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/New Inn">Gallai New Inn gyfeirio at:
+New Inn, pentref a chymuned ym mwrdeisdref sirol Torfaen
+New Inn, pentref yn Sir Gaerfyrddin</wikipedia>
+        </town>
+        <town id="monmouthshire#newbridge on usk">
+            <name>Newbridge on Usk</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#newcastle">
+            <name>Newcastle</name>
+            <lat>51.854012</lat>
+            <lon>-2.806459</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Newcastle">Newcastle usually refers to either:
+Newcastle upon Tyne, a city in Tyne and Wear, England
+Newcastle, New South Wales, a metropolitan area in Australia
+Newcastle or New Castle may also refer to:</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Newcastle">Gall Newcastle gyferirio at lleodd yn y byd.</wikipedia>
+        </town>
+        <town id="monmouthshire#newchurch">
+            <name>Newchurch</name>
+            <lat>51.674871</lat>
+            <lon>-2.791276</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Newchurch">Newchurch is the name of several places in the United Kingdom:
+Newchurch, Blaenau Gwent, Wales
+Newchurch, Carmarthenshire, Wales
+Newchurch, Herefordshire, England
+Newchurch, Isle of Wight, England
+Newchurch, Kent, England
+Newchurch, Lancashire, England
+Newchurch, Monmouthshire, Wales
+Newchurch, Powys, Wales
+Newchurch, Staffordshire, England
+Newchurch in Pendle, Lancashire</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#newton green">
+            <name>Newton Green</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#norton">
+            <name>Norton</name>
+            <lat>52.298095</lat>
+            <lon>-3.021757</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Norton">Norton may refer to:</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#oldcastle">
+            <name>Oldcastle</name>
+            <lat>51.91531</lat>
+            <lon>-2.98509</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Oldcastle">Oldcastle may refer to:</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#onen">
+            <name>Onen</name>
+            <lat>51.8277445</lat>
+            <lon>-2.8244301</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#over monnow">
+            <name>Over Monnow</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#pandy">
+            <name>Pandy</name>
+            <lat>51.897364</lat>
+            <lon>-2.966638</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Pandy">A pandy is another name (in Wales) for a fulling mill.
+
+Pandy may also refer to several places in Wales:
+Pandy, Monmouthshire, a village near Abergavenny
+Pandy, Wrexham, a village in the Ceiriog Valley
+Pandy, Powys, a village in Powys
+Pandy Tudur, a village in Conwy
+Pandy, an electoral ward near Llanfairfechan, Conwy</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Pandy">Gallai Pandy gyfeirio at:
+Pandy, adeilad a ddefnyddid ar gyfer pannu
+Nifer o bentrefi yng Nghymru, yn cynnwys:
+Pandy, Powys
+Y Pandy, Sir Fynwy
+Y Pandy, Wrecsam
+Pandy Tudur, sir Conwy
+Pandy'r Capel, sir Ddinbych</wikipedia>
+        </town>
+        <town id="monmouthshire#parkhouse">
+            <name>Parkhouse</name>
+            <lat>51.723241</lat>
+            <lon>-2.727197</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#pen-y-cae-mawr">
+            <name>Pen-y-cae-mawr</name>
+            <lat>51.653677</lat>
+            <lon>-2.850399</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Pen-y-cae-mawr">Pen-y-cae-mawr is small hamlet above the Wentwood Forest in Monmouthshire, Wales. There are two farms called Cas-Troggy Farm and Penyrheol Farm. There is also a chapel called Pen-y-cae-mawr Methodist Chapel on the main road to Pen-y-cae-mawr.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#pen-y-clawdd">
+            <name>Pen-y-clawdd</name>
+            <lat>51.766343</lat>
+            <lon>-2.794144</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Pen-y-clawdd">Pen-y-clawdd is a village in Monmouthshire, south east Wales.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Pen-y-clawdd">Am y pentref yn sir Abertawe, gweler Pen-clawdd.
+Pentref yn Sir Fynwy yw Pen-y-clawdd (hefyd Pen-clawdd). Fe'i lleolir 3 milltir i'r gorllewin o Raglan a thua 5 milltir i'r de-orllewin o Drefynwy, yng ngogledd y sir.</wikipedia>
+        </town>
+        <town id="monmouthshire#pen-y-fan">
+            <name>Pen-y-fan</name>
+            <lat>51.8693475</lat>
+            <lon>-3.4729402</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#pen-yr-heol">
+            <name>Pen-yr-heol</name>
+            <lat>51.7985217</lat>
+            <lon>-2.8258365</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#penallt">
+            <name>Penallt</name>
+            <lat>51.795723</lat>
+            <lon>-2.695665</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Penallt">Penallt is a village in Monmouthshire, Wales set high on a hill above Monmouth. In the centre of the village, by the village green, is the 17th century village pub, the "Inn at Penallt", formerly called the Bush Inn.
+^ Penalt.org
+^ The Inn at Penallt, accessed 23 February 2012</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#penbidwal">
+            <name>Penbidwal</name>
+            <lat>51.895022</lat>
+            <lon>-2.9621945</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#pencroesoped">
+            <name>Pencroesoped</name>
+            <lat>51.7580862</lat>
+            <lon>-2.9978014</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#penpedairheol">
+            <name>Penpedairheol</name>
+            <lat>51.6685147</lat>
+            <lon>-3.2410141</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Penpedairheol">Penpedairheol may refer to:
+Penpedairheol, Caerphilly, Wales
+Penpedairheol, Monmouthshire, Wales</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Penpedairheol">Pentref bychan yng Nghwm Rhymni yw Penpedairheol. Fe'i lleolir rhwng pentrefi Pengam, Gelligaer, Bargoed a Hengoed ym Mwrdeistref Sirol Caerffili, de Cymru.</wikipedia>
+        </town>
+        <town id="monmouthshire#penperlleni">
+            <name>Penperlleni</name>
+            <lat>51.735961</lat>
+            <lon>-2.9815299</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#penrhos">
+            <name>Penrhos</name>
+            <lat>53.300496</lat>
+            <lon>-4.600263</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Penrhos">Penrhos may refer to:
+Penrhos, Anglesey, Wales
+home of Penrhos Country Park
+
+Penrhos, Gwynedd, Wales
+RAF Penrhos, Gwynedd, Wales
+
+Penrhos, Herefordshire, England
+Penrhos, Monmouthshire, Wales
+Penrhos, Powys, Wales
+Penrhos College, Perth, an independent school for girls in Western Australia</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Penrhos">Gallai Penrhos neu Pen-rhos gyfeirio at un o sawl lle yng Nghymru:
+Penrhos, Gwynedd
+Penrhos, Powys
+Penrhos, Sir Fynwy
+Gweler hefyd
+Penrhosgarnedd, Gwynedd
+Penrhosllugwy, Ynys M&#xF4;n</wikipedia>
+        </town>
+        <town id="monmouthshire#pit">
+            <name>Pit</name>
+            <lat>51.8815634</lat>
+            <lon>-5.271728</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Pit">Pit or PIT may refer to:</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#portskewett">
+            <name>Portskewett</name>
+            <lat>51.590753</lat>
+            <lon>-2.721178</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Portskewett">Portskewett (Welsh: Porthsgiwed or Porthysgewin) is a village in Monmouthshire, south east Wales. It is located four miles south west of Chepstow and one mile east of Caldicot, in an archaeologically sensitive part of the Caldicot Levels on the Welsh shore of the Severn Estuary. The Second Severn Crossing passes overhead carrying the M4 motorway. 
+
+</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#pwllmeyric">
+            <name>Pwllmeyric</name>
+            <lat>51.632199</lat>
+            <lon>-2.690185</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Pwllmeyric">Pwllmeyric is a small village in Monmouthshire, Wales, located 1 mile south west of Chepstow, on the A48 road within the parish of Mathern. The name Pwllmeyric means, in Welsh, "Meurig's pool" and refers to the pwll or creek of the Severn estuary which, before it silted up, linked the village to the sea. It was named for Meurig ap Tewdrig, king of the early Welsh kingdoms of Gwent and Glywysing in the 5th or 6th century, who buried his father Tewdrig (St. Theodoric) at Mathern.
+The village is the presumed birthplace of Wales international footballer Eddie Parris, and the childhood home of rock musician Grant Nicholas. It is the location of Chepstow Garden Centre and a pub, the New Inn.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#raglan">
+            <name>Raglan</name>
+            <lat>51.7647959</lat>
+            <lon>-2.852011</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Raglan">Raglan may refer to:
+Places:
+Raglan, Monmouthshire, a large village in Wales
+Raglan Castle, a late medieval castle just north of the village
+Raglan (hundred), a division of the traditional county of Monmouthshi
+
+Raglan, New South Wales, a suburb of Bathurst, New South Wales, Australia
+County of Raglan, a cadastral division in Queensland, Australia
+Raglan, Queensland, a town in Gladstone Region, Australia
+Raglan, Victoria, a town in Australia
+Raglan, Chatham-Kent, Ontario, Canada
+Raglan, Durham Regional Municipality, Ontario, a hamlet in Oshawa, Canada
+Raglan Mine, a nickel mining complex in northern Quebec, Canada
+Raglan, New Zealand, a town on the west coast of North Island
+Raglan (New Zealand electorate), a former parliamentary electorate centred on the town
+
+Other uses:
+Baron Raglan, a title in the Peerage of the United Kingdom
+Raglan (surname)
+Raglan Squire (1912-2004), British architect
+HMS Raglan, a First World War I Royal Navy monitor named after the 1st Baron
+Raglan sleeve, a type of clothing sleeve popular in sports and exercise wear which took its name from the 1st Baron</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#redbrook">
+            <name>Redbrook</name>
+            <lat>52.966257</lat>
+            <lon>-2.730807</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Redbrook">Redbrook is a village in Gloucestershire, England, adjoining the border with Monmouthshire, Wales. It is located on the River Wye and is within the Wye Valley Area of Outstanding Natural Beauty.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Redbrook">Pentref a chymuned yn Lloegr ydy Redbrook.</wikipedia>
+        </town>
+        <town id="monmouthshire#rhadyr">
+            <name>Rhadyr</name>
+            <lat>51.715269</lat>
+            <lon>-2.923982</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#rhyd-y-meirch">
+            <name>Rhyd-y-meirch</name>
+            <lat>51.762378</lat>
+            <lon>-2.995083</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#rockfield">
+            <name>Rockfield</name>
+            <lat>51.8272369</lat>
+            <lon>-2.751344</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Rockfield">Rockfield may refer to:</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#rogiet">
+            <name>Rogiet</name>
+            <lat>51.588512</lat>
+            <lon>-2.779497</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Rogiet">Rogiet is a village and community in Monmouthshire, south east Wales, between Caldicot and Magor, 8 miles (13 km) west of Chepstow and 11 miles (18 km) east of Newport. It lies close to the M4 and M48 motorways, and the Second Severn Crossing. It has a railway station named Severn Tunnel Junction.
+In the village is Rogiet Primary School, a 210-place school for pupils aged between 4 and 11 years. The school moved to a new, eco-friendly building in November 2009.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Rogiet">Pentref a chymuned yn Sir Fynwy yw Rogiet (Cyfeirnod OS: ST454881). Saif tua 8 milltir i'r gorllewin o dref Cas-gwent ac 11 milltir i'r dwyrain o ddinas Casnewydd. gerllaw cyffordd y traffyrdd M4 ac M48. Heblaw pentref Rogiet ei hun, mae'r gymuned yn cynnwys pentref Llanfihangel Rogiet. Roedd poblogaeth y gymuned yn 2001 yn 1,620.
+Tyfodd y pentref yn dilyn cwblhau Twnnel Hafren yn 1885; yma y ceir y gyffordd reilffordd a'r orsaf sy'n gwasanaethu'r twnnel.</wikipedia>
+        </town>
+        <town id="monmouthshire#shirenewton">
+            <name>Shirenewton</name>
+            <lat>51.6391282</lat>
+            <lon>-2.7545906</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Shirenewton">Shirenewton (Welsh: Drenewydd Gelli-farch) is a village and community in Monmouthshire, south east Wales, UK. It is located 3 miles due west of Chepstow, 5 miles (8 km) by road. The village stands around 500 feet (154 m) above sea level, and has extensive views of the Severn Estuary and Bristol Channel.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#skenfrith">
+            <name>Skenfrith</name>
+            <lat>51.876777</lat>
+            <lon>-2.794609</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Skenfrith">Skenfrith (Welsh: Ynysgynwraidd) is a small village in Monmouthshire, south-east Wales, in the United Kingdom. It is located on the River Monnow, close to the border between Wales and England, about 6 miles (9.7 km) north-west of Monmouth. The road through the village (B4521) was once the A40, linking Ross-on-Wye and Abergavenny.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#st arvans">
+            <name>St Arvans</name>
+            <lat/>
+            <lon/>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/St Arvans">This is a redirect from a modification of the target's title; for example, its words are rearranged, or punctuation in the name is changed. In cases of modification from distinctly longer or shorter names, please use {{R from long name}} or {{R from short name}}, respectively. For more information follow the category link.
+Use this rcat instead of {{R from other capitalisation}} and {{R from plural}} in namespaces other than mainspace for those types of modification.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#st maughans">
+            <name>St Maughans</name>
+            <lat/>
+            <lon/>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/St Maughans">This is a redirect from a modification of the target's title; for example, its words are rearranged, or punctuation in the name is changed. In cases of modification from distinctly longer or shorter names, please use {{R from long name}} or {{R from short name}}, respectively. For more information follow the category link.
+Use this rcat instead of {{R from other capitalisation}} and {{R from plural}} in namespaces other than mainspace for those types of modification.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#st maughans green">
+            <name>St Maughans Green</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#stanton">
+            <name>Stanton</name>
+            <lat>42.0784717</lat>
+            <lon>-72.2746729</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Stanton">Stanton may refer to:</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#star hill">
+            <name>Star Hill</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#tal-y-coed">
+            <name>Tal-y-coed</name>
+            <lat>51.832107</lat>
+            <lon>-2.851491</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#the black mountains">
+            <name>The Black Mountains</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#the bryn">
+            <name>The Bryn</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#the cot">
+            <name>The Cot</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#the cwm">
+            <name>The Cwm</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#the hendre">
+            <name>The Hendre</name>
+            <lat/>
+            <lon/>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/The Hendre">The Hendre (a farmer's winter residence; literally meaning old home) is Monmouthshire's only full-scale Victorian country house, constructed in the Victorian Gothic style. It is located in the parish of Llangattock-Vibon-Avel, some 4 miles (6.4 km) north-west of the town of Monmouth. Built in the eighteenth century as a shooting box, it was vastly expanded by the Rolls family in three stages throughout the nineteenth century and is most famous as the childhood home of Charles Stewart Rolls, co-founder of Rolls-Royce. The house is Grade II* Listed and is now the clubhouse of the Rolls of Monmouth Golf Club.
+The Welsh word hendre comes from the old Welsh custom of having two residences: one down in the valley, which was used in winter (hendre) and the other homestead was up in the mountains, where the family would live over the summer: hafod; haf being the Welsh word for "summer". The custom of dividing the year between two locations.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#the north">
+            <name>The North</name>
+            <lat/>
+            <lon/>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/The North">This is a redirect from a page that was merged into the target page. This page was kept as a redirect to the corresponding main page on the topic it names, in order to preserve this page's edit history after its content was merged into the target page's content. Please do not remove the tag that generates this text (unless the need to recreate content on this page has been demonstrated), nor delete this page. For more information follow the category link.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#tintern parva">
+            <name>Tintern Parva</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#ton">
+            <name>Ton</name>
+            <lat>51.6434239</lat>
+            <lon>-3.0408751</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Ton">The ton is a unit of measure. It has a long history and has acquired a number of meanings and uses over the years. It is used principally as a unit of mass. Its original use as a measurement of volume has continued in the capacity of cargo ships and in terms such as the freight ton. It can also be used as a measure of energy, for truck classification, or as a colloquial term.
+It is derived from the tun, the term applied to a barrel of the largest size. This could contain a volume between 175 and 213 imperial gallons (210 and 256 US gal), which could weigh around 2,000 pounds (910 kg) and occupy some 60 cubic feet (1.7 m3) of space.
+In the United Kingdom the ton is defined as 2,240 pounds (1,016 kg) (avoirdupois pounds). From 1965 the UK embarked upon a programme of metrication and gradually introduced metric units, including the tonne (metric ton), defined as 1000 kg (2,204.6 lbs). The UK Weights and Measures Act 1985 explicitly excluded from use for trade many units and terms, including the ton and the term "metric ton" for "tonne".
+In the United States and formerly Canada a ton is defined to be 2,000 pounds (907 kg).
+Where confusion is possible, the 2240 lb ton is called "long ton" and the 2000 lb ton "short ton"; the tonne is distinguished by its spelling, but usually pronounced the same as ton, hence the US term "metric ton". In the UK the final "e" of "tonne" can also be pronounced (/&#x2C8;t&#x28C;n&#x26A;/), or "metric ton" when it is necessary to make the distinction.
+Where accuracy is required the correct term must be used, but for many purposes this is not necessary: the metric and long tons differ by only 1.6%, and the short ton is within 11% of both. The ton is the heaviest unit of weight referred to in colloquial speech.
+The term "ton" is also used to refer to a number of units of volume, ranging from 35 to 100 cubic feet (0.99 to 2.83 m3) in capacity.
+It can also be used as a unit of energy, expressed as an equivalent of coal burnt or TNT detonated.
+In refrigeration, a ton is a unit of power, sometimes called a ton of refrigeration. It is the power required to melt or freeze one short ton of ice per day. The refrigeration ton&#xB7;hour is a unit of energy, the energy required to melt or freeze 1&#x2044;24 short ton of ice.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Ton">Patrwm sy'n teithio, o ronynnau neu feysydd ffisegol sy'n dirgrynu, yw ton, nid oes unrhyw mater yn cael ei symud namyn egni'r don sy'n cael ei drosglwyddo trwy'r mater, a gellir ddefnyddio tonnau i symud negeseuon o un lle i'r llall. Mae'n rhaid i lawer o donnau deithio trwy gyfrwng, megis tonnau sain, ond nid felly tonnau electromagnetig - sy'n gallu teithio trwy wagfa. Gellir rhannu ton yn ddau gategori sef ardraws neu arhydol.</wikipedia>
+        </town>
+        <town id="monmouthshire#tre-gagle">
+            <name>Tre-gagle</name>
+            <lat>51.7658735</lat>
+            <lon>-2.6893915</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#tre-wyn">
+            <name>Tre-wyn</name>
+            <lat>51.89781</lat>
+            <lon>-2.978969</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#treadam">
+            <name>Treadam</name>
+            <lat>51.8348808</lat>
+            <lon>-2.9007835</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#tredunnock">
+            <name>Tredunnock</name>
+            <lat>51.6485259</lat>
+            <lon>-2.897568</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Tredunnock">Tredunnock (Welsh: Tredynog) is a small village in Monmouthshire, south east Wales, in the United Kingdom. Tredunnock is located 4 miles (6.4 km) northeast of Caerleon and four miles south of Usk.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#trefynwy (monmouth)">
+            <name>Trefynwy (Monmouth)</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#tregare">
+            <name>Tregare</name>
+            <lat>51.789955</lat>
+            <lon>-2.8488319</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Tregare">Tregare (Welsh: Tre'r-gaer) is an ancient parish on the northern border of the Raglan hundred of Monmouthshire in southeast Wales.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#trellech">
+            <name>Trellech</name>
+            <lat>51.7069541</lat>
+            <lon>-2.6841435</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Trellech">Trellech (occasionally spelt Trelech, Treleck or Trelleck; modern Welsh: Tryleg) is a village in Monmouthshire, south-east Wales, located on the B4293 road about 5 miles (8 km) south of Monmouth and 4 miles (6.4 km) north-north-west of Tintern. The name of the village derives from Welsh and means "the town (tre) of stones (llech)"; there are three standing stones close to the village, known as Harold's Stones. The church of St Nicholas is a Grade I listed building. The village is located on a plateau between the valleys of the Usk to the west and Wye to the east.
+Although a relatively small village in modern times, it was one of the largest towns in Wales in the 13th century, and is now the location of archaeological investigations to determine its extent and role at that time. The village is designated as a Conservation Area, and gives its name to the community of Trellech United, in which it is located. There are historically 26 known spellings of the village name; on each of the three roads entering the village, signs give a different spelling - Trellech, Trelleck and Trelech.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#trelleck grange">
+            <name>Trelleck Grange</name>
+            <lat/>
+            <lon/>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Trelleck Grange">Trelleck Grange (or Trellech Grange) is a small hamlet in a rural area of Monmouthshire, south east Wales, United Kingdom. It is located about 3 miles south of Trellech, 2 miles west of Tintern, and 7 miles south of Monmouth, the county town. It sits on high ground above the Wye Valley AONB and Tintern Abbey, between two tributaries of the Angiddy Brook.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#trewen">
+            <name>Trewen</name>
+            <lat>52.470245</lat>
+            <lon>-3.453431</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Trewen">Trewen (Cornish: Trewynn) is a hamlet and a civil parish in east Cornwall, England, United Kingdom The parish is just east of Bodmin Moor in the River Inny valley and lies in the Registration District of Launceston.
+Trewen parish is bounded to the north by Egloskerry parish, to the east by St Thomas-by-Launceston, to the south by South Petherwin and to the west by Altarnun and Laneast parishes. The population of Trewen parish in the 2001 census was 134. This had increased to 142 at the 2011 census. The population of Trewen was 193 in 1801, 221 in 1841, 99 in 1921 (it declined at every census between 1851 and 1921), 80 in 1961 and 141 in 2011 (it increased at every census between 1971 and 2011).
+The hamlet of Trewen is situated 5 miles (8 km) west of Launceston. The parish church of St Michael is in the village at OS Grid Ref SX251835. The little church has a bellcote rather than a tower. "The church is an ancient granite building in the Early Perpendicular style, which was restored in 1863/1864; it comprises a chancel, nave, and north aisle". The font is Norman, square and plain. The only other hamlet in the parish of Trewen is Piper's Pool which straddles the A395 road.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Trewen">Pentref a chymuned yn Lloegr ydy Trewen; saif yng Nghernyw, De Orllewin Lloegr.
+
+</wikipedia>
+        </town>
+        <town id="monmouthshire#treworgan common">
+            <name>Treworgan Common</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#troddi">
+            <name>Troddi</name>
+            <lat>51.5966699</lat>
+            <lon>-2.7532445</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#trostrey common">
+            <name>Trostrey Common</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#twyn-allws">
+            <name>Twyn-Allws</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#twyn-y-sheriff">
+            <name>Twyn-y-Sheriff</name>
+            <lat>51.745762</lat>
+            <lon>-2.858858</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#ty-fry">
+            <name>Ty-fry</name>
+            <lat>51.7109731</lat>
+            <lon>-3.4524118</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#tyla">
+            <name>Tyla</name>
+            <lat>51.6424417</lat>
+            <lon>-3.8164644</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#undy">
+            <name>Undy</name>
+            <lat>51.5777379</lat>
+            <lon>-2.812045</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Undy">Undy (Welsh: Gwndy) is a village in Monmouthshire, south east Wales, adjoining the village of Magor with which it forms the community and parish of "Magor with Undy". It is located about 3 miles west of Caldicot and 10 miles east of Newport, close to the junction of the M4 and M48 motorways, and adjoins the Caldicot Levels on the north bank of the Bristol Channel.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#upper green">
+            <name>Upper Green</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#usk (brynbuga)">
+            <name>Usk (Brynbuga)</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#vinegar hill">
+            <name>Vinegar Hill</name>
+            <lat/>
+            <lon/>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Vinegar Hill">Vinegar Hill could refer to:
+Vinegar Hill (Enniscorthy), a hill above Enniscorthy, County Wexford, Ireland
+The Battle of Vinegar Hill, an engagement during the Irish Rebellion of 1798 fought on this hill
+Vinegar Hill (novel), a 1999 novel by A. Manette Ansay
+Vinegar Hill (film), a 2005 TV movie based on the 1999 novel, starring Mary-Louise Parker
+The Castle Hill convict rebellion in Australia, sometimes referred to as the second Battle of Vinegar Hill
+Vinegar Hill, Brooklyn, a neighborhood in New York City
+Vinegar Hill, Monmouthshire, a locality in south Wales
+Vinegar Hill, New Zealand, a camp site in Manawatu-Wanganui, New Zealand
+Vinegar Hill Historic District, Bloomington, Indiana
+Vinegar Hill in Beaverhead County, Montana</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#walson">
+            <name>Walson</name>
+            <lat/>
+            <lon/>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Walson">Walson is both a surname and a given name. Notable people with the name include:
+John Walson (1915&#x2013;1993), American inventor
+Walson Gardener (born 1932), American racing driver</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#wayne green">
+            <name>Wayne Green</name>
+            <lat/>
+            <lon/>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Wayne Green">Wayne Sanger Green II (September 3, 1922 - September 13, 2013) was an American publisher, writer, and consultant.
+^ Wayne Green (ed.). "Wayne's World &#x2013; News". Retrieved 2013-09-15. 
+^ Doug Grant. "Wayne Green has left the building". Retrieved 2013-12-04.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#wern-y-cwrt">
+            <name>Wern-y-cwrt</name>
+            <lat>51.774748</lat>
+            <lon>-2.886349</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#wernrheolydd">
+            <name>Wernrheolydd</name>
+            <lat>51.812309</lat>
+            <lon>-2.880512</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#west end">
+            <name>West End</name>
+            <lat/>
+            <lon/>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/West End">West End most commonly refers to:
+West End of London, an area of central London, England
+West End theatre, a popular term for mainstream professional theatre staged in the large theatres of London, England
+West End may also refer to:</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#whitebrook">
+            <name>Whitebrook</name>
+            <lat>51.756133</lat>
+            <lon>-2.674093</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Whitebrook">Whitebrook (Welsh: Gwenffrwd) is a small village in Monmouthshire, south-east Wales, United Kingdom. It is located four miles south east of Monmouth in the Wye Valley.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#whitelye">
+            <name>Whitelye</name>
+            <lat>51.710731</lat>
+            <lon>-2.704893</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#whitewall common">
+            <name>Whitewall Common</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#wolvesnewton">
+            <name>Wolvesnewton</name>
+            <lat>51.692113</lat>
+            <lon>-2.794488</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Wolvesnewton">Wolvesnewton (Welsh: Trenewydd Dan-y-Gaer, meaning "new town under the fort") is a small village in Monmouthshire, south east Wales, in the United Kingdom, located 6 miles (9.7 km) north west of Chepstow between the villages of Devauden and Llangwm.
+
+</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#worthybrook">
+            <name>Worthybrook</name>
+            <lat>51.7974498</lat>
+            <lon>-2.7695521</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#wye">
+            <name>Wye</name>
+            <lat>52.1502829</lat>
+            <lon>-3.4007631</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Wye">Wye may refer to:
+Place names:
+Wye, Kent, a village in Kent, England
+Wye railway station, serving the above village
+
+Wye, Montana, a town in Missoula County, Montana, USA
+Wye, South Australia, a town in South Australia, Australia
+Wye River (plantation), was the home of William Paca, on the Eastern Shore of Maryland
+Wye River, Victoria, a coastal town in Victoria, Australia
+Wye Road, Strathcona County, Alberta
+Wye House, a large Southern frame plantation house in Talbot County, Maryland
+Wye, a fictional province in Isaac Asimov's Foundation series
+Rivers:
+River Wye, the major river, flowing through both Wales and England, rising on Plynlimon to the River Severn
+Wye Valley, the scenic area around the lower part of the river
+Wye Valley Walk, a footpath or hiking trail in Wales and England
+Wye Valley Brewery, in Herefordshire, England
+
+River Wye, Derbyshire, a river flowing from Axe Edge Moor, Buxton to the River Derwent
+River Wye, Buckinghamshire, a river flowing from the Chiltern Hills in Buckinghamshire to Bourne End where it meets the River Thames
+Wye River, New Zealand, a minor river in the South Island of New Zealand
+Wye River (Maryland), in Maryland, USA
+Wye River (Victoria), Australia
+Other:
+The letter Y
+Wye (rail), a term used in North American railroading equivalent to an English railway Triangle
+Wye River Memorandum, a series of accords between Israel and the Palestinian Authority agreed at Wye River in Maryland
+Also Wye River Agreements section in the History of Israel page, on the same subject
+
+A "wye" connection (from "Y") in electrical engineering, a type of three-phase power connection
+A directional T interchange (or "wye interchange" or "Y interchange") between two or more roads or highways
+
+</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#wyesham">
+            <name>Wyesham</name>
+            <lat>51.809126</lat>
+            <lon>-2.7034729</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Wyesham">Wyesham is a village in Monmouthshire, Wales. It is located less than one mile east of Monmouth, on the opposite side of the River Wye.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="monmouthshire#y fenni (abergavenny)">
+            <name>Y Fenni (Abergavenny)</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+    </towns>
+</county>

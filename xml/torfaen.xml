@@ -1,0 +1,608 @@
+<?xml version="1.0"?>
+<county name="Torfaen">
+    <postcodes>
+        <postcode>NP4</postcode>
+        <postcode>NP44</postcode>
+    </postcodes>
+    <towns>
+        <town id="torfaen#abersychan">
+            <name>Abersychan</name>
+            <lat>51.724084</lat>
+            <lon>-3.0629</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Abersychan">Abersychan is a settlement and community north of Pontypool in Torfaen, Wales, and lies within the boundaries of the historic county of Monmouthshire and the preserved county of Gwent.
+Abersychan lies in the narrow northern section of the Afon Lwyd valley.
+The town includes two schools; Abersychan Comprehensive School and Victoria Primary School; together with various shops and other amenities including Abersychan Rugby Club.
+Abersychan was the birthplace of the politicians Roy Jenkins, Don Touhig and Paul Murphy (MP for Torfaen), and of the rugby footballers Wilfred Hodder, Candy Evans and Bryn Meredith.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Abersychan">Maesdref o Bont-y-p&#x175;l, (Torfaen) a chymuned yw Abersychan.
+Mae Caerdydd 28.1 km i ffwrdd o Abersychan ac mae Llundain yn 206.1 km. Y ddinas agosaf ydy Casnewydd sy'n 15.8 km i ffwrdd.</wikipedia>
+        </town>
+        <town id="torfaen#blaenavon">
+            <name>Blaenavon</name>
+            <lat>51.772502</lat>
+            <lon>-3.085896</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Blaenavon">Blaenavon (Welsh: Blaenafon) is a town and World Heritage Site in south eastern Wales, lying at the source of the Afon Lwyd north of Pontypool, within the boundaries of the historic county of Monmouthshire and the preserved county of Gwent. The town lies high on a hillside and has a population of 6,055. Blaenavon literally means "front of the river" or loosely "river's source" in the Welsh language.
+Blaenavon is a community and electoral ward of Torfaen County Borough Council. It is also represented by Blaenavon Town Council.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="torfaen#british">
+            <name>British</name>
+            <lat>53.3104073</lat>
+            <lon>-4.6372279</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/British">British may refer to:
+British, an adjective referring to something of, from, or related to the United Kingdom or the island of Great Britain
+British people, nationals or natives of the United Kingdom
+Britishness, the British identity and common culture
+British English, a language variant
+Celtic Britons, an ancient ethno-linguistic group
+Brittonic languages
+Common Brittonic, an ancient language
+Welsh language
+
+British nationality law</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="torfaen#castell-y-bwch">
+            <name>Castell-y-bwch</name>
+            <lat>51.626662</lat>
+            <lon>-3.051091</lon>
+            <wikipedia/>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Castell-y-bwch">Pentref bychan yw Castell-y-bwch, a leolir ym mwrdeistref sirol Torfaen tua 2 filltir i'r de-orllewin o dref Cwmbr&#xE2;n yn ne-ddwyrain Cymru.
+Saif y pentref ar gyffordd wledig rhwng Cwmbr&#xE2;n a Pont-y-meistr gyda l&#xF4;n yn ei gysylltu &#xE2;'r A4042 a dinas Casnewydd.</wikipedia>
+        </town>
+        <town id="torfaen#coed eva">
+            <name>Coed Eva</name>
+            <lat/>
+            <lon/>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Coed Eva">Coed Eva (Welsh: Coed Efa) is a suburb of Cwmbran in Torfaen County Borough, Wales. It lies in the preserved county of Gwent and within the historic boundaries of Monmouthshire.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="torfaen#coedcae">
+            <name>Coedcae</name>
+            <lat>51.7739509</lat>
+            <lon>-3.0747589</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="torfaen#croes-y-mwyalch">
+            <name>Croes-y-mwyalch</name>
+            <lat>51.6260152</lat>
+            <lon>-3.0066906</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="torfaen#croesyceiliog">
+            <name>Croesyceiliog</name>
+            <lat>51.6622452</lat>
+            <lon>-3.0034144</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Croesyceiliog">Croesyceiliog (English: Cockerel's Cross) is a suburb of Cwmbran and a community of Torfaen (but is in the constituency of Monmouth for UK parliamentary elections and for Welsh Assembly elections), in south east Wales.
+^ "2011 Census:Quick Statistics:Population Density for Croesyceiliog". Office for National Statistics. Retrieved 29 Nov 2013. 
+^ "2011 Census:Key Statistics:Key Figures for Croesyceiliog". Office for National Statistics. Retrieved 25 Nov 2013.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Croesyceiliog">Gallai Croesyceiliog gyfeirio at:
+Croesyceiliog, Torfaen, cymuned ym mwrdeisdref sirol Torfaen, rhan o dref Cwmbr&#xE2;n
+Croesyceiliog, Sir Gaerfyrddin, pentref yn Sir Gaerfyrddin, gerllaw Llandyfaelog</wikipedia>
+        </town>
+        <town id="torfaen#cwm ffrwd-oer">
+            <name>Cwm Ffrwd-oer</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="torfaen#cwm-fields">
+            <name>Cwm-Fields</name>
+            <lat>51.7669054</lat>
+            <lon>-3.2343858</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="torfaen#cwmavon">
+            <name>Cwmavon</name>
+            <lat>51.614044</lat>
+            <lon>-3.766471</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Cwmavon">Cwmavon may refer to the following places:
+Cwmavon, Torfaen, a small village in Monmouthshire, South Wales
+Cwmavon, Neath Port Talbot, a large village in Neath Port Talbot, South Wales</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="torfaen#cwmbran">
+            <name>Cwmbran</name>
+            <lat>51.653</lat>
+            <lon>-3.021</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Cwmbran">Cwmbran (/k&#x28A;m&#x2C8;br&#xE6;n/, Welsh: Cwmbr&#xE2;n /k&#x28A;m&#x2C8;br&#x251;&#x2D0;n/, also in use as an alternative spelling in English) is a new town in Wales. Today forming part of the county borough of Torfaen and lying within the historic boundaries of Monmouthshire, Cwmbran was established in 1949 to provide new employment opportunities in the south eastern portion of the South Wales Coalfield. Cwmbran means Crow Valley. Cwmbran is twinned with Bruchsal in Germany and Carbonne in France.
+Comprising the villages of Old Cwmbran, Pontnewydd, Upper Cwmbran, Croesyceiliog, Llantarnam and Llanyrafon, its population had grown to 47,254 by 2001. This makes it the seventh largest urban area in Wales.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="torfaen#cwmynyscoy">
+            <name>Cwmynyscoy</name>
+            <lat>51.6938408</lat>
+            <lon>-3.0358983</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Cwmynyscoy">Cwmynyscoy is a suburb of Pontypool town in the district of the County Borough of Torfaen, south east Wales.
+
+</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="torfaen#fairwater">
+            <name>Fairwater</name>
+            <lat>51.4939443</lat>
+            <lon>-3.2426565</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Fairwater">Fairwater could be</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Fairwater">Gall Fairwater olygu mwy nag un lle.</wikipedia>
+        </town>
+        <town id="torfaen#forge hammer">
+            <name>Forge Hammer</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="torfaen#forge side">
+            <name>Forge Side</name>
+            <lat/>
+            <lon/>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Forge Side">Forge Side (Welsh: Ger yr Efail) is a small village of tightly packed rows of iron workers' cottages on the hillside to the west of Blaenavon in the north of Torfaen county borough, South Wales.
+Some of the rows retain the original naming system of 'C Row', 'D Row' 'E Row' etc.
+The Welsh name (a direct translation of the English) is fairly modern.
+
+Forgeside has a rugby team which play in the Welsh league division 6 East.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="torfaen#gallowsgreen">
+            <name>Gallowsgreen</name>
+            <lat>51.8801718</lat>
+            <lon>0.7852709</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="torfaen#garn-yr-erw">
+            <name>Garn-yr-erw</name>
+            <lat>51.7841545</lat>
+            <lon>-3.1191992</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Garn-yr-erw">Garn-yr-erw is a village in south eastern Wales, lying at the source of the Afon Llwyd north of Blaenavon and Pontypool, within the historic boundaries of Monmouthshire. The village lies at an altitude of approx 400 metres  on the side of Gilwern Hill, Monmouthshire and is cited by the Ordnance Survey as the highest village in Wales.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="torfaen#garndiffaith">
+            <name>Garndiffaith</name>
+            <lat>51.7363054</lat>
+            <lon>-3.0672465</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Garndiffaith">Garndiffaith is a village located in Torfaen, south east Wales. It is a small rural area situated between Talywain and Varteg, three miles north of the town of Pontypool and 3.5 miles south of the town of Blaenavon (a World Heritage Site). The village is now part of the Abersychan suburb of Pontypool which also includes Cwmavon, Pentwyn, Talywain, Varteg, and Victoria Village.
+Situated near the old British coal mines and works, the Garndiffaith area is renowned for its agricultural and industrial heritage based on mining of iron and coal. The adjacent former British Coal Corporation land is known as 'The Balance' after the Water Balance winding mechanism.
+Garndiffaith has a few small shops, a Public house and a police station. Garnteg has been the local primary school since it was opened in 1995, when Varteg and Garndiffaith primary schools merged. Garndiffaith primary was later demolished and a new community hall was opened on the site.
+Garndiffaith RFC is a long established rugby union club currently playing in the Welsh Rugby Union League 1 East. A history group has recently been set up to research the history of the club and a local community website has been set up to cover the area.
+
+</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Garndiffaith">Pentref ym mwrdeistref sirol Torfaen yw Garndiffaith. Mae'n bentref gwledig a leolir rhwng Tal-y-waun a'r Farteg, 3 milltir i'r gogledd o dref Pont-y-p&#x175;l a 3.5 milltir i'r fe o dref Blaenafon. Mae'n rhan o gymuned Abersychan, sy'n cynnwys hefyd Cwmafon, Pen-twyn, Tal-y-waun, a'r Farteg.</wikipedia>
+        </town>
+        <town id="torfaen#golynos">
+            <name>Golynos</name>
+            <lat>51.7333255</lat>
+            <lon>-3.0749348</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="torfaen#greenmeadow">
+            <name>Greenmeadow</name>
+            <lat>51.6508619</lat>
+            <lon>-3.045457</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Greenmeadow">Greenmeadow is a suburb of Cwmbran in the county borough of Torfaen, within the historic county boundaries of Monmouthshire, southern Wales, United Kingdom.
+Greenmeadow Community Farm is a popular destination for families with small children. There are a wide range of domestic and farm animals for visitors to see, including cattle, sheep, goats, lambs and so on. In Spring the opportunity to get close to newborn animal is an excellent experience for youngsters. The site is popular with schools and children's groups, and has facilities to provide for such parties. Opening details can be found at the Torfaen County Borough website.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="torfaen#griffithstown">
+            <name>Griffithstown</name>
+            <lat>51.686096</lat>
+            <lon>-3.029043</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Griffithstown">Griffithstown is a large community of Pontypool in the borough of Torfaen, Wales, within the historic boundaries of Monmouthshire. It is an ecclesiastical parish, formed in May 1898, from Llanfrechfa Upper and Panteg, and includes Sebastopol, but, under the provisions of the Local Government Act 1894, became a separate civil parish.
+It is situated between two other Pontypool suburbs - Pontymoile to the north and Sebastopol to the south and is within walking distance of Pontypool and Cwmbran and a short commute from Newport and Cardiff. It is named after the first station master of Pontypool and New Inn railway station (then known as Pontypool Road), Henry Griffiths. Griffiths founded a 'terminating' Building Society to finance the construction of houses in the village so that his workforce could become freehold owner-occupiers, rather than constructing rental or leasehold housing as was the more usual practice in industrial South Wales and Monmouthshire. He lived in the substantial St. Dunstan's House (now demolished) on what is now Commercial Street and his memorial is in St Hilda's Church. Today the site is occupied by a nursing home and a modern house of the same name.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Griffithstown">Pentref ym mwrdeistref sirol Torfaen yw Griffithstown (ymddengys nad oes enw Cymraeg am y pentref). Erbyn heddiw mae'n un o faesdrefi Pont-y-p&#x175;l. Fe'i lleolir tua milltir i'r de-orllewin o'r dref honno ar y ffordd i Gwmbr&#xE2;n.
+Ceir Amgueddfa Reilffordd yn y pentref.</wikipedia>
+        </town>
+        <town id="torfaen#henllys">
+            <name>Henllys</name>
+            <lat>51.6363529</lat>
+            <lon>-3.0595134</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Henllys">Henllys could refer to a number of places in Wales.
+Henllys, Carmarthenshire a hamlet on the west bank of the River Tywi in the parish of Cilycwm
+Henllys, Ceredigion a township in the parish of Llanfihangel Genau'r Glyn or Llandre
+Henllys, Conwy a small place to the west of Llanfair Talhaiarn
+Henllys, Gwynedd a hamlet near Llanbedrog
+Henllys, Monmouthshire in the parish of Tregare
+Henllys, Pembrokeshire in the parish of Nevern (including Castell Henllys)
+Henllys, Powys a small place near the parish of Manafon to the south of Llanfair Caereinion
+Henllys, Swansea a small place to the west of Llanddewi
+Henllys, Torfaen formerly a village and parish in Monmouthshire, became a suburb and community of the new town of Cwmbran in the 1980s.
+Henllys Vale, a hamlet just to the south of Cwmbran in Torfaen
+Henllys-fawr, a small place to the north of Aberffraw on the Isle of Anglesey</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Henllys">Erthygl am y pentref yn Nhorfaen yw hon. Am y pentref yng Ngheredigion gweler Henllys, Ceredigion.
+Cymuned ym merdeisdref sirol Torfaen yw Henllys. Saif i'r gogledd-orllewin o ddinas Casnewydd ac i'r de o dref Cwmbr&#xE2;n. Roedd poblogaeth y gymuned yn 2001 yn 2,695.
+Efallai fod Henllys yn un o ganolfannau arglwyddi Gwynll&#x175;g yn y Canol Oesoedd. Ardal wledig ydoedd hyn y 1980au, ond bu cynnydd mawr yn y boblogaeth o hynny ymlaen, yn bennaf oherwydd adeiladu maestref newydd i'r de o Gwmbr&#xE2;n. Rhwng 1991 a 2001, cynyddodd poblogaeth y gymuned yma fwy na phoblogaeth unrhyw gymuned arall yng Nghymru.</wikipedia>
+        </town>
+        <town id="torfaen#henllys vale">
+            <name>Henllys Vale</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="torfaen#hollybush">
+            <name>Hollybush</name>
+            <lat>51.723025</lat>
+            <lon>-3.210462</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Hollybush">Hollybush is a residential area of Malpas within the city of Newport, South Wales, United Kingdom.
+
+</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="torfaen#little mill">
+            <name>Little Mill</name>
+            <lat/>
+            <lon/>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Little Mill">Little Mill or Lille M&#xF8;lle may refer to:</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Little Mill">Pentref bychan yn Sir Fynwy yw Little Mill (ymddengys nad oes enw Cymraeg am y pentref). Fe'i lleolir ar y briffordd A472 yng ngogledd-ddwyrain y sir, 3 milltir i'r gogledd-ddwyrain o Bont-y-p&#x175;l, Torfaen a 3 milltir i'r gorllewin o Frynbuga. Poblogaeth: tua 1,000.
+Enwir y pentref ar &#xF4;l melin dd&#x175;r a godwyd yn yr ardal yn y 19eg ganrif.</wikipedia>
+        </town>
+        <town id="torfaen#llandegfedd reservoir">
+            <name>Llandegfedd Reservoir</name>
+            <lat/>
+            <lon/>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llandegfedd Reservoir">Llandegfedd Reservoir (also known as Llandegveth Reservoir) is a large 174 hectare water supply reservoir and is eight miles (13 km) north of Newport in south Wales. The reservoir is very close to Pontypool, Cwmbran and Usk.
+
+</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="torfaen#llanelly hill">
+            <name>Llanelly Hill</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="torfaen#llanfrechfa">
+            <name>Llanfrechfa</name>
+            <lat>51.637429</lat>
+            <lon>-2.987885</lon>
+            <wikipedia/>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Llanfrechfa">Pentref a phlwyf ym mwrdeistref sirol Torfaen yw Llanfrechfa. Fe'i lleolir tua 5 milltir i'r gogledd o ddinas Casnewydd a thua 2 filltir i'r dwyrain o dref Cwmbr&#xE2;n.</wikipedia>
+        </town>
+        <town id="torfaen#llantarnam">
+            <name>Llantarnam</name>
+            <lat>51.62895</lat>
+            <lon>-3.0170249</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llantarnam">Llantarnam (Welsh: Llanfihangel Llantarnam) is a suburb of Cwmbran, and is a community and electoral ward in the county borough of Torfaen in south east Wales. The ward covers the same area as the community, but also includes Southville.
+Llantarnam Abbey is a Cistercian abbey founded in 1179 as a daughter house of Strata Florida Abbey. The remains of that abbey are incorporated into the present buildings housing the Sisters of Saint Joseph. It also contains St Michael's Church.
+Llantarnam Hall is home to Rougemont School.
+The local secondary school is Llantarnam School.
+
+</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="torfaen#llanyrafon">
+            <name>Llanyrafon</name>
+            <lat>51.6531631</lat>
+            <lon>-2.9977416</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llanyrafon">Llanyrafon is a suburb of Cwmbran and a community in the county borough of Torfaen in south east Wales. It lies within the boundaries of the historic county of Monmouthshire and the preserved county of Gwent.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Llanyrafon">Cymunedd ym mwrdeisdref sirol Torfaen yw Llanyrafon. Mae'n cynnwys rhan o dde-ddwyrain Cwmbr&#xE2;n, ac roedd poblogaeth y gymuned yn 3,230 yn 2001.
+Yn y gymuned ceir pencadlys bwrdeisddref sirol Torfaen a phencadlys Heddlu Gwent.</wikipedia>
+        </town>
+        <town id="torfaen#lower new inn">
+            <name>Lower New Inn</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="torfaen#lower race">
+            <name>Lower Race</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="torfaen#lowlands">
+            <name>Lowlands</name>
+            <lat>51.6647468</lat>
+            <lon>-3.0258467</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="torfaen#new inn">
+            <name>New Inn</name>
+            <lat/>
+            <lon/>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/New Inn">New Inn is a village and community of approximately 3,000 households located to the south east of Pontypool, within the County Borough of Torfaen in Wales, within the historic boundaries of Monmouthshire.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/New Inn">Gallai New Inn gyfeirio at:
+New Inn, pentref a chymuned ym mwrdeisdref sirol Torfaen
+New Inn, pentref yn Sir Gaerfyrddin</wikipedia>
+        </town>
+        <town id="torfaen#northville">
+            <name>Northville</name>
+            <lat>51.4661163</lat>
+            <lon>-2.579933</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Northville">Northville may refer to several places:
+In Canada:
+Northville, Ontario, a community in municipality of Lambton Shores
+In the United States:
+Northville Township, LaSalle County, Illinois
+Northville, Michigan
+Northville Township, Michigan
+Northville, Fulton County, New York
+Northville, Suffolk County, New York
+Northville, South Dakota</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="torfaen#oakfield">
+            <name>Oakfield</name>
+            <lat>51.638261</lat>
+            <lon>-3.017447</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Oakfield">Oakfield may refer to:
+In literature:
+Oakfield; or, Fellowship in the East (1853), novel by William Arnold
+Places:
+in Canada
+Oakfield, Nova Scotia
+in the United Kingdom
+Oakfield Park Special School
+Oakfield School, Thurlow Park Road, Dulwich
+Oakfield, Hertfordshire
+Oakfield, Isle of Wight
+Oakfield, Wales
+Oakfield, County Fermanagh, a townland in County Fermanagh, Northern Ireland
+ in the United States
+Oakfield, Georgia
+Oakfield, Iowa
+Oakfield, Maine
+Oakfield Township, Michigan
+Oakfield (town), New York
+Oakfield (village), New York
+Oakfield (town), Wisconsin
+Oakfield, Wisconsin, a village</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="torfaen#old furnace">
+            <name>Old Furnace</name>
+            <lat/>
+            <lon/>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Old Furnace">Old Furnace may refer to some places in the United States:
+Old Furnace, Delaware, located in Sussex County
+Old Furnace, Massachusetts, a village in the town of Hardwick, Worcester County
+Old Furnace, Pennsylvania, located in Union County</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="torfaen#panteg">
+            <name>Panteg</name>
+            <lat>51.6859418</lat>
+            <lon>-2.997863</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Panteg">Panteg (Welsh: Pant-teg) is a village in the county borough of Torfaen, Wales. It is adjacent to Griffithstown, between the towns of Cwmbran and Pontypool. The village is best known for Panteg Steel Works, which finally closed in 2004.
+Prior to 1935 Panteg was also an urban district. It had a population of 11,499 in 1931. It was amalgamated into Pontypool in 1935. It is now a community and electoral ward of Torfaen.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="torfaen#pen-twyn">
+            <name>Pen-twyn</name>
+            <lat>51.698227</lat>
+            <lon>-3.1478442</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="torfaen#pentre-poid">
+            <name>Pentre-Poid</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="torfaen#penygarn">
+            <name>Penygarn</name>
+            <lat>51.705836</lat>
+            <lon>-3.033677</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Penygarn">This is a redirect from a modification of the target's title; for example, its words are rearranged, or punctuation in the name is changed. In cases of modification from distinctly longer or shorter names, please use {{R from long name}} or {{R from short name}}, respectively. For more information follow the category link.
+Use this rcat instead of {{R from other capitalisation}} and {{R from plural}} in namespaces other than mainspace for those types of modification.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="torfaen#penyrheol">
+            <name>Penyrheol</name>
+            <lat>51.5857521</lat>
+            <lon>-3.2414775</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Penyrheol">Penyrheol may refer to:
+Penyrheol, Caerphilly
+Penyrheol, Pontypool
+Penyrheol, Swansea</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Penyrheol">Gallai Penyrheol gyfeirio at:
+Penyrheol, Caerffili
+Penyrheol, Abertawe</wikipedia>
+        </town>
+        <town id="torfaen#pontnewydd">
+            <name>Pontnewydd</name>
+            <lat>51.6682984</lat>
+            <lon>-3.0244219</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Pontnewydd">Pontnewydd (English translation: Newbridge) is a suburb of Cwmbran in the county borough of Torfaen, south-east Wales.
+Beginning in the late 19th/early 20th century, as a small village in the locality of Llanfrechfa Upper, Pontnewydd has grown rapidly since the start of the Cwmbran New Town development in 1949. Locally, it is known as 'The Village'. Pontnewydd has its main commercial centre along Commercial Street, Richmond Road, New Street &amp; Chapel Street.
+Pontnewydd is split unofficially into a number of sub-districts: North Pontnewydd Estates, Five Locks Estate, Lowlands, T&#x177; Newydd Estate, South Pontnewydd Estates and The Village.
+Pontnewydd is both a community and an electoral ward of Torfaen County Borough Council. The electoral ward also includes Northville.
+
+</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Pontnewydd">Am bentrefi ag enw tebyg, gweler Bontnewydd.
+Cymuned ym mwrdeisdref sirol Torfaen yn ne-ddwyrain Cymru yw Pontnewydd. Saif yn rhan ogleddol tref Cwmbr&#xE2;n, ac therasau Tynewydd yn yr ardal yma oedd tai cyntaf tref newydd Cwmbr&#xE2;n yn 1950-2. Roedd y boblogaeth yn 2001 yn 4,725.
+Roedd traddodiad diwydiannol cryf i'r ardal cyn adeiladu'r dref newydd. Sefydlwyd gwaith tunplat Pontnewydd yn 1802.</wikipedia>
+        </town>
+        <town id="torfaen#pontnewynydd">
+            <name>Pontnewynydd</name>
+            <lat>51.709618</lat>
+            <lon>-3.051226</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Pontnewynydd">Pontnewynydd is a predominantly working class suburb of Pontypool, Torfaen, in Wales. It should not be confused with Pontnewydd in nearby Cwmbran.
+
+</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Pontnewynydd">Pentref ym mwrdeistref sirol Torfaen yw Pontnewynydd. Erbyn heddiw mae'n un o faesdrefi Pont-y-p&#x175;l. Mae'n rhan o blwyf eglwysig Abersychan.</wikipedia>
+        </town>
+        <town id="torfaen#pontrhydyrun">
+            <name>Pontrhydyrun</name>
+            <lat>51.668853</lat>
+            <lon>-3.020235</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="torfaen#pontymoel">
+            <name>Pontymoel</name>
+            <lat>51.700369</lat>
+            <lon>-3.045268</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="torfaen#pontypool (pontypwl)">
+            <name>Pontypool (Pontypwl)</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="torfaen#pontypwl (pontypool)">
+            <name>Pontypwl (Pontypool)</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="torfaen#rifle green">
+            <name>Rifle Green</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="torfaen#sebastopol">
+            <name>Sebastopol</name>
+            <lat>51.67789</lat>
+            <lon>-3.0290499</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Sebastopol">Sebastopol may refer to:
+In places:
+Sevastopol or Sebastopol, a port on the Crimean peninsula
+Sebastopol, New South Wales, Australia
+Sebastopol, Victoria a suburb of Ballarat, Australia
+Sebastopol, Dooniver, Achill, County Mayo, Ireland
+S&#xE9;bastopol, Mauritius, a place in Mauritius
+Sebastopol, Torfaen, Wales, United Kingdom
+Sebastopol, California, USA
+Sebastopol, Mississippi, USA
+In other uses:
+Sebastopol (band), an English alternative rock band
+Sebastopol (cannon), a giant mortar commissioned by Ethiopian Emperor Theodore II
+Boulevard de S&#xE9;bastopol, a street in Paris, France
+Sebastopol Goose, a breed of goose
+Sebastopol House State Historic Site, a historic site in Seguin, Texas, USA
+Sebastopol Plantation, in St. Bernard Parish, Louisiana, USA; named by Ignacy Szyma&#x144;ski
+Sebastopol, an album by Jay Farrar</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="torfaen#snatchwood">
+            <name>Snatchwood</name>
+            <lat>51.717007</lat>
+            <lon>-3.059269</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Snatchwood">Snatchwood is a small, predominantly working class suburb to the north of Pontypool, Torfaen in Wales. It is situated between Abersychan and Pontnewynydd (not to be confused with Pontnewydd, a suburb of nearby Cwmbran).</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="torfaen#southville">
+            <name>Southville</name>
+            <lat>51.6029706</lat>
+            <lon>-3.816128</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Southville">Southville may refer to one of several locations:
+Southville, Bristol, England
+Southville City, a township in Bangi, Selangor, Malaysia
+Southville, Kentucky, United States
+Southville, Massachusetts, a village within the town of Southborough, United States
+Southville, Nova Scotia, Canada</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="torfaen#st dials">
+            <name>St Dials</name>
+            <lat/>
+            <lon/>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/St Dials">St Dials is a suburb of Cwmbran in the county borough of Torfaen, in south-east Wales.
+Nothing is known about the Saint after which the suburb is named. There was another chapel dedicated to him near Monmouth and belonging to Monmouth Priory. The ruins of a building 10 feet by 8 feet with walls four feet thick and traces of an arch on the north side existed on the site of the police training college. It is thought this was associated with Llantarnam Priory.
+The Police Training College (known as CENTREX) closed for the training of new recruits from April 2006. On August 6, 2008, Prisons Minister David Hanson announced a shortlist of four possible locations for a new Prison in Wales. The CENTREX site was a candidate, but there were strong protests. In February 2009 it was announced that the new prison would be located in Caernarfon, however as from September 2009, plans for this prison have also been abandoned.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="torfaen#talywain">
+            <name>Talywain</name>
+            <lat>51.730524</lat>
+            <lon>-3.071557</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Talywain">Talywain (Welsh: Talywaun) is situated between Garndiffaith, Abersychan and Pentwyn in Torfaen in south east Wales, within the historic boundaries of Monmouthshire.
+
+</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="torfaen#the square">
+            <name>The Square</name>
+            <lat/>
+            <lon/>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/The Square">The Square may refer to:
+Cathedral Square, Christchurch, locally known simply as the Square
+The Square, Bournemouth, a public square
+The Square, Tallaght, a shopping centre in Dublin
+The Square, Harlow, a small music venue in England
+Harvard Square, Cambridge, Massachusetts, locally known as The Square
+The Squares, an English band that formed in 1985
+T-Square (band), formerly known as The Square
+
+</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="torfaen#thornhill">
+            <name>Thornhill</name>
+            <lat>51.551677</lat>
+            <lon>-3.214751</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Thornhill">Thornhill may refer to:</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Thornhill">Mae Thornhill (Gaeleg: Cnoc na Driseig ) yn gymuned yn Dumfries a Galloway, yn yr Alban. Yn 2001 roedd y boblogaeth yn 1,512 gyda 85.85% o&#x2019;r rheiny wedi&#x2019;u geni yn yr Alban a 11.18% wedi&#x2019;u geni yn Lloegr.</wikipedia>
+        </town>
+        <town id="torfaen#tranch">
+            <name>Tranch</name>
+            <lat>51.700808</lat>
+            <lon>-3.053395</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="torfaen#trevethin">
+            <name>Trevethin</name>
+            <lat>51.711419</lat>
+            <lon>-3.042689</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Trevethin">Trevethin (Welsh: Trefddyn) is a suburb of Pontypool in Torfaen, Wales, a community in Torfaen, and includes two electoral wards (Trevethin and St Cadocs and Penygarn) for Torfaen County Borough Council.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="torfaen#upper cwmbran">
+            <name>Upper Cwmbran</name>
+            <lat/>
+            <lon/>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Upper Cwmbran">Upper Cwmbran (Welsh: Cwmbr&#xE2;n Uchaf) is a suburb of Cwmbran, Torfaen in Wales. It lies in between the suburbs of Pontnewydd and Thornhill. It is a community and electoral ward of Torfaen County Borough Council.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="torfaen#upper race">
+            <name>Upper Race</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="torfaen#varteg">
+            <name>Varteg</name>
+            <lat>51.746995</lat>
+            <lon>-3.0654309</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Varteg">Varteg (Welsh: Farteg or Y Farteg) is a village in the county borough of Torfaen in Wales.
+
+</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="torfaen#wainfelin">
+            <name>Wainfelin</name>
+            <lat>51.7069754</lat>
+            <lon>-3.0508737</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Wainfelin">Wainfelin is a suburb of Pontypool in the county borough of Torfaen, in south-east Wales.
+
+</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="torfaen#west pontnewydd">
+            <name>West Pontnewydd</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+    </towns>
+</county>

@@ -1,0 +1,908 @@
+<?xml version="1.0"?>
+<county name="Neath Port Talbot">
+    <postcodes>
+        <postcode>SA10</postcode>
+        <postcode>SA11</postcode>
+        <postcode>SA12</postcode>
+        <postcode>SA13</postcode>
+        <postcode>SA18</postcode>
+        <postcode>SA8</postcode>
+        <postcode>SA9</postcode>
+    </postcodes>
+    <towns>
+        <town id="neath port talbot#aberavon">
+            <name>Aberavon</name>
+            <lat>51.5946799</lat>
+            <lon>-3.784097</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Aberavon">Aberavon (Welsh: Aberafan) is a settlement in Neath Port Talbot county borough, Wales. The town derived its name from being near the mouth of the river Afan, which also gave its name to a medieval lordship. Today it is essentially a district of Port Talbot, covering the central and south western part of the town. Aberavon is also the name of the nearby Blue Flag beach and the parish covering the same area.
+^ ONS: Key Figures for 2001 Census: Census Area Statistics</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#abercregan">
+            <name>Abercregan</name>
+            <lat>51.656663</lat>
+            <lon>-3.665335</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Abercregan">Abercregan is a village in the Welsh county borough of Neath Port Talbot, Glamorgan. It is situated around 12 kilometres (7.5 mi) north-east of Port Talbot and just west of Cymmer, and is also close to the River Afan. Abercregan was once a thriving mining community but since the decline of the British coal industry, much of the housing has been demolished and most of its inhabitants have moved to neighbouring villages. The 1980s and 1990s saw the closure of the village school, the boys club, post office and the last remaining shop 1989. The local authority decided to turn the school into a Field Study Centre, which was later closed and relocated to Margam Park. The building was demolished following the closure.
+Now a small village of around 30 houses, Abercregan is in surroundings which have returned to their former pre-industrial rural condition. Abercregan is within the boundaries of the Afan Forest Park which is a joint venture between Forest Enterprise, the Local Authority and local businesses which provide for and promote green tourism in the area. Following campaigning by local residents, Abercregan is now home to the only designated village green in the Neath Port Talbot area.
+Abercregan United Football Club, nicknamed 'The Shire', has a proud history winning many league titles and cups since its formation. The club folded following a merger with local rivals Cymmer Refresh but was reformed at the start of the 2014-15 season. They now play in the Premier Division of the Port Talbot &amp; District Football League. Home matches were originally played on the Riverside Ground in Abercregan which was condemned by the local council in 2006. Home matches are now played at the Red Field in Cymmer.
+The former football changing rooms in Abercregan, which had previously been the village chapel, was purchased and is now being used as a place of worship again by the Afan Christian Fellowship.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#aberdulais">
+            <name>Aberdulais</name>
+            <lat>51.681848</lat>
+            <lon>-3.775361</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Aberdulais">Aberdulais (Welsh: Aberdulais Aber confluence (with the River Neath) or mouth (of the river) &amp; Dulais) is a village in Neath Port Talbot, Wales, lying on the River Neath. The village grew around the Aberdulais Falls, the site of successive industries and now a hydro-electric station.
+^ "Ward population 2011". Retrieved 11 April 2015.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Aberdulais">Pentref ym mwrdeistref sirol Castell-nedd Port Talbot yw Aberdulais. Saif ym mhen isaf Cwm Dulais, lle mae Afon Dulais yn llifo i mewn i Afon Nedd, a ger cyffordd y priffyrdd A465 ac A4109, i'r gogledd-ddwyrain o dref Castell Nedd.
+Fel mae'r Dulais yn agosau at afon Nedd, mae'n disgyn i raeadr ysblenydd Rhaeadrau Aberdulais, atyniad twristiaeth poblogaidd a safle hen weithfeydd haearn. Mae'r rhaeadr yn eiddo i'r Ymddiriedolaeth Genedlaethol.</wikipedia>
+        </town>
+        <town id="neath port talbot#abergarwed">
+            <name>Abergarwed</name>
+            <lat>51.7073633</lat>
+            <lon>-3.714324</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Abergarwed">Abergarwed is a village in the Welsh county borough of Neath Port Talbot, south Wales.
+It is located in the Vale of Neath near the town of Neath.
+
+</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#abergwynfi">
+            <name>Abergwynfi</name>
+            <lat>51.653032</lat>
+            <lon>-3.600475</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Abergwynfi">Abergwynfi is a village in the Welsh county borough of Neath Port Talbot.
+Abergwynfi is the first half of a village of two parts, the other being Blaengwynfi. The names of the two villages mean "Mouth of the Gwynfi" and "Source of the Gwynfi" respectively, the Gwynfi being the (rather short) river that separates the two.
+Aber and Blaengwynfi are generally referred to as "The Cape" by residents of the two villages and the neighbouring few. This term comes from when the villages were marketed as "The Cape of Good Hope" during the years when coal mining was very important to the valleys.
+Abergwynfi is located within the Afan Forest Park which is a popular mountain bike centre.
+
+</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Abergwynfi">Pentref bychan yn sir Castell-nedd Port Talbot yw Abergwynfi. Fe'i lleolir ar y briffordd A4107 rhwng Treorci a Port Talbot. Mae'n rhan o blwyf eglwysig Glyncorrwg.</wikipedia>
+        </town>
+        <town id="neath port talbot#afan">
+            <name>Afan</name>
+            <lat>51.5999153</lat>
+            <lon>-3.8072832</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Afan">Afan may refer to:
+River Afan or Avon or Avan, a river in southwest Wales
+Saint Afan (Welsh: Sant Afan Buellt), Welsh bishop and saint of the 6th century
+Afan, Wales
+Afan (trail)
+Afan, Iran, a village in Mangur-e Sharqi Rural District, Khalifan District, Mahabad County, West Azerbaijan Province, Iran</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Afan">Gallai Afan gyfeirio at un o sawl peth:
+Pobl:
+Afan, sant o'r 6ed ganrif
+Afan Ferddig, bardd cynnar
+Arglwyddi Afan, arglwyddi canoloesol yn ne Cymru
+Lleoedd:
+Afon Afan, afon yn ne Cymru
+Cwm Afan, cwm yn ne Cymru
+Cwmafan, pentref yn ne Cymru
+Llanafan, Ceredigion
+Llanafan Fawr, Brycheiniog
+Arall:
+Afan FM</wikipedia>
+        </town>
+        <town id="neath port talbot#alltwen">
+            <name>Alltwen</name>
+            <lat>51.714108</lat>
+            <lon>-3.843856</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Alltwen">Alltwen (or Allt-wen) &#x2013; meaning "white wooded slope" &#x2013; is a village in the county borough of Neath Port Talbot, Wales, near Pontardawe in the Swansea Valley. Alltwen is served by Alltwen Primary School and is home to rugby union club Alltwen RFC.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Alltwen">Am y bryn yn Sir Conwy gweler Yr Alltwen.
+Mae'r Alltwen (hefyd: Allt-wen) yn bentref bychan ger Pontardawe, Castell-nedd Port Talbot, yn ne Cymru. Saif ar lethrau dwyreiniol Cwm Tawe.
+Magwyd y bardd Gwenallt yn y pentref, a chymerodd ei enw barddol o enw'r pentref. Roedd yr actores Rachel Thomas yn enedigol o Allt-wen.</wikipedia>
+        </town>
+        <town id="neath port talbot#baglan">
+            <name>Baglan</name>
+            <lat>51.619954</lat>
+            <lon>-3.814203</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Baglan">Baglan may refer to:</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Baglan">Gallai Baglan gyfeirio at:
+Baglan, sant Cymreig o'r 6ed ganrif a gysylltir &#xE2; Llanfaglan, Gwynedd
+Baglan, pentref ym mwrdeistref sirol Castell-nedd Port Talbot</wikipedia>
+        </town>
+        <town id="neath port talbot#blaengwrach">
+            <name>Blaengwrach</name>
+            <lat>51.734268</lat>
+            <lon>-3.636369</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Blaengwrach">Blaengwrach (/bla&#x26A;n.&#x2C8;&#x261;r&#x251;&#x2D0;x/ blyn-GRAHKH) is a village near Glynneath and Resolven in the county borough of Neath Port Talbot, Wales. It is also the name of a community and an electoral ward of Neath Port Talbot county borough. There are, however, some differences between the boundaries of the community and the ward. The ward had a population of 1,985 in the 2001 census, but 837 of these were actually residents of the neighbouring community of Glynneath and so the population of the Blaengwrach community itself would have been 1,148.The ward population at the census 2011 was practically unchanged.
+Blaengwrach is a predominantly upland area, and contains the highest points of three local hills or mountains, namely Mynydd Resolfen (383mt/1257 ft) and the rather more impressive Mynydd Pen-y-Cae (573mt/1880 ft) and Craig-y-Llyn (600mt/1970 ft), both of which offer spectacular views of the valley below and the Brecon Beacons in the distance. Craig-y-Llyn is the highest point in the old county of Glamorgan, and is home to a nature reserve containing Llyn Fach and a Site of Special Scientific Interest. West of the summit is Foel Chwern Round cairn.
+The village of Blaengwrach is often confused with the settlement of Cwmgwrach. Traditionally, the two are settlements separated by a stream or brook running through the middle of them. However, the sign welcoming you to Cwmgwrach is actually in Blaengwrach, and in similar fashion, Blaengwrach school is actually in Cwmgwrach, although this could be explained by its being named after the wider ward. In reality the residents call the entire village Cwmgwrach, with Blaengwrach being best used as the name for the wider area in which the village is situated. A history of the village (Cwmgwrach: Valley of the Witch) was written by Ian Currie.
+In May 2013, North Bank Entertainment announced that it would soon commence filming of a film called 'Valley of the Witch' which will be an 18 rated horror film based on a true story about events in Cwmgwrach. Filming is due to take place before the end of 2013 on location in Cwmgwrach.
+The village itself contains various local shops, pubs and a rugby union club, Cwmgwrach RFC. However, for wider services the village is largely dependent upon Glynneath.
+The Neath and Tennant Canal has been restored and now has over four miles of walkable towpath between Resolven and Glynneath. The Vale of Neath Railway is still used for freight transport between Neath and Cwmgwrach.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#blaengwynfi">
+            <name>Blaengwynfi</name>
+            <lat>51.656898</lat>
+            <lon>-3.603844</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Blaengwynfi">Blaengwynfi is a village in the Neath Port Talbot area of South Wales.
+It is a part of the "Upper Afan Valleys". It used to be a coal mining village, and is directly below the village of "Abergwynfi". The River Afan flows from its source at the top of the nearby mountain through Aber/Blaengwynfi.
+Blaengwynfi is also the home to local football team Gwynfi United.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Blaengwynfi">Pentref bychan yn sir Castell-nedd Port Talbot yw Blaengwynfi. Fe'i lleolir ychydig i'r gogledd o'r briffordd A4107 ger Abergwynfi, rhwng Treorci a Port Talbot. Mae'n rhan o blwyf eglwysig Glyncorrwg.
+Tardda Afon Afan ger y pentref.</wikipedia>
+        </town>
+        <town id="neath port talbot#briton ferry">
+            <name>Briton Ferry</name>
+            <lat/>
+            <lon/>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Briton Ferry">Briton Ferry (Welsh: Llansawel) is a town and community in the county borough of Neath Port Talbot, Wales. The town encompasses the electoral wards of Briton Ferry East and Briton Ferry West.
+Briton Ferry is on the mouth of the River Neath where it enters Swansea Bay and was the first river crossing along the Roman road that followed the coastline along that part of South Wales. The river crossing was by ferry boat some 2 miles (3.2 km) from the bridge across the River Neath at Neath. At certain low tides it was possible to walk across the river via a ford close to the ferry route using stepping stones.
+The town is served by Briton Ferry railway station.
+There are remains of ancient stone age settlements on the hills above Briton Ferry, and two hillforts within the community, Buarth-y-Gaer and Gaer Fawr are on Mynydd-y-Gaer, alongside the boundary with Baglan. The town was part of the Briton Ferry Estate.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#brombil">
+            <name>Brombil</name>
+            <lat>51.5803809</lat>
+            <lon>-3.7652014</lon>
+            <wikipedia/>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Brombil">Mynydd Brombil yw un o'r mynyddoedd tu &#xF4;l i dre Port Talbot. Mae'n cysylltu gyda Mynydd Margam ac mae pobol yn aml yn cymysgu'r ddau.</wikipedia>
+        </town>
+        <town id="neath port talbot#bryn">
+            <name>Bryn</name>
+            <lat>51.6169859</lat>
+            <lon>-3.7123799</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Bryn">Bryn (which is Welsh for hill) is a component ward of the Metropolitan Borough of Wigan, Greater Manchester, England. It is part of the larger town of Ashton-in-Makerfield and is geographically indistinguishable from it. It forms a separate local council ward. Served by Bryn railway station, Bryn is home to the Three Sisters Recreation Area which has been created from three large spoil tips which remain from Bryn's role in Lancashire's coal mining past. The Three Sisters Recreation Area is also the site of the Three Sisters Race Circuit, which provides race driving instruction and plays host to kart racing events and motorcycle road race meetings at clubman level.
+The former Bryn (or Brynne) Hall was the seat of the Gerard family beginning in the thirteenth century or earlier. It was a "safe house" for the English Roman Catholic martyr and saint Edmund Arrowsmith and his hand was reportedly preserved there after his execution. The house, dating to the fourteenth century, has now completely collapsed and remaining stones been cleared.
+The Unitarian Park Lane Chapel in Wigan Road was built in 1697, though its congregation was founded in 1662. It is the oldest Non-conformist chapel and congregation in the whole district. By the nineteenth century Park Lane was only one of nine non-conformist chapels in the heavily recusant area.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Bryn">Allt neu fynydd bychan yw bryn. Yn ogystal &#xE2; bod yn elfen gyffredin iawn mewn enwau lleoedd ceir enghreifftiau ohono ar ben ei hun fel enw lle:
+Cymru
+Bryn (Bannau Brycheiniog); Cyfeirnod grid OS: SO073227
+Bryn, Castell-nedd Port Talbot
+Bryn, Llanelli
+Bryn-y-Gefeiliau
+Bryn-crug
+Bryn Euryn
+Bryn Iwan
+Bryn Celli Ddu
+Llanfair-ar-y-bryn
+Bryn Gwyn
+Brynrefail
+Bryniau Clwyd
+Lloegr
+Bryn, Swydd Amwythig
+Bryn, Wigan
+Cyffredinol
+bryngaer
+Enw personol Cymraeg ydy Bryn, hefyd. Mae enghreifftiau o nod yn cynnwys:
+Bryn F&#xF4;n
+Bryn Terfel</wikipedia>
+        </town>
+        <town id="neath port talbot#bryn coch">
+            <name>Bryn coch</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#brynbryddan">
+            <name>Brynbryddan</name>
+            <lat>51.617952</lat>
+            <lon>-3.7680309</lon>
+            <wikipedia/>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Brynbryddan">Mae Brynbryddan yn rhan o bentref Cwmafan sydd yng Nghastell-nedd Port Talbot, dair milltir o'r m&#xF4;r.
+Mae'n debyg mai'r elfen 'Bryddan' sydd yn yr enw, o'r un tarddiad &#xE2;'r elfen 'Britton' yn "Britton Ferry", enw Saesneg pentref Llansawel sydd dros y bryn yng Nghwm Nedd.</wikipedia>
+        </town>
+        <town id="neath port talbot#cadoxton-juxta-neath">
+            <name>Cadoxton-Juxta-Neath</name>
+            <lat>51.673094</lat>
+            <lon>-3.799281</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Cadoxton-Juxta-Neath">This is a redirect from a title that is another name such as a pseudonym, a nickname, or a synonym of the target, or of a name associated with the target. For more information follow the category link.
+This redirect leads to the title in accordance with the naming conventions for common names and can help writing. It is not necessary to replace these redirected links with a piped link.
+If this redirect is an incorrect name for the target, then use {{R from incorrect name}} instead.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#caerhendy">
+            <name>Caerhendy</name>
+            <lat>51.7608289</lat>
+            <lon>-3.3641306</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#castell-nedd (neath)">
+            <name>Castell-Nedd (Neath)</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#cefn-bryn-brain">
+            <name>Cefn-bryn-brain</name>
+            <lat>51.80766</lat>
+            <lon>-3.8231514</lon>
+            <wikipedia/>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Cefn-bryn-brain">Pentref bychan yn Sir Gaerfyrddin yw Cefn-bryn-brain, weithiau Cefnbrynbrain a hefyd Cefn Bryn Brain. Saif ger ff&#xEE;n ddwyreiniol Sir Gaerfyrddin, ychydig i'r gogledd o bentref mwy Cwmllynfell, gerllaw'r briffordd A4068. Mae yng nghymuned Cwarter Bach.
+Mae'n ardal Gymraeg o ran iaith; roedd 83.29% o boblogaeth y gymuned yn medru rhywfaint o Gymraeg yn 2001.</wikipedia>
+        </town>
+        <town id="neath port talbot#cerrig llwydion">
+            <name>Cerrig Llwydion</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#cilfrew">
+            <name>Cilfrew</name>
+            <lat>51.688715</lat>
+            <lon>-3.77951</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#cilmaengwyn">
+            <name>Cilmaengwyn</name>
+            <lat>51.739978</lat>
+            <lon>-3.822357</lon>
+            <wikipedia/>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Cilmaengwyn">Pentref bychan yn sir Castell-nedd Port Talbot yw Cilmaengwyn. Fe'i lleolir ar l&#xF4;n wledig uwchlaw Dyffryn Tawe tua 3 filltir i'r gogledd-ddwyrain o Bontardawe.</wikipedia>
+        </town>
+        <town id="neath port talbot#cilybebyll">
+            <name>Cilybebyll</name>
+            <lat>51.7263506</lat>
+            <lon>-3.8199325</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Cilybebyll">Cilybebyll /&#x2CC;k&#x26A;l&#x259;&#x2C8;b&#x25B;b&#x26A;l/ is a village and community in Neath Port Talbot County Borough in Wales. It includes the villages of Alltwen, Fforest G&#xF4;ch, Gellinudd and Rhos, and is located 1.9 miles (3.1 km) east of Pontardawe, 4.7 miles (7.6 km) north of Neath and 10.3 miles (16.6 km) north east of Swansea. The community has a population of 4,806.
+The Cilybebyll estate was established in the 15th century, and after development by various families, by 1838 was recorded as having the largest land holding in the district. The main house, Plas Cilybebyll, was redeveloped in 1840 by Henry Leach, creating a south-facing Victorian facade on the property. His son Frances Edward Leach inherited the estate in 1848, changing his name to Lloyd in 1849 by Royal Charter in order not to forfeit his inheritance. The family remained in residence until the early 20th century, when the family records were passed to Swansea Museum. The main house today is a guest house.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Cilybebyll">Pentref a chymuned ym mwrdeisdref sirol Castell-Nedd Port Talbot yw Cilybebyll. Saif i'r dwyrain o dref Pontardawe ac i'r gogledd o dref Castell-nedd, ac roedd y boblogaeth yn 2001 yn 4,806.
+Heblaw pentref Cilybebyll, mae'r gymuned yn cynnwys pentrefi Allt-wen, Rhos a Gelli-mudd. Magwyd y bardd Gwenallt yn Allt-wen, a chymerodd ei enw barddol o enw'r pentref.
+Ym Medi 2011 cafwyd trychineb yng Nglofa Gleision, ger y pentref pan laddwyd pedwar gl&#xF6;wr lleol.</wikipedia>
+        </town>
+        <town id="neath port talbot#cimla">
+            <name>Cimla</name>
+            <lat>51.652769</lat>
+            <lon>-3.792057</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Cimla">Cimla is a suburb of the town of Neath in the county borough of Neath Port Talbot, Wales. It is set high up on a hill. It is pronounced Kim-la. The Welsh language spelling is Cymla, pronounced the same way.
+There are plans for proposed housing estates and log cabins to be built in the area.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#clyne">
+            <name>Clyne</name>
+            <lat>51.692308</lat>
+            <lon>-3.734726</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Clyne">Clyne may refer to:
+Clyne (surname) (includes listing for Clynes)</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#corlannau">
+            <name>Corlannau</name>
+            <lat>51.600185</lat>
+            <lon>-3.779396</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#craig llangiwg">
+            <name>Craig Llangiwg</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#crynant">
+            <name>Crynant</name>
+            <lat>51.731322</lat>
+            <lon>-3.74794</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Crynant">Crynant (or Welsh: Y Creunant) is a village in the Dulais Valley in Wales. It lies 7&#xBE; miles north-east from the town of Neath in Neath Port Talbot, lying between the mountains of Mynydd Marchywel to the west, Hirfynydd to the east and Mynydd y Drum to the north.
+Crynant is a long village, lying on the narrow valley floor and lower slopes of Hirfynydd. Originally there were separate villages (essentially separate farms), such as the region of Treforgan, but all have now merged into a single village. The River Dulais flows through the village.
+Creunant is also the name of an electoral ward and a community, coterminous with the village, in Neath Port Talbot County Borough.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#cwm">
+            <name>Cwm</name>
+            <lat>51.742736</lat>
+            <lon>-3.180782</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Cwm">Cwm may refer to:
+Cwm (landform), a rounded, glaciated valley, also known as a corrie or cirque
+Cwm (software), a general-purpose data processor for the semantic web
+Cwm railway station, a station in Cwm, Blaenau Gwent, Wales, 1852&#x2013;1963
+Cwm Rhondda, a famous Welsh hymn tune</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Cwm">Erthygl am y tirffurf yw hon. Am y pentref yn Sir Ddinbych, gweler Cwm, Sir Ddinbych. Am y pentref ym Mlaenau Gwent, gweler Cwm, Blaenau Gwent.
+Tirffurf a geir yn y mynyddoedd a'r bryniau yw cwm.
+
+Yn Ne Cymru, defnyddir y gair cwm bron yn gyfystyr &#xE2;'r gair dyffryn yn y Gogledd, sef tirffurf is na thir cyfagos sy'n ffyrfio gwely i afon. Mae Y Cymoedd (Saesneg: The Valleys) yn tueddu i gyfeirio yn arbennig at gymoedd glof&#xE4;ol De Cymru - yn eu mysg Cwm Rhondda, Cwm Cynon, Cwm Afan. (Ond sylwer hefyd y defnyddir Glyn fel yn Glyn-Nedd, Glyn Ebwy).
+Yng Ngogledd Cymru, mae cwm fel arfer yn golygu dyffryn crwn bychan sy'n crogi yn uchel ar ochr dyffryn siap-U, y naill a'r llall wedi ei ffurfio gan effeithiau rhewlifoedd ac yn dirffurf nodweddiadol o Eryri, er enghraifft Cwm Idwal (Glyderau, gwelwch lun) neu Gwm Cau (Cadair Idris).
+Defnyddir cwm hefyd fel term technegol yn Naearyddiaeth i ddisgrifio'r tirffurf rhewlifol ac yn gyfystyr
+i'r corrie yn yr Alban
+ac i'r cirque yn de Ffrainc, neu combe yn nwyrain Ffrainc, gair Galeg tebyg iawn i'r gair Cymraeg.
+Mae cwm yn un o'r ychydig eiriau Cymraeg a geir fel benthyceiriau yn yr iaith Saesneg. Yr enghraifft enwocaf efallai yw'r enw lle Western Cwm i ddynodi un o'r cymoedd uchel ar lethrau Everest yn yr Himalaya.</wikipedia>
+        </town>
+        <town id="neath port talbot#cwm-twrch isaf">
+            <name>Cwm-twrch Isaf</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#cwm-twrch uchaf">
+            <name>Cwm-twrch Uchaf</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#cwmafan">
+            <name>Cwmafan</name>
+            <lat>51.614044</lat>
+            <lon>-3.766471</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Cwmafan">This is a redirect from a page that has been moved (renamed). This page was kept as a redirect to avoid breaking links, both internal and external, that may have been made to the old page name. For more information follow the category link.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Cwmafan">Erthygl am bentref Cwmafan yw hon. Am y cwm gweler Cwm Afan. Gweler hefyd Afan (gwahaniaethu).
+
+Pentref a chymuned yng Nghwm Afan, Castell-nedd Port Talbot, yw Cwmafan. Canol y pentref yw'r hen eglwys blwyf, 'Llanfihangel Ynys Afan'. Mae Brynbryddan ar y bryniau i'r gorllewin, ac Ynysygwas ar y bryniau i'r dwyrain. I'r de i lawr y cwm mae tref Porth Afan ac i'r gogledd, i lawr y cwm, mae pentref Pwllyglaw cyn cyrraedd pentref Pontrhydyfen.</wikipedia>
+        </town>
+        <town id="neath port talbot#cwmgwrach">
+            <name>Cwmgwrach</name>
+            <lat>51.7313959</lat>
+            <lon>-3.644692</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#cwmllynfell">
+            <name>Cwmllynfell</name>
+            <lat>51.8023359</lat>
+            <lon>-3.824366</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Cwmllynfell">Cwmllynfell is the name of a village, community and electoral ward in Neath Port Talbot county borough, Wales.
+
+</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Cwmllynfell">Pentref yng Nghastell-nedd Port Talbot yw Cwmllynfell. Saif ar y briffordd A4068 rhwng Brynaman ac Ystalyfera, heb fod ymhell o Afon Twrch. Mae'r ward etholiadol yn cynnwys Blaen-nant, Bryn-Melyn, Celliwarog, Cwmllynfell a Rhiw-fawr.
+Agorwyd Glofa Cwmllynfell rywbryd cyn 1825, pan gofnodir i 59 o weithwyr gael eu lladd mewn ffrwydrad yno. Yn 1947 roedd yn cyflogi 360 o lowyr. Caeodd yn 1959. Hyd nes i'r lofa gau, cynhelid cyfarfodydd lleol Undeb Cenedlaethol y Glowyr yn Gymraeg.</wikipedia>
+        </town>
+        <town id="neath port talbot#cymer">
+            <name>Cymer</name>
+            <lat>51.651944</lat>
+            <lon>-3.647563</lon>
+            <wikipedia/>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Cymer">Gallai Cymer gyfeirio at:
+Cymer, enw am aber lle mae dwy afon yn ymuno &#xE2;'i gilydd.
+Cymer, pentref yng Nghwn Afan
+Y Cymer, pentref a chymuned yn Nghwm Rhondda, Rhondda Cynon Taf
+Abaty Cymer, abaty yn ne Gwynedd</wikipedia>
+        </town>
+        <town id="neath port talbot#cynonville">
+            <name>Cynonville</name>
+            <lat>51.6436837</lat>
+            <lon>-3.7003227</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#duffryn">
+            <name>Duffryn</name>
+            <lat>51.5617097</lat>
+            <lon>-3.0203503</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Duffryn">Duffryn (Welsh: Dyffryn) is a large housing estate [1] in the southwest of the city of Newport, south Wales comprising a large portion of the Tredegar Park electoral district (ward). Built on land belonging to Tredegar House [2], it was completed in 1978 and at the time won several awards for its design. The layout of the estate, as viewed from above, is that of large terraces undulating around a central wooded area. Originally a Council Estate, Duffryn is now a mix of private ownership and Newport City Homes RSL (Registered Social Landlord) properties.
+The design of the estate is the result of a council competition. It was won by a consortium committed to the theories of planning devised in the architecture department of Cambridge University in the 1960s. The District Amenities Centre that was planned for the south-west corner of the 96-acre site was never built, so the plan of a largely self-sufficient community was not realised.
+Despite the relative recent development of the estate, the name Duffryn is an ancient name for the area. Duffryn is an anglicised version of the Welsh Dyffryn (meaning large U-shaped valley).
+Duffryn is home to two of Newport's largest secondary schools &#x2014; Duffryn High School [3] and St. Joseph's RC High School. In 2006, Duffryn High School was the filming location of the Doctor Who episode "School Reunion", filmed in late-summer 2005.
+The majority of the estate is heated from an updated central boiler house.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#dyffryn cellwen">
+            <name>Dyffryn Cellwen</name>
+            <lat/>
+            <lon/>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Dyffryn Cellwen">Dyffryn Cellwen is a village in the County Borough of Neath Port Talbot, South Wales. It is situated in the upper Dulais Valley near the junction of the A4109 and A4221 roads, northwest of the smaller settlement of Banwen. It is part of the community of Onllwyn.
+The village stands close to the course of the Roman road from Neath to Brecon, and there are traces of a Roman fort and camp nearby. At one time, mining for iron, copper, and especially coal were important activities in the area.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Dyffryn Cellwen">Pentref ym mwrdeisdref sirol Castell-nedd Port Talbot yw Dyffryn Cellwen. Saif yn rhan uchaf Cwm Dulais, ger cyffordd y priffyrdd A4109 ac A4221, i'r gogledd-orllewin o bentref Banwen. Mae yng nghymuned Onllwyn.
+Saif y pentref ger y ffordd Rufeinig rhwng Castell Nedd ac Aberhonddu, ac mae olion caer a gwersyll Rhufeinig gerllaw. Ar un adeg roedd mwyngloddio glo, haearn a chopr yn bwysig yn yr ardal.</wikipedia>
+        </town>
+        <town id="neath port talbot#efail-fach">
+            <name>Efail-fach</name>
+            <lat>51.644232</lat>
+            <lon>-3.754517</lon>
+            <wikipedia/>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Efail-fach">Pentref yn sir Castell-nedd Port Talbot yw Efail-fach (Efail-f&#xE2;ch ar fapiau Saesneg). Fe'i lleolir ar gyffordd ar y B4287, 3 milltir i'r de-ddwyrain o Gastell-nedd. Mae'r B4287 yn ei gysylltu &#xE2; Chastell-nedd ac &#xE2; Phont-rhyd-fen gyda ffordd arall o'r gyffordd yn ei gysylltu &#xE2; pentref Ton-mawr i'r gogledd.
+Mae Efail-fach yn rhan o gymuned Pelenna.</wikipedia>
+        </town>
+        <town id="neath port talbot#fforest goch">
+            <name>Fforest Goch</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#gelli-gaer">
+            <name>Gelli-gaer</name>
+            <lat>51.664336</lat>
+            <lon>-3.251143</lon>
+            <wikipedia/>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Gelli-gaer">Pentref a chymuned ym mwrdeisdref sirol Caerffili yw Gelli-gaer, hefyd Gelligaer. Saif yng Nghwm Rhymni. Heblaw pentref Gelligaer ei hun, mae'r gymuned yn cynnwys pentrefi Cefn Hengoed a Hengoed.
+Ceir caer Rufeinig yma, a adeiladwyd rhwng 103 a 111 OC. Bu cloddio archaeolegol ar y safle yn gynnar yn yr 20fed ganrif. Cysegrwyd eglwys y plwyf i sant Cadog neu Catwg.</wikipedia>
+        </town>
+        <town id="neath port talbot#gellinud">
+            <name>Gellinud</name>
+            <lat>51.7215543</lat>
+            <lon>-3.830401</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#gellygron">
+            <name>Gellygron</name>
+            <lat>51.7256173</lat>
+            <lon>-3.8582141</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#glan-rhyd">
+            <name>Glan-rhyd</name>
+            <lat>51.766149</lat>
+            <lon>-3.768295</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#glyn castle">
+            <name>Glyn Castle</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#glyn-neath">
+            <name>Glyn-neath</name>
+            <lat>51.74876</lat>
+            <lon>-3.617823</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#glyncorrwg">
+            <name>Glyncorrwg</name>
+            <lat>51.677721</lat>
+            <lon>-3.628325</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Glyncorrwg">Glyncorrwg is a village in Wales. It is set in the Afan Valley, in southern Wales.
+Glyncorrwg is also the name of an electoral ward and a community covering the village and surrounding countryside, in Neath Port Talbot county borough. Glyncorrwg community contains the villages of Abergwynfi, Blaengwynfi, Croeserw, Cymmer, Abercregan, Duffryn and Glyncorwg itself. The population of Glyncorrwg as a community, was recorded as 5,544 in the 2001 census, reducing to 5,283 at the 2011 census. The population of the electoral ward mentioned above was 1,096 only at the 2011 census.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Glyncorrwg">Pentref mewn cwm bach sy'n ymestyn i'r gogledd o Gwm Afan yw Glyncorrwg. Mae'r nant Corrwg yn rhedeg trwy'r bentref ac i mewn i afon Afan.
+Roedd y pentref yn un glofaol ond gyda diwedd y diwydiant yn yr ardal mae'r economi lleol yn tueddu at atyniadau twristaidd, e.e. Afan Argoed.</wikipedia>
+        </town>
+        <town id="neath port talbot#goytre">
+            <name>Goytre</name>
+            <lat>51.5922437</lat>
+            <lon>-3.7551551</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Goytre">Goytre is a village near the town of Port Talbot, south Wales.
+The local football team is Goytre United F.C. who are based at Glenhafod Park Stadium.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#gurnos">
+            <name>Gurnos</name>
+            <lat>51.772591</lat>
+            <lon>-3.779618</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Gurnos">Gurnos might also refer to Gurnos, Powys
+Gurnos is a community of Merthyr Tydfil County Borough in Wales, United Kingdom. It consists principally of the Gurnos Estate, a large housing estate established by Merthyr Tydfil Council in the early 1950s and expanded over many years. Many of the initial streets were named after trees; such as Oak, Acacia and Rowan. A major expansion took place during the 1970s, including the building of Prince Charles Hospital. Streets on 1970s development were named after flowers and shrubs; such as Lavender, Heather, Lupin and Forsythia, with the exception of the three most recent areas known as Pen-Gurnos, Pen-y-Dre and Pen-y-Fan View. The area built since the 1970s is still often referred to locally as The New Estate.
+It was reported in February 2011, that men living on the Gurnos Estate currently have a life expectancy of just 58 years, less than men in Iraq or Haiti This statement was later retracted and rectified, the Mail Online version of the article now states; "An earlier version of this article referred to the figure for life expectancy in Merthyr Tydfil as being 58.8 years. In fact, this is the figure for &#x2018;healthy life expectancy&#x2019; in Merthyr Tydfil, and the average life expectancy is not lower than that in Iraq or Haiti as originally reported.".
+The area was formerly open land, including the long-established Gurnos Farm. It also encompassed the notoriously dangerous Goitre Pond.
+The design and planning of the Gurnos estate borrows ideas from the Radburn system. The estate has become notorious throughout Wales, with the reputation of being an area of deprivation and crime.
+The Gurnos Tavern, one of the two community centres and many of the maisonette flats were demolished to make greener areas during the late 1990s.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#jersey marine">
+            <name>Jersey Marine</name>
+            <lat/>
+            <lon/>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Jersey Marine">Jersey Marine is a village in Neath Port Talbot county borough, Wales, UK located about 3 miles (4.8 km) east of Swansea. It falls within the Coedffranc West ward.
+Jersey Marine is centered on a main road formed by Ashleigh Terrace, coming from a junction with the A483 road (Fabian Way), which curves to the east along New Road leading to Llandarcy. The A483, Fabian Way, is normally considered the gateway into Swansea City Centre, therefore it is mistakenly thought that the area is part of the city of Swansea despite the village being part of Neath Port Talbot. The local primary in the village is the Crymlyn Primary School. Secondary school age children attend school in Neath, not Swansea.
+The village includes the Pant Y Sais Nature Reserve, a fen area featuring a circular boardwalk which connects with the tow path of the Tennant Canal.
+A new 800,000 sq ft (74,000 m2) distribution centre for Amazon.co.uk is sited south of the village on the site of a former cable manufacturing plant. It opened on 16 April 2008.[1]</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#llandarcy">
+            <name>Llandarcy</name>
+            <lat>51.6430914</lat>
+            <lon>-3.8559906</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llandarcy">Llandarcy is a village near Neath in Neath Port Talbot county borough, southwest Wales, and formerly the site of the UK's first oil refinery. The village, which lies near the Junction 43 of the M4 Motorway, was originally designed as a garden village to house the workers for the refinery, built by BP Oil between 1918-22.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Llandarcy">Pentref ger Castell-nedd ym mwrdeistref sirol Castell-nedd Port Talbot, Cymru yw Llandarcy, lle ceir cyn-safle purfa olew cyntaf y DU. Saif y pentref ger cyffordd 43 yr M4. Cyllunwyd y pentref yn wreiddiol fel tref newydd i gartrefu gweithwyr y burfa a adeiladwyd gan gwmni BP rhwng 1918 ac 1922.</wikipedia>
+        </town>
+        <town id="neath port talbot#llantwit">
+            <name>Llantwit</name>
+            <lat>51.5816062</lat>
+            <lon>-3.3191786</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llantwit">Llantwit may refer to:
+Llantwit - suburb of Neath, Neath Port Talbot, Wales
+Llantwit Major - coastal village in the Vale of Glamorgan, Wales
+Llantwit Fardre - village between Pontypridd and Bridgend, Rhondda Cynon Taf, Wales</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#loughor">
+            <name>Loughor</name>
+            <lat>51.665095</lat>
+            <lon>-4.067286</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Loughor">Loughor (/&#x2C8;l&#x28C;x&#x259;r/) (Welsh: Casllwchwr) is a town in the City and County of Swansea, Wales, within the historic county boundaries of Glamorgan, Wales. It lies on the estuary of the River Loughor. The town has a community council called Llwchwr. In 2014, it was rated one of the most attractive postcode areas to live in Wales.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#lower brynamman">
+            <name>Lower Brynamman</name>
+            <lat/>
+            <lon/>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Lower Brynamman">Lower Brynamman is a village and an electoral ward of Neath Port Talbot county borough in Wales.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#margam">
+            <name>Margam</name>
+            <lat>51.5467364</lat>
+            <lon>-3.7011936</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Margam">Margam is a suburb of Port Talbot in the Welsh county borough of Neath Port Talbot, Wales, close to junction 39 of the M4 motorway.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Margam">Lleolir pentref Margam ger Port Talbot yn Sir Castell-nedd Port Talbot, Cymru, yn agos i gyffordd 39 o draffordd yr M4.</wikipedia>
+        </town>
+        <town id="neath port talbot#melincourt">
+            <name>Melincourt</name>
+            <lat>51.702982</lat>
+            <lon>-3.708268</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Melincourt">Melincourt could refer to:
+Melincourt, Haute-Sa&#xF4;ne, a French commune
+Melincourt Falls, a waterfall and nature reserve in South Wales
+Melincourt (novel), a novel by Thomas Love Peacock</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#melincryddan">
+            <name>Melincryddan</name>
+            <lat>51.653591</lat>
+            <lon>-3.813096</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#mellte">
+            <name>Mellte</name>
+            <lat>51.75</lat>
+            <lon>-3.5833333</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#morfa glas">
+            <name>Morfa Glas</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Morfa Glas">Pentref bychan yn sir Castell-nedd Port Talbot yw Morfa Glas. Fe'i lleolir yn Nyffryn Nedd rhwng Glyn-nedd a Blaengwrach. Rhed y briffordd A465 trwy'r pentref.</wikipedia>
+        </town>
+        <town id="neath port talbot#mount pleasant">
+            <name>Mount Pleasant</name>
+            <lat/>
+            <lon/>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Mount Pleasant">Mount Pleasant may refer to:</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#nant-y-cafn">
+            <name>Nant-y-cafn</name>
+            <lat>51.756772</lat>
+            <lon>-3.722692</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#neath">
+            <name>Neath</name>
+            <lat>51.656991</lat>
+            <lon>-3.805476</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Neath">Neath (Welsh: Castell-nedd) is a town and community situated in the principal area of Neath Port Talbot, Wales with a population of 19,258 in 2011. The wider urban area, which includes neighbouring settlements, had a population of 50,658 in 2011. Historically in Glamorgan, the town is located on the river of the same name, 7 miles (11 km) east northeast of Swansea.
+^ 
+^ John Paxton, ed. (1999). The Penguin Encyclopedia of Places (Third ed.). London: Penguin. p. 628.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#neath (castell-nedd)">
+            <name>Neath (Castell-Nedd)</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#neath abbey">
+            <name>Neath Abbey</name>
+            <lat/>
+            <lon/>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Neath Abbey">Neath Abbey (Welsh: Abaty Nedd) was a Cistercian monastery, located near the present-day town of Neath in South Wales, UK. It was once the largest abbey in Wales. Substantial ruins can still be seen, and are in the care of Cadw. Tudor historian John Leland called Neath Abbey "the fairest abbey of all Wales."
+Neath Abbey is also the name of an area of Neath near to the abbey ruins.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#neath canal">
+            <name>Neath Canal</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#onllwyn">
+            <name>Onllwyn</name>
+            <lat>51.781182</lat>
+            <lon>-3.681333</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Onllwyn">Onllwyn is a small village in Neath Port Talbot, Wales, near Seven Sisters.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Onllwyn">Pentref ym mwrdeisdref sirol Castell-nedd Port Talbot yw Onllwyn. Mae hefyd yn enw'r ward etholiadol, sy'n cynnwyd Dyffryn Cellwen a Banwen. Saif tua 12 milltir i'r gogledd-ddwyrain o dref Castell Nedd, ychydig i'r gogledd o Flaendulais, ar y briffordd A4109 a ger tarddle Afon Dulais.
+Ardal lofaol oedd hon, gyda phump glofa o gwmpas y pentref ar un adeg. Mae traddodiad lleol i Sant Padrig gael ei eni yn yr ardal, a chynhelir gorymdaith ar 17 Mawrth i ddathlu hyn. Ceir gweddillion dwy gaer Rufeinif a ffordd Rufeinig gerllaw,</wikipedia>
+        </town>
+        <town id="neath port talbot#pantdu">
+            <name>Pantdu</name>
+            <lat>51.6098976</lat>
+            <lon>-3.7727938</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#pen-common">
+            <name>Pen-common</name>
+            <lat>37.3247235</lat>
+            <lon>-82.6424476</lon>
+            <wikipedia/>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Pen-common">Pentrefan yng nghymuned Ystradfellte, Powys, Cymru yw Pen-common, sydd 26.3 milltir (42.2km) o Gaerdydd a 149.6 milltir (240.7km) o Lundain.
+
+Cynrychiolir Pen-common yn y Cynulliad Cenedlaethol gan Kirsty Williams (Y Democratiaid Rhyddfrydol) a'r Aelod Seneddol yw Roger Wiliams (Y Democratiaid Rhyddfrydol).
+&#x2191; Gwefan y Cynulliad; adalwyd 24 Chwefror 2014
+&#x2191; Gwefan parliament.uk; adalwyd 24 Chwefror 2014</wikipedia>
+        </town>
+        <town id="neath port talbot#pen-rhiw-fawr">
+            <name>Pen-Rhiw-fawr</name>
+            <lat>51.9021559</lat>
+            <lon>-5.2572521</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#pen-y-cae">
+            <name>Pen-y-cae</name>
+            <lat>51.810283</lat>
+            <lon>-3.677291</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Pen-y-cae">Pen-y-cae may refer to one of these places in Wales:
+Pen-y-cae, Bridgend
+Pen-y-cae, Neath Port Talbot
+Pen-y-cae, Powys
+Penycae, Wrexham</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#pencaerau">
+            <name>Pencaerau</name>
+            <lat>51.471266</lat>
+            <lon>-3.2576602</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#penrhiwtyn">
+            <name>Penrhiwtyn</name>
+            <lat>51.64852</lat>
+            <lon>-3.811426</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#pont-walby">
+            <name>Pont-Walby</name>
+            <lat>51.74768</lat>
+            <lon>-3.604805</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#pontardawe">
+            <name>Pontardawe</name>
+            <lat>51.720435</lat>
+            <lon>-3.853215</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Pontardawe">Pontardawe (Welsh pronunciation: [p&#x254;ntar&#x2C8;daw&#x25B;] &#x2013; "bridge on the Tawe") is a town of some 5,000 inhabitants in the Swansea Valley (Welsh: Cwmtawe) in south Wales. The community of Pontardawe, comprising the electoral wards of Pontardawe and Trebanos, is served by an elected Town Council and forms part of the county borough of Neath Port Talbot.
+Pontardawe first came into existence as a small settlement on the northwestern bank of the Tawe at the point where the drovers' road from Neath to Llandeilo crossed first the river and then the road running up the valley from Swansea towards Brecon. Its best known landmark today is the tall spire of St Peter's church which dominates the centre of the town from its site on a high point of the valley floor close to the Swansea Canal.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Pontardawe">Lleolir tref Pontardawe yng Nghwm Tawe, ym mwrdeistref sirol Castell-nedd Port Talbot. Llifa'r Afon Tawe trwy ganol y dref, a enwir ar &#xF4;l y bont dros yr afon honno. Mae'r Afon Clydach Uchaf hefyd yn llifo trwy'r dre cyn ymuno &#xE2;'r Tawe, ac mae rhan o Gamlas Abertawe (sydd pellach yn segur) i'w ganfod yno. Mae'n gartref i tua 5,000 o drigolion, gan ymestyn i mewn i bentrefi cysylltiedig Trebannws, Ynysmeudwy, Alltwen a Rhyd-y-fro.</wikipedia>
+        </town>
+        <town id="neath port talbot#pontneddfechan">
+            <name>Pontneddfechan</name>
+            <lat>51.757066</lat>
+            <lon>-3.592109</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Pontneddfechan">Pontneddfechan ("bridge over the Little Neath" in Welsh) is a village in the Vale of Neath in the far south of Powys, Wales. Locally, the name is conventionally pronounced as /p&#x254;nt&#x2CC;ni&#xF0;&#x2C8;v&#x254;&#x2D0;n/ in English, and may be seen written as "Pontneathvaughan".
+The village stands at the confluence of the Rivers Mellte and Nedd Fechan ("Neath Vaughan") and provides a convenient access points to the superb series of waterfalls that characterise the upper Neath valley. Dinas Rock, a steeply pitched anticline in the limestone rocks at Craig-y-Dinas, is a favourite spot for rock-climbers.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Pontneddfechan">Pentref yn ne Powys yw Pontneddfechan. Fe'i lleolir yn ardal Brycheiniog yn rhan uchaf Glyn Nedd, ar bwys yr A465.
+Enwir y pentref ar &#xF4;l pont dros Afon Nedd Fechan ger ei chymer ag Afon Mellte. I'r gogledd o'r pentref cyfyd bryniau'r Fforest Fawr, sy'n rhan o Barc Cenedlaethol Bannau Brycheiniog. Mae'n rhan o blwyf eglwysig Nedd Uchaf.</wikipedia>
+        </town>
+        <town id="neath port talbot#pontrhydyfen">
+            <name>Pontrhydyfen</name>
+            <lat>51.633519</lat>
+            <lon>-3.743294</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Pontrhydyfen">Pontrhydyfen (or Pont-rhyd-y-fen) is a small village in the Afan Valley, in Neath Port Talbot county borough in Wales. The majority of its inhabitants speak Welsh as their first language.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Pontrhydyfen">Pentref yng Nghwm Afan yw Pontrhydyfen (neu Pont-rhyd-y-fen), ar lethrau'r bryniau lle mae Afon Pelenna yn rhedeg i mewn i Afon Afan. Mae yna bont amlwg yng nghanol y pentref (un o sawl pont) a adeiladwyd gan John Reynolds ym 1825. Hon yw "Y Bont Fawr", a oedd ar un adeg yn dwyn rheilffordd fach dros y cwm. Yn ddiweddarach roedd yn dwyn camlas i gario d&#x175;r i'r gwaith haearn ger ardal Penycae (Oakwood nawr).
+I'r de i lawr Cwm Afan mae pentref Cwmafan. I'r gogledd-ddwyrain lan y cwm mae Cynonville a pharc fforest Afan Argoed. I'r gorllewin mae tref Castell-nedd.</wikipedia>
+        </town>
+        <town id="neath port talbot#port talbot">
+            <name>Port Talbot</name>
+            <lat/>
+            <lon/>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Port Talbot">Port Talbot (/p&#x259;r&#x2C8;t&#x254;&#x2D0;lb&#x259;t/ or /p&#x259;r&#x2C8;t&#xE6;lb&#x259;t/) is a town in the county borough of Neath Port Talbot, Wales. It had a population of 37,276 in 2011.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Port Talbot">Mae Port Talbot yn dref ddiwydiannol o dua 50,000 o bobol yng Nghastell-nedd Port Talbot ar ochr dwyreiniol Bae Abertawe yn ne Cymru. Saif ar lan Afon Afan. Mae Caerdydd 44.9 km i ffwrdd o Bort Talbot ac mae Llundain yn 256.1 km. Y ddinas agosaf ydy Abertawe sy'n 12 km i ffwrdd.</wikipedia>
+        </town>
+        <town id="neath port talbot#pwll-y-glaw">
+            <name>Pwll-y-glaw</name>
+            <lat>51.6231559</lat>
+            <lon>-3.7460161</lon>
+            <wikipedia/>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Pwll-y-glaw">Pentref bychan yn ardal Castell-nedd Port Talbot yw Pwll-y-glaw. Fe'i lleolir ar y ffordd B4286 tua 4 milltir i'r gogledd-ddwyrain o Bort Talbot, ger Cwmafan.</wikipedia>
+        </town>
+        <town id="neath port talbot#resolven">
+            <name>Resolven</name>
+            <lat>51.710349</lat>
+            <lon>-3.693584</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Resolven">Resolven (Welsh: Resolfen) is a small village in Neath Port Talbot county borough, Wales. It is located in the heart of the Vale of Neath.
+
+</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#rhiwfawr">
+            <name>Rhiwfawr</name>
+            <lat>51.7815253</lat>
+            <lon>-3.8128179</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Rhiwfawr">Rhiwfawr is a hamlet of 40 houses in the Swansea Valley, in Neath Port Talbot county borough, Wales.
+
+</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#rhos">
+            <name>Rhos</name>
+            <lat>51.712548</lat>
+            <lon>-3.827005</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Rhos">Rhos (meaning "moorland" in Welsh) may refer to the following places in Wales:
+Rhos, Neath Port Talbot a village in Neath Port Talbot, Wales
+Rhos-on-Sea (or Llandrillo-yn-Rhos), a village on the outskirts of Colwyn Bay, north Wales
+Rhosllannerchrugog, a village in the County Borough of Wrexham in northeast Wales
+Historic subdivisions
+Rhos (north Wales), a cantref and prior to that a small kingdom in medieval mid-north Wales
+Rhos, later the Hundred of Roose, a cantref around Milford Haven in southwest Wales</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Rhos">Am y cantref yn Sir Benfro, gweler Rhos. Gweler hefyd Rhos (gwahaniaethu)
+Cantref yn Y Berfeddwlad yng ngogledd Cymru oedd Rhos (gorllewin Sir Ddinbych a dwyrain sir Conwy heddiw). Ymddengys yn bosibl fod Rhos yn un o f&#xE2;n deyrnasoedd Cymru yn y cyfnod &#xF4;l-Rufeinig a ddaeth yn rhan o deyrnas Gwynedd.</wikipedia>
+        </town>
+        <town id="neath port talbot#rhyd-y-fro">
+            <name>Rhyd-y-fro</name>
+            <lat>51.9393543</lat>
+            <lon>-3.8814419</lon>
+            <wikipedia/>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Rhyd-y-fro">Pentref bychan yn sir Castell-nedd Port Talbot yw Rhyd-y-fro. Fe'i lleolir ar y briffordd A474 tua 2 filltir i'r gogledd o Bontardawe.</wikipedia>
+        </town>
+        <town id="neath port talbot#rhydding">
+            <name>Rhydding</name>
+            <lat>51.6771628</lat>
+            <lon>-3.8143487</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#rock">
+            <name>Rock</name>
+            <lat>51.6794367</lat>
+            <lon>-3.1886432</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Rock">Rock usually refers to:
+Rock (geology), a naturally occurring solid aggregate of minerals or mineraloids
+Rock music, a form of popular music
+Rock or Rocks may also refer to:</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#sandfields">
+            <name>Sandfields</name>
+            <lat>51.5954646</lat>
+            <lon>-3.8116339</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Sandfields">Sandfields may refer to:
+Sandfields: a district in Swansea; Rhosafan in Welsh.
+Sandfields, Port Talbot
+A suburb in the city of Lichfield, Staffordshire</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#seven sisters">
+            <name>Seven Sisters</name>
+            <lat/>
+            <lon/>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Seven Sisters">Seven Sisters is the common name for the Pleiades, a star cluster named for mythological characters.
+Seven Sisters may also refer to:</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#skewen">
+            <name>Skewen</name>
+            <lat>51.660932</lat>
+            <lon>-3.841789</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Skewen">Skewen (Welsh: Sgiwen) is a village within the county borough of Neath Port Talbot, in Wales.
+The village is served by Skewen railway station.
+Skewen supports its own rugby club.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#swansea canal">
+            <name>Swansea Canal</name>
+            <lat/>
+            <lon/>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Swansea Canal">The Swansea Canal (Welsh: Camlas Abertawe) was a canal constructed by the Swansea Canal Navigation Company between 1794 and 1798, running for some 16.5 miles (26.6 km) from Swansea to Hen Neuadd, Abercraf in South Wales. It was steeply graded, and 36 locks were needed to enable it to rise 373 feet (114 m) over its length. The main cargos were coal, iron and steel, and the enterprise was profitable.
+Sold to the Great Western Railway in 1873, it continued to make a profit until 1895. A period of decline followed, with the last commercial traffic using the waterway in 1931. Subsequently, parts of it were closed and filled in under a succession of owners, but around 5 miles (8.0 km) remain in water. The Swansea Canal Society, formed in 1981, are actively involved in plans for its restoration.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#taibach">
+            <name>Taibach</name>
+            <lat>51.587731</lat>
+            <lon>-3.771794</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Taibach">Taibach or Tai-Bach (English: Little Houses) is a suburban district of Port Talbot, Wales. It is a settlement centered on the main A48 road, sandwiched between The river Ffrwdwyllt and Margam.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#tairgwaith">
+            <name>Tairgwaith</name>
+            <lat>51.7924907</lat>
+            <lon>-3.8639542</lon>
+            <wikipedia/>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Tairgwaith">Mae Tairgwaith wedi'i ddynodi'n Safle o Ddiddordeb Gwyddonol Arbennig yng Nghymru (SoDdGA neu SSSI) ers 06 Hydref 2003 fel ymgais gadwraethol i amddiffyn a gwarchod y safle. Mae ei arwynebedd yn 4.56 hectar. Cyfoeth Naturiol Cymru yw'r corff sy'n gyfrifol am y safle.
+&#x2191; Gwefan Cyngor Cefn Gwlad Cymru (bellach 'Cyfoeth Naturiol Cymru'); adalwyd 25 Rhagfyr 2013</wikipedia>
+        </town>
+        <town id="neath port talbot#tawe">
+            <name>Tawe</name>
+            <lat>51.6193263</lat>
+            <lon>-3.9334134</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#tennant canal">
+            <name>Tennant Canal</name>
+            <lat/>
+            <lon/>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#tonmawr">
+            <name>Tonmawr</name>
+            <lat>51.653812</lat>
+            <lon>-3.733167</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Tonmawr">Tonmawr is a village in Neath Port Talbot county borough, south Wales. It is located around four miles east of Neath.
+The village is home to a rugby union team (Tonmawr RFC), a primary school, a community centre, and the Pelenna Mountain Centre.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#tonna">
+            <name>Tonna</name>
+            <lat>51.676127</lat>
+            <lon>-3.773785</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Tonna">Tonna may refer to:
+Tonna, Antenna, a French antenna manufacturer, famous of manufacturing radioamateur antennas.
+Tonna, Neath, a village in Wales, part of the county borough Neath Port Talbot
+Tonna, Germany, a municipality in Thuringia, Germany
+Tonna (gastropod), a genus of marine snails
+An alternative spelling for the Japanese poet Ton'a</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#tre-forgan">
+            <name>Tre-Forgan</name>
+            <lat>51.7399154</lat>
+            <lon>-3.7520335</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#trebanos">
+            <name>Trebanos</name>
+            <lat>51.710991</lat>
+            <lon>-3.863491</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Trebanos">Trebanos (Welsh: Trebannws) is a village in the Swansea Valley, Wales. It forms, together with Craig Trebanos and a part of Pontardawe, the Trebanos electoral ward of Neath Port Talbot county borough.
+Controversy and opposition concerning the South Wales Gas Pipeline passing through the village led to media attention for the village and a protest camp in 2006 and 2007.</wikipedia>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#tynewydd">
+            <name>Tynewydd</name>
+            <lat>51.679093</lat>
+            <lon>-3.54632</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Tynewydd">Tynewydd is a village located in the County Borough of Rhondda Cynon Taf, south Wales. With Treherbert, Blaencwm, Blaenrhondda and Pen-yr-englyn it is part of a community of Treherbert. The village lies in the former industrial coal mining area at the head of Rhondda Fawr, the larger of the Rhondda Valleys.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Tynewydd">Pentref bychan yn Rhondda Cynon Taf yw Tynewydd. Mae'n gorwedd yn rhan uchaf Cwm Rhondda ger Blaencwm.</wikipedia>
+        </town>
+        <town id="neath port talbot#ynysmaerdy">
+            <name>Ynysmaerdy</name>
+            <lat>51.5506839</lat>
+            <lon>-3.396995</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Ynysmaerdy">Ynysmaerdy is a village near Talbot Green and Llantrisant in Rhondda Cynon Taf, Wales. Even though there is no direct access to the village of Llanharan, due to older parish boundaries it falls under the community of Llnaharan. It is home to the Royal Glamorgan Hospital.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Ynysmaerdy">Pentref yn Rhondda Cynon Taf yw Ynysmaerdy. Fe'i lleolir ar yr A4119 ger Llantrisant, tua 5 milltir i'r de-orllewin o Bontypridd, yn ne'r sir. Llifa Afon El&#xE1;i heibio i'r pentref.
+Lleolir Ysbyty Brenhinol Morgannwg yn y pentref.</wikipedia>
+        </town>
+        <town id="neath port talbot#ynysmeudwy">
+            <name>Ynysmeudwy</name>
+            <lat>51.731747</lat>
+            <lon>-3.834971</lon>
+            <wikipedia/>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Ynysmeudwy">Pentref bychan yn sir Castell-nedd Port Talbot yw Ynysmeudwy. Fe'i lleolir yng Nghwm Tawe ar bwys y briffordd A4067 tua 1.5 milltir i'r gogledd-ddwyrain o Bontardawe.</wikipedia>
+        </town>
+        <town id="neath port talbot#ynysygwas">
+            <name>Ynysygwas</name>
+            <lat>51.639356</lat>
+            <lon>-3.360219</lon>
+            <wikipedia/>
+            <wikipedia/>
+        </town>
+        <town id="neath port talbot#ystalyfera">
+            <name>Ystalyfera</name>
+            <lat>51.762364</lat>
+            <lon>-3.791996</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Ystalyfera">Ystalyfera is a former industrial village in the upper Swansea Valley, on the River Tawe, about 13 miles (21 km) north-east of Swansea. It is an electoral ward and a community in the unitary authority of Neath Port Talbot, Wales, comprising a resident population of just over 3,000 people, approximately 60% of whom speak Welsh.
+National Cycle Route 43 passes though the village.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Ystalyfera">Pentref a chymuned yng Nghastell-nedd Port Talbot yw Ystalyfera, wedi ei leoli ger cyd-lif yr afonydd Twrch a Thawe, tua 18 milltir i'r gogledd o Abertawe. Datblygodd Ystalyfera yn ystod y deunawfed ganrif, gyda gwaith haern pwysig a sawl pwll glo wedi eu lleoli yno. Fodd bynnag, gyda dirywiad diwydiant gwaithgynhyrchu, bu sawl newid cymdeithasol a demograffaidd yn Ystalyfera, sydd bellach ymlith y 100 cymuned mwyaf amddifad yng Nghymru yn &#xF4;l Mynegrif Aml-amddifadedd Cymru. [angen ffynhonnell]
+Mae gan Ystalyfera nifer o gapeli a thafarndai adnabyddus, gan gynnwys y Wern Fawr, sydd wedi ennill gwobrau am y cwrw a fregir ar y safle. Mae dylanwad Buddy Holly yn gryf ar enwau'r cwrw hyn.
+Ar ochr ddeheuol y pentref saif ardal Y Graig Arw a Phant-teg, sy'n cysylltu Ystalyfera &#xE2; Godre'r-graig.
+Yn y gorffennol, roedd cylch Ystalyfera yn enwog am lysenwau lliwgar y trigolion.</wikipedia>
+        </town>
+        <town id="neath port talbot#ystradowen">
+            <name>Ystradowen</name>
+            <lat>51.488889</lat>
+            <lon>-3.424781</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Ystradowen">Ystradowen is a small village twelve miles west of Cardiff, located in the Vale of Glamorgan in south Wales; its nearest town is Cowbridge which is about three miles to the south. The village was served by Ystradowen railway station between 1865 and 1951.
+The name Ystradowen means "Owen's Valley" in English.
+Local amenities include St Owain's parish church, The White Lion public house, Tudor Garage and Seven Oaks fisheries.
+Notable residents: Tom Jones had a home in the village until 1998.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Ystradowen">Pentref bychan sy'n gorwedd i'r gogledd o'r Bont-faen ym Mro Morgannwg, de Cymru, tua 12 milltir i'r gorllewin o ddinas Caerdydd, yw Ystradowen.
+Ceir eglwys yn y pentref a thafarn y White Lion. Hyd at 1998 bu gan y canwr enwog o'r Cymoedd Tom Jones d&#x177; yn Ystradowen.</wikipedia>
+        </town>
+    </towns>
+</county>

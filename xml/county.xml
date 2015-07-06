@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<cymru>
+    <county name="Anglesey/Sir Fon" href="anglesey_sir-fon.xml" />
+    <county name="Blaenau Gwent" href="blaenau-gwent.xml" />
+    <county name="Bridgend" href="bridgend.xml" />
+    <county name="Caerphilly" href="caerphilly.xml" />
+    <county name="Cardiff" href="cardiff.xml" />
+    <county name="Carmarthenshire" href="carmarthenshire.xml" />
+    <county name="Ceredigion" href="ceredigion.xml" />
+    <county name="Conwy" href="conwy.xml" />
+    <county name="Denbighshire" href="denbighshire.xml" />
+    <county name="Flintshire" href="flintshire.xml" />
+    <county name="Glamorgan" href="glamorgan.xml" />
+    <county name="Gwynedd" href="gwynedd.xml" />
+    <county name="Merthyr Tydfil" href="merthyr-tydfil.xml" />
+    <county name="Monmouthshire" href="monmouthshire.xml" />
+    <county name="Neath Port Talbot" href="neath-port-talbot.xml" />
+    <county name="Newport" href="newport.xml" />
+    <county name="Pembrokeshire" href="pembrokeshire.xml" />
+    <county name="Powys" href="powys.xml" />
+    <county name="Rhondda Cynon Taff" href="rhondda-cynon-taff.xml" />
+    <county name="Swansea" href="swansea.xml" />
+    <county name="Torfaen" href="torfaen.xml" />
+    <county name="Wrexham" href="wrexham.xml" />
+</cymru>
