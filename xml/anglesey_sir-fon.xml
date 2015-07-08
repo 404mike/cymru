@@ -28,22 +28,25 @@
         <postcode>LL78</postcode>
     </postcodes>
     <towns>
-        <town id="anglesey/sir fon#aberffraw">
-            <name>Aberffraw</name>
+        <town id="aberffraw">
+            <name lang="en">Aberffraw</name>
+            <name lang="cy">Aberffraw</name>
             <lat>53.19196</lat>
             <lon>-4.463753</lon>
             <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Aberffraw">Aberffraw (Welsh: Aberffro) is a small village and community on the south west coast of the Isle of Anglesey (Welsh: Ynys Môn), in Wales, by the west bank of the River Ffraw. Access by road is by way of the A4080 and the nearest rail station is Bodorgan. In the early Middle Ages Aberffraw was the capital of the Kingdom of Gwynedd from c.860 AD until c.1170. Under the eponymous Aberffraw Dynasty it came to be the most important political centre in medieval Wales. The Llys remained the symbolic throne of the Kings of Gwynedd from the 9th century to the 13th century. The Royal Annals of Edward I of England show the Llys was dismantled in 1315 to provide building materials for nearby Beaumaris Castle.</wikipedia>
             <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Aberffraw">Mae Aberffraw yn bentref ar arfordir gorllewinol Ynys Môn, rhwng Rhosneigr a Llangadwaladr, yng ngogledd Cymru. Mae'n cymryd ei enw o Afon Ffraw. Yn Oes y Tywysogion Aberffraw oedd maenor cwmwd Malltraeth, cantref Aberffraw. Ers cyfnod cynnar iawn roedd yn gartref i brif lys teyrnas Gwynedd, cartref traddodiadol brenhinoedd a thywysogion Gwynedd.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#alaw">
-            <name>Alaw</name>
+        <town id="alaw">
+            <name lang="en">Alaw</name>
+            <name lang="cy">Alaw</name>
             <lat>53.2939122</lat>
             <lon>-4.5013224</lon>
             <wikipedia />
             <wikipedia />
         </town>
-        <town id="anglesey/sir fon#amlwch">
-            <name>Amlwch</name>
+        <town id="amlwch">
+            <name lang="en">Amlwch</name>
+            <name lang="cy">Amlwch</name>
             <lat>53.410658</lat>
             <lon>-4.345693</lon>
             <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Amlwch">Amlwch (Welsh pronunciation: [ˈamlʊχ]) is a community and the most northerly town in Wales. It is situated on the north coast of the Isle of Anglesey, on the A5025 which connects it to Holyhead and to Menai Bridge. The town has no beach, but it has impressive coastal cliffs. Tourism is an important element of the local economy. At one time it was a busy port, with boats sailing to the Isle of Man and to Liverpool. A number of the houses date from the 19th century and add to the atmosphere of the town.
@@ -61,38 +64,34 @@
             Tref sy'n gorwedd ar lan y môr yw hi, heb draeth ond gyda chlogwynni arfordirol trawiadol. Mae twristiaeth yn elfen bwysig yn yr economi leol. Ar un adeg roedd yn borthladd eithaf prysur gyda llongau yn hwylio oddi yno i Ynys Manaw a Lerpwl. Mae nifer o'r tai yn dyddio o'r 19eg ganrif ac yn ychwanegu at awyrgylch y dref.
             Yr Arwydd yw papur bro Benllech a gweddill cylch Mynydd Bodafon.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#amlwch port">
-            <name>Amlwch Port</name>
+        <town id="amlwch port">
+            <name lang="en">Amlwch Port</name>
+            <name lang="cy">Amlwch Port</name>
             <lat>53.413001</lat>
             <lon>-4.334221</lon>
             <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Amlwch Port">Amlwch Port is a port village in Anglesey, in north-west Wales.</wikipedia>
             <wikipedia />
         </town>
-        <town id="anglesey/sir fon#anglesey">
-            <name>Anglesey</name>
-            <lat>53.2692804</lat>
-            <lon>-4.3212852</lon>
-            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Anglesey">Anglesey (Welsh: Ynys Môn, [ˈənɨs ˈmoːn]) is an island off the north-west coast of Wales. With an area of 714 square kilometres (276 sq mi), Anglesey is the largest island of Wales and the fifth-largest island surrounding Great Britain (and the largest outside of Scotland). Anglesey is also the largest island in the Irish Sea by area, and the second most populous island in the Irish Sea (after the Isle of Man). The actual population taken at the 2011 census was 69,751. Two bridges span the Menai Strait, connecting the island to the mainland: the Menai Suspension Bridge, designed by Thomas Telford in 1826, and the Britannia Bridge.
-            Formerly a historic county of Wales and later part of Gwynedd, Anglesey today makes up the Isle of Anglesey County along with Holy Island and other smaller islands. Almost three-quarters of Anglesey's inhabitants are Welsh speakers and Ynys Môn, the Welsh name for the island, is used for the UK Parliament and National Assembly constituencies.</wikipedia>
-            <wikipedia />
-        </town>
-        <town id="anglesey/sir fon#bachau">
-            <name>Bachau</name>
+        <town id="bachau">
+            <name lang="en">Bachau</name>
+            <name lang="cy">Bachau</name>
             <lat>53.328379</lat>
             <lon>-4.355078</lon>
             <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Bachau">Bachau is a small rural hamlet of about a dozen dwellings in Anglesey, north Wales, which is 137 miles (220.5 km) from Cardiff and 218.1 miles (351 km) from London. Bachau is represented in the National Assembly for Wales by Rhun ap Iorwerth (Plaid Cymru) and the Member of Parliament is Albert Owen (Labour Party).</wikipedia>
             <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Bachau">Pentrefan tua chilometr o Lannerch-y-medd, Ynys Môn, Cymru yw Bachau. Mae 137 milltir (220.5 km) o Gaerdydd a 218.1 milltir (351 km) o Lundain.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#beaumaris">
-            <name>Beaumaris</name>
+        <town id="beaumaris">
+            <name lang="en">Beaumaris</name>
+            <name lang="cy">Biwmares</name>
             <lat>53.265865</lat>
             <lon>-4.09199</lon>
             <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Beaumaris">Beaumaris (/bjuːˈmærɨs/; Welsh: Biwmares [bɪuˈmɑːrɛs]) is a former royal borough, a community, and the former county town of Anglesey, Wales. It was located in the commote of Dindaethwy and historic rural deanery of Tindaethwy, and is at the eastern entrance to the Menai Strait, the tidal waterway separating Anglesey from the coast of North Wales. At the 2001 census it had a population of 2,040, reducing to 1,938 at the 2011 Census.</wikipedia>
             <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Biwmares">Mae Biwmares (Saesneg: Beaumaris) yn dref hanesyddol yn ne-ddwyrain Ynys Môn, ar lan Afon Menai. Enw Ffrangeg Normanaidd sydd i'r dref a'i ystyr yw Morfa Deg.
             Yn ôl Cyfrifiad 2011, roedd 1,892 o bobl yn byw yn y gymuned hon a 748 (sef 39.5%) o'r boblogaeth dros dair oed a hŷn yn gallu siarad Cymraeg.[2] Roedd 448 yn ddi-waith, sef 45.7% o'r rhai o fewn yr oedran priodol.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#benllech">
-            <name>Benllech</name>
+        <town id="benllech">
+            <name lang="en">Benllech</name>
+            <name lang="cy">Benllech</name>
             <lat>53.321861</lat>
             <lon>-4.225891</lon>
             <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Benllech">Benllech is a small town on the Isle of Anglesey in Wales. It is in the community of Llanfair-Mathafarn-Eithaf, which has a population of 3,382, making it the 5th largest town by population on the island. The name of Benllech village had been removed by the time of the 2011 census with the community being listed under Llanfair-Mathafarn-Eithaf with the electoral ward being listed under Llanddyfnan.
@@ -101,8 +100,9 @@
             The village has a range of businesses which include public houses and hotels, camping and caravan sites and several bed and breakfasts. The community has a primary school, Ysgol Goronwy Owen; library, doctors' surgery, chemist, several churches, community centre, police and fire station, tennis court and bowling green, and most recently a Tesco Express supermarket. Between 1909 and 1950 there was a railway station close to the village which was the terminus of the Red Wharf Bay branch line. The old station house still exists and several railway bridges can be seen along the road approaching the village.</wikipedia>
             <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Benllech">Tref ar arfordir ddwyreiniol Ynys Môn, ym mhwlyf Llanfair Mathafarn Eithaf yw Benllech. Fe'i lleolir 7 milltir i'r gogledd-ddwyrain o Borthaethwy ar lôn yr A5025, hanner ffordd rhwng Pentraeth a Moelfre. Mae ar Lwybr Arfordirol Ynys Mon. Mae'n ganolfan gwyliau glan-môr boblogaidd yn yr haf ac mae twristiaeth yn chwarae rhan bwysig yn yr economi leol. Mae nifer o dai newydd a byngalos yn gymysg â thai hŷn yn y dref. Mae Traeth Benllech yn lân a diogel. I'r gorllewin ceir meysydd carafanau ar gyfer ymwelwyr.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#bethel">
-            <name>Bethel</name>
+        <town id="bethel">
+            <name lang="en">Bethel</name>
+            <name lang="cy">Bethel</name>
             <lat>53.16313</lat>
             <lon>-4.212325</lon>
             <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Bethel,_Anglesey">Bethel is a relatively small and quiet village set centrally within the wider community and larger Parish of Bodorgan. The village is located inland (approximately three miles) from the south-western coast on the isle of Anglesey in North Wales.</wikipedia>
@@ -110,16 +110,18 @@
             Gorwedd Bethel ar ffordd y B4422 tua milltir i'gogledd o bentref Llangadwaladr a thua dwy filltir i'r gogledd-ddwyrain o Falltraeth.
             Tua chwarter milltir i'r de o Fethel ceir Llyn Coron.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#bodedern">
-            <name>Bodedern</name>
+        <town id="bodedern">
+            <name lang="en">Bodedern</name>
+            <name lang="cy">Bodedern</name>
             <lat>53.294814</lat>
             <lon>-4.502152</lon>
             <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Bodedern">Bodedern is a village and community in the west of Anglesey, Wales. At the 2001 census, it had a population of 1,074, decreasing slightly to 1,051 at the 2011 census. The village has a bilingual primary school, Ysgol Gynradd Bodedern, and secondary school, Ysgol Uwchradd Bodedern. The village's football team, Bodedern Athletic F.C. play in the Welsh Alliance League. Bodedern is the closest village to the island's largest natural lake, Llyn Llywenan, 1 kilometre (0.6 mi) to the north. The parish church (St Edern's Church, Bodedern) dates from the 14th century and is a Grade II* listed building. The Valley Wetlands are the other side of the A55 about 2 miles from Bodedern.
             Presaddfed Hall is a small grade II* listed country house which stands amongst woodlands to the north-east of the village at the southern tip of Llyn Llywenan. The main block was built in 1686 and is joined to an earlier block by a later block built in 1875. A walled garden lies to the east of the house  Once the seat of the Lewis family, several of whom served as High Sheriff of Anglesey, it is now a country hotel.</wikipedia>
             <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Bodedern">Pentref a chymuned yng ngorllewin Ynys Môn yw Bodedern. Yn ôl Cyfrifiad 2011, roedd 1,016 o bobl yn byw yn y gymuned hon a 718 (sef 70.7%) o'r boblogaeth dros dair oed a hŷn yn gallu siarad Cymraeg. Roedd 142 yn ddi-waith, sef 32.1% o'r rhai o fewn yr oedran priodol.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#bodewryd">
-            <name>Bodewryd</name>
+        <town id="bodewryd">
+            <name lang="en">Bodewryd</name>
+            <name lang="cy">Bodewryd</name>
             <lat>53.387309</lat>
             <lon>-4.405427</lon>
             <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Bodewryd">Bodewryd is a village in Anglesey, Wales.</wikipedia>
@@ -128,8 +130,9 @@
             Roedd Plas Bodewryd yn adnabyddus fel un o'r tai a noddai beirdd Môn yn yr Oesoedd Canol.
             Brodor o Fodewryd oedd Edward Wyn (m. 1637), gŵr y brydyddes Elen Gwdman.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#bodffordd">
-            <name>Bodffordd</name>
+        <town id="bodffordd">
+            <name lang="en">Bodffordd</name>
+            <name lang="cy">Bodffordd</name>
             <lat>53.265662</lat>
             <lon>-4.359899</lon>
             <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Bodffordd">Bodffordd is a village and community in central Anglesey, Wales. At the 2011 census, the population of the community was 960.
@@ -140,53 +143,60 @@
             <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Bodffordd">Pentref bychan a chymuned yng nghanol Ynys Môn yw Bodffordd (neu Botffordd). Fe'i lleolir ar y lôn gefn B 5109 tua dwy filltir a hanner i'r gorllewin o Langefni, ar ben deheuol Llyn Cefni. Tri chwarter milltir i'r de mae Heneglwys ac mae Bodffordd ei hun yn rhan o'r plwyf honno.
             Fymryn i'r gorllewin o'r pentref ceir Maes Awyr Môn.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#braint">
-            <name>Braint</name>
+        <town id="braint">
+            <name lang="en">Braint</name>
+            <name lang="cy">Braint</name>
             <lat>53.2746792</lat>
             <lon>-4.1955864</lon>
             <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Braint">Braint is the name of one of the 40 wards of the Isle of Anglesey County Council, covering part of the area of the community of Llanfairpwllgwyngyll. The ward contained 1,173 electors in 2007, increasing to 1,517 at the 2011 Census.</wikipedia>
             <wikipedia />
         </town>
-        <town id="anglesey/sir fon#bryn celyn">
-            <name>Bryn Celyn</name>
-            <lat />
-            <lon />
+        <town id="bryn celyn">
+            <name lang="en">Bryn Celyn</name>
+            <name lang="cy">Bryn Celyn</name>
+            <lat>53.361008</lat>
+            <lon>-4.302622</lon>
             <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Bryn_Celyn,_Llangoed">Bryn Celyn is an area in the community of Llangoed, Ynys Môn, Wales, which is 131.2 miles (211.1 km) from Cardiff and 207.8 miles (334.4 km) from London.</wikipedia>
             <wikipedia />
         </town>
-        <town id="anglesey/sir fon#bryn du">
-            <name>Bryn Du</name>
-            <lat />
-            <lon />
+        <town id="bryn du">
+            <name lang="en">Bryn Du</name>
+            <name lang="cy">Bryn Du</name>
+            <lat>53.275098</lat>
+            <lon>-4.492951</lon>
             <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Bryn Du">Bryn Du is a village in Anglesey, in north-west Wales. Its a cool place, you should go here one day.</wikipedia>
             <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Bryn Du">Mae Bryn Du yn gopa mynydd a geir yn Ne-orllewin Cymru; cyfeiriad grid SN845800. Uchder cymharol, neu ”amlygrwydd” y copa, ydy 498 metr: dyma'r uchder mae'r copa'n codi uwchlaw'r mynydd agosaf.
             Dosberthir copaon Cymru, a gweddill gwledydd Prydain, yn rhestri arbennig yn ôl uchder ac yn ôl amlygrwydd y copa; mae'r copa hwn yn cael ei alw'n Dewey. Mae sawl cymdeithas yn mesur, gwiro a chasglu'r rhestri hyn a dônt ynghŷd ar wefan “Database of British and Irish hills”. Uchder y copa o lefel y môr ydy 562 metr (1844 tr). Cafodd yr uchder ei fesur a'i gadarnhau ar 10 Mawrth 2007.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#bryngwran">
-            <name>Bryngwran</name>
+        <town id="bryngwran">
+            <name lang="en">Bryngwran</name>
+            <name lang="cy">Bryngwran</name>
             <lat>53.269233</lat>
             <lon>-4.473994</lon>
             <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Bryngwran">Bryngwran is a village and community in the Welsh county of Anglesey, located on the A5 London to Holyhead trunk road. It lies 8.1 miles (13.0 km) west of Llangefni, 7.0 miles (11.3 km) south west of Llannerch-y-medd and 7.4 miles (11.9 km) south east of Holyhead, and includes the villages of Bryngwran, Capel Gwyn and Engedi. At the 2001 census the community had a population of 781, increasing to 894 at the 2011 election.
             Saint Peulan's Church stands in an isolated position at Llanbeulan, in the south east of the community. A medieval building, it partly dates from the 12th century, but was extended in the 14th, and restored in the mid-19th century. The gritstone font dates from late 12th century. It is considered an example of a "rural medieval church retaining its simple character" and is Grade II* listed. Pandy Treban, a former fulling mill in the north of the community, and the 18th-century bridge at Pont Factory Cymunod, over the Afon Crigyll on the border with Bodedern, are Grade II listed.</wikipedia>
             <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Bryngwran">Pentref a chymuned yng ngogledd-orllewin Ynys Môn yw Bryngwran(cyfeiriad grid SH351774). Saif ar y briffordd A5, rhwng Caergeiliog a Gwalchmai. Hyd yn ddiweddar, roedd y drafnidiaeth i Gaergybi yn mynd trwy'r pentref, ond wedi adeiladu'r A55, sy'n mynd ychydig i'r de o'r pentref, mae'n ddistawach. Mae'r rhan fwyaf o'r pentref ym mhlwyf eglwysig Llechylched, gydag ychydig o'r rhan ddwyreiniol ym mhlwyf Llanbeulan.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#brynrefail">
-            <name>Brynrefail</name>
+        <town id="brynrefail">
+            <name lang="en">Brynrefail</name>
+            <name lang="cy">Brynrefail</name>
             <lat>53.141036</lat>
             <lon>-4.1549319</lon>
             <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Brynrefail">Brynrefail is a small village in north-east Anglesey, Wales.</wikipedia>
             <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Brynrefail,_Ynys_M%C3%B4n">Pentref bychan yng ngogledd-ddwyrain Ynys Môn yw Brynrefail. Saif ar y briffordd A5025, tua hanner y ffordd rhwng Amlwch a Benllech.
             Saif y pentref yn agos i Draeth Dulas a Thraeth Llugwy, ac mae twristiaeth yn bwysig yn yr ardal, gyda nifer o wersylloedd carafannau. Dyddia'r eglwys i ddiwedd y 19eg ganrif, ac agorwyd neuadd gymumedol yn 1995. Ceir yma hefyd ganolfan arddio a Tyddyn Môn, canolfan ddysgu i rai dan anfantais.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#brynsiencyn">
-            <name>Brynsiencyn</name>
+        <town id="brynsiencyn">
+            <name lang="en">Brynsiencyn</name>
+            <name lang="cy">Brynsiencyn</name>
             <lat>53.180068</lat>
             <lon>-4.270603</lon>
             <wikipedia />
             <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Brynsiencyn">Pentref yn ne-orllewin Ynys Môn, ym mhlwyf Llanidan, ar y ffordd A4080 rhwng Llanfairpwllgwyngyll a Niwbwrch, yw Brynsiencyn. O ganol y pentref, mae ffordd arall yn arwain i lawr at Afon Menai, lle mae Sw Môr Môn.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#brynteg">
-            <name>Brynteg</name>
+        <town id="brynteg">
+            <name lang="en">Brynteg</name>
+            <name lang="cy">Brynteg</name>
             <lat>53.065927</lat>
             <lon>-3.039355</lon>
             <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Brynteg,_Anglesey">Brynteg is a crossroads village and post town on the Isle of Anglesey, North Wales.
@@ -197,393 +207,309 @@
             Ceir hen felin wynt ar gyrion y pentref a hefyd cwrs golff Brynteg. Mae tafarn y California Arms yng nghanol y pentref.
             Tua chwarter milltir i'r dwyrain o Frynteg ceir hen fryngaer o'r enw Dinas.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#bull bay (porthllechog)">
-            <name>Bull Bay (Porthllechog)</name>
-            <lat />
-            <lon />
-            <wikipedia />
-            <wikipedia />
+        <town id="bull bay (porthllechog)">
+            <name lang="en">Bull Bay</name>
+            <name lang="cy">Porthllechog</name>
+            <lat>53.416040</lat>
+            <lon>-4.363531</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Bull_Bay,_Anglesey">Bull Bay (Welsh: Porth Llechog) is a village and bay on the northern coast of Anglesey, Wales. Its Welsh name, Porth Llechog, means \"sheltered bay\". The English name is derived from Pwll y Tarw (\"the bull's pool\"), which is located near the shore close to the bay.\nThe village is located on the A5025. It is the most northerly village in Wales and also contains Wales' most northerly golf course which was opened and funded by a local aristocrat in 1913. The island of East Mouse lies within the bay, the coastline of which is rocky and contains many caves. Some of these rocks are over 570 million years old which make them amongst the oldest in Wales.\nBull bay is the home of Trireme Ynys Mon Rowing Club, a sea rowing club affiliated to the Welsh Sea Rowing Association. With regular training sessions taking place from the slipway in the village, and all ages and abilities are welcomed.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Porth_Llechog">Pentref bychan a bae ar arfordir gogledd Ynys M\u00f4n ger Amlwch yw Porth Llechog (Saesneg: Bull Bay). Gorwedd ychydig dros filltir i'r gogledd-orllewin o dref fechan Amlwch.\nMae bae Porth Llechog yn ffurffio harbwr naturiol ar arfordir creigiog y rhan yma o'r ynys. Diau i'r porth gael ei ddefnyddio am ganrifoedd, ond cymharol diweddar yw'r pentref bychan sydd wedi tyfu yno. Mae'r dafarn Bull Bay yn boblogaidd. Ceir traeth o gerrig m\u00e2n sy'n denu ymwelwyr a physgotwyr.\nRhed y ffordd A5025 trwy'r pentref, gan ei gysylltu ag Amlwch i'r de-ddwyrain a Chemaes i'r gorllewin.\nCeir cofnodion am gymuned ganolesol ger y bae o'r enw 'Llechog', a fu'n rhan o gwmwd Twrcelyn, cantref Cemais. Er nad oes sicrwydd, mae'n bosibl fod y bardd a brudiwr canoloesol Adda Fras yn frodor o Lechog. Porth y gymuned fechan honno oedd Porth Llechog yn wreiddiol, felly.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#burwen">
-            <name>Burwen</name>
+        <town id="burwen">
+            <name lang="en">Burwen</name>
+            <name lang="cy">Burwen</name>
             <lat>53.412656</lat>
             <lon>-4.381629</lon>
             <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Burwen">Burwen is a village in Anglesey, Wales.</wikipedia>
-            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Burwen">Ardal yng nghymuned Amlwch, Ynys Môn, Cymru yw Burwen. Mae 142.7 milltir (229.7 km) o Gaerdydd a 222 milltir (357.3 km) o Lundain.
-Cynrychiolir Burwen yn y Cynulliad Cenedlaethol gan Rhun ap Iorwerth (Plaid Cymru) a'r Aelod Seneddol yw Albert Owen (Y Blaid Lafur).</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Burwen">Ardal yng nghymuned Amlwch, Ynys Môn, Cymru yw Burwen. Mae 142.7 milltir (229.7 km) o Gaerdydd a 222 milltir (357.3 km) o Lundain. Cynrychiolir Burwen yn y Cynulliad Cenedlaethol gan Rhun ap Iorwerth (Plaid Cymru) a'r Aelod Seneddol yw Albert Owen (Y Blaid Lafur).</wikipedia>
         </town>
-        <town id="anglesey/sir fon#caergeiliog">
-            <name>Caergeiliog</name>
+        <town id="caergeiliog">
+            <name lang="en">Caergeiliog</name>
+            <name lang="cy">Caergeiliog</name>
             <lat>53.275107</lat>
             <lon>-4.533333</lon>
             <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Caergeiliog">Caergeiliog is a village in Anglesey, in north-west Wales.</wikipedia>
-            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Caergeiliog">Mae Caergeiliog yn bentref yng ngogledd-orllewin Ynys Môn. Saif ar y briffordd A5, ychydig i'r de-ddwyrain o'r Fali. Mae yng nghymuned Llanfair-yn-Neubwll.
-Hyd yn ddiweddar, roedd y drafnidiaeth i Gaergybi yn mynd trwy'r pentref, ond wedi adeiladu'r A55, sy'n mynd ychydig i'r gogledd o'r pentref, mae'n ddistawach. Yn y pentref, gellir gweld un o'r tri tolldy gwreiddiol sydd wedi eu cadw o'r rhai oedd ar yr A5; mae yn awr yn dŷ preifat.
-Ychydig i'r de o'r pentref mae Llyn Dinam a gwarchodfa adar RSPB Gwlyptiroedd y Fali.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Caergeiliog">Mae Caergeiliog yn bentref yng ngogledd-orllewin Ynys Môn. Saif ar y briffordd A5, ychydig i'r de-ddwyrain o'r Fali. Mae yng nghymuned Llanfair-yn-Neubwll. Hyd yn ddiweddar, roedd y drafnidiaeth i Gaergybi yn mynd trwy'r pentref, ond wedi adeiladu'r A55, sy'n mynd ychydig i'r gogledd o'r pentref, mae'n ddistawach. Yn y pentref, gellir gweld un o'r tri tolldy gwreiddiol sydd wedi eu cadw o'r rhai oedd ar yr A5; mae yn awr yn dŷ preifat. Ychydig i'r de o'r pentref mae Llyn Dinam a gwarchodfa adar RSPB Gwlyptiroedd y Fali.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#caergybi (holyhead)">
-            <name>Caergybi (Holyhead)</name>
-            <lat />
-            <lon />
-            <wikipedia />
-            <wikipedia />
+        <town id="holyhead">
+            <name lang="en">Holyhead</name>
+            <name lang="cy">Caergybi</name>
+            <lat>53.309302</lat>
+            <lon>-4.633250</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Holyhead">Holyhead (/\u02c8h\u0252l\u026ah\u025bd/ HOL-i-hed; Welsh: Caergybi [k\u0251\u02d0\u0268r\u02c8\u0261\u0259bi], \"Cybi's fort\") is the largest town in the county of Isle of Anglesey in Wales. It is also a community and a major Irish Sea port, serving Ireland.\nDespite being the largest town in the county, with a population of 11,431 at the 2011 census, it is neither the county town nor actually on the island of Anglesey. Holyhead is located on Holy Island, which has a population of 13,659 at the 2011 census. It was originally connected to Anglesey via Four Mile Bridge, so called because the bridge was four miles (6 km) from Holyhead on the old turnpike Road. In the mid 19th century, Lord Stanley, a local philanthropist, funded the building of a larger causeway, known locally as \"The Cobb\", it now carries the A5 and the railway line. The A55 dual carriageway runs parallel to the Cobb on a modern causeway.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Caergybi">Caergybi (Saesneg: Holyhead) yw tref fwyaf Sir F\u00f4n (efo poblogaeth o tua 12,000). Saif ar ochr orllewinol Ynys Gybi ar lan Bae Caergybi, sy'n fraich o F\u00f4r Iwerddon. Mae'r dref yn borthladd mawr: mae sawl fferi yn teithio rhwng Caergybi a Dulyn a D\u00fan Laoghaire yn Iwerddon. Mae Llwybr Arfordirol Ynys M\u00f4n yn cychwyn ac yn gorffen yn y dref.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#caim">
-            <name>Caim</name>
+        <town id="caim">
+            <name lang="en">Caim</name>
+            <name lang="cy">Caim</name>
             <lat>53.305441</lat>
             <lon>-4.070905</lon>
-            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Caim">Caim is a Gaelic rendering of biblical 'Cain', who appears in a variation of the fantastical pedigree of Dardanus of Troy that is spun out in Lebor Bretnach, the Middle Irish language recension of the compilation called Historia Brittonum, known in the 9th century version by Nennius. The Lebor Bretnach, greatly modifies the genealogy given in Nennius, making emendations to earlier sources and tracing the line through Ham rather than Japheth with further spurious names:
-Dardain m. Ioib m. Sadoirn m. Peil m. Palloir m. Zorastres m. Mesraim m. Caim.
-In the predominantly Welsh-speaking regions of Wales (Gwynedd, Dyfed and Ynys Mon), Cain, Caio, Caim and Cail are commonplace first names for males. These names are derivatives of an ancient Welsh name "Ca" which is recorded in the book of Welsh folklore called the Mabinogion.</wikipedia>
+            <wikipedia />
             <wikipedia />
         </town>
-        <town id="anglesey/sir fon#capel coch">
-            <name>Capel Coch</name>
-            <lat />
-            <lon />
+        <town id="capel coch">
+            <name lang="en">Capel Coch</name>
+            <name lang="cy">Capel Coch</name>
+            <lat>53.316689</lat>
+            <lon>-4.314103</lon>
             <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Capel Coch">Capel Coch is a small village in Anglesey, in north-west Wales. Much of the village over looks Cors Erddreiniog National Nature Reserve.</wikipedia>
-            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Capel Coch">Pentref bychan yng nghymuned Llanddyfnan yng nghanolbarth Ynys Môn yw Capel Coch. Saif ar ffordd gefn, i'r gogledd o dref Llangefni ac i'r gorllewin o Benllech, ym mhlwyf Llanfihangel Tre'r Beirdd. Mae 135.5 milltir (218.1 km) o Gaerdydd a 216.1 milltir (347.8 km) o Lundain.
-Ceir ysgol gynradd yno, Ysgol Tŷ Mawr, yr ysgol leiaf ym Môn. Fymryn i'r dwyrain o'r pentref mae Cors Erddreiniog, sy'n Warchodfa Natur Genedlaethol.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Capel Coch">Pentref bychan yng nghymuned Llanddyfnan yng nghanolbarth Ynys Môn yw Capel Coch. Saif ar ffordd gefn, i'r gogledd o dref Llangefni ac i'r gorllewin o Benllech, ym mhlwyf Llanfihangel Tre'r Beirdd. Mae 135.5 milltir (218.1 km) o Gaerdydd a 216.1 milltir (347.8 km) o Lundain. Ceir ysgol gynradd yno, Ysgol Tŷ Mawr, yr ysgol leiaf ym Môn. Fymryn i'r dwyrain o'r pentref mae Cors Erddreiniog, sy'n Warchodfa Natur Genedlaethol.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#capel gwyn">
-            <name>Capel Gwyn</name>
-            <lat />
-            <lon />
+        <town id="capel gwyn">
+            <name lang="en">Capel Gwyn</name>
+            <name lang="cy">Capel Gwyn</name>
+            <lat>53.251771</lat>
+            <lon>-4.473757</lon>
             <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Capel Gwyn">Capel Gwyn is a village in Anglesey, in north-west Wales.</wikipedia>
-            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Capel Gwyn">Gallai Capel Gwyn gyfeirio at:
-Pentrefi
-Capel Gwyn, Sir Gaerfyrddin
-Capel Gwyn, Ynys Môn</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Capel_Gwyn,_Ynys_M%C3%B4n">Pentref bychan yng nghymuned Bryngwran ar Ynys M\u00f4n yw Capel Gwyn. Fe'i lleolir yng ngorllewin yr ynys tua milltir i'r de o'r A5 tua hanner ffordd rhwng Caergybi a Llangefni. Mae 134.1 milltir (215.8 km) o Gaerdydd a 219.4 milltir (353.1 km) o Lundain.\nTua 2 filltir i'r gorllewin ceir Gwlyptiroedd y Fali.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#capel mawr">
-            <name>Capel Mawr</name>
-            <lat />
-            <lon />
-            <wikipedia />
-            <wikipedia />
+        <town id="capel mawr">
+            <name lang="en">Capel Mawr</name>
+            <name lang="cy">Capel Mawr</name>
+            <lat>53.219590</lat>
+            <lon>-4.373789</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Capel_Mawr,_Llangristiolus">Capel Mawr is a hamlet in the community of Llangristiolus, Ynys Môn, Wales, which is 130.3 miles (209.7 km) from Cardiff and 214.6 miles (345.4 km) from London. The chapel of the same name (Capel Mawr) was built in 1773.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Capel_Mawr,_Ynys_M%C3%B4n">Pentrefan yng nghymuned Llangristiolus, Ynys Môn, Cymru yw Capel Mawr. Mae 130.3 milltir (209.7 km) o Gaerdydd a 214.6 milltir (345.4 km) o Lundain. Cynrychiolir Capel Mawr yn y Cynulliad Cenedlaethol gan Rhun ap Iorwerth (Plaid Cymru) a'r Aelod Seneddol yw Albert Owen (Y Blaid Lafur).</wikipedia>
         </town>
-        <town id="anglesey/sir fon#capel parc">
-            <name>Capel Parc</name>
-            <lat />
-            <lon />
-            <wikipedia />
-            <wikipedia />
+        <town id="capel parc">
+            <name lang="en">Capel Parc</name>
+            <name lang="cy">Capel Parc</name>
+            <lat>53.356441</lat>
+            <lon>-4.333474</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Capel_Parc,_Rhosybol">Capel Parc is a hamlet in the community of Rhosybol, Ynys M\u00f4n, Wales, which is 138.6 miles (223 km) from Cardiff and 218.4 miles (351.5 km) from London.\nTo the south of the village is Melin Esgob (an early 19th century water corn mill), which is a Grade II listed building.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Capel_Parc,_Ynys_M%C3%B4n">Pentrefan yng nghymuned Rhosybol, Ynys M\u00f4n, Cymru yw Capel Parc. Mae 138.6 milltir (223 km) o Gaerdydd a 218.4 milltir (351.5 km) o Lundain.\nCynrychiolir Capel Parc yn y Cynulliad Cenedlaethol gan Rhun ap Iorwerth (Plaid Cymru) a'r Aelod Seneddol yw Albert Owen (Y Blaid Lafur).</wikipedia>
         </town>
-        <town id="anglesey/sir fon#carmel">
-            <name>Carmel</name>
-            <lat>53.281435</lat>
-            <lon>-3.241424</lon>
-            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Carmel">Carmel in the Bible refers to two distinct places:
-Mount Carmel, coastal mountain range in Israel overlooking the Mediterranean Sea
-Carmel (biblical settlement), an ancient Israelite town in Judea
-The word Carmel (Hebrew language: כַּרְמֶל) means "fresh" (planted), or "vineyard" (planted) and Karmiel (Hebrew: כַּרְמִיאֵל) is a portmanteau meaning "God's Vineyard".
-In modern times, the name was also given to:</wikipedia>
-            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Carmel">Gallai Carmel gyfeirio at un o sawl peth:</wikipedia>
+        <town id="carmel">
+            <name lang="en">Carmel</name>
+            <name lang="cy">Carmel</name>
+            <lat>53.313355</lat>
+            <lon>-4.420728</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Carmel,_Anglesey">Carmel is a village in Anglesey, in north-west Wales.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Carmel,_Ynys_M%C3%B4n">Pentref bychan yng nghymuned Llannerch-y-medd ar Ynys Môn yw Carmel. Fe'i lleolir ar y lôn B5112 tua dwy filltir a hanner i'r de-orllewin o Lannerch-y-medd. Y pentref agosaf i gyfeiriad y de yw Trefor, hefyd ar y B5112. Mae 137.1 milltir (220.7 km) o Gaerdydd a 219.8 milltir (353.7 km) o Lundain.Fel sawl lle arall yng Nghymru, mae enw'r pentref yn tarddu o'r enw beiblaidd Mynydd Carmel.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#carmel head">
-            <name>Carmel Head</name>
-            <lat />
-            <lon />
+        <town id="carmel head">
+            <name lang="en">Carmel Head</name>
+            <name lang="cy">Carmel Head</name>
+            <lat>53.316678</lat>
+            <lon>-4.633494</lon>
             <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Carmel Head">Carmel Head is a prominent coastal headland on the north-west tip of the island of Anglesey.
-It is a designated SSSI because of its geological interest for the Carmel Head Thrust fault where Precambrian rocks have been pushed over younger Ordovician rocks creating the Carmel Head thrust. Rock exposures along the cliffs of Carmel Head include Precambrian gneisses, which are almost certainly the oldest rocks in Wales.
-Off-shore from the head lie the islands of the Skerries and to the east of the Skerries three further islands, West Mouse, Middle Mouse and East Mouse. On West Mouse is a large white-painted column which is matched on Carmel Head by two further columns, known locally as the "Three White Ladies". They were constructed in the 1860s as navigation aids: lining up the three columns marks the position of a shallow reef offshore that was a grave danger to shipping.
-In the summer months the Anglesey Coastal Path passes over Carmel Head on a permissive path but in winter the path is closed to all for pheasant shooting.</wikipedia>
+            It is a designated SSSI because of its geological interest for the Carmel Head Thrust fault where Precambrian rocks have been pushed over younger Ordovician rocks creating the Carmel Head thrust. Rock exposures along the cliffs of Carmel Head include Precambrian gneisses, which are almost certainly the oldest rocks in Wales.
+            Off-shore from the head lie the islands of the Skerries and to the east of the Skerries three further islands, West Mouse, Middle Mouse and East Mouse. On West Mouse is a large white-painted column which is matched on Carmel Head by two further columns, known locally as the "Three White Ladies". They were constructed in the 1860s as navigation aids: lining up the three columns marks the position of a shallow reef offshore that was a grave danger to shipping.
+            In the summer months the Anglesey Coastal Path passes over Carmel Head on a permissive path but in winter the path is closed to all for pheasant shooting.</wikipedia>
             <wikipedia />
         </town>
-        <town id="anglesey/sir fon#carreglefn">
-            <name>Carreglefn</name>
+        <town id="carreglefn">
+            <name lang="en">Carreglefn</name>
+            <name lang="cy">Carreglefn</name>
             <lat>53.37501</lat>
             <lon>-4.430814</lon>
             <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Carreglefn">Carreglefn is a village in Anglesey, in north-west Wales.</wikipedia>
-            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Carreglefn">Pentref bychan yng ngogledd Ynys Môn yw Carreglefn (weithiau Carreg-lefn neu (Y) Garreg(-)lefn). Mae'n bentref anghysbell sy'n gorwedd rhwng Llanfechell i'r gogledd-orllewin a glannau Llyn Alaw i'r de.
-Mae'n rhan o blwyf Llanfechell. Milltir i'r gogledd-ddwyrain ceir cymuned fechan Bodewryd.
-Mae llefn yn ffurf fenywaidd ar yr ansoddair llyfn.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Carreglefn">Pentref bychan yng ngogledd Ynys Môn yw Carreglefn (weithiau Carreg-lefn neu (Y) Garreg(-)lefn). Mae'n bentref anghysbell sy'n gorwedd rhwng Llanfechell i'r gogledd-orllewin a glannau Llyn Alaw i'r de. Mae'n rhan o blwyf Llanfechell. Milltir i'r gogledd-ddwyrain ceir cymuned fechan Bodewryd. Mae llefn yn ffurf fenywaidd ar yr ansoddair llyfn.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#cefni">
-            <name>Cefni</name>
-            <lat>51.662809</lat>
-            <lon>-3.9333247</lon>
-            <wikipedia />
-            <wikipedia />
-        </town>
-        <town id="anglesey/sir fon#cefni reservoir">
-            <name>Cefni Reservoir</name>
-            <lat />
-            <lon />
+        <town id="cefni">
+            <name lang="en">Cefni</name>
+            <name lang="cy">Cefni</name>
+            <lat>53.256389</lat>
+            <lon>-4.304005</lon>
             <wikipedia />
             <wikipedia />
         </town>
-        <town id="anglesey/sir fon#cemaes">
-            <name>Cemaes</name>
+        <town id="cemaes">
+            <name lang="en">Cemaes</name>
+            <name lang="cy">Cemaes</name>
             <lat>53.412797</lat>
             <lon>-4.451736</lon>
-            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Cemaes">Cemaes is a village on the north coast of Anglesey in Wales, sited on Cemaes Bay, an Area of Outstanding Natural Beauty which is partly owned by the National Trust. It is the most northerly village in Wales. The name Cemaes was originally spelt Cei Maes meaning Quay Area, but over the years the i has been dropped. In 2011 the population of Cemaes (Llanbadrig ward) was 1,357.
-Cemaes is a fishing port and is known for its beach. It has a sheltered natural harbour that looks north to the Irish Sea and is the site of an ancient settlement. Cemaes also has a wind farm and at nearby Wylfa is a nuclear power station. The river in the village is the River Wygyr, which flows from just below Parys Mountain to the sea at Cemaes. It is joined along the way by the Afon Meddanen on Carrog Farm, Carrog. The name Wygyr is Welsh and means 'where two rivers meet'.
-Since the Victorian era the picturesque character of Cemaes and the natural beauty of the island have attracted many artists and tourists. Lloyd George used to visit here. Cemaes is located on the Anglesey Coastal Path and is popular with walkers.
-The village football team, Cemaes Bay F.C., play in the Welsh Alliance League, but previously have played in the League of Wales, being the first team on Anglesey to do so.</wikipedia>
-            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Cemaes">Gweler hefyd: Cemmaes (ym Mhowys), Cemais (cantref ym Môn) a Cemais (cantref yn Nyfed).
-Mae Cemaes yn bentref gweddol fawr ar arfordir gogleddol Ynys Môn, ger Bae Cemaes lle mae Afon Wygyr yn cyrraedd y môr. Mae'n rhan o gymuned Llanbadrig. Saif ger y briffordd A5025 rhwng Amlwch a Llanrhuddlad. Mae'n hawlio bod y pentref mwyaf gogleddol yng Nghymru, er y gellid dadlau fod pentref Llanbadrig fwy i'r gogledd.
-Pentref gwyliau yw Cemaes yn bennaf erbyn heddiw, er bod pysgota wedi bod yn bwysig yn y gorffennol. Ceir dau draeth, harbwr, amrywiaeth o siopau a nifer o westai. Mae'r ardal o gwmpas y pentref yn Ardal o Harddwch Naturiol Eithriadol ac mae Llwybr Arfordirol Ynys Môn yn mynd heibio'r pentref. Ychydig i'r gorllewin o'r pentref mae gorsaf bŵer niwcliar yr Wylfa.</wikipedia>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Cemaes">Cemaes is a village on the north coast of Anglesey in Wales, sited on Cemaes Bay, an Area of Outstanding Natural Beauty which is partly owned by the National Trust. It is the most northerly village in Wales. The name Cemaes was originally spelt Cei Maes meaning Quay Area, but over the years the i has been dropped. In 2011 the population of Cemaes (Llanbadrig ward) was 1,357. 
+            Cemaes is a fishing port and is known for its beach. It has a sheltered natural harbour that looks north to the Irish Sea and is the site of an ancient settlement. Cemaes also has a wind farm and at nearby Wylfa is a nuclear power station. The river in the village is the River Wygyr, which flows from just below Parys Mountain to the sea at Cemaes. It is joined along the way by the Afon Meddanen on Carrog Farm, Carrog. The name Wygyr is Welsh and means 'where two rivers meet'.
+            Since the Victorian era the picturesque character of Cemaes and the natural beauty of the island have attracted many artists and tourists. Lloyd George used to visit here. Cemaes is located on the Anglesey Coastal Path and is popular with walkers.
+            The village football team, Cemaes Bay F.C., play in the Welsh Alliance League, but previously have played in the League of Wales, being the first team on Anglesey to do so.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Cemaes">Gweler hefyd: Cemmaes (ym Mhowys), Cemais (cantref ym Môn) a Cemais (cantref yn Nyfed). 
+            Mae Cemaes yn bentref gweddol fawr ar arfordir gogleddol Ynys Môn, ger Bae Cemaes lle mae Afon Wygyr yn cyrraedd y môr. Mae'n rhan o gymuned Llanbadrig. Saif ger y briffordd A5025 rhwng Amlwch a Llanrhuddlad. Mae'n hawlio bod y pentref mwyaf gogleddol yng Nghymru, er y gellid dadlau fod pentref Llanbadrig fwy i'r gogledd.
+            Pentref gwyliau yw Cemaes yn bennaf erbyn heddiw, er bod pysgota wedi bod yn bwysig yn y gorffennol. Ceir dau draeth, harbwr, amrywiaeth o siopau a nifer o westai. Mae'r ardal o gwmpas y pentref yn Ardal o Harddwch Naturiol Eithriadol ac mae Llwybr Arfordirol Ynys Môn yn mynd heibio'r pentref. Ychydig i'r gorllewin o'r pentref mae gorsaf bŵer niwcliar yr Wylfa.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#cerrig-man">
-            <name>Cerrig-man</name>
+        <town id="cerrig-man">
+            <name lang="en">Cerrig-man</name>
+            <name lang="cy">Cerrig-man</name>
             <lat>53.3926394</lat>
             <lon>-4.4743512</lon>
-            <wikipedia />
-            <wikipedia />
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Cerrig_M%C3%A2n">Cerrig Man is a village in Anglesey, in north-west Wales.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Cerrig-m%C3%A2n">Pentrefan yng nghymuned Llaneilian, Ynys Môn, Cymru yw Cerrig-mân. Mae 140.9 milltir (226.7 km) o Gaerdydd a 219.7 milltir (353.5 km) o Lundain.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#cerrigceinwen">
-            <name>Cerrigceinwen</name>
+        <town id="cerrigceinwen">
+            <name lang="en">Cerrigceinwen</name>
+            <name lang="cy">Cerrigceinwen</name>
             <lat>53.237108</lat>
             <lon>-4.361644</lon>
             <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Cerrigceinwen">Cerrigceinwen is a hamlet in the community of Llangristiolus, Ynys Môn, Wales.</wikipedia>
-            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Cerrigceinwen">Plwyf a phentref bychan ar wasgar ym Môn yw Cerrigceinwen (neu Cerrig Ceinwen). Fe'i lleolir yn ne-orllewin yr ynys tua 2 filltir a hanner i'r de-orllewin o Langefni.
-Enwir Cerrigceinwen ar ôl Ceinwen, santes leol a gysylltir â Llangeinwen ar yr ynys yn ogystal. Mae'n bosibl bod cerrig neu feini goffa yma ar un adeg, ond does dim byd i'w weld erbyn heddiw. Cofnodir ffynnon sanctaidd o'r enw 'Ffynnon Cerrig Ceinwen' yn y plwyf yn 1893.
-Rhed Afon Ffraw trwy'r plwyf.
-Yn yr Oesoedd Canol roedd Cerrigceinwen yn rhan o gwmwd Malltraeth, cantref Aberffraw, gyda'i llys yn Bodhenlli.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Cerrigceinwen">Plwyf a phentref bychan ar wasgar ym Môn yw Cerrigceinwen (neu Cerrig Ceinwen). Fe'i lleolir yn ne-orllewin yr ynys tua 2 filltir a hanner i'r de-orllewin o Langefni. Enwir Cerrigceinwen ar ôl Ceinwen, santes leol a gysylltir â Llangeinwen ar yr ynys yn ogystal. Mae'n bosibl bod cerrig neu feini goffa yma ar un adeg, ond does dim byd i'w weld erbyn heddiw. Cofnodir ffynnon sanctaidd o'r enw 'Ffynnon Cerrig Ceinwen' yn y plwyf yn 1893.
+            Rhed Afon Ffraw trwy'r plwyf.
+            Yn yr Oesoedd Canol roedd Cerrigceinwen yn rhan o gwmwd Malltraeth, cantref Aberffraw, gyda'i llys yn Bodhenlli.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#city dulas">
-            <name>City Dulas</name>
-            <lat />
-            <lon />
-            <wikipedia />
-            <wikipedia />
-        </town>
-        <town id="anglesey/sir fon#crigyll">
-            <name>Crigyll</name>
+        <town id="crigyll">
+            <name lang="en">Crigyll</name>
+            <name lang="cy">Crigyll</name>
             <lat>53.2347534</lat>
             <lon>-4.515959</lon>
             <wikipedia />
             <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Crigyll">Traeth yn ymyl Rhosneigr, Ynys Môn yw Crigyll neu Traeth Crigyll. Mae Afon Crigyll yn cyrraedd y môr yno. I'r gogledd ceir maes awyr y Fali.
-Byddai lladron Crigyll yn enwog am ysbeilio llongau wrth iddynt daro'r creigiau. Yn 1740 ysbeiliodd nifer o'r trigolion y Loveday &amp; Betty Cawsant eu herlyn yn Llys Biwmaris yn 1741 ond fe'u cafwyd yn ddieuog er eu bod wedi eu dal gyda nwyddau o'r llong. Gweler hefyd hanes trigolion Pen-bre ger Caerfyrddin.
-Yn Hydref 1867 cyhoeddwyd erthygl yn The Times, a oedd yn cofnodi llongddrylliad yr Earl of Chester , gan ddweud, “The wreck is now a prey to the notorious wreckers of the coast known to Welsh seafaring men as lladron Crugyll (the Crugyll robbers). Many hundreds of them were there yesterday stealing whatever they could carry away.”
-Ysgrifennodd Lewis Morris (1701-1765) gerdd ddychanol adnabyddus yn dymuno gweld crogi "Lladron Crigyll". Dyma'r drydedd bennill:
-Os llong a ddaw o draw i drai,
-I draethau'r bobl drythyll,
-Tosturi'r rhain sydd fel y tân
-Neu'r Gwyndraeth a'u gwna'n gandryll;
-Gorau gwaith a wnâi wŷr Môn
-Oedd grogi lladron Crigyll.
-↑ Lewis Morris, 'Lladron Crigyll', yn Blodeugerdd Barddas o Gerddi Rhydd y Ddeunawfed Ganrif, gol. E. G. Millward (Cyhoediadau Barddas, 1991).</wikipedia>
+            Byddai lladron Crigyll yn enwog am ysbeilio llongau wrth iddynt daro'r creigiau. Yn 1740 ysbeiliodd nifer o'r trigolion y Loveday &amp; Betty Cawsant eu herlyn yn Llys Biwmaris yn 1741 ond fe'u cafwyd yn ddieuog er eu bod wedi eu dal gyda nwyddau o'r llong. Gweler hefyd hanes trigolion Pen-bre ger Caerfyrddin.
+            Yn Hydref 1867 cyhoeddwyd erthygl yn The Times, a oedd yn cofnodi llongddrylliad yr Earl of Chester , gan ddweud, "The wreck is now a prey to the notorious wreckers of the coast known to Welsh seafaring men as lladron Crugyll (the Crugyll robbers). Many hundreds of them were there yesterday stealing whatever they could carry away."</wikipedia>
         </town>
-        <town id="anglesey/sir fon#dothan">
-            <name>Dothan</name>
+        <town id="dothan">
+            <name lang="en">Dothan</name>
+            <name lang="cy">Dothan</name>
             <lat>53.23926</lat>
             <lon>-4.442513</lon>
-            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Dothan">Dothan may refer to:
-Dothan (ancient city), biblical city
-Mevo Dotan, an Israeli settlement on the West Bank near the biblical city
-Dothan, Alabama
-Dothan (microprocessor), codename for the 2 MB cache 90nm process Pentium M mobile processor
-Moshe Dothan (1919–1999), Israeli archaeologist
-Trude Dothan (born 1922), Israeli archaeologist
-Dani Dothan, Moshe and Trude's son, the lead-singer of HaClique, documentary writer and film-maker</wikipedia>
-            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Dothan">Pentrefan yng nghymuned Aberffraw, Ynys Môn, Cymru yw Dothan. Mae 132.9 milltir (213.8 km) o Gaerdydd a 217.8 milltir (350.5 km) o Lundain.
-Cynrychiolir Dothan yn y Cynulliad Cenedlaethol gan Rhun ap Iorwerth (Plaid Cymru) a'r Aelod Seneddol yw Albert Owen (Y Blaid Lafur).
-↑ Gwefan y Cynulliad; adalwyd 24 Chwefror 2014
-↑ Gwefan parliament.uk; adalwyd 24 Chwefror 2014</wikipedia>
+            <wikipedia />
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Dothan">Pentrefan yng nghymuned Aberffraw, Ynys Môn, Cymru yw Dothan. Mae 132.9 milltir (213.8 km) o Gaerdydd a 217.8 milltir (350.5 km) o Lundain. Cynrychiolir Dothan yn y Cynulliad Cenedlaethol gan Rhun ap Iorwerth (Plaid Cymru) a'r Aelod Seneddol yw Albert Owen (Y Blaid Lafur).</wikipedia>
         </town>
-        <town id="anglesey/sir fon#dulas">
-            <name>Dulas</name>
-            <lat>53.3807504</lat>
-            <lon>-4.2911157</lon>
-            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Dulas">Dulas may refer to:
-Saints in the Eastern Orthodox calendar
-Dulas (saint)
-Dulas of Cilicia
-Places
-Dulas, Anglesey, a village in Wales
-Dulas Bay, nearby
-
-Dulas, Herefordshire, a civil parish in England</wikipedia>
-            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Dulas">Gallai Dulas gyfeirio at un o sawl peth:
-Cymydau canolesol yng nghantref Rhos:
-Uwch Dulas
-Is Dulas
-Afonydd:
-Afon Dulas (Rhos), sir Conwy
-Afon Dulas (Ceredigion)
-Arall:
-Traeth Dulas, Môn
-Ynys Dulas, oddi ar arfordir Môn
-Gweler hefyd:
-Llanddulas</wikipedia>
+        <town id="dulas">
+            <name lang="en">Dulas</name>
+            <name lang="cy">Dulas</name>
+            <lat>53.363851</lat>
+            <lon>-4.301651</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Dulas,_Anglesey">Dulas or City Dulas is a village in Anglesey, in north-west Wales. It is situated on the A5025 road, near the coast (Dulas Bay) at only 5 metres (16 ft) above sea level.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Dulas,_Ynys_M%C3%B4n">Pentrefan yng nghymuned Moelfre, Ynys Môn, Cymru yw Dulas (Saesneg: City Dulas). Mae 138.3 milltir (222.6 km) o Gaerdydd a 217.4 milltir (349.8 km) o Lundain.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#dwyran">
-            <name>Dwyran</name>
+        <town id="dwyran">
+            <name lang="en">Dwyran</name>
+            <name lang="cy">Dwyran</name>
             <lat>53.168855</lat>
             <lon>-4.3208529</lon>
             <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Dwyran">Dwyran is a village on the island of Anglesey, in north-west Wales.</wikipedia>
-            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Dwyran">Gall Dwyran gyfeirio at:
-Pentref Dwyran yn ne-orllewin Ynys Môn
-Castell Dwyran yn Sir Gaerfyrddin.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Dwyran,_Ynys_M%C3%B4n">Pentref gweddol fawr yn ne-orllewin Ynys Môn yw Dwyran. Saif ar ochr ogleddol y ffordd A4080 rhwng Brynsiencyn a Niwbwrch, a gerllaw Afon Braint. Mae dau atyniad i ymwelwyr gerllaw'r pentref, Byd Adar Môn a Pentref Modelau Môn.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#dyffryn (valley)">
-            <name>Dyffryn (Valley)</name>
-            <lat />
-            <lon />
+        <town id="dyffryn">
+            <name lang="en">Dyffryn (Valley)</name>
+            <name lang="cy">Dyffryn (Valley)</name>
+            <lat>53.280673</lat>
+            <lon>-4.567669</lon>
             <wikipedia />
             <wikipedia />
         </town>
-        <town id="anglesey/sir fon#elim">
-            <name>Elim</name>
+        <town id="elim">
+            <name lang="en">Elim</name>
+            <name lang="cy">Elim</name>
             <lat>53.336697</lat>
             <lon>-4.472152</lon>
-            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Elim">Elim may refer to:</wikipedia>
-            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Elim">Pentref yng nghymuned Tref Alaw, Ynys Môn, Cymru yw Elim. Mae 139.3 milltir (224.2 km) o Gaerdydd a 222.3 milltir (357.8 km) o Lundain.
-Cynrychiolir Elim yn y Cynulliad Cenedlaethol gan Rhun ap Iorwerth (Plaid Cymru) a'r Aelod Seneddol yw Albert Owen (Y Blaid Lafur).
-↑ Gwefan y Cynulliad; adalwyd 24 Chwefror 2014
-↑ Gwefan parliament.uk; adalwyd 24 Chwefror 2014</wikipedia>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Elim,_Anglesey">Elim is a small village in west-central Ynys Môn, Wales, located around 1 mile (1.6 km) south-east of Llanddeusant and 3 miles (4.8 km) south-west of Llyn Alaw.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Elim">Pentref yng nghymuned Tref Alaw, Ynys Môn, Cymru yw Elim. Mae 139.3 milltir (224.2 km) o Gaerdydd a 222.3 milltir (357.8 km) o Lundain. Cynrychiolir Elim yn y Cynulliad Cenedlaethol gan Rhun ap Iorwerth (Plaid Cymru) a'r Aelod Seneddol yw Albert Owen (Y Blaid Lafur).</wikipedia>
         </town>
-        <town id="anglesey/sir fon#engedi">
-            <name>Engedi</name>
-            <lat>53.0773627</lat>
-            <lon>-3.0548781</lon>
-            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Engedi">Engedi, Bryngwran is a village 2 miles southeast of Bryngwran, Wales, named after the Biblical place
-Engedi and similar can also mean:
-Ein Gedi, an oasis in Israel
-Ein Gedi (kibbutz), a kibbutz in Israel</wikipedia>
+        <town id="engedi">
+            <name lang="en">Engedi</name>
+            <name lang="cy">Engedi</name>
+            <lat>53.257483</lat>
+            <lon>-4.455388</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Engedi,_Bryngwran">Engedi is a hamlet in the community of Bryngwran, Ynys Môn, Wales, which is 134.1 miles (215.9km) from Cardiff and 218.9 miles (352.3km) from London.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Engedi,_Ynys_M%C3%B4n">Pentrefan yng nghymuned Bryngwran, Ynys Môn, Cymru yw Engedi. Mae 134.1 milltir (215.9 km) o Gaerdydd a 218.9 milltir (352.3 km) o Lundain.</wikipedia>
+        </town>
+        <town id="fedw fawr">
+            <name lang="en">Fedw Fawr</name>
+            <name lang="cy">Fedw Fawr</name>
+            <lat>53.3154</lat>
+            <lon>-4.0994</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Fedw Fawr">Fedw Fawr is an area on the east coast of Anglesey, North Wales, situated just under four miles north of Beaumaris. It is part of the Arfordir Gogleddol Penmon Site of Special Scientific Interest and is managed by the National Trust. The site covers 20 hectares most of which is made up of peaty gley soil.</wikipedia>
             <wikipedia />
         </town>
-        <town id="anglesey/sir fon#fedw fawr">
-            <name>Fedw Fawr</name>
-            <lat />
-            <lon />
-            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Fedw Fawr">Fedw Fawr is an area on the east coast of Anglesey, North Wales, situated just under four miles north of Beaumaris. It is part of the Arfordir Gogleddol Penmon Site of Special Scientific Interest and is managed by the National Trust. The site covers 20 hectares most of which is made up of peaty gley soil.
-The cliffs at Fedw Fawr support the only black guillemot colony in Wales.
-^ An "Anglesey Nature" site providing information on the flora and fauna of Arfordir Gogleddol Penmon
-^ Evans, Lee G. R. (1996). The Ultimate Site Guide to Scarcer British Birds. Little Chalfont: LGRE. ISBN 1-898918-15-5</wikipedia>
-            <wikipedia />
+        <town id="four mile bridge">
+            <name lang="en">Four Mile Bridge</name>
+            <name lang="cy">Pontrhydybont</name>
+            <lat>53.273518</lat>
+            <lon>-4.582554</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Four Mile Bridge">Four Mile Bridge (Welsh: Pontrhydybont / Pont-rhydbont / Pontrhypont) is the name given to a bridge and the village surrounding it in Anglesey, Wales. They are so named because the bridge is around four miles by the old road (3 miles "as the crow flies") from Holyhead, the largest town in Anglesey and its surrounding islands. The bridge is one of three connecting the Anglesey mainland to the smaller Holy Island, where Holyhead is located. A bridge at this location was in existence by 1530, and was the only land route to Holyhead until the construction of the Stanley Embankment in 1823. It is 120 metres long and carries the B4545 road over the Cymyran strait.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Pontrhydybont">Pentref ar Ynys Gybi, Ynys Môn yw Pontrhydybont, hefyd Pont-rhydbont, Pontrhypont ac amrywiadau eraill (Saesneg: Four Mile Bridge). Mae yng nghymunedau Y Fali a Rhoscolyn. Saif Pontrhydybont lle mae'r ffordd B4545 yn croesi'r culfor rhwng Ynys Môn ac Ynys Gybi. Ar un adeg, rhyd oedd yma, a chyn adeiladu'r A5, dyma'r brif fan lle gellid croesi i Ynys Gybi.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#four mile bridge">
-            <name>Four Mile Bridge</name>
-            <lat />
-            <lon />
-            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Four Mile Bridge">Four Mile Bridge (Welsh: Pontrhydybont / Pont-rhydbont / Pontrhypont) is the name given to a bridge and the village surrounding it in Anglesey, Wales. They are so named because the bridge is around four miles by the old road (3 miles "as the crow flies") from Holyhead, the largest town in Anglesey and its surrounding islands. The bridge is one of three connecting the Anglesey mainland to the smaller Holy Island, where Holyhead is located. A bridge at this location was in existence by 1530, and was the only land route to Holyhead until the construction of the Stanley Embankment in 1823. It is 120 metres long and carries the B4545 road over the Cymyran strait.
-The village itself is quite small and is split between the two islands, the larger portion being on Holy Island. It is hard to get information on the population of the village as it is split between two communities. It is safe to say, however, that it must be around 500 as the largest part of the village is in the community of Rhoscolyn which has a population of 484, and there is no other settlement of any real size.
-The village is about one mile from Valley railway station, and is on the Isle of Anglesey Coastal Path. The village has one cafe, Y Gegin Fach, meaning 'the little kitchen', a hairdressers and a pub, The Anchorage.</wikipedia>
-            <wikipedia />
-        </town>
-        <town id="anglesey/sir fon#gadfa">
-            <name>Gadfa</name>
+        <town id="gadfa">
+            <name lang="en">Gadfa</name>
+            <name lang="cy">Gadfa</name>
             <lat>53.382279</lat>
             <lon>-4.319193</lon>
             <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Gadfa">Gadfa is a hamlet in the community of Llaneilian, Ynys Môn, Wales, which is 140 miles (225.3 km) from Cardiff and 218.8 miles (352.1 km) from London.</wikipedia>
-            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Gadfa">Pentrefan yng nghymuned Llaneilian, Ynys Môn, Cymru yw Gadfa. Mae 140 milltir (225.3 km) o Gaerdydd a 218.8 milltir (352.1 km) o Lundain.
-Cynrychiolir Gadfa yn y Cynulliad Cenedlaethol gan Rhun ap Iorwerth (Plaid Cymru) a'r Aelod Seneddol yw Albert Owen (Y Blaid Lafur).</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Gadfa">Pentrefan yng nghymuned Llaneilian, Ynys Môn, Cymru yw Gadfa. Mae 140 milltir (225.3 km) o Gaerdydd a 218.8 milltir (352.1 km) o Lundain. Cynrychiolir Gadfa yn y Cynulliad Cenedlaethol gan Rhun ap Iorwerth (Plaid Cymru) a'r Aelod Seneddol yw Albert Owen (Y Blaid Lafur).</wikipedia>
         </town>
-        <town id="anglesey/sir fon#gaerwen">
-            <name>Gaerwen</name>
+        <town id="gaerwen">
+            <name lang="en">Gaerwen</name>
+            <name lang="cy">Gaerwen</name>
             <lat>53.22199</lat>
             <lon>-4.281381</lon>
-            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Gaerwen">Gaerwen is a village on the island of Anglesey, Wales. It is located in the south of the island 4 miles (6.4 km) west of Llanfairpwllgwyngyll and 4 miles (6.4 km) southeast of Llangefni . The A5 runs through the village, and the A55 runs just a few hundred metres north. According to the 2011 Census Gaerwen is now listed by the Office for National Statistics as Llanfihangel Ysgeifiog. The population of this community was 1,551.
-^ "Community Population 2011". Retrieved 19 May 2015.</wikipedia>
-            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Gaerwen">Pentref gweddol fawr yn ne-orllewin Ynys Môn yw'r Gaerwen. Saif ar ffordd yr A5 rhyw bedair milltir i'r gorllewin o bentref Llanfairpwllgwyngyll ac i'r dwyrain o Bentre Berw. Mae'n rhan o gymuned Llanfihangel Ysgeifiog.
-Hyd yn ddiweddar roedd yr holl drafnidiaeth i Gaergybi yn mynd trwy'r pentref, ond ar ôl i ffordd newydd yr A55, sy'n osgoi'r p[entref, gael ei hagor mae pethau'n ddistawach.
-Mae Stâd Ddiwydiannol y Gaerwen ar ochr orllewinol y pentref, ac mae dwy hen felin wynt i'r gogledd. Ar un adeg roedd Rheilffordd Canol Môn yn gadael y prif reilffordd i Gaergybi yng ngorsaf Gaerwen ac yn arwain tua'r gogledd-ddwyrain i Amlwch.</wikipedia>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Gaerwen">Gaerwen is a village on the island of Anglesey, Wales. It is located in the south of the island 4 miles (6.4 km) west of Llanfairpwllgwyngyll and 4 miles (6.4 km) southeast of Llangefni . The A5 runs through the village, and the A55 runs just a few hundred metres north. According to the 2011 Census Gaerwen is now listed by the Office for National Statistics as Llanfihangel Ysgeifiog. The population of this community was 1,551.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Gaerwen">Pentref gweddol fawr yn ne-orllewin Ynys Môn yw'r Gaerwen. Saif ar ffordd yr A5 rhyw bedair milltir i'r gorllewin o bentref Llanfairpwllgwyngyll ac i'r dwyrain o Bentre Berw. Mae'n rhan o gymuned Llanfihangel Ysgeifiog.Hyd yn ddiweddar roedd yr holl drafnidiaeth i Gaergybi yn mynd trwy'r pentref, ond ar ôl i ffordd newydd yr A55, sy'n osgoi'r p[entref, gael ei hagor mae pethau'n ddistawach. Mae Stâd Ddiwydiannol y Gaerwen ar ochr orllewinol y pentref, ac mae dwy hen felin wynt i'r gogledd. Ar un adeg roedd Rheilffordd Canol Môn yn gadael y prif reilffordd i Gaergybi yng ngorsaf Gaerwen ac yn arwain tua'r gogledd-ddwyrain i Amlwch.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#glan-yr-afon">
-            <name>Glan-yr-afon</name>
+        <town id="glan-yr-afon">
+            <name lang="en">Glan-yr-afon</name>
+            <name lang="cy">Glan-yr-afon</name>
             <lat>52.971617</lat>
             <lon>-3.4577463</lon>
-            <wikipedia />
-            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Glan-yr-afon">Gallai Glan-yr-afon neu Glanrafon gyfeirio at:
-Glan-yr-afon, Bodffordd, Ynys Môn
-Glan-yr-afon, Mariandyrys, Ynys Môn
-Glan'rafon, Caerdydd</wikipedia>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Glan-yr-afon,_Bodffordd">Glan-yr-afon is a hamlet in the community of Bodffordd, Ynys Môn, Wales, which is 135 miles (217.3 km) from Cardiff and 218.1 miles (351 km) from London.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Glan-yr-afon,_Bodffordd">Pentrefan yng nghymuned Bodffordd, Ynys Môn, Cymru yw Glan-yr-afon. Mae 135 milltir (217.3 km) o Gaerdydd a 218.1 milltir (351 km) o Lundain.
+            Cynrychiolir Glan-yr-afon yn y Cynulliad Cenedlaethol gan Rhun ap Iorwerth (Plaid Cymru) a'r Aelod Seneddol yw Albert Owen (Y Blaid Lafur).</wikipedia>
         </town>
-        <town id="anglesey/sir fon#goferydd">
-            <name>Goferydd</name>
-            <lat />
-            <lon />
-            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Goferydd">Goferydd is an area in the community of Trearddur, Ynys Môn, Wales, which is 141.4 miles (227.5 km) from Cardiff and 228.9 miles (368.4 km) from London.
-"Goferydd" is a Welsh word meaning "overflowing."</wikipedia>
+        <town id="goferydd">
+            <name lang="en">Goferydd</name>
+            <name lang="cy">Goferydd</name>
+            <lat>53.305354</lat>
+            <lon>-4.691282</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Goferydd">Goferydd is an area in the community of Trearddur, Ynys Môn, Wales, which is 141.4 miles (227.5 km) from Cardiff and 228.9 miles (368.4 km) from London. "Goferydd" is a Welsh word meaning "overflowing."</wikipedia>
             <wikipedia />
         </town>
-        <town id="anglesey/sir fon#gwalchmai">
-            <name>Gwalchmai</name>
+        <town id="gwalchmai">
+            <name lang="en">Gwalchmai</name>
+            <name lang="cy">Gwalchmai</name>
             <lat>53.259346</lat>
             <lon>-4.417015</lon>
-            <wikipedia />
-            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Gwalchmai">Am enghreifftiau eraill o'r enw gweler Gwalchmai (gwahaniaethu).
-Pentref yng nghanol Ynys Môn yw Gwalchmai, a leolir ar hyd yr A5, tua 5 milltir i'r gorllewin o dref Llangefni (cyfeiriad grid SH399761).
-Yn agos iddo mae Llyn Hendref a Chors Bodwrog. Gwalchmai yw'r pentref sydd agosaf i 'gae Primin' (Sioe Amaethyddol Môn). I'r dwyrain o'r pentref i gyfeiriad Bodffordd ceir llain lanio sy'n perthyn i RAF Valley.
-C.P.D Gwalchmai yw'r tîm pêl-droed lleol, ac maent yn chwarae eu gemau cartref yn y stadiwm 'Burn-a-Ball' ym Maes Meurig.</wikipedia>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Gwalchmai,_Anglesey">Gwalchmai is a village on Anglesey in north Wales. Gwalchmai is a village along the A55, less than a mile from the Anglesey Show Ground and less than two miles from RAF Mona</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Gwalchmai">Am enghreifftiau eraill o'r enw gweler Gwalchmai (gwahaniaethu). Pentref yng nghanol Ynys Môn yw Gwalchmai, a leolir ar hyd yr A5, tua 5 milltir i'r gorllewin o dref Llangefni (cyfeiriad grid SH399761). Yn agos iddo mae Llyn Hendref a Chors Bodwrog. Gwalchmai yw'r pentref sydd agosaf i 'gae Primin' (Sioe Amaethyddol Môn). I'r dwyrain o'r pentref i gyfeiriad Bodffordd ceir llain lanio sy'n perthyn i RAF Valley. C.P.D Gwalchmai yw'r tîm pêl-droed lleol, ac maent yn chwarae eu gemau cartref yn y stadiwm 'Burn-a-Ball' ym Maes Meurig.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#gwalchmai uchaf">
-            <name>Gwalchmai Uchaf</name>
-            <lat />
-            <lon />
-            <wikipedia />
-            <wikipedia />
-        </town>
-        <town id="anglesey/sir fon#gwredog">
-            <name>Gwredog</name>
+        <town id="gwredog">
+            <name lang="en">Gwredog</name>
+            <name lang="cy">Gwredog</name>
             <lat>53.3483572</lat>
             <lon>-4.3986508</lon>
             <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Gwredog">Gwredog is a village in the community of Llannerch-y-medd, Ynys Môn, Wales, which is 138.9 miles (223.6 km) from Cardiff and 220.2 miles (354.4 km) from London.</wikipedia>
             <wikipedia />
         </town>
-        <town id="anglesey/sir fon#hebron">
-            <name>Hebron</name>
+        <town id="hebron">
+            <name lang="en">Hebron</name>
+            <name lang="cy">Hebron</name>
             <lat>51.917985</lat>
             <lon>-4.646032</lon>
-            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Hebron">Hebron (Arabic:  الخليل  al-Khalīl; Hebrew:  חֶבְרוֹן , Standard Hebrew: Ḥevron; ISO 259-3: Ḥebron) is a Palestinian city located in the southern West Bank, 30 km (19 mi) south of Jerusalem. Nestled in the Judaean Mountains, it lies 930 meters (3,050 ft) above sea level. It is the largest city in the West Bank, and the second largest in the Palestinian territories after Gaza, and home to around 175,000 to 250,000 Palestinians, and between 500 and 850 Jewish settlers concentrated in Otniel settlement and around the old quarter. The city is divided into two sectors: H1, controlled by the Palestinian Authority and H2, roughly 20% of the city, administered by Israel. The settlers are governed by their own municipal body, the Committee of the Jewish Community of Hebron. The city is most notable for containing the traditional burial site of the biblical Patriarchs and Matriarchs, within the Cave of the Patriarchs. It is therefore considered the second-holiest city in Judaism after Jerusalem. The city is venerated by Jews, Christians, and Muslims for its association with Abraham. It is viewed as a holy city in Islam and Judaism.
-Hebron is a busy hub of West Bank trade, responsible for roughly a third of the area's gross domestic product, largely due to the sale of marble from quarries. It is locally well known for its grapes, figs, limestone, pottery workshops and glassblowing factories, and is the location of the major dairy product manufacturer, al-Junaidi. The old city of Hebron is characterized by narrow, winding streets, flat-roofed stone houses, and old bazaars. The city is home to Hebron University and the Palestine Polytechnic University.
-Hebron is detached to cities of ad-Dhahiriya, Dura, Yatta, the surrounding villages with no borders. Hebron Governorate is the largest Palestinian governorate with its population of 600,364 (2010).</wikipedia>
-            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Hebron">Gweler hefyd Hebron (gwahaniaethu).
-Dinas ar y Lan Orllewinol yw Hebron (Hebraeg: חברון Chevron; Arabeg: الخليل Al Khalil). Ers dechrau 1997, mae 80% o'r ddinas dan reolaeth Awdurdod Cenedlaethol Palesteina a'r gweddill yn cael ei rheoli gan Israel. Roedd y boblogaeth yn 2006 tua 167,000, bron i gyd yn Balestiniaid, ac eithio tua 600 o Iddewon.
-Mae Hebron yn un o ddinasoedd hynaf y Dwyrain Canol. Gerllaw Hebron mae Ogof y Patriarchiaid, lle dywedir bod Abraham, Sara, Isaac a Rebecca wedi eu claddu. Mae'n fangre sanctaidd mewn Iddewiaeth, Cristnogaeth ac Islam. Yn Hebron y cyhoeddwyd Dafydd yn frenin teyrnas Israel ac oddi yno y bu'n teyrnasu hed nes iddo goncro Jeriwsalem.
-Yn 1929, lladdwyd 69 o Iddewon gan y Palestiniaid, a gorfodwyd y gweddill o'r boblogaeth Iddewig i ffoi. Yn 1994 lladdwyd 29 o bobl oedd yn gweddio ym Mosg Ibrahimi gan Baruch Goldstein, meddyg Americanaidd-Israelaidd, ac anafwyd 125 arall.</wikipedia>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Hebron,_Llanddyfnan">Hebron is a hamlet in the community of Llanddyfnan, Ynys Môn, Wales, which is 136.7 miles (220 km) from Cardiff and 217 miles (349.2 km) from London.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Hebron,_Ynys_M%C3%B4n">Pentrefan ger Maenaddwyn yng nghymuned Llanddyfnan, Ynys Môn, Cymru yw Hebron. Mae 136.7 milltir (220 km) o Gaerdydd a 217 milltir (349.2 km) o Lundain. Cynrychiolir Hebron yn y Cynulliad Cenedlaethol gan Rhun ap Iorwerth (Plaid Cymru) a'r Aelod Seneddol yw Albert Owen (Y Blaid Lafur).</wikipedia>
         </town>
-        <town id="anglesey/sir fon#hen bentref llandegfan">
-            <name>Hen Bentref Llandegfan</name>
-            <lat />
-            <lon />
-            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Hen Bentref Llandegfan">Hen Bentref Llandegfan is a village in the community of Cwm Cadnant, Ynys Môn, Wales, which is 128.9 miles (207.5km) from Cardiff and 207.8 miles (334.3km) from London.
-"Hen Bentref" in Welsh means "the old village".
-
-</wikipedia>
-            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Hen Bentref Llandegfan">Pentref yng nghymuned Cwm Cadnant, Ynys Môn, Cymru yw Hen Bentref Llandegfan. Mae 128.9 milltir (207.5 km) o Gaerdydd a 207.8 milltir (334.3 km) o Lundain. Saif ychydig i'r gogledd o Landegfan.
-Cynrychiolir Hen Bentref Llandegfan yn y Cynulliad Cenedlaethol gan Rhun ap Iorwerth (Plaid Cymru) a'r Aelod Seneddol yw Albert Owen (Y Blaid Lafur).
-↑ Gwefan y Cynulliad; adalwyd 24 Chwefror 2014
-↑ Gwefan parliament.uk; adalwyd 24 Chwefror 2014</wikipedia>
+        <town id="hen bentref llandegfan">
+            <name lang="en">Hen Bentref Llandegfan</name>
+            <name lang="cy">Hen Bentref Llandegfan</name>
+            <lat>53.244207</lat>
+            <lon>-4.151262</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Hen_Bentref_Llandegfan">Hen Bentref Llandegfan is a village in the community of Cwm Cadnant, Ynys Môn, Wales, which is 128.9 miles (207.5km) from Cardiff and 207.8 miles (334.3km) from London. "Hen Bentref" in Welsh means "the old village".</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Hen_Bentref_Llandegfan">Pentref yng nghymuned Cwm Cadnant, Ynys Môn, Cymru yw Hen Bentref Llandegfan. Mae 128.9 milltir (207.5 km) o Gaerdydd a 207.8 milltir (334.3 km) o Lundain. Saif ychydig i'r gogledd o Landegfan.
+            Cynrychiolir Hen Bentref Llandegfan yn y Cynulliad Cenedlaethol gan Rhun ap Iorwerth (Plaid Cymru) a'r Aelod Seneddol yw Albert Owen (Y Blaid Lafur).</wikipedia>
         </town>
-        <town id="anglesey/sir fon#heneglwys">
-            <name>Heneglwys</name>
-            <lat>53.0922252</lat>
-            <lon>-3.7996326</lon>
+        <town id="heneglwys">
+            <name lang="en">Heneglwys</name>
+            <name lang="cy">Heneglwys</name>
+            <lat>53.259328</lat>
+            <lon>-4.36413</lon>
             <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Heneglwys">Heneglwys is a village in Anglesey, in north-west Wales.</wikipedia>
             <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Heneglwys">Pentrefan a phlwyf eglwysig ar Ynys Môn yw Heneglwys (cyfeiriad grid SH424762). Fe'i lleolir milltir i'r de o bentref Bodffordd yn y gymuned o'r un enw, tua hanner ffordd rhwng Gwalchmai i'r gorllewin a Llangefni i'r dwyrain. Mae 132.7 milltir (213.5 km) o Gaerdydd a 215.8 milltir (347.2 km) o Lundain.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#hermon">
-            <name>Hermon</name>
+        <town id="hermon">
+            <name lang="en">Hermon</name>
+            <name lang="cy">Hermon</name>
             <lat>51.956106</lat>
             <lon>-4.612589</lon>
-            <wikipedia />
-            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Hermon">Ceir sawl lle o'r enw Hermon, a enwir ar ôl mynydd sanctaidd yn y Beibl, Mynydd Hermon, gan gynnwys:
-Hermon (Sir Gaerfyrddin)
-Hermon (Sir Benfro)
-Hermon (Ynys Môn)</wikipedia>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Hermon,_Anglesey">Hermon is a village in Anglesey, in north-west Wales.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Hermon,_Ynys_M%C3%B4n">Pentref bychan ar Ynys Môn yw Hermon. Enwir y pentref ar ôl y mynydd sanctaidd yn y Beibl, Mynydd Hermon. Milltir i'r gogledd o Hermon ceir pentref bychan arall ag enw Beiblaidd, sef Bethel. Mae yng nghymuned Bodorgan. Lleolir Hermon ar ochr orllewinol Ynys Môn tua hanner milltir i'r dwyrain o bentref Llangadwaladr, ar ffordd yr A4080 rhwng Aberffraw i'r gorllewin a Malltraeth i'r dwyrain. Milltir i'r de ceir traeth y Malltraeth.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#holy island">
-            <name>Holy Island</name>
-            <lat />
-            <lon />
-            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Holy Island">Holy Island or Holy Isle may refer to:</wikipedia>
-            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Holy Island">Gallai Holy Island gyfeirio at un o nifer o ynysoedd:
-Enw Saesneg ar Ynys Gybi, ger Ynys Môn
-Enw arall ar Lindisfarne
-Enw Saesneg ar Eilean MoLaise, ger ynys Arran ar arfordir gorllewinol yr Alban</wikipedia>
+        <town id="holy island">
+            <name lang="en">Holy Island</name>
+            <name lang="cy">Ynys Gybi</name>
+            <lat>53.295494</lat>
+            <lon>-4.631478</lon>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Holy_Island,_Anglesey">Holy Island (Welsh: Ynys Gybi, 'the island of (Saint) Cybi') is an island (15.22 sq mi (39.4 km2)) on the western side of the larger Isle of Anglesey, North Wales, from which it is separated by a narrow, winding channel. It is called "Holy" because of the high concentration of standing stones, burial chambers and other religious sites on the small island. The alternative and historic name of the island is Holyhead Island. According to the 2011 UK Census, the population is 13,659.</wikipedia>
+            <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Ynys_Gybi">Ynys oddi ar pen gogledd-orllewinol Ynys Môn yw Ynys Gybi (Saesneg: Holy Island). Ei harwynebedd yw tua 464 hectar neu 1.8 milltir sgwar. Fe'i henwir ar ôl Sant Cybi, nawddsant Caergybi. Ceir nifer sylweddol o safleoedd hynafol ar yr ynys, yn feini hirion, siambrau claddau a chytiau'r Gwyddelod a safleoedd cysylltiedig â Christnogaeth gynnar. Yn ôl Cyfrifiad 2001, mae gan Ynys Gybi boblogaeth o 13,579.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#holyhead (caergybi)">
-            <name>Holyhead (Caergybi)</name>
-            <lat />
-            <lon />
-            <wikipedia />
-            <wikipedia />
-        </town>
-        <town id="anglesey/sir fon#isallt bach">
+        <town id="isallt bach">
             <name>Isallt Bach</name>
             <lat />
             <lon />
@@ -591,7 +517,7 @@ Enw Saesneg ar Eilean MoLaise, ger ynys Arran ar arfordir gorllewinol yr Alban</
             <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Isallt Bach">Pentrefan yng nghymuned Trearddur, Ynys Môn, Cymru yw Isallt Bach. Mae 138.7 milltir (223.3 km) o Gaerdydd a 225.8 milltir (363.4 km) o Lundain.
 Cynrychiolir Isallt Bach yn y Cynulliad Cenedlaethol gan Rhun ap Iorwerth (Plaid Cymru) a'r Aelod Seneddol yw Albert Owen (Y Blaid Lafur).</wikipedia>
         </town>
-        <town id="anglesey/sir fon#kingsland">
+        <town id="kingsland">
             <name>Kingsland</name>
             <lat>53.3028989</lat>
             <lon>-4.633721</lon>
@@ -599,7 +525,7 @@ Cynrychiolir Isallt Bach yn y Cynulliad Cenedlaethol gan Rhun ap Iorwerth (Plaid
             <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Kingsland">Ardal yn nhref Caergybi, Ynys Môn, Cymru yw '. Mae 140 milltir (225.2 km) o Gaerdydd a 226.6 milltir (364.7 km) o Lundain.
 Cynrychiolir yn y Cynulliad Cenedlaethol gan Rhun ap Iorwerth (Plaid Cymru) a'r Aelod Seneddol yw Albert Owen (Y Blaid Lafur).</wikipedia>
         </town>
-        <town id="anglesey/sir fon#llaingoch">
+        <town id="llaingoch">
             <name>Llaingoch</name>
             <lat>53.310911</lat>
             <lon>-4.657376</lon>
@@ -607,14 +533,14 @@ Cynrychiolir yn y Cynulliad Cenedlaethol gan Rhun ap Iorwerth (Plaid Cymru) a'r 
             <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Llaingoch">Ardal yn nhref Caergybi, Ynys Môn, Cymru yw Llaingoch. Mae 141 milltir (226.9 km) o Gaerdydd a 227.8 milltir (366.6 km) o Lundain.
 Cynrychiolir Llaingoch yn y Cynulliad Cenedlaethol gan Rhun ap Iorwerth (Plaid Cymru) a'r Aelod Seneddol yw Albert Owen (Y Blaid Lafur).</wikipedia>
         </town>
-        <town id="anglesey/sir fon#llanallgo">
+        <town id="llanallgo">
             <name>Llanallgo</name>
             <lat>53.341036</lat>
             <lon>-4.255672</lon>
             <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llanallgo">Llanallgo is a village in Anglesey, in north-west Wales.</wikipedia>
             <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Llanallgo">Mae Llanallgo yn bentref bychan yng ngogledd-ddwyrain Ynys Môn gerllaw Moelfre, ar lôn yr A5025.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#llanbabo">
+        <town id="llanbabo">
             <name>Llanbabo</name>
             <lat>53.352329</lat>
             <lon>-4.4394</lon>
@@ -625,7 +551,7 @@ Llyn Alaw lies nearby.
 </wikipedia>
             <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Llanbabo">Mae Llanbabo yn bentref bychan 4 milltir i'r de o Fae Cemaes ar ymyl Cors y Bol ger Llyn Alaw, yng ngogledd-ddwyrain Ynys Môn. Yn yr Oesoedd Canol roedd yn rhan o gwmwd Talybolion. Ceir tystiolaeth sy'n awgrymu'n gryf fod Sefnyn, un o Feirdd yr Uchelwyr a ganai yn ail hanner y 14eg ganrif, yn frodor o blwyf Llanbabo.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#llanbadrig">
+        <town id="llanbadrig">
             <name>Llanbadrig</name>
             <lat>53.4247768</lat>
             <lon>-4.4298199</lon>
@@ -636,7 +562,7 @@ The Welsh name Llanbadrig means "Church of Saint Patrick" and there is indeed a 
             <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Llanbadrig">Plwyf eglwysig a chymuned ar arfordir gogledd Môn yw Llanbadrig. Yn yr Oesoedd Canol roedd yn rhan o gwmwd Talybolion, cantref Cemais.
 Mae'r gymuned hon yn cynnwys treflan Clygyrog a phorthladd bychan Cemaes (Porth Wygyr), lleoliad tybiedig maenor cantref Cemais yn yr Oesoedd Canol. Ceir nifer o hen chwareli calchfaen yn yr ardal. Yn ôl Cyfrifiad 2011, roedd 1,316 o bobl yn byw yn y gymuned hon a 690 (sef 52.4%) o'r boblogaeth dros dair oed a hŷn Cymuned Llanbadrig yn gallu siarad Cymraeg. Roedd 302 yn ddi-waith, sef 46.7% o'r rhai o fewn yr oedran priodol.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#llanbedrgoch">
+        <town id="llanbedrgoch">
             <name>Llanbedrgoch</name>
             <lat>53.300353</lat>
             <lon>-4.236241</lon>
@@ -644,7 +570,7 @@ Mae'r gymuned hon yn cynnwys treflan Clygyrog a phorthladd bychan Cemaes (Porth 
 The historical settlements in the area have been subject of archaeological exploration.</wikipedia>
             <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Llanbedrgoch">Mae Llanbedrgoch (hefyd Llanbedr-goch) yn bentref a phlwyf eglwysig yn ne-ddwyrain Ynys Môn. Saif ar ffordd gefn ychydig i'r gorllewin o'r briffordd A5025 rhwng Pentraeth a Benllech.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#llanddaniel fab">
+        <town id="llanddaniel fab">
             <name>Llanddaniel Fab</name>
             <lat />
             <lon />
@@ -659,7 +585,7 @@ Probably the village's most famous son is Tecwyn Roberts (1925-1988), who became
 Yn yr Oesoedd Canol bu'n rhan o gwmwd Menai, cantref Aberffraw. Mae'r eglwys wedi ei chysegru i Ddaniel Fab (Deiniol Fab; hefyd Deiniolen).
 Mae claddfa gynhanesyddol enwog Bryn Celli Ddu ychydig i'r de o'r pentref. Yma hefyd y saif Plas Llwyn-onn.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#llanddeusant">
+        <town id="llanddeusant">
             <name>Llanddeusant</name>
             <lat>51.905686</lat>
             <lon>-3.779008</lon>
@@ -670,7 +596,7 @@ Llanddeusant, Carmarthenshire, West Wales</wikipedia>
 Llanddeusant, Ynys Môn
 Llanddeusant, Sir Gaerfyrddin</wikipedia>
         </town>
-        <town id="anglesey/sir fon#llanddona">
+        <town id="llanddona">
             <name>Llanddona</name>
             <lat>53.292295</lat>
             <lon>-4.139824</lon>
@@ -684,7 +610,7 @@ Mae’r eglwys wedi ei chysegru i Sant Dona, mab Selyf ap Cynan o deulu brenhino
 Nodwedd amlycaf yr ardal yw’r mast radio ar fryn uwchben y pentref, sydd i’w weld am filltiroedd. Ychydig i’r gogledd o’r pentref mae bryngaer o’r enw Bwrdd Arthur, neu "Din Sylwy". Mae maen hir cynhanesyddol i’r gorllewin o’r pentref.
 Ceir stori adnabyddus am Wrachod Llanddona. Yn ôl y chwedl daeth cwch heb hwyl na rhwyfau i’r lan yn Nhraeth Coch yn llawn o ddynion a merched. Daethant yn enwog am eu gallu i reibio, yn enwedig gwraig o’r enw Bella Fawr.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#llandegfan">
+        <town id="llandegfan">
             <name>Llandegfan</name>
             <lat>53.244101</lat>
             <lon>-4.15277</lon>
@@ -698,14 +624,14 @@ Llandegfan has a senior football team playing in the Anglesey League called Llan
 Mae'r pentref mewn dwy ran; y pentref gwreiddiol yw'r hyn a elwir yn awr yn Hen Landegfan, o gwmpas yr eglwys, sydd wedi ei chysegru i Sant Tegfan. Tyfodd y rhan arall, sydd gryn dipyn yn fwy, i'r de o'r hen bentref ac yn nes at yr A545.
 Gweithio yn ninas Bangor y mae'r mwyafrif o'r trigolion.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#llandyfrydog">
+        <town id="llandyfrydog">
             <name>Llandyfrydog</name>
             <lat>53.339128</lat>
             <lon>-4.339601</lon>
             <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llandyfrydog">Llandyfrydog is a village in Anglesey, in north-west Wales.</wikipedia>
             <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Llandyfrydog">Plwyf a phentre bychan yng ngogledd-ddwyrain Ynys Môn yw Llandyfrydog. Gorwedd tua 5 milltir i'r gorllewin o Foelfre a thua 2 filltir i'r dwyrain o Lannerch-y-medd. Mae'r pentref yn rhan o gymuned Rhosybol.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#llaneilian">
+        <town id="llaneilian">
             <name>Llaneilian</name>
             <lat>53.4090739</lat>
             <lon>-4.3018029</lon>
@@ -715,14 +641,14 @@ Gweithio yn ninas Bangor y mae'r mwyafrif o'r trigolion.</wikipedia>
 Pentref, plwyf a chymuned ar yr arfordir yng ngogledd-ddwyrain Ynys Môn yw Llaneilian. Cysegrwyd Eglwys Llaneilian i Sant Eilian; mae'n un o'r eglwysi hynaf ar yr ynys. Gerllaw mae Trwyn Eilian (Saesneg: Point Lynas) gyda'i oleudy a bae Porth Eilian. Arferai fod melin wynt gerllaw a elwid yn Felin Eilian.
 Mae cymuned Llaneilian yn cynnwys pentref Penysarn yn ogystal a Llaneilian ei hun, ac Ynys Dulas. Roedd poblogaeth y gymuned yn 2001 yn 1,192.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#llanerchymedd">
+        <town id="llanerchymedd">
             <name>Llanerchymedd</name>
             <lat>53.33105</lat>
             <lon>-4.376968</lon>
             <wikipedia />
             <wikipedia />
         </town>
-        <town id="anglesey/sir fon#llaneuddog">
+        <town id="llaneuddog">
             <name>Llaneuddog</name>
             <lat>53.367814</lat>
             <lon>-4.3062037</lon>
@@ -733,7 +659,7 @@ Cynrychiolir Llaneuddog yn y Cynulliad Cenedlaethol gan Rhun ap Iorwerth (Plaid 
 ↑ Gwefan y Cynulliad; adalwyd 24 Chwefror 2014
 ↑ Gwefan parliament.uk; adalwyd 24 Chwefror 2014</wikipedia>
         </town>
-        <town id="anglesey/sir fon#llanfachraeth">
+        <town id="llanfachraeth">
             <name>Llanfachraeth</name>
             <lat>53.312401</lat>
             <lon>-4.531226</lon>
@@ -744,21 +670,21 @@ The Alaw estuary forms part of the Beddmanarch–Cymyran site of special scienti
 </wikipedia>
             <wikipedia />
         </town>
-        <town id="anglesey/sir fon#llanfaelog">
+        <town id="llanfaelog">
             <name>Llanfaelog</name>
             <lat>53.228442</lat>
             <lon>-4.492722</lon>
             <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llanfaelog">Llanfaelog is a village in western Anglesey, Wales. It is situated some 13 kilometres south-east of Holyhead and 22 kilometres west of the city of Bangor. At the 2001 census, it had a population of 1,679, increasing to 1,758 at the 2011 Census.</wikipedia>
             <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Llanfaelog">Pentref a chymuned yng ngogledd-orllewin Ynys Môn yw Llanfaelog. Saif ar y briffordd A4080, ychydig i'r dwyrain o bentref Rhosneigr a gerllaw Llyn Maelog. Mae gorsaf rheilffordd Tŷ Croes gerllaw.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#llanfaes">
+        <town id="llanfaes">
             <name>Llanfaes</name>
             <lat>53.279625</lat>
             <lon>-4.096544</lon>
             <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llanfaes">Llanfaes (formerly also known as Llanmaes) is a small village on the island of Anglesey, Wales, located on the shore of the eastern entrance to the Menai Strait, the tidal waterway separating Anglesey from the north Wales coast. Its natural harbour made it an important medieval port and it was briefly the capital of the kingdom of Gwynedd. Following Prince Madoc's Rebellion, Edward I removed the Welsh population from the town and rebuilt the port a mile to the south at Beaumaris.</wikipedia>
             <wikipedia />
         </town>
-        <town id="anglesey/sir fon#llanfaethlu">
+        <town id="llanfaethlu">
             <name>Llanfaethlu</name>
             <lat>53.352632</lat>
             <lon>-4.536465</lon>
@@ -767,28 +693,28 @@ It is home to Condessa, a small liquor company.</wikipedia>
             <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Llanfaethlu">Pentref a chymuned yng ngogledd-orllewin Ynys Môn yw Llanfaethlu. Saif ar y briffordd A5025 rhwng Y Fali a Chemaes. Daw enw'r pentref o enw sant Maethlu, a elwir hefyd yn "Maethlu Gyffeswr".
 Nid yw'r pentref ei hun ar lan y môr, ond mae traeth Porth Swtan gerllaw, tua milltir a hanner i'r gogledd-orllewin. Mae bwthyn yma o'r enw Swtan sy'n awr yn amgueddfa werin; dywedir mai hwn yw'r bwthyn to gwellt olaf ar yr ynys. Mae plasty Garreglwyd gerllaw yn dyddio o'r 17eg ganrif.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#llanfair pwllgwyngyll">
+        <town id="llanfair pwllgwyngyll">
             <name>Llanfair Pwllgwyngyll</name>
             <lat />
             <lon />
             <wikipedia />
             <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Llanfair Pwllgwyngyll">Pentref a chymuned ar Ynys Môn yw Llanfair Pwllgwyngyll (neu Llanfairpwllgwyngyll; Llanfairpwll ar lafar yn lleol). Fe'i lleolir ar ffordd yr A5 tua 3 milltir i'r gorllewin o Borthaethwy.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#llanfairyneubwll">
+        <town id="llanfairyneubwll">
             <name>Llanfairyneubwll</name>
             <lat>53.258867</lat>
             <lon>-4.548478</lon>
             <wikipedia />
             <wikipedia />
         </town>
-        <town id="anglesey/sir fon#llanfairynghornwy">
+        <town id="llanfairynghornwy">
             <name>Llanfairynghornwy</name>
             <lat>53.388619</lat>
             <lon>-4.523669</lon>
             <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llanfairynghornwy">This is a redirect from a title with a different spelling. Pages that link to this redirect may be updated to link directly to the target page if that results in an improvement of the text. Do not "fix" such links if they are not broken. Also, these links should not be replaced with piped links. For more information follow the category link.</wikipedia>
             <wikipedia />
         </town>
-        <town id="anglesey/sir fon#llanfechell">
+        <town id="llanfechell">
             <name>Llanfechell</name>
             <lat>53.392837</lat>
             <lon>-4.453698</lon>
@@ -796,7 +722,7 @@ Nid yw'r pentref ei hun ar lan y môr, ond mae traeth Porth Swtan gerllaw, tua m
 The Community (which also includes Mynydd Mechell and Carreglefn) has a 2001 population of 1,532. Village services include a church, a primary school, a pub and two chapels. It is an agricultural area, and has been a local centre for markets, livestock fairs, and had both a watermill and windmill. The area round about has many prehistoric monuments.</wikipedia>
             <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Llanfechell">Pentref ar Ynys Môn yw Llanfechell (cyfeiriad grid SH369912). Saif yng ngogledd yr ynys tua 2 filltir i'r de o bentref Cemaes, ar yr arfordir i'r gogledd, a milltir i'r de o bentref Tregele, lle mae lôn yn rhedeg o'r pentref hwnnw i Llanfechell. Mae'r pentref yn perthyn i gymuned Mechell.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#llanfflewyn">
+        <town id="llanfflewyn">
             <name>Llanfflewyn</name>
             <lat>53.3727003</lat>
             <lon>-4.4820668</lon>
@@ -806,21 +732,21 @@ Cynrychiolir Llanfflewyn yn y Cynulliad Cenedlaethol gan Rhun ap Iorwerth (Plaid
 ↑ Gwefan y Cynulliad; adalwyd 24 Chwefror 2014
 ↑ Gwefan parliament.uk; adalwyd 24 Chwefror 2014</wikipedia>
         </town>
-        <town id="anglesey/sir fon#llanfigael">
+        <town id="llanfigael">
             <name>Llanfigael</name>
             <lat>53.3179329</lat>
             <lon>-4.511548</lon>
             <wikipedia />
             <wikipedia />
         </town>
-        <town id="anglesey/sir fon#llanfihangel yn nhowyn">
+        <town id="llanfihangel yn nhowyn">
             <name>Llanfihangel yn Nhowyn</name>
             <lat />
             <lon />
             <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llanfihangel yn Nhowyn">Llanfihangel yn Nhowyn is a village in Anglesey, in north-west Wales. The church in the village, St Mihangel's, is a Grade II listed building and is the chapel for the nearby airbase, RAF Valley.</wikipedia>
             <wikipedia />
         </town>
-        <town id="anglesey/sir fon#llanfwrog">
+        <town id="llanfwrog">
             <name>Llanfwrog</name>
             <lat>53.111044</lat>
             <lon>-3.329039</lon>
@@ -831,7 +757,7 @@ Llanfwrog, Denbighshire</wikipedia>
 Llanfwrog, pentref ger Rhuthun yn Sir Ddinbych
 Llanfwrog, pentref ar Ynys Môn</wikipedia>
         </town>
-        <town id="anglesey/sir fon#llangadwaladr">
+        <town id="llangadwaladr">
             <name>Llangadwaladr</name>
             <lat>53.196286</lat>
             <lon>-4.422357</lon>
@@ -841,7 +767,7 @@ The village's church (St Cadwaladr) is believed to have been a royal burial grou
 Llangadwaladr, pentref ar Ynys Môn.
 Llangadwaladr, pentref ym Mhowys.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#llangaffo">
+        <town id="llangaffo">
             <name>Llangaffo</name>
             <lat>53.188918</lat>
             <lon>-4.3301</lon>
@@ -850,7 +776,7 @@ Llangadwaladr, pentref ym Mhowys.</wikipedia>
 </wikipedia>
             <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Llangaffo">Pentref yn ne-orllewin Ynys Môn yw Llangaffo, ar y ffordd rhwng Pentre Berw a Niwbwrch, lle mae'r ffyrdd B4419 a B4421 yn cyfarfod. Yn yr Oesoedd Canol bu'n rhan o gwmwd Menai, cantref Aberffraw. Mae yng nghymuned Rhosyr.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#llangefni">
+        <town id="llangefni">
             <name>Llangefni</name>
             <lat>53.255785</lat>
             <lon>-4.311402</lon>
@@ -858,7 +784,7 @@ Llangadwaladr, pentref ym Mhowys.</wikipedia>
             <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Llangefni">Tref yng nghanol Ynys Môn yw Llangefni, sydd wedi bod yn dref farchnad bwysig i'r ynys. Llangefni yw tref sirol Môn a lleolir pencadlys Cyngor Sir Ynys Môn yma. Yn ôl Cyfrifiad 2001, mae gan Llangefni boblogaeth o 4,499 o bobl. Mae 83.8% o'r boblogaeth honno'n rhugl yn y Gymraeg gyda'r canran uchaf yn yr oedran 10-14 mlwydd gyda 95.2% yn medru'r Gymraeg. O'i tharddle ger Llyn Cefni rhed Afon Cefni trwy'r dref, sy'n cymryd ei enw o'r afon. Mae Caerdydd 211.6 km i ffwrdd o Llangefni ac mae Llundain yn 344.7 km. Y ddinas agosaf ydy Bangor sy'n 11.7 km i ffwrdd.
 Yn y dref ceir Oriel Ynys Môn, gydag amgueddfa sy'n olrhain hanes yr ynys ac oriel i ddangos gwaith yr arlunydd bywyd gwyllt Charles Tunnicliffe.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#llangoed">
+        <town id="llangoed">
             <name>Llangoed</name>
             <lat>53.295301</lat>
             <lon>-4.087893</lon>
@@ -873,7 +799,7 @@ Mae Afon Lleiniog, sy'n llifo trwy'r pentref o dreflan Glanrafon i'r môr, yn ll
 Mae'r pentref yn cynnal twrnament Rygbi 7 bob ochr bob blwyddyn. Dechreuir ei gôd post gyda LL58 8.
 Ceir clystyrau cytiau hynafol gerllaw.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#llangristiolus">
+        <town id="llangristiolus">
             <name>Llangristiolus</name>
             <lat>53.235693</lat>
             <lon>-4.345801</lon>
@@ -884,7 +810,7 @@ The village was also home to Meinir Gwilym who was born in Wales in 1983, and ed
 Yn Oes y Tywysogion roedd yn rhan o gwmwd Malltraeth, cantref Aberffraw. Ceir clwstwr cytiau Tyddyn Sadler gerllaw.
 I'r gogledd o'r pentref ceir Rhostrehwfa.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#llangwyllog">
+        <town id="llangwyllog">
             <name>Llangwyllog</name>
             <lat>53.29105</lat>
             <lon>-4.343293</lon>
@@ -900,14 +826,14 @@ Yn yr Oesoedd Canol gorweddai'r plwyf yng nghwmwd Menai. Bu brwydr yn y cyffinia
 Rhoddodd y Tywysog Llywelyn ab Iorwerth Eglwys Gwyllog a'i degwm i Briordy Penmon.
 Roedd gan Lein Amlwch (Rheilffordd Canolbarth Môn) orsaf yn Llangwyllog nes i'r lein gau yn 1993. Mae'n dŷ preifat heddiw.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#llanrhyddlad">
+        <town id="llanrhyddlad">
             <name>Llanrhyddlad</name>
             <lat>53.371745</lat>
             <lon>-4.509927</lon>
             <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Llanrhyddlad">Llanrhyddlad (Welsh: Llan-Rhûddlad) is a parish in Anglesey, in north-west Wales.</wikipedia>
             <wikipedia />
         </town>
-        <town id="anglesey/sir fon#llansadwrn">
+        <town id="llansadwrn">
             <name>Llansadwrn</name>
             <lat>51.966113</lat>
             <lon>-3.901252</lon>
@@ -924,7 +850,7 @@ Llansadwrn ar Ynys Môn
 Gweler hefyd
 Sadwrn</wikipedia>
         </town>
-        <town id="anglesey/sir fon#llantrisant">
+        <town id="llantrisant">
             <name>Llantrisant</name>
             <lat>51.5429188</lat>
             <lon>-3.3749525</lon>
@@ -934,7 +860,7 @@ Llantrisant, Rhondda Cynon Taf
 Llantrisant, Sir Fynwy
 Llantrisant, Ynys Môn</wikipedia>
         </town>
-        <town id="anglesey/sir fon#llanynghenedl">
+        <town id="llanynghenedl">
             <name>Llanynghenedl</name>
             <lat>53.29896</lat>
             <lon>-4.526728</lon>
@@ -943,7 +869,7 @@ Llantrisant, Ynys Môn</wikipedia>
 Dywedir fod yr eglwys, a gysegrwyd i Sant Enghenedl (amrywiad: Ynghenedl), ar safle eglwys hŷn yn dyddio i'r 7fed ganrif.
 Ceir maen hir mewn cae ger y pentref a adnabyddir fel 'Maen hir Llanynghenedl'.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#llechcynfarwy">
+        <town id="llechcynfarwy">
             <name>Llechcynfarwy</name>
             <lat>53.3022028</lat>
             <lon>-4.4308726</lon>
@@ -951,7 +877,7 @@ Ceir maen hir mewn cae ger y pentref a adnabyddir fel 'Maen hir Llanynghenedl'.<
             <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Llechcynfarwy">Pentrefan yng nghymuned Tref Alaw, Ynys Môn, Cymru yw Llechcynfarwy. Mae 136.5 milltir (219.7 km) o Gaerdydd a 219.7 milltir (353.5 km) o Lundain.
 Cynrychiolir Llechcynfarwy yn y Cynulliad Cenedlaethol gan Rhun ap Iorwerth (Plaid Cymru) a'r Aelod Seneddol yw Albert Owen (Y Blaid Lafur).</wikipedia>
         </town>
-        <town id="anglesey/sir fon#llynfaes">
+        <town id="llynfaes">
             <name>Llynfaes</name>
             <lat>53.2789699</lat>
             <lon>-4.3864772</lon>
@@ -959,7 +885,7 @@ Cynrychiolir Llechcynfarwy yn y Cynulliad Cenedlaethol gan Rhun ap Iorwerth (Pla
             <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Llynfaes">Pentrefan yng nghymuned Bodffordd, Ynys Môn, Cymru yw Llynfaes. Mae 134.3 milltir (216.1 km) o Gaerdydd a 217.2 milltir (349.5 km) o Lundain.
 Cynrychiolir Llynfaes yn y Cynulliad Cenedlaethol gan Rhun ap Iorwerth (Plaid Cymru) a'r Aelod Seneddol yw Albert Owen (Y Blaid Lafur).</wikipedia>
         </town>
-        <town id="anglesey/sir fon#maenaddwyn">
+        <town id="maenaddwyn">
             <name>Maenaddwyn</name>
             <lat>53.331394</lat>
             <lon>-4.31477</lon>
@@ -967,7 +893,7 @@ Cynrychiolir Llynfaes yn y Cynulliad Cenedlaethol gan Rhun ap Iorwerth (Plaid Cy
             <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Maenaddwyn">Pentref yng nghymuned Llanddyfnan, Ynys Môn, Cymru yw Maen-Addwyn. Mae 136.6 milltir (219.8 km) o Gaerdydd a 216.7 milltir (348.8 km) o Lundain.
 Cynrychiolir Maen-Addwyn yn y Cynulliad Cenedlaethol gan Rhun ap Iorwerth (Plaid Cymru) a'r Aelod Seneddol yw Albert Owen (Y Blaid Lafur).</wikipedia>
         </town>
-        <town id="anglesey/sir fon#malltraeth">
+        <town id="malltraeth">
             <name>Malltraeth</name>
             <lat>53.192112</lat>
             <lon>-4.384489</lon>
@@ -981,7 +907,7 @@ Cwmwd Malltraeth, cwmwd canoloesol
 Malltraeth (pentref)
 Cors Ddyga ("Malltraeth Marsh" yn Saesneg)</wikipedia>
         </town>
-        <town id="anglesey/sir fon#marian-glas">
+        <town id="marian-glas">
             <name>Marian-glas</name>
             <lat>53.335896</lat>
             <lon>-4.246625</lon>
@@ -989,7 +915,7 @@ Cors Ddyga ("Malltraeth Marsh" yn Saesneg)</wikipedia>
 Marian-glas Hut Group is an unenclosed hut circle (53.3379°N 4.2516°W﻿ / 53.3379; -4.2516﻿ (Marian-glas Hut Group), SH501846). This Scheduled Ancient Monument (Cadw SAM No. AN093) is a roundhouse settlement dating at least back to Roman times. It is also called Cae Marh Hut Group. There are several huts with thick walls, some standing up to 1.4m high. Some of the huts walls are now obscured by a thicket, while others are visible as wall lines in the lawns of Marianglas caravan park. The location is indicated on the ground through a signboard by the Ministry of Public Building and Works (which dates the sign to 1962-70).</wikipedia>
             <wikipedia />
         </town>
-        <town id="anglesey/sir fon#mariandyrys">
+        <town id="mariandyrys">
             <name>Mariandyrys</name>
             <lat>53.3092689</lat>
             <lon>-4.0996354</lon>
@@ -998,14 +924,14 @@ Marian-glas Hut Group is an unenclosed hut circle (53.3379°N 4.2516°W﻿ / 53.
 </wikipedia>
             <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Mariandyrys">Pentrefan yn Ynys Môn yw Mariandyrys. Fe'i lleolir tua milltir i'r gogledd o bentref Llangoed yng nghymuned Llangoed ar ben de-ddwyreiniol yr ynys tua hanner milltir o'r môr.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#menai bridge (porthaethwy)">
+        <town id="menai bridge (porthaethwy)">
             <name>Menai Bridge (Porthaethwy)</name>
             <lat />
             <lon />
             <wikipedia />
             <wikipedia />
         </town>
-        <town id="anglesey/sir fon#moelfre">
+        <town id="moelfre">
             <name>Moelfre</name>
             <lat>53.352276</lat>
             <lon>-4.237343</lon>
@@ -1016,7 +942,7 @@ Moelfre, Gwynedd - a hill in the Snowdonia range, in the county of Gwynedd, Wale
 Moelfre, Powys - a hamlet in the community of Llansilin in the county of Powys, Wales, United Kingdom</wikipedia>
             <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Moelfre">Gallai Moelfre gyfeirio at:</wikipedia>
         </town>
-        <town id="anglesey/sir fon#morawelon">
+        <town id="morawelon">
             <name>Morawelon</name>
             <lat>53.2721464</lat>
             <lon>-4.5855074</lon>
@@ -1026,7 +952,7 @@ Cynrychiolir Morawelon yn y Cynulliad Cenedlaethol gan Rhun ap Iorwerth (Plaid C
 ↑ Gwefan y Cynulliad; adalwyd 24 Chwefror 2014
 ↑ Gwefan parliament.uk; adalwyd 24 Chwefror 2014</wikipedia>
         </town>
-        <town id="anglesey/sir fon#mountain">
+        <town id="mountain">
             <name>Mountain</name>
             <lat>53.312436</lat>
             <lon>-4.6629722</lon>
@@ -1035,7 +961,7 @@ High elevations on mountains produce colder climates than at sea level. These co
 The highest mountain on Earth is Mount Everest in the Himalayas of Asia, whose summit is 8,850 m (29,035 ft) above mean sea level. The highest known mountain on any planet in the Solar System is Olympus Mons on Mars at 21,171 m (69,459 ft).</wikipedia>
             <wikipedia />
         </town>
-        <town id="anglesey/sir fon#mynydd bodafon">
+        <town id="mynydd bodafon">
             <name>Mynydd Bodafon</name>
             <lat />
             <lon />
@@ -1052,14 +978,14 @@ Ceir olion Cytiau'r Gwyddelod, sy'n perthyn i Oes yr Haearn yn ôl pob tebyg, ar
 Mae'r bryn yn boblogaidd gan bobl leol i fynd am dro neu i bysgota. Ceir golygfa dros Fôn o'r copa.
 Enwir Yr Arwydd, papur bro cylch Mynydd Bodafon, ar ôl enw copa'r bryn.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#mynydd mechell">
+        <town id="mynydd mechell">
             <name>Mynydd Mechell</name>
             <lat />
             <lon />
             <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Mynydd Mechell">Mynydd Mechell is an area in the community of Mechell, Ynys Môn, Wales, which is 141.9 miles (228.4 km) from Cardiff and 223.8 miles (360.2 km) from London.</wikipedia>
             <wikipedia />
         </town>
-        <town id="anglesey/sir fon#nebo">
+        <town id="nebo">
             <name>Nebo</name>
             <lat>53.0300719</lat>
             <lon>-4.269537</lon>
@@ -1086,42 +1012,42 @@ Ardal Ysgol Nebo, ardal ysgol yn Swydd Utah, Utah
 Mynyddoedd
 Enwir sawl mynydd gyda'r enw hwn, gweler dudalen gwahaniaethu Mynydd Nebo</wikipedia>
         </town>
-        <town id="anglesey/sir fon#newborough (niwbwrch)">
+        <town id="newborough (niwbwrch)">
             <name>Newborough (Niwbwrch)</name>
             <lat />
             <lon />
             <wikipedia />
             <wikipedia />
         </town>
-        <town id="anglesey/sir fon#newlands park">
+        <town id="newlands park">
             <name>Newlands Park</name>
             <lat />
             <lon />
             <wikipedia />
             <wikipedia />
         </town>
-        <town id="anglesey/sir fon#niwbwrch (newborough)">
+        <town id="niwbwrch (newborough)">
             <name>Niwbwrch (Newborough)</name>
             <lat />
             <lon />
             <wikipedia />
             <wikipedia />
         </town>
-        <town id="anglesey/sir fon#nodwydd">
+        <town id="nodwydd">
             <name>Nodwydd</name>
             <lat>53.2822354</lat>
             <lon>-4.2189242</lon>
             <wikipedia />
             <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Nodwydd">Gall nodwydd, neu nodwyddau gyfeirio at:</wikipedia>
         </town>
-        <town id="anglesey/sir fon#parciau">
+        <town id="parciau">
             <name>Parciau</name>
             <lat>52.8462026</lat>
             <lon>-4.5241479</lon>
             <wikipedia />
             <wikipedia />
         </town>
-        <town id="anglesey/sir fon#pen-llyn">
+        <town id="pen-llyn">
             <name>Pen-llyn</name>
             <lat>53.313298</lat>
             <lon>-4.474438</lon>
@@ -1131,14 +1057,14 @@ Cynrychiolir Pen-llyn yn y Cynulliad Cenedlaethol gan Rhun ap Iorwerth (Plaid Cy
 ↑ Gwefan y Cynulliad; adalwyd 24 Chwefror 2014
 ↑ Gwefan parliament.uk; adalwyd 24 Chwefror 2014</wikipedia>
         </town>
-        <town id="anglesey/sir fon#pen-lon">
+        <town id="pen-lon">
             <name>Pen-lon</name>
             <lat>53.158848</lat>
             <lon>-4.350763</lon>
             <wikipedia />
             <wikipedia />
         </town>
-        <town id="anglesey/sir fon#pen-y-garnedd">
+        <town id="pen-y-garnedd">
             <name>Pen-y-garnedd</name>
             <lat>53.215844</lat>
             <lon>-4.1467356</lon>
@@ -1149,7 +1075,7 @@ Cynrychiolir Pen-y-garnedd yn y Cynulliad Cenedlaethol gan Rhun ap Iorwerth (Pla
 ↑ Gwefan y Cynulliad; adalwyd 24 Chwefror 2014
 ↑ Gwefan parliament.uk; adalwyd 24 Chwefror 2014</wikipedia>
         </town>
-        <town id="anglesey/sir fon#pencarnisiog">
+        <town id="pencarnisiog">
             <name>Pencarnisiog</name>
             <lat>53.233332</lat>
             <lon>-4.470307</lon>
@@ -1159,7 +1085,7 @@ Ceir dwy ffordd o sillafu enw'r pentref. Yn yr Oesoedd Canol roedd treflan o'r e
 Yn ymyl y pentref ceir siambr gladdu neolithig Tŷ Newydd.
 Lleolir Ysgol Pencarnisiog yn y pentref, ysgol gynradd sydd yn nhalgylch Ysgol Uwchradd Bodedern.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#pencraig">
+        <town id="pencraig">
             <name>Pencraig</name>
             <lat>52.225627</lat>
             <lon>-3.099451</lon>
@@ -1169,7 +1095,7 @@ Mae eglwys plwyf Pencraig yn dyddio o'r 15fed ganrif ac yn cynnwys y cas organ h
 Heblaw pentref Pencraig, mae'r gymuned yn cynnwys pentrefi Evenjobb a Walton. Cafwyd hyd i balisâd mawr o goed o'r cyfnod Neolithig yn Walton yn ddiweddar. Codwyd y castell mwnt a beili yn Womaston cyn 1066, a chredir mai hwn oedd yn cynharaf yng Nghymru. Bu George Cornewall Lewis yn byw yn Harpton Court. Roedd poblogaeth y gymuned yn 2001 yn 741.
 Ceir Allt Pencraig (Old Radnor Hill) yn y gymuned.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#pengorffwysfa">
+        <town id="pengorffwysfa">
             <name>Pengorffwysfa</name>
             <lat>53.40254</lat>
             <lon>-4.307989</lon>
@@ -1179,7 +1105,7 @@ The village has a Calvinist chapel, Capel Seilo, built in 1835 to replace a smal
             <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Pengorffwysfa">Pentrefan yng nghymuned Llaneilian, Ynys Môn, Cymru yw Pengorffwysfa. Mae 141.1 milltir (227.1 km) o Gaerdydd a 219.3 milltir (352.9 km) o Lundain. Saif Mynydd Eilian fymryn i'r dwyrain o'r pentref. Mae'n gorwedd i'r de o bentref Llaneilian ac i'r gogledd o bentref Penysarn.
 Cynrychiolir Pen-Gorphwysfa yn y Cynulliad Cenedlaethol gan Rhun ap Iorwerth (Plaid Cymru) a'r Aelod Seneddol yw Albert Owen (Y Blaid Lafur).</wikipedia>
         </town>
-        <town id="anglesey/sir fon#penmon">
+        <town id="penmon">
             <name>Penmon</name>
             <lat>53.304152</lat>
             <lon>-4.058777</lon>
@@ -1190,14 +1116,14 @@ Mae yma fynachdy o'r 6ed ganrif (Priordy Penmon) a gafodd ei ail-adeiladu wedyn 
 Yn Oes y Tywysogion gorweddai Penmon yng nghwmwd Dindaethwy, cantref Rhosyr.
 Ger priordy Penmon ceir colomendy i ddal bron i fil o nythod a deiladwyd yn 1600.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#penmynydd">
+        <town id="penmynydd">
             <name>Penmynydd</name>
             <lat>53.245435</lat>
             <lon>-4.233734</lon>
             <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Penmynydd">Penmynydd, meaning top of the mountain in Welsh, is a village on Anglesey island, off the north west coast of Wales, situated on a slight hill on the B5420 road between Menai Bridge and Llangefni, at grid reference SH510743. The Royal Mail postcode begins LL61 with a community population taken at the 2011 cenus of 465. When Welsh nobleman Rhys ap Tudur was executed in 1412, lands of the Penmynydd family were forfeited. The village includes the Neuadd Lwyd, a former Victorian rectory that was converted into a country-house hotel. The village is notable for its almshouses. A radio communication transmission mast was installed in 2002 a few yards north of the village at the top of the hill.</wikipedia>
             <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Penmynydd">Mae Penmynydd yn bentref a chymuned ar Ynys Môn, ar y ffordd gefn B5420 rhwng Porthaethwy a Llangefni. Mae'n rhan o gymuned Penmynydd a Star.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#penrhos">
+        <town id="penrhos">
             <name>Penrhos</name>
             <lat>53.300496</lat>
             <lon>-4.600263</lon>
@@ -1220,7 +1146,7 @@ Gweler hefyd
 Penrhosgarnedd, Gwynedd
 Penrhosllugwy, Ynys Môn</wikipedia>
         </town>
-        <town id="anglesey/sir fon#penrhosfeilw">
+        <town id="penrhosfeilw">
             <name>Penrhosfeilw</name>
             <lat>53.294305</lat>
             <lon>-4.66491</lon>
@@ -1229,7 +1155,7 @@ Penrhosllugwy, Ynys Môn</wikipedia>
             <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Penrhosfeilw">Pentref yng nghymuned Trearddur, Ynys Môn, Cymru yw Penrhosfeilw. Mae 140.1 milltir (225.4 km) o Gaerdydd a 227.5 milltir (366.1 km) o Lundain.
 Cynrychiolir Penrhosfeilw yn y Cynulliad Cenedlaethol gan Rhun ap Iorwerth (Plaid Cymru) a'r Aelod Seneddol yw Albert Owen (Y Blaid Lafur).</wikipedia>
         </town>
-        <town id="anglesey/sir fon#penrhyd lastra">
+        <town id="penrhyd lastra">
             <name>Penrhyd Lastra</name>
             <lat />
             <lon />
@@ -1240,14 +1166,14 @@ Cynrychiolir Penrhyd Lastra yn y Cynulliad Cenedlaethol gan Rhun ap Iorwerth (Pl
 ↑ Gwefan y Cynulliad; adalwyd 24 Chwefror 2014
 ↑ Gwefan parliament.uk; adalwyd 24 Chwefror 2014</wikipedia>
         </town>
-        <town id="anglesey/sir fon#penrhyn mawr">
+        <town id="penrhyn mawr">
             <name>Penrhyn Mawr</name>
             <lat />
             <lon />
             <wikipedia />
             <wikipedia />
         </town>
-        <town id="anglesey/sir fon#pentraeth">
+        <town id="pentraeth">
             <name>Pentraeth</name>
             <lat>53.281821</lat>
             <lon>-4.2162879</lon>
@@ -1259,7 +1185,7 @@ The centre of the village is The Square. It is bounded by St. Mary's Church and 
 ^ "Community population 2011". Retrieved 20 May 2015.</wikipedia>
             <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Pentraeth">Pentref a chymuned yn ne-ddwyrain Môn, Cymru, yw Pentraeth, ar lôn yr A5025. Ceir Gwarchodfa Natur Cenedlaethol Cors Bodeilio gerllaw.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#pentre berw">
+        <town id="pentre berw">
             <name>Pentre Berw</name>
             <lat />
             <lon />
@@ -1271,7 +1197,7 @@ Plas Berw, a country house which dates back from the early 17th century, is near
 Mae 'berw' yn ffurf ar y gair 'berwr' (cress). Berw oedd enw'r dref ganoloesol (cymuned o ffermydd a thai ar wasgar); tyfodd pentref ar y groesffordd a gafodd yr enw 'Pentre Berw'.
 Yn y pentref mae gwesty yr Holland Arms a chanolfan garddio fawr o'r un enw. Roedd Rheilffordd Canol Môn yn gadael y prif reilffordd i Gaergybi gerllaw'r pentref. Ar un adeg yr oedd diwydiant glo bychan yn yr ardal, a gellir gweld rhai o'r hen adeiladau o hyd.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#pentrefelin">
+        <town id="pentrefelin">
             <name>Pentrefelin</name>
             <lat>52.934281</lat>
             <lon>-4.193056</lon>
@@ -1286,7 +1212,7 @@ Pentrefelin, Ynys Môn, ar gyrion Amlwch
 Gweler hefyd:
 Pentre'r Felin (gwahaniaethu)</wikipedia>
         </town>
-        <town id="anglesey/sir fon#penygraigwen">
+        <town id="penygraigwen">
             <name>Penygraigwen</name>
             <lat />
             <lon />
@@ -1294,7 +1220,7 @@ Pentre'r Felin (gwahaniaethu)</wikipedia>
             <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Penygraigwen">Pentref yng nghymuned Rhosybol, Ynys Môn, Cymru yw Penygraigwen. Mae 138.9 milltir (223.6 km) o Gaerdydd a 218.5 milltir (351.6 km) o Lundain.
 Cynrychiolir Penygraigwen yn y Cynulliad Cenedlaethol gan Rhun ap Iorwerth (Plaid Cymru) a'r Aelod Seneddol yw Albert Owen (Y Blaid Lafur).</wikipedia>
         </town>
-        <town id="anglesey/sir fon#penysarn">
+        <town id="penysarn">
             <name>Penysarn</name>
             <lat>53.3893402</lat>
             <lon>-4.3169297</lon>
@@ -1305,7 +1231,7 @@ Cynrychiolir Penygraigwen yn y Cynulliad Cenedlaethol gan Rhun ap Iorwerth (Plai
 
 Pentref yng ngogledd-ddwyrain Ynys Môn yw Penysarn. Saif ychydig i'r dwyrain o Fynydd Parys, a gerllaw'r briffordd A5025 rhwng Amlwch a Llanallgo. Mae'n rhan o gymuned Llaneilian.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#point lynas">
+        <town id="point lynas">
             <name>Point Lynas</name>
             <lat />
             <lon />
@@ -1315,35 +1241,35 @@ If the topic is not susceptible to a major expansion, then instead of this rcat,
 Do not replace links to this redirect with a link directly to the target page.</wikipedia>
             <wikipedia />
         </town>
-        <town id="anglesey/sir fon#pont hwfa">
+        <town id="pont hwfa">
             <name>Pont Hwfa</name>
             <lat />
             <lon />
             <wikipedia />
             <wikipedia />
         </town>
-        <town id="anglesey/sir fon#porth-y-felin">
+        <town id="porth-y-felin">
             <name>Porth-y-felin</name>
             <lat>53.314817</lat>
             <lon>-4.642079</lon>
             <wikipedia />
             <wikipedia />
         </town>
-        <town id="anglesey/sir fon#porthaethwy (menai bridge)">
+        <town id="porthaethwy (menai bridge)">
             <name>Porthaethwy (Menai Bridge)</name>
             <lat />
             <lon />
             <wikipedia />
             <wikipedia />
         </town>
-        <town id="anglesey/sir fon#porthllechog (bull bay)">
+        <town id="porthllechog (bull bay)">
             <name>Porthllechog (Bull Bay)</name>
             <lat />
             <lon />
             <wikipedia />
             <wikipedia />
         </town>
-        <town id="anglesey/sir fon#puffin island">
+        <town id="puffin island">
             <name>Puffin Island</name>
             <lat />
             <lon />
@@ -1365,14 +1291,14 @@ Puffin Island (Maine)
 Puffin Island (Washington)</wikipedia>
             <wikipedia />
         </town>
-        <town id="anglesey/sir fon#red wharf bay">
+        <town id="red wharf bay">
             <name>Red Wharf Bay</name>
             <lat />
             <lon />
             <wikipedia />
             <wikipedia />
         </town>
-        <town id="anglesey/sir fon#rhos lligwy">
+        <town id="rhos lligwy">
             <name>Rhos Lligwy</name>
             <lat />
             <lon />
@@ -1380,14 +1306,14 @@ Puffin Island (Washington)</wikipedia>
             <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Rhos Lligwy">Pentref yng nghymuned Moelfre, Ynys Môn, Cymru yw Rhos Lligwy. Mae 137.5 milltir (221.2 km) o Gaerdydd a 216.3 milltir (348 km) o Lundain.
 Cynrychiolir Rhos Lligwy yn y Cynulliad Cenedlaethol gan Rhun ap Iorwerth (Plaid Cymru) a'r Aelod Seneddol yw Albert Owen (Y Blaid Lafur).</wikipedia>
         </town>
-        <town id="anglesey/sir fon#rhoscefnhir">
+        <town id="rhoscefnhir">
             <name>Rhoscefnhir</name>
             <lat>53.2666251</lat>
             <lon>-4.2161009</lon>
             <wikipedia />
             <wikipedia />
         </town>
-        <town id="anglesey/sir fon#rhoscolyn">
+        <town id="rhoscolyn">
             <name>Rhoscolyn</name>
             <lat>53.250164</lat>
             <lon>-4.59686</lon>
@@ -1400,7 +1326,7 @@ Mae'r gymuned hon yn cynnwys pentref Pontrhydybont yn ogystal a Rhoscolyn ei hun
 Ceir Eglwys y Santes Gwenfaen yn Rhoscolyn. Gwenfaen yw nawddsant y plwyf a dywedir mai 'Llanwenfaen' oedd yr hen enw am Roscolyn ei hun. Enwir yr ysgol gynradd leol yn Ysgol Gwenfaen ar ei hôl.
 Ganwyd y paffiwr Atholl Oakeley yn Rhoscolyn yn 1900.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#rhosgoch">
+        <town id="rhosgoch">
             <name>Rhosgoch</name>
             <lat>53.377121</lat>
             <lon>-4.390969</lon>
@@ -1410,7 +1336,7 @@ The village once was home to one of the stations on the Anglesey Central Railway
             <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Rhosgoch">Pentref yng nghymuned Rhosybol, Ynys Môn, Cymru yw Rhosgoch. Mae 140.7 milltir (226.4 km) o Gaerdydd a 221.1 milltir (355.8 km) o Lundain.
 Cynrychiolir Rhosgoch yn y Cynulliad Cenedlaethol gan Rhun ap Iorwerth (Plaid Cymru) a'r Aelod Seneddol yw Albert Owen (Y Blaid Lafur).</wikipedia>
         </town>
-        <town id="anglesey/sir fon#rhosmeirch">
+        <town id="rhosmeirch">
             <name>Rhosmeirch</name>
             <lat>53.27417</lat>
             <lon>-4.310534</lon>
@@ -1420,7 +1346,7 @@ It is located 1 1⁄2 miles (2.4 km) north of the county town, Llangefni, and ha
 Rhed yr hen ffordd o Langefni i Amlwch (y B5111) trwy'r pentref. Tua chwarter milltir i'r gorllewin ceir Llyn Cefni, cronfa ddŵr Llangefni.
 Mae Rhosmeirch yn adnabyddus am ei le yn hanes yr Annibynwyr a chyfrifir Capel Ebenezer, ar gwr y pentref, yn un o gapeli pwysicaf yr enwad hwnnw.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#rhosneigr">
+        <town id="rhosneigr">
             <name>Rhosneigr</name>
             <lat>53.228996</lat>
             <lon>-4.519761</lon>
@@ -1436,7 +1362,7 @@ Maelog Lake Golf Club (now defunct) appeared prior to WW1. The club and course d
             <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Rhosneigr">Pentref ar arfordir gorllewinol Ynys Môn yw Rhosneigr. Saif ar y briffordd A4080. Erbyn hyn mae'n bentref gwyliau yn bennaf.
 Mae traeth bychan gerllaw'r pentref ei hun, a dau draeth mwy, Traeth Cymyran a Thraeth Llydan, gerllaw. Ceir gorsaf reilffordd yno, yn ogystal a nifer o westai a thai bwyta. Twristiaeth yw'r prif ddiwydiant, er fod rhai o'r trigolion yn gweithio ym maes awyr Y Fali gerllaw. Mae Llyn Maelog gerllaw a Llwybr Arfordirol Ynys Môn yn rhedeg heibio'r pentref.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#rhostrehwfa">
+        <town id="rhostrehwfa">
             <name>Rhostrehwfa</name>
             <lat>53.247556</lat>
             <lon>-4.337973</lon>
@@ -1447,7 +1373,7 @@ Mae traeth bychan gerllaw'r pentref ei hun, a dau draeth mwy, Traeth Cymyran a T
 Gorwedd Rhostrehwfa ar hyd lôn y B4422 o'i chyffordd â'r A55.
 Mae'r enw yn hen ac yn tarddu o enw'r dreflan ganoloesol, Tre Hwfa. Roedd Hwfa yn bennaeth lleol yn yr Oesoedd Canol ac roedd nifer o deuluoedd mawr Môn yn ddisgynyddion iddo.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#rhosybol">
+        <town id="rhosybol">
             <name>Rhosybol</name>
             <lat>53.3683369</lat>
             <lon>-4.368121</lon>
@@ -1463,7 +1389,7 @@ Rhosybol has a Post Office which is incorporated within its small corner shop. T
             <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Rhosybol">Pentref bychan a chymuned ar Ynys Môn yw Rhosybol (neu Rhos-y-bol). Saif yng ngogledd yr ynys ar y B5111, hanner ffordd rhwng Amlwch i'r gogledd a Llannerch-y-medd i'r de.
 Pentref estynedig sy'n gorwedd o neilldu'r lôn ydyw. Mae'r pentref yn rhan o blwyf eglwysig Amlwch. Tri chwarter milltir i'r gorllewin ceir pen dwyreiniol Llyn Alaw, ond does dim mynediad hawdd iddo o Rosybol. Milltir a hanner i'r gogledd o Rosybol ceir Mynydd Parys sy'n enwog am ei hen gloddfeydd copr.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#rhydwyn">
+        <town id="rhydwyn">
             <name>Rhydwyn</name>
             <lat>53.370848</lat>
             <lon>-4.534573</lon>
@@ -1475,7 +1401,7 @@ There are roughly fifty people living in the village as of 2010.
             <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Rhydwyn">Pentrefan gwledig yng nghymuned Cylch y Garn ar Ynys Môn yw Rhydwyn (weithiau Rhyd-wyn). Saif yng ngogledd yr ynys ym mhlwyf Llanrhuddlad, tua milltir i'r gorllewin o'r pentref hwnnw a milltir o fae Porth Swtan ar yr arfordir i'r gorllewin. Milltir a hanner i'r de ceir pentref Llanfaethlu. Mae 142.5 milltir (229.4 km) o Gaerdydd a 225.7 milltir (363.3 km) o Lundain.
 Ystyr yr enw yw 'rhyd Gwyn' (enw personol). Gellir cyrraedd y pentref trwy troi oddi ar yr A5025 ger Llanrhuddlad neu Lanfaethlu.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#soar">
+        <town id="soar">
             <name>Soar</name>
             <lat>51.537778</lat>
             <lon>-3.302269</lon>
@@ -1516,21 +1442,21 @@ Afon Soar
 Soar, Dyfnaint
 Soar, Swydd Nottingham</wikipedia>
         </town>
-        <town id="anglesey/sir fon#stryd">
+        <town id="stryd">
             <name>Stryd</name>
             <lat />
             <lon />
             <wikipedia />
             <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Stryd">Ffordd mewn tref neu ddinas yw stryd fel arfer, gyda siopau neu tai (a.y.y.b.) bob ochr iddi.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#stryd y facsen">
+        <town id="stryd y facsen">
             <name>Stryd y Facsen</name>
             <lat />
             <lon />
             <wikipedia />
             <wikipedia />
         </town>
-        <town id="anglesey/sir fon#talwrn">
+        <town id="talwrn">
             <name>Talwrn</name>
             <lat />
             <lon />
@@ -1546,14 +1472,14 @@ Ysgol Talwrn, Ynys Môn
 Rhaglen radio
 Talwrn y Beirdd (neu "Y Talwrn")</wikipedia>
         </town>
-        <town id="anglesey/sir fon#the skerries">
+        <town id="the skerries">
             <name>The Skerries</name>
             <lat />
             <lon />
             <wikipedia lang="en" href="https://en.wikipedia.org/wiki/The Skerries">This is a redirect from an ambiguous page name to a disambiguation page. These redirects are pointed to by links that should always be disambiguated. Therefore, this template should never appear on a page that has "(disambiguation)" in its title. Use {{R to disambiguation page}} instead. For more information follow the category link.</wikipedia>
             <wikipedia />
         </town>
-        <town id="anglesey/sir fon#trearddur">
+        <town id="trearddur">
             <name>Trearddur</name>
             <lat />
             <lon />
@@ -1566,7 +1492,7 @@ Near the beach is a play area and a football pitch where Trearddur Bay United F.
 Pentref gwyliau yw Trearddur yn bennaf erbyn hyn, fel mae ffigurau'r Cyfrifiad (isod) yn dangos; mae ganddo draeth tywodlyd a nifer o westai, tafarnau, bwytai a siopau. Mae Clwb Golff Caergybi gerllaw, a gellir dilyn Llwybr yr Arfordir i'r de i Roscolyn ac i'r gogledd i Ynys Lawd. Mae yna ddau draeth mewn gwirionedd: Bae Trearddur ei hun a Phorth Dafarch, a rhyngddyn nhw mae yna le sy'n cael ei ddefnyddio ar gyfer plymio sgwba. Mae yna farchogaeth ceffylau gerllaw a thripiau neu wibdeithiau a physgota môr.
 Ar fin y traeth ceir llecyn chwarae pêl-droed ble mae'r tim lleol yn chwarae.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#trefdraeth">
+        <town id="trefdraeth">
             <name>Trefdraeth</name>
             <lat />
             <lon />
@@ -1577,7 +1503,7 @@ Trefdraeth - plwyf eglwysig hanesyddol ar Ynys Môn
 Trefdraeth - tref yn Sir Benfro
 Trefdraeth - pentrefan ym Môn</wikipedia>
         </town>
-        <town id="anglesey/sir fon#trefor">
+        <town id="trefor">
             <name>Trefor</name>
             <lat />
             <lon />
@@ -1589,7 +1515,7 @@ Trefdraeth - pentrefan ym Môn</wikipedia>
 .
 Pentref gerllaw Yr Eifl ar arfordir gogleddol Llŷn yng Ngwynedd yw Trefor. Saif ychydig oddi ar y briffordd A499 o Gaernarfon i Bwllheli, rhwng Clynnog Fawr a Llanaelhaearn, lle maer'r briffordd yn gadael yr arfordir ac yn troi tua'r de. Mae'n rhan o gymuned Llanaelhaearn. Mae yno harbwr bychan, pier a thraeth. Llifa Afon Tal i'r môr yn y pentref.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#tregaian">
+        <town id="tregaian">
             <name>Tregaian</name>
             <lat />
             <lon />
@@ -1597,7 +1523,7 @@ Pentref gerllaw Yr Eifl ar arfordir gogleddol Llŷn yng Ngwynedd yw Trefor. Saif
             <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Tregaian">Pentref yng nghymuned Llanddyfnan, Ynys Môn, Cymru yw Tregaian. Mae 134.2 milltir (215.9 km) o Gaerdydd a 215.6 milltir (346.9 km) o Lundain.
 Cynrychiolir Tregaian yn y Cynulliad Cenedlaethol gan Rhun ap Iorwerth (Plaid Cymru) a'r Aelod Seneddol yw Albert Owen (Y Blaid Lafur).</wikipedia>
         </town>
-        <town id="anglesey/sir fon#tregele">
+        <town id="tregele">
             <name>Tregele</name>
             <lat />
             <lon />
@@ -1606,7 +1532,7 @@ Cynrychiolir Tregaian yn y Cynulliad Cenedlaethol gan Rhun ap Iorwerth (Plaid Cy
 Ceir lôn yn rhedeg i lawr i Fae Cemlyn ar yr arfordir i'r gogledd-orllewin. Hanner milltir i'r de o'r pentref ceir cromlech ar Foel Fawr, ar y ffordd i Llanfechell.
 Mae atomfa'r Wylfa yn gorwedd cwta hanner milltir i'r gogledd o'r pentref, gyda gwarchodfa natur Cemlyn gerllaw.</wikipedia>
         </town>
-        <town id="anglesey/sir fon#tryfil">
+        <town id="tryfil">
             <name>Tryfil</name>
             <lat />
             <lon />
@@ -1615,14 +1541,14 @@ Mae atomfa'r Wylfa yn gorwedd cwta hanner milltir i'r gogledd o'r pentref, gyda 
             <wikipedia lang="cy" href="https://cy.wikipedia.org/wiki/Tryfil">Pentrefan yng nghymuned Bodffordd, Ynys Môn, Cymru yw Tryfil. Mae 135.9 milltir (218.7 km) o Gaerdydd a 218.3 milltir (351.3 km) o Lundain.
 Cynrychiolir Tryfil yn y Cynulliad Cenedlaethol gan Rhun ap Iorwerth (Plaid Cymru) a'r Aelod Seneddol yw Albert Owen (Y Blaid Lafur).</wikipedia>
         </town>
-        <town id="anglesey/sir fon#twr">
+        <town id="twr">
             <name>Twr</name>
             <lat />
             <lon />
             <wikipedia />
             <wikipedia />
         </town>
-        <town id="anglesey/sir fon#ty croes">
+        <town id="ty croes">
             <name>Ty Croes</name>
             <lat />
             <lon />
@@ -1630,21 +1556,21 @@ Cynrychiolir Tryfil yn y Cynulliad Cenedlaethol gan Rhun ap Iorwerth (Plaid Cymr
 Apply this redirect (without piping) when the subject page concerns language translation or foreign language equivalents. Other pages that use this redirect should be updated with a direct link to the redirect target (again, without piping).</wikipedia>
             <wikipedia />
         </town>
-        <town id="anglesey/sir fon#tyddyn dai">
+        <town id="tyddyn dai">
             <name>Tyddyn Dai</name>
             <lat />
             <lon />
             <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Tyddyn Dai">Tyddyn Dai is a hamlet in the community of Amlwch, Ynys Môn, Wales, which is 141.4 miles (227.6km) from Cardiff and 220.7 miles (355.1km) from London.</wikipedia>
             <wikipedia />
         </town>
-        <town id="anglesey/sir fon#tynygongl">
+        <town id="tynygongl">
             <name>Tynygongl</name>
             <lat />
             <lon />
             <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Tynygongl">This is a redirect from a title with a different spelling. Pages that link to this redirect may be updated to link directly to the target page. It is not necessary to replace these redirected links with piped links. For more information follow the category link.</wikipedia>
             <wikipedia />
         </town>
-        <town id="anglesey/sir fon#valley (dyffryn)">
+        <town id="valley (dyffryn)">
             <name>Valley (Dyffryn)</name>
             <lat />
             <lon />
