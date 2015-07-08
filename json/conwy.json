@@ -1,0 +1,1571 @@
+{
+    "id": "Conwy",
+    "population": {
+        "href": {
+
+        },
+        "_text": {
+
+        }
+    },
+    "poscodes": {
+        "postcode": [
+            "LL16",
+            "LL18",
+            "LL21",
+            "LL22",
+            "LL24",
+            "LL25",
+            "LL26",
+            "LL27",
+            "LL28",
+            "LL29",
+            "LL30",
+            "LL31",
+            "LL32",
+            "LL33",
+            "LL34",
+            "LL57"
+        ]
+    },
+    "towns": {
+        "town": [
+            {
+                "id": "conwy#abergele",
+                "name": "Abergele",
+                "lat": "53.284355",
+                "lon": "-3.581405",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Abergele",
+                        "_text": "Abergele is a community and small market town, situated on the north coast of Wales between the holiday resorts of Colwyn Bay and Rhyl, in Conwy County Borough. Its northern suburb of Pensarn lies on the Irish Sea coast and is known for its beach, where it is claimed by some that a ghost ship has been sighted. Abergele and Pensarn railway station serves both resorts. Abergele is often overlooked due to the popularity of nearby Rhyl, Prestatyn, Colwyn Bay, Llandudno and Conwy."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Abergele",
+                        "_text": "Tref a chymuned yng Nghonwy (yn yr hen Sir Ddinbych cyn hynny), ar yr A55 rhwng Bae Colwyn a'r Rhyl, yw Abergele. Saif ar lannau Afon Gele. Mae'n dref farchnad, wledig ac yn ganolfan siopa i'r cylch, gyda gorsaf ar Reilffordd Arfordir Gogledd Cymru. I'r dwyrain o'r dref ceir gwlybdir eang Morfa Rhuddlan a Rhuddlan tua phedair milltir i ffwrdd.\n\nMae Caerdydd 202.4 km i ffwrdd o Abergele ac mae Llundain yn 307.5 km. Y ddinas agosaf ydy Bangor sy'n 37.4 km i ffwrdd."
+                    }
+                ]
+            },
+            {
+                "id": "conwy#afon y foel",
+                "name": "Afon y Foel"
+            },
+            {
+                "id": "conwy#alwen",
+                "name": "Alwen",
+                "lat": "52.9833223",
+                "lon": "-3.0585914",
+                "wikipedia": {
+                    "lang": "cy",
+                    "href": "https:\/\/cy.wikipedia.org\/wiki\/Alwen",
+                    "_text": "Enw personol benywaidd yw Alwen, y gall gyfeirio at sawl peth:\nAfon Alwen\nLlyn Alwen\nCronfa Alwen\nAlwen (1974), llyfr Geraint Vaughan Jones\nAlwena, enw merch"
+                }
+            },
+            {
+                "id": "conwy#alwen reservoir",
+                "name": "Alwen Reservoir",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Alwen Reservoir",
+                    "_text": "The Alwen Reservoir or Cronfa Alwen is a 5km long reservoir near Pentre-Llyn-Cymmer in Conwy County Borough, Wales. The bulk of the reservoir lies in Cerrigydrudion community, while the northern arm forms the boundary between Pentrefoelas, to the west, and Llansannan and Nantglyn, to the north and east. It is held back by the 27 metre high Alwen Dam, which impounds the Afon Alwen, and is 8km downstream from Llyn Alwen. It was built between 1909 and 1921, originally to supply water to the town of Birkenhead, near Liverpool in England. Today it is part of the River Dee regulation system and is operated by Welsh Water.\nThe dam is a gravity-arch masonry dam. The \"first stone\" of the dam records that the engineers were Sir Alex. Binnie, Son and [George] Deacon and the contractors were Robert McAlpine and Sons. A large water treatment facility was built below the dam, and a cast iron underground aqueduct laid to Birkenhead. The original water treatment buildings are still standing, but the equipment inside has long gone, replaced by modern plant in a new building.\nThe operators, Welsh Water have a scheme to teach children about the importance of water, linked to the National Curriculum Key Stage 2 and offer an on-site classroom and guided tours of the water treatment works to schools. The nearby Outdoor Education Centre at Pentre-Llyn-Cymmer accommodates children during school trips.\nThe reservoir is very close to Llyn Brenig. It is at the end of a valley, and has no through routes around it for vehicles. However the reservoir has an extensive network of trails (public foot paths as well as forest roads suitable for horse riding, mountain biking and walking).\nFootpaths around the reservoir have recently been upgraded (2005\/2006) providing better access to the general public and allows greater exploration of the North and South Alwen forests.\nFishing is permitted through permit (which can be purchased from the visitors centre at the nearby Llyn Brenig visitors centre).\nVehicular access is limited due to Forestry Commission controlled gates which are sometimes padlocked."
+                }
+            },
+            {
+                "id": "conwy#bae cinmel (kinmel bay)",
+                "name": "Bae Cinmel (Kinmel Bay)"
+            },
+            {
+                "id": "conwy#bae colwyn (colwyn bay)",
+                "name": "Bae Colwyn (Colwyn Bay)"
+            },
+            {
+                "id": "conwy#bae-penrhyn (penrhyn bay)",
+                "name": "Bae-Penrhyn (Penrhyn Bay)"
+            },
+            {
+                "id": "conwy#belgrano",
+                "name": "Belgrano",
+                "lat": "53.2978647",
+                "lon": "-3.5633116",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Belgrano",
+                    "_text": "This is a redirect from a person's surname. It is used because Wikipedia has only one biographical article of a person by this surname, or because one individual is ubiquitously known by this surname (other persons who share this name might be listed at a primary topic disambiguation page). For more information follow the category link."
+                }
+            },
+            {
+                "id": "conwy#betws-y-coed",
+                "name": "Betws-y-Coed",
+                "lat": "53.0930858",
+                "lon": "-3.8010354",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Betws-y-Coed",
+                        "_text": "Betws-y-Coed (\"Prayer house in the wood\", Welsh pronunciation: [\u02c8b\u025bt\u028as \u0259 \u02c8k\u0254\u0268d]) is a village and community in the Conwy valley in Conwy County Borough, Wales. The parish has a population of 564. The name Betws or Bettws is generally thought to be derived from the Anglo-Saxon Old English bed-hus\u2014i.e. a bead-house: a house of prayer, or oratory. The earliest record of the name is Betus, in 1254. It is one of the honeypot locations in Snowdonia.\nBetws-y-Coed lies in the Snowdonia National Park, in a valley near the point where the River Conwy is joined by the River Llugwy and the River Lledr, and was founded around a monastery in the late sixth century. The village grew very slowly with the development of the local lead mining industry. In 1815, the Waterloo Bridge, built by Thomas Telford to carry the A5 road across the River Conwy and through the village, brought considerable transport-related development. The village became a major coaching centre between Corwen (to the east) and Capel Curig (to the west) on the Irish Mail route from London to Holyhead, which led to the improvement of the roads south to Blaenau Ffestiniog and north to Llanrwst and Conwy. It is a primary destination for the purpose of road signs.\nConstruction of Betws-y-Coed railway station in 1868 heralded the arrival of the railway line from Llandudno Junction railway station, and resulted in the village's population increasing by around 500.\nThe village has a large village green which is the playing field for the local football team. The green is bounded on its western side by the A5 trunk road, with 19th century buildings, including shops, hotels, and the Church of St Mary. This church was built on the site of a former cockpit and fairground, and although it is of early English appearance, it was completed as recently as 1873, the internal roof timbers testifying to this relatively young age. The interior also features various types of stone: local bluestone, sandstone (and floor tiles) from Ancaster, and black serpentine from Cornwall. The square bell tower was added in 1907, and the integral church hall was added in the 1970s, the commemorative stone being laid by the Earl of Ancaster in 1976.\n\nOn the southern side of the green is Betws-y-Coed railway station with cafes and tourist shops and a car park. In the former railway goods yard, reached from the station, is the Conwy Valley Railway Museum with its extensive miniature railway.\nOther attractions in the village include the Miners' Bridge and the 14th century church of St. Michael, which is the origin of the name Betws (meaning \"prayer-house\"). There are scenic walks beside the River Llugwy, which flows through the village, and the River Conwy provides further attractions, including the Fairy Glen, the Conwy Fish pass and waterfalls including the Conwy Falls. The Pont-y-Pair Falls are in the centre of the village (also the site of a 53-hole rock cannon), and a mile upstream are the famous Swallow Falls.\nThe picturesque Llyn Elsi reservoir nearby is popular with walkers and anglers, and also provides water for the village. A wide range of footpaths provide access to the lake, both from Betws y Coed itself and the outlying village of Pentre Du.\nThe village is also a centre for outdoor activities and lies within the Gwydyr Forest. The popularity of the area with tourists has led to a proliferation of shops, unusual for a village of this size. Many of these shops specialize in outdoor clothing and equipment, and tend to give the village main street the impression of a retail outlet tastefully designed to be in tune with the landscape, local history and culture.\nThe current Betws-y-Coed Golf Club was founded in the 1970s. There was a much earlier club and course located on or near the Recreation Ground.\nThe village is home to at least one well known rock band; Melys were founded there in 1996.\nThe original Betws-y-Coed website can be visited at Betws-y-Coed and lists accommodation providers situated in the village."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Betws-y-Coed",
+                        "_text": "Tref a chymuned ym mwrdeisdref sirol Conwy, ym Mharc Cenedlaethol Eryri yw Betws-y-Coed. Gerllaw, mae'r Bont Waterloo haearn yn cario'r A5 dros Afon Conwy. Mae Afon Llugwy, sy'n rhedeg trwy'r pentref, yn ymuno ag Afon Conwy gerllaw. Mae Caerdydd 184.1 km i ffwrdd o Betws-y-Coed ac mae Llundain yn 306.8 km. Y ddinas agosaf ydy Bangor sy'n 26.6 km i ffwrdd."
+                    }
+                ]
+            },
+            {
+                "id": "conwy#betws-yn-rhos",
+                "name": "Betws-yn-Rhos",
+                "lat": "53.2479159",
+                "lon": "-3.640139",
+                "wikipedia": {
+                    "lang": "cy",
+                    "href": "https:\/\/cy.wikipedia.org\/wiki\/Betws-yn-Rhos",
+                    "_text": "Pentref, plwyf, a chymuned yn ardal Rhos, bwrdeistref sirol Conwy, yw Betws-yn-Rhos (hefyd Betws yn Rhos)."
+                }
+            },
+            {
+                "id": "conwy#blaenau dolwyddelan",
+                "name": "Blaenau Dolwyddelan"
+            },
+            {
+                "id": "conwy#bont-newydd",
+                "name": "Bont-newydd",
+                "lat": "52.764417",
+                "lon": "-3.826536"
+            },
+            {
+                "id": "conwy#brymbo",
+                "name": "Brymbo",
+                "lat": "53.075576",
+                "lon": "-3.057591",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Brymbo",
+                        "_text": "Brymbo is a local government community, the lowest tier of local government, part of Wrexham County Borough in Wales. It is a village situated in the hilly country to the west of Wrexham town, largely surrounded by farmland.\nAt the 2001 Census, the population of the community area (including Brymbo village, along with the villages of Tanyfron and Bwlchgwyn and a number of rural hamlets) was 3,482. It is also the name of an electoral ward of Wrexham County Borough, whose population (including Brymbo and Tanyfron only) was 2,653 at the 2001 census.\nThe area was formerly heavily dependent on coal mining and steelmaking, and the Brymbo Steelworks, which operated between 1794 and 1990, was a prominent industry for the village and much of the surrounding area. The area had a strong community spirit and at least three major railways (GWR, LNWR, LNER) made it an active center of the area."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Brymbo",
+                        "_text": "Pentref a chymuned ar gyrion Wrecsam a ward o'r dref honno yng ngogledd-ddwyrain Cymru yw Brymbo. Bu Melin Dur Brymbo yn gyflogwr pwysig yn yr ardal tan iddo gau yn ddiweddar a chafwyd gweithfeydd haearn a glo yno hefyd.\nCeir eglwys yn y pentref, sef Eglwys Fair (1872), a chapel Y Tabernacl Tun (Methodistiaid Saesneg). Trowyd capel gwreiddiol Y Tabernacl yn floc o fflatiau."
+                    }
+                ]
+            },
+            {
+                "id": "conwy#bryn dulas",
+                "name": "Bryn Dulas"
+            },
+            {
+                "id": "conwy#bryn pydew",
+                "name": "Bryn Pydew",
+                "wikipedia": {
+                    "lang": "cy",
+                    "href": "https:\/\/cy.wikipedia.org\/wiki\/Bryn Pydew",
+                    "_text": "Mae'r erthygl hon yn cyfeirio at y mynydd o'r enw Bryn Pydew. Am y pentref gweler Pydew.\nMae Bryn Pydew yn gopa mynydd a geir rhwng Llandudno a Wrecsam; cyfeiriad grid SH811790. Uchder cymharol, neu \u201damlygrwydd\u201d y copa, ydy 16 m: dyma'r uchder mae'r copa'n codi uwchlaw'r mynydd agosaf.\nDosberthir copaon Cymru, a gweddill gwledydd Prydain, yn rhestri arbennig yn \u00f4l uchder ac yn \u00f4l amlygrwydd y copa; mae'r copa hwn yn cael ei alw'n HuMP. Mae sawl cymdeithas yn mesur, gwiro a chasglu'r rhestri hyn a d\u00f4nt yngh\u0177d ar wefan \u201cDatabase of British and Irish hills\u201d. Uchder y copa o lefel y m\u00f4r ydy 128 metr (420 tr). Cafodd yr uchder ei fesur a'i gadarnhau ar 8 Mehefin 2009.\n\u2191 \u201cDatabase of British and Irish hills\u201d"
+                }
+            },
+            {
+                "id": "conwy#bryn rhyd-yr-arian",
+                "name": "Bryn Rhyd-yr-Arian"
+            },
+            {
+                "id": "conwy#bryn-rhys",
+                "name": "Bryn-rhys",
+                "lat": "53.2686736",
+                "lon": "-3.7884404"
+            },
+            {
+                "id": "conwy#bryn-y-maen",
+                "name": "Bryn-y-maen",
+                "lat": "53.265455",
+                "lon": "-3.748568",
+                "wikipedia": {
+                    "lang": "cy",
+                    "href": "https:\/\/cy.wikipedia.org\/wiki\/Bryn-y-maen",
+                    "_text": "Pentref bychan yn Sir Conwy yw Bryn-y-maen, sy'n gorwedd yn y bryniau tua 3 milltir i'r de o dref Bae Colwyn ar ymyl ddwyreiniol Dyffryn Conwy. Mae'n bentref ar wasgar o gwmpas cyffordd wledig. Mae ffyrdd yn cysylltu'r pentref \u00e2'r A55 ger Glan Conwy, Mochdre a Bae Colwyn i'r gogledd, gyda Pentrefelin i'r gorllewin, Betws yn Rhos i'r dwyrain a Llanrwst i'r de.\nI'r de-ddwyrain o'r pentref ceir Mynydd Llanelian (336 m). Mae Bryn-y-maen yn adnabyddus yn lleol fel lleoliad Gwarchodfa Achub Anifeiliaid yr RSPCA."
+                }
+            },
+            {
+                "id": "conwy#brynmorfudd",
+                "name": "Brynmorfudd",
+                "lat": "53.2728277",
+                "lon": "-3.668155"
+            },
+            {
+                "id": "conwy#bylchau",
+                "name": "Bylchau",
+                "lat": "53.154296",
+                "lon": "-3.530203",
+                "wikipedia": {
+                    "lang": "cy",
+                    "href": "https:\/\/cy.wikipedia.org\/wiki\/Bylchau",
+                    "_text": "Pentref bychan gwledig ym mwrdeistref sirol Conwy (yn Sir Ddinbych gynt) yw Bylchau (cyfeiriad grid SH975630). Saif ar gyffordd y ffordd A543 a'r A544, tua 5 milltir i'r de-orllewin o dref Dinbych a 3 milltir i'r de-ddwyrain o Lansannan.\nFe'i enwir yn Bylchau am fod dau fwlch yn y plwyf. Mae'r pentref yn gorwedd 330m i fyny yn y bryniau gyda Mynydd Hiraethog yn gorwedd i'r de."
+                }
+            },
+            {
+                "id": "conwy#capel curig",
+                "name": "Capel Curig",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Capel Curig",
+                        "_text": "Capel Curig (Welsh pronunciation: [\u02c8k\u0251\u02d0p\u025bl \u02c8k\u0268\u02d0r\u026a\u0261]; meaning \"Curig's Chapel\") is a village and community in Conwy County Borough, in Wales. It lies in the heart of Snowdonia, on the River Llugwy, and has a population of 226, reducing slightly to 206 at the 2011 census. It is at the junction of the A5 road from Bangor and Bethesda to Betws-y-Coed with the A4086 road from Caernarfon, Llanberis, Pen-y-Pass and Pen-y-Gwryd.\nCapel Curig is recorded as being as the wettest place in the British Isles [1], although the weather station is in Dyffryn Mymbyr, a couple of miles out of the village, in the direction of Snowdon."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Capel Curig",
+                        "_text": "Pentref bychan a chymuned yng nghanol Eryri yw Capel Curig. Mae'n rhan o fwrdeistref sirol Conwy. Fe'i lleolir ar groesffordd lle mae'r A4086 o\/i gyfeiriad Nant Gwynant a Beddgelert yn ymuno \u00e2'r A5.\nEnwir y pentref ar \u00f4l y clas a sefydlwyd gan y sant Curig (fl. 550?) yno. Yn anffodus cafodd yr eglwys bresennol, sy'n sefyll mewn llan ger y pentref, ei hatgyweirio'n sylweddol yn y 19eg ganrif. Eglwys fechan yw hi, 32 wrth 15 troedfedd gyda thransept sgwar diweddarach. Yn Oes y Tywysogion roedd yn perthyn i Briordy Beddgelert. Ceir llecyn o'r enw 'Gelli'r mynach' ar yr hen l\u00f4n i gyfeiriad Llyn Ogwen a Nant Ffrancon. Tu \u00f4l i'r eglwys saif bryn isel Cefn y Capel. Cysegrir yr eglwys bresennol i Sant Cyriacus a'i fam Julitta.\nAr y ffordd i Fetws-y-Coed, 1 km ar \u00f4l Pont Cyfyng i'r de-ddwyrain, ceir caer Rufeinig ar fferm Bryn-y-Gefeiliau, a sefydlwyd tua OC 90-100; fe'i henwyd Caer Llugwy gan yr archaeolegwyr a fu'n cloddio yno.\nMae'r pentref yn ymestyn o gwmpas y groesffordd ac ar hyd y l\u00f4n i gyfeiriad Betws-y-Coed i'r dwyrain. Mae'n dibynnu i raddau helaeth ar dwristiaeth ac mae siopau gweithgareddau awyr agored a gwestai yn amlwg yno.\nCeir golygfeydd bendigedig ac enwog o Lynnau Mymbyr a phedol Yr Wyddfa o Gapel. Trawiadol hefyd yw llethrau agored Moel Siabod i'r de-ddwyrain a mynyddoedd y Carneddau a rhan o'r Glyderau i'r gogledd. Yng Nghapel Curig y ganwyd Alwyn Rice Jones, Archesgob Cymru o 1991 hyd 1999."
+                    }
+                ]
+            },
+            {
+                "id": "conwy#capel garmon",
+                "name": "Capel Garmon",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Capel Garmon",
+                        "_text": "Capel Garmon is a village near Betws-y-Coed in the county borough of Conwy, Wales. It is situated high above the Conwy valley, in the community of Bro Garmon, and commands views over Snowdonia. The village is known for the neolithic burial chamber nearby.\nThe parish church of St Garmon was originally a chapel of ease to the parish of Llanrwst, serving the areas of Garth Garmon and Tybrith Uchaf. Capel Garmon became a separate parish in 1927. The current chapel, the latest in a series of churches at the site, was consecrated in 1862 but is now closed.\nThe burial chamber at Capel Garmon dates from the 3rd millennium BC, and belongs to the Severn-Cotswold group. It consists of a passage leading to a rectangular space, with circular chambers branching to the east and west. The structure has undergone much renovation and the current entrance, originally one of the inner chambers, was made in the 19th century, when the tomb was used as a stable.\nIn addition to sherds of Beaker pottery found in the burial chamber, Capel Garmon was also home to a 1st-century BC iron fire dog which can now be seen at the National Museum of Wales in Cardiff.\n\n"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Capel Garmon",
+                        "_text": "Mae Capel Garmon yn bentref yn ne-ddwyrain Dyffryn Conwy, yn sir Conwy, ychydig i'r dwyrain o Betws y Coed. Mae'n rhan o gymuned Bro Garmon. Mae tafarn ac ysgol gynradd yn y pentref."
+                    }
+                ]
+            },
+            {
+                "id": "conwy#capel siloam",
+                "name": "Capel Siloam"
+            },
+            {
+                "id": "conwy#capelulo",
+                "name": "Capelulo",
+                "lat": "53.271623",
+                "lon": "-3.884354"
+            },
+            {
+                "id": "conwy#carrog",
+                "name": "Carrog",
+                "lat": "52.982236",
+                "lon": "-3.323885",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Carrog",
+                        "_text": "Carrog is a village in Denbighshire, Wales. Formerly referred to as Llansanffraid-Glyn Dyfrdwy, as it lies within the parish of Llansanffraid Glyndyfrdwy, it takes its modern name from the Great Western Railway station on the opposite bank of the River Dee, which in turn took its name (possibly to avoid confusion with the adjacent Glyn Dyfrdwy station and that in Llansanffraid Glan Conwy) from the Carrog estate on that bank.\nCarrog Station is part of the Llangollen Railway and is a passing place on the line, now the extension to Corwen past the site of Bonwm has been opened. One notable resident is Peredur Lynch who graduated from Bangor University to become a literary historian. Carrog has one primary school, Ysgol Carrog which is over 100 years old.\n\n"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Carrog",
+                        "_text": "Gweler hefyd Carrog (gwahaniaethu)\n\nPentref bychan yn ne Sir Ddinbych, gogledd-ddwyrain Cymru, yw Carrog. Gorwedd ar lan Afon Dyfrdwy tua 2 filtir i'r dwyrain o Gorwen, ar y ffordd i gyfeiriad Llangollen (cyfeiriad grid SJ114437). Mae Carrog 104 milltir (167.3 km) o Gaerdydd a 169.3 milltir (272.4 km) o Lundain. Cyfeirwyd at y pentref fel Llansantffraid-Glyn Dyfrdwy hyd troad yr 20fed ganrif, gan y safai o fewn plwyf hynafol Llansantffraid Glyndyfrdwy. Daw ei henw cyfoes o Orsaf Reilffordd Carrog yr ochr arall i'r afon Dyfrdwy, ac enwyd hwnnw yn ei dro ar \u00f4l ystad Carrog gerllaw.\nCynrychiolir Carrog yn y Cynulliad Cenedlaethol gan Ken Skates (Y Blaid Lafur) a'r Aelod Seneddol yw Susan Elan Jones (Y Blaid Lafur).\nMae'r pentref yn gorwedd ar groesffordd ar y B543 ar lan ogleddol Afon Dyfrdwy. Mae Pont Carrog yn croesi'r afon yma i gysylltu'r pentref \u00e2 ffordd yr A5 yr ochr draw. Llifa Afon Morynion (Afon Morwynion) trwy'r pentref i ymuno yn Afon Dyfrdwy. Mae Gorsaf reilffordd Carrog yn ffurfio rhan o Reilffordd Llangollen erbyn hyn.\nYn y bryniau tua milltir i'r gorllewin, ceir safle hen fryngaer Caer Drewyn.\nMae ysgol gynradd gymunedol Ysgol Carrog dros 100 mlwydd oed."
+                    }
+                ]
+            },
+            {
+                "id": "conwy#castell",
+                "name": "Castell",
+                "lat": "53.203865",
+                "lon": "-3.845998",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Castell",
+                        "_text": "A castell (Catalan pronunciation: [k\u0259s\u02c8te\u028e]) is a human tower built traditionally in festivals at many locations within Catalonia. At these festivals, several colles castelleres or teams often succeed in building and dismantling a tower's structure. On November 16, 2010, castells were declared by UNESCO to be amongst the Masterpieces of the Oral and Intangible Heritage of Humanity."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Castell",
+                        "_text": "Mae Castell (benthyciad o'r Lladin castellum; Llydaweg Canol castell, Gwyddeleg Canol caisel. Lluosog Cestyll.) yn adeilad sydd wedi'i amddiffyn yn gryf. Math arbennig o amddiffynfa a ddatblygwyd yn yr Oesoedd Canol yw castell, ond mae ei gynseiliau'n gorffwys yng nghyfnod pobl fel y Celtiaid yn Oes yr Haearn a godai fryngaerau niferus, a'r Rhufeiniaid a godai gaerau ledled Ewrop a'r M\u00f4r Canoldir. Ceir traddodiad o godi cestyll mewn nifer o wledydd eraill hefyd, e.e. yn Tsieina a Siapan."
+                    }
+                ]
+            },
+            {
+                "id": "conwy#cefn berain",
+                "name": "Cefn Berain",
+                "wikipedia": {
+                    "lang": "cy",
+                    "href": "https:\/\/cy.wikipedia.org\/wiki\/Cefn Berain",
+                    "_text": "Pentref bychan iawn neu amlwd gwledig yn y bryniau ar ochr orllewinol Dyffryn Clwyd yw Cefn Berain (cyfeiriad grid SH997692). Mae'n gorwedd yn y bryniau isel tua 4 milltir i'r gogledd-orllewin o dref Dinbych, ger Llanefydd. Mae'n perthyn i fwrdeistref sirol Conwy heddiw ond bu'n rhan o sir Clwyd a'r hen Sir Ddinbych cyn hynny. Mae'n rhan o blwyf Llanefydd.\nMae'n adnabyddus yn bennaf fel cartref y foneddiges Catrin o Ferain (1543\/5 - 1591), a lysenwyd yn \"Fam Cymru\" oherwydd ei chysylltiadau teuluol niferus yn y rhan hon o'r wlad. Gorwedd plasdy Berain ei hun tua thri chwarter milltir i'r gogledd-ddwyrain o'r pentref bach.\nGanwyd y bardd ac anterliwtwr enwog Twm o'r Nant yn fferm Pen-porchell Isaf, hanner milltir i'r de o'r pentref."
+                }
+            },
+            {
+                "id": "conwy#cefn-brith",
+                "name": "Cefn-brith",
+                "lat": "53.0379409",
+                "lon": "-3.588402",
+                "wikipedia": {
+                    "lang": "cy",
+                    "href": "https:\/\/cy.wikipedia.org\/wiki\/Cefn-brith",
+                    "_text": "Mae Cefn-brith (ffurf amgen: Cefn Brith) yn bentref gwledig bychan yn ne-ddwyrain sir Conwy (Sir Ddinbych gynt) cyfeiriad grid SH933504. Saif yn y bryniau hanner milltir i'r gogledd o l\u00f4n yr A5 tua dwy filltir a hanner i'r gogledd-orllewin o Gerrigydrudion, rhwng Corwen a Betws-y-Coed.\nMae'n gorwedd yn ardal Uwchaled. Cyfyd Mynydd Hiraethog i'r gogledd o'r pentref."
+                }
+            },
+            {
+                "id": "conwy#cefn-coch",
+                "name": "Cefn-coch",
+                "lat": "52.612481",
+                "lon": "-3.407292"
+            },
+            {
+                "id": "conwy#ceirw",
+                "name": "Ceirw",
+                "lat": "51.662119",
+                "lon": "-3.2103662"
+            },
+            {
+                "id": "conwy#cerrigydrudion",
+                "name": "Cerrigydrudion",
+                "lat": "53.023818",
+                "lon": "-3.561871",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Cerrigydrudion",
+                        "_text": "Cerrigydrudion, sometimes spelt Cerrig-y-drudion, is a village and community in Conwy, Wales. Until 1974 it was part of the historic county Denbighshire, when it became part of the newly formed county of Clwyd. When the county of Clwyd was abolished in 1996, the village was transferred to the new Conwy County Borough. The village formerly lay on the A5, but a short by-pass now takes the road along the south-western edge of the village. Prior to the by-pass being built, Cerrigydrudion was the highest village on the A5 between London and Holyhead."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Cerrigydrudion",
+                        "_text": "Pentref bychan a chymuned yn ne-ddwyrain sir Conwy (Sir Ddinbych gynt) yw Cerrigydrudion (neu Cerrig-y-drudion - cyfeiriad grid SH955487). Saif yn y bryniau ar l\u00f4n yr A5 8 milltir i'r gogledd-orllewin o Gorwen. Yn ogystal \u00e2'r A5, mae l\u00f4n yn cysylltu'r pentref \u00e2 Rhuthun i'r gogledd-ddwyrain a Dinbych i'r gogledd.\nCerrigydrudion yw'r pentref mwyaf yn ardal Uwchaled, sydd yn cynnwys yn ogystal Llangwm, Pentrefoelas, Pentre-llyn-cymer, Dinmael, Glasfryn, Cefn-brith, Llanfihangel Glyn Myfyr a Cwmpenanner. Yn \u00f4l cyfrifiad 2001 mae 75% o'r boblogaeth o 692 o bobl yn siarad y Gymraeg fel iaith bob dydd."
+                    }
+                ]
+            },
+            {
+                "id": "conwy#chweffordd",
+                "name": "Chweffordd"
+            },
+            {
+                "id": "conwy#cledwen",
+                "name": "Cledwen",
+                "lat": "53.1693557",
+                "lon": "-2.9809614"
+            },
+            {
+                "id": "conwy#colwyn bay (bae colwyn)",
+                "name": "Colwyn Bay (Bae Colwyn)"
+            },
+            {
+                "id": "conwy#craig-y-don",
+                "name": "Craig-y-don",
+                "lat": "53.3237298",
+                "lon": "-4.2274672",
+                "wikipedia": {
+                    "lang": "cy",
+                    "href": "https:\/\/cy.wikipedia.org\/wiki\/Craig-y-don",
+                    "_text": "Maesdref o Landudno ym Mwrdeisdref Sirol Conwy, ar arfordir gogledd Cymru, yw Craig-y-don. Yn ogystal mae'n rhan o blwyf Llanrhos.\nMae Craig-y-don yn cynnwys arfordir a'i rhodfa m\u00f4r ar Fae Llandudno i'r de-ddwyrain o'r dref, gan gynnwys: East Parade, Craig-y-Don Parade, Bedford Crescent a Ffordd Colwyn i gyfeiriad Rhiwledyn a Bae Penrhyn i'r dwyrain. Ar un adeg bu cryn dipyn o dir glas rhwng Craig-y-don a'r dref, ond dros y degawdau diwethaf codwyd sawl adeilad a chaonlfan siopio yno. Cyferbyn Caeau Bodafon ar ddiwedd y prom ceir pwll ymdrochi i blant gyda chaffi a chyfleusterau eraill. Mae'r traeth yn braf, yn gymysg o gerrig m\u00e2n a thywod, a chyfyd creigiau calchfaen Rhiwledyn yn ei ben eithaf.\nCeir y rhan fwyaf o'r siopau ar Ffordd y Frenhines ac ardal breswyl o'i gwmpas. I'r de o Ffordd y Frenhines ceir sawl ffordd fel Roumania Drive a enwyd i ddathlu ymweliad Carmen Sylva, brenhines Rwmania, \u00e2 Llandudno ym 1890. Tu \u00f4l i'r ardal breswyl cyfyd bryn coediog Gloddaeth, sy'n gorwedd rhwng Craig-y-don, Llanrhos a Bae Penrhyn, ac a fu'n rhan o dir plasdy hynafol Gloddaeth.\nMae'r eglwysi yn cynnwys Eglwys Sant Paul (Eglwys yng Nghymru) ger y rhodfa m\u00f4r, a godwyd ym 1893\/95.\nFel y rhan fwyaf o Landudno, mae canran uchel o dir Craig-y-don yn eiddo i ystad teulu Mostyn, sy'n un o dirfeddianwyr mwyaf gogledd Cymru. Ni fu'r ardal yn arbennig o Gymraeg ers iddi ddechrau datblygu ddiwedd y 19eg ganrif, ond erbyn heddiw ceir canran uchel o bobl o Loegr a lleoedd eraill wedi symud yno i ymddeol."
+                }
+            },
+            {
+                "id": "conwy#cwm penmachno",
+                "name": "Cwm Penmachno",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Cwm Penmachno",
+                        "_text": "Cwm Penmachno is a former quarry settlement at the head of the Penmachno valley in North Wales. The Rhiwbach slate quarry was formerly linked by the Rhiwbach Tramway to the Ffestiniog railway at Blaenau Ffestiniog. The slopes around the village provide streams which are the source of the river Machno, which flows past the larger village of Penmachno before joining the river Conwy south of Betws-y-coed.\nThe village attracts tourist, particularly mountain bikers, kayakers, canoeists and walkers. The Penmachno Mountain Bike Trail is located between Cwm Penmachno and Penmachno.\nThere is a Community Centre and drop-in Heritage Room in the village at the former Shiloh Chapel.\nSituated near the end of the valley is The Latymer School's outdoor centre, Ysgol Latymer Outdoor Pursuits Centre, it is the former primary school. It accommodates six year 7 and six year 9 week-long, residential trips every year as well as various geography and PE trips organised by the school. The Latymer School have bought this centre in Snowdonia National Park so its pupils can get to know each other better and to discover their individual skills."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Cwm Penmachno",
+                        "_text": "Hen bentref chwarel yng ngogledd Cymru yw Cwm Penmachno, a elwir ar \u00f4l y cwm o'r un enw (cyfeiriad grid SH755474). Mae'n gorwedd ym mhen uchaf y cwm, rhai milltiroedd i'r de-orllewin o bentref Penmachno."
+                    }
+                ]
+            },
+            {
+                "id": "conwy#dawn",
+                "name": "Dawn",
+                "lat": "53.239703",
+                "lon": "-3.69741",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Dawn",
+                    "_text": "Dawn (from an Old English verb dagian \"to become day\") is the time that marks the beginning of the twilight before sunrise. It is recognized by the presence of weak sunlight, while the Sun itself is still below the horizon. Dawn should not be confused with sunrise, which is the moment when the leading edge of the Sun itself appears above the horizon.\nDuring dawn (and dusk) it is usually possible (provided that the sky is cloud-free) to see approximately in which direction the Sun lies, though it is below the horizon."
+                }
+            },
+            {
+                "id": "conwy#ddu",
+                "name": "Ddu",
+                "lat": "51.5662843",
+                "lon": "-3.3830414",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Ddu",
+                    "_text": "This is a redirect from a title with another method of capitalisation. It leads to the title in accordance with the Wikipedia naming conventions for capitalisation, or it leads to a title that is associated in some way with the conventional capitalisation of this redirect title. This may help writing, searching and international language issues. For more information follow the category link.\nIf this redirect is an incorrect capitalization (a typo), then it is made available to aid searches, so pages that use this link should be updated to link directly to the target.\nUse this rcat to tag only mainspace redirects; when other capitalisations are in different namespaces, use {{R from modification}} instead."
+                }
+            },
+            {
+                "id": "conwy#deganwy",
+                "name": "Deganwy",
+                "lat": "53.296366",
+                "lon": "-3.834996",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Deganwy",
+                    "_text": "Deganwy (Middle Welsh Degannwy, Brythonic *Decantouion) is a village in Conwy County Borough in Wales with a population of 3,700. It is in a more English-speaking region of north Wales, with only 1 in 4 residents speaking Welsh as a first language. It is located south of Llandudno and to the east of Conwy, which is on the opposite side of the River Conwy, and with which it forms the Conwy community. Indeed, the name Deganwy has been interpreted in modern times as Din-Gonwy, which would mean \"Fort on the River Conwy\", but the historical spellings make it impossible for this to be the actual origin of the name although mentioned in the doomsday book is \"the territory of the Decanae tribe\". The original wooden castle was rebuilt in stone after 1210. Deganwy is in the ecclesiastical parish of Llanrhos, and has a Victorian era Gothic parish church dedicated to All Saints."
+                }
+            },
+            {
+                "id": "conwy#dinas mawr",
+                "name": "Dinas Mawr",
+                "wikipedia": {
+                    "lang": "cy",
+                    "href": "https:\/\/cy.wikipedia.org\/wiki\/Dinas Mawr",
+                    "_text": "Bryngaer arfordirol yn Sir Benfro yw Dinas Mawr. Cyfeirnod AO: 887387. Fe'i lleolir ar bentir creigiog ar ystlys penmaen Pencaer tua 5 milltir i'r gorllewin o Abergwaun ar gwr pentref bychan Trefaser. Mae'n dyddio o Oes yr Haearn."
+                }
+            },
+            {
+                "id": "conwy#dinmael",
+                "name": "Dinmael",
+                "lat": "53.0166667",
+                "lon": "-3.5166667",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Dinmael",
+                        "_text": "Dinmael was a medieval lordship and cwmwd in north Wales which usually formed a part of the patrimony of the kingdom of Powys. The name, of Old Welsh origin, means \"the King's Fort\" (Din \"fort\" + Mael \"king\") and probably refers to a now forgotten early Welsh fortress.\nThe name survives in the name of a village in the modern county of Conwy; however the modern village is much smaller than the medieval lordship."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Dinmael",
+                        "_text": "Bro, hen arglwyddiaeth a chwmwd yng nghalon Gogledd Cymru yw Dinmael. Mae ei hanes cynnar yn dywyll ac ychydig iawn o gyfeiriadau sydd 'na iddi yn y cofnodion. Mae elfen gyntaf yr enw, 'din(as)', yn golygu 'caer, amddiffynfa', tra bod 'mael' yn golygu naill ai 'uchel' neu 'tywysog, brenin': \"Y Gaer Uchel\" yw'r ystyr yn \u00f4l pob tebyg felly."
+                    }
+                ]
+            },
+            {
+                "id": "conwy#dolgarrog",
+                "name": "Dolgarrog",
+                "lat": "53.185394",
+                "lon": "-3.842482",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Dolgarrog",
+                        "_text": "Dolgarrog is a village and community in Conwy County Borough, in Wales, situated between Llanrwst and Conwy, very close to the Conwy River. The village is well known for its industrial history since the 18th century and the Eigiau dam disaster, which occurred in 1925. The population was 414 at the 2001 Census, increasing to 446 at the 2011 Census.\nThe village is served by Dolgarrog railway station.\n^ Neighbourhood Statistics (2004-04-28). \"View or Download Data: view full dataset\". Neighbourhood Statistics. Retrieved 2012-02-11. \n^ \"Community population 2011\". Retrieved 22 May 2015."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Dolgarrog",
+                        "_text": "Pentref a chymuned yn sir Conwy a Dyffryn Conwy yw Dolgarrog. Saif ar y ffordd B5106 ar hyd glan orllewinol Afon Conwy, rhwng Tal-y-bont a Threfriw.\nMae Afon Porth-llwyd, sy'n llifo o Lyn Eigiau a thrwy gonfa dd\u0175r Coedty, yn ymuno ag Afon Conwy ger rhan ogleddol y pentref, tra mae Afon Ddu, sy'n llifo o Lyn Cowlyd, yn ymuno ag Afon Conwy gerllaw'r rhan ddeheuol. Mae gorsaf ar Reilffordd Dyffryn Conwy ar yr ochr arall i'r afon, a phont i gerddwyr yn ei chysylltu \u00e2'r pentref."
+                    }
+                ]
+            },
+            {
+                "id": "conwy#dolwen",
+                "name": "Dolwen",
+                "lat": "53.257367",
+                "lon": "-3.67244",
+                "wikipedia": {
+                    "lang": "cy",
+                    "href": "https:\/\/cy.wikipedia.org\/wiki\/Dolwen",
+                    "_text": "Pentref bychan yn sir Conwy yw Dolwen (Cyfeirnod OS: SH8874). Fe'i lleolir ar groesffordd lle mae'r B5383 o Fae Colwyn yn cwrdd \u00e2'r B5381 sy'n cysylltu Glan Conwy, i'r gorllewin, a Llanelwy i'r dwyrain. Y dref agosaf yw Bae Colwyn, tua 4 milltir i'r gogledd.\nLlifa dwy o isafonydd Afon Dulas heibio i'r pentref ar ei ffordd o'r bryniau i aberu ym M\u00f4r Iwerddon ger Llanddulas. Yr enw ar un o'r isafonydd hyn ers talwm oedd Afon Dh\u00f4l Wen (c1700), sef tarddiad enw'r pentref.\nCyfeirir at y pentref am y tro cyntaf mewn dogfen sy'n dyddio o 1546."
+                }
+            },
+            {
+                "id": "conwy#dolwyd",
+                "name": "Dolwyd",
+                "lat": "53.27957",
+                "lon": "-3.77767"
+            },
+            {
+                "id": "conwy#dolwyddelan",
+                "name": "Dolwyddelan",
+                "lat": "53.053941",
+                "lon": "-3.886577",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Dolwyddelan",
+                        "_text": "Dolwyddelan, (Welsh language : the meadow of Gwyddelan) is a village and community in Conwy county borough, north Wales, on the main A470 road between Blaenau Ffestiniog and Betws-y-Coed. The name of the village translates as \"Gwyddelan's meadow\", referring to the 5th or 6th century Saint Gwyddelan, after whom the parish church is named. As a community, the population of Dolwyddelan was recorded in the 2001 Census as 427, and 55.8% of those residents could speak Welsh. The figures for the 2011 census were: population 474:Welsh speakers=50.8%.\nThe town's name was formerly often spelled as Dolwyddelen, especially by the railway between 1880 and 1980."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Dolwyddelan",
+                        "_text": "Mae Dolwyddelan yn bentref a chymuned yn Sir Conwy, yn Nyffryn Lledr. Mae ym Mharc Cenedlaethol Eryri. Enwir y pentref ar \u00f4l Sant Gwyddelan, nawddsant y plwyf. Mae'r A470 a Rheilffordd Dyffryn Conwy yn pasio drwy'r pentref."
+                    }
+                ]
+            },
+            {
+                "id": "conwy#dulas",
+                "name": "Dulas",
+                "lat": "53.3807504",
+                "lon": "-4.2911157",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Dulas",
+                        "_text": "Dulas may refer to:\nSaints in the Eastern Orthodox calendar\nDulas (saint)\nDulas of Cilicia\nPlaces\nDulas, Anglesey, a village in Wales\nDulas Bay, nearby\n\nDulas, Herefordshire, a civil parish in England"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Dulas",
+                        "_text": "Gallai Dulas gyfeirio at un o sawl peth:\nCymydau canolesol yng nghantref Rhos:\nUwch Dulas\nIs Dulas\nAfonydd:\nAfon Dulas (Rhos), sir Conwy\nAfon Dulas (Ceredigion)\nArall:\nTraeth Dulas, M\u00f4n\nYnys Dulas, oddi ar arfordir M\u00f4n\nGweler hefyd:\nLlanddulas"
+                    }
+                ]
+            },
+            {
+                "id": "conwy#dwygyfylchi",
+                "name": "Dwygyfylchi",
+                "lat": "53.277707",
+                "lon": "-3.896686",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Dwygyfylchi",
+                        "_text": "Dwygyfylchi ([d\u028a\u0268\u0261\u0259\u02c8v\u0259l\u03c7i], approx. duuee-g\u0259-V\u018fL-khee) is a village in Conwy County Borough, Wales. The community contains the nearby settlement of Penmaenmawr and has a population of 4,353."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Dwygyfylchi",
+                        "_text": "Gallai Dwygyfylchi gyfeirio at un o ddau beth:\nDwygyfylchi (pentref), pentref yn sir Conwy\nDwygyfylchi (plwyf), plwyf yn sir Conwy"
+                    }
+                ]
+            },
+            {
+                "id": "conwy#eglwysbach",
+                "name": "Eglwysbach",
+                "lat": "53.214312",
+                "lon": "-3.794524",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Eglwysbach",
+                    "_text": "Eglwysbach is a village and community in Conwy county borough, Wales. The village plays host to an annual Agricultural show and horticultural show in August, which includes displays of local cattle, sheep, heavy and light horses, showjumping a horticulture marquee, fairground rides and trades stands. At the 2001 census, it had a population of 928, increasing slightly to 935 at the 2011 census.\n54% of the residents of Eglwysbach speak the Welsh language, as recorded in the 2001 census.\nNearby is Bodnant Garden, a National Trust property.\nThe village boasts a traditional public house at its centre, The Bee Inn, whose flag is proudly displayed by its patrons at various Wales International Football matches abroad.\nSt. Martin's parish church is in the Diocese of St Asaph of the Church in Wales."
+                }
+            },
+            {
+                "id": "conwy#elwy",
+                "name": "Elwy",
+                "lat": "53.2347719",
+                "lon": "-3.562712",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Elwy",
+                    "_text": "Elwy may refer to:\nthe River Elwy, in Wales\nElwy Yost, Canadian film historian and television host\nLaila Elwi, Egyptian actress sometimes credited as \"Laila Elwy\"\n\n"
+                }
+            },
+            {
+                "id": "conwy#esgyryn",
+                "name": "Esgyryn",
+                "lat": "53.2917131",
+                "lon": "-3.7964665",
+                "wikipedia": {
+                    "lang": "cy",
+                    "href": "https:\/\/cy.wikipedia.org\/wiki\/Esgyryn",
+                    "_text": "Pentref bychan iawn yn ardal y Creuddyn, Bwrdeistref sirol Conwy, yw Esgyryn (amrywiad: Esgyrn - cyfeiriad grid SH804787). Fe'i lleolir ar gyrion gogleddol Cyffordd Llandudno.\nBu cymuned fechan yn Esgyryn ers canrifoedd. I'r gogledd-orllewin ceir allt goediog a'r tir yn perthyn i ystad Bodysgallen. I'r gogledd-ddwyrain o'r pentref ceir pentref bychan Pydew (Bryn Pydew).\nNodwedd amlycaf Esgyryn heddiw yw'r obelisg trawiadol a godwyd gan unigolyn - yn groes i ddeddfau cynllunio lleol - ar y bryn i'r de."
+                }
+            },
+            {
+                "id": "conwy#garizim",
+                "name": "Garizim",
+                "lat": "52.097145",
+                "lon": "-4.718687"
+            },
+            {
+                "id": "conwy#gele",
+                "name": "Gele",
+                "lat": "53.2829174",
+                "lon": "-3.5806962",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Gele",
+                    "_text": "Gele may refer to:\nGele river, a river in Wales and a tributary of the River Clwyd\nGele (electoral ward), an electoral ward in Clwyd West UK Parliament constituency\nGele language (disambiguation)\na head tie, in the Yoruba language\nProsopis africana, a tree species"
+                }
+            },
+            {
+                "id": "conwy#gell",
+                "name": "Gell",
+                "lat": "53.2120852",
+                "lon": "-3.7201076",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Gell",
+                    "_text": "Gell is a surname, and may refer to:\nAlan Gell\nAlfred Gell\nDavid Gell\nJohn Gell (disambiguation)\nMurray Gell-Mann\nPhilip Gell (disambiguation)\nRob Gell\nWilliam Gell\n\n"
+                }
+            },
+            {
+                "id": "conwy#gelyn",
+                "name": "Gelyn",
+                "lat": "51.4231707",
+                "lon": "-3.2567352"
+            },
+            {
+                "id": "conwy#glanwydden",
+                "name": "Glanwydden",
+                "lat": "53.307096",
+                "lon": "-3.775972",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Glanwydden",
+                        "_text": "Glanwydden is a small village located between Llandudno and Colwyn Bay in Conwy county borough, north Wales.\n\n"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Glanwydden",
+                        "_text": "Pentref bychan yn ardal y Creuddyn, bwrdeistref sirol Conwy, yw Glanwydden (cyfeiriad grid SH815804). Fe'i lleolir rhwng Llandudno a Bae Colwyn tua milltir i'r de-orllewin o Fae Penrhyn.\nMae gan y pentref un dafarn a thua 30 o dai. Cofnodir melin wynt ac ystordai yno mewn siarter a luniwyd yn 1580. Yn yr 17eg ganrif datblygwyd chwareli calchfaen yn y cylch ac yn ddiweddarach defnyddwyd y garreg at adeiladu rhai o westai crand Llandudno.\nYm Mai 2008 cynhaliwyd Eisteddfod yr Urdd yn y pentref."
+                    }
+                ]
+            },
+            {
+                "id": "conwy#glasfryn",
+                "name": "Glasfryn",
+                "lat": "53.036484",
+                "lon": "-3.60941",
+                "wikipedia": {
+                    "lang": "cy",
+                    "href": "https:\/\/cy.wikipedia.org\/wiki\/Glasfryn",
+                    "_text": "Pentref gwledig bychan yn ne-ddwyrain sir Conwy (yn Sir Ddinbych gynt) yw Glasfryn. Saif yn y bryniau ar l\u00f4n yr A5 tua 4 milltir i'r gorllewin o Gerrigydrudion a thua'r un pellter i'r dwyrain o Bentrefoelas, ar y ffordd rhwng Corwen a Betws-y-Coed.\nMae'n gorwedd yn ardal Uwchaled. Cyfyd Mynydd Hiraethog i'r gogledd o'r pentref.\nLlifa Afon Merddwr i lawr o'r bryniau ger y pentref i lifo i lawr y dyffryn i ymuno ag Afon Conwy ger Pentrefoelas. Gerllaw ceir Llyn y Cwrt gyda ffrwd fechan yn llifo ohono i Afon Merddwr."
+                }
+            },
+            {
+                "id": "conwy#graig",
+                "name": "Graig",
+                "lat": "53.22809",
+                "lon": "-3.794957",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Graig",
+                        "_text": "Graig may refer to:\nGraig, Newport, an electoral ward and coterminous community of Newport, South Wales\nGraig, Pontypridd, a historic district of Pontypridd, South Wales\nGraig, Llanarmon-yn-Ial, a Site of Special Scientific Interest in Clwyd, North Wales"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Graig",
+                        "_text": "Gall Graig gyfeirio at:\nGraig, Casnewydd\nGraig, Pontypridd, Rhondda Cynon Taf"
+                    }
+                ]
+            },
+            {
+                "id": "conwy#great ormes head",
+                "name": "Great Ormes Head"
+            },
+            {
+                "id": "conwy#groes",
+                "name": "Groes",
+                "lat": "53.168723",
+                "lon": "-3.487016",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Groes",
+                    "_text": "This is a redirect from a title with another method of capitalisation. It leads to the title in accordance with the Wikipedia naming conventions for capitalisation, or it leads to a title that is associated in some way with the conventional capitalisation of this redirect title. This may help writing, searching and international language issues. For more information follow the category link.\nIf this redirect is an incorrect capitalization (a typo), then it is made available to aid searches, so pages that use this link should be updated to link directly to the target.\nUse this rcat to tag only mainspace redirects; when other capitalisations are in different namespaces, use {{R from modification}} instead."
+                }
+            },
+            {
+                "id": "conwy#gwytherin",
+                "name": "Gwytherin",
+                "lat": "53.138751",
+                "lon": "-3.681385",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Gwytherin",
+                        "_text": "Gwytherin is a village in Conwy county borough, Wales. The church is dedicated to Saint Winefrid (Welsh: Gwenffrewi; Medieval Latin: Winefrida).\nGwytherin is a peaceful and picturesque little village in a small valley through which the River Cledwen flows. Winner of 'Best Kept Village' on four occasions.\nIn the centre of the village opposite the Lion Inn is the Church of St Winifred which was built and dedicated to her in 1869. The church is believed to have originated in the mid 600\u2019s AD up by Prince Eleri who then went on to set up a double monastery in the village. He was the Abbot to the monks, and his cousin\u2019s daughter, St. Gwenffrewi was the Abbess to the nuns.\nSt Winifred had her head severed by an enraged chieftain after she spurned his advances. A spring arose where her head landed and she was later restored to life by her uncle St Beuno. Even today, pilgrims today visit the healing waters at Holywell in Flintshire. St Winefride died and was buried in the churchyard in November 660AD. Her bones were removed by Benedictine monks in the 12th century and taken to their abbey in Shrewsbury.\nIn the peaceful churchyard at St Winefride's are three ancient yew trees. You will also find a row of four ancient standing stones approximately one metre high and aligned roughly east to west. A close look at the first stone reveals carving and what appears to be a 'W'."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Gwytherin",
+                        "_text": "Gall Gwytherin gyfeirio at fwy nag un peth:\nGwytherin, sant Cymreig cynnar\nGwytherin, pentref ym mwrdeistref sirol Conwy\nGweler hefyd:\nLlanwytherin, pentref yn Sir Fynwy"
+                    }
+                ]
+            },
+            {
+                "id": "conwy#gyffin",
+                "name": "Gyffin",
+                "lat": "53.274924",
+                "lon": "-3.835113",
+                "wikipedia": {
+                    "lang": "cy",
+                    "href": "https:\/\/cy.wikipedia.org\/wiki\/Gyffin",
+                    "_text": "Pentref bychan ger Conwy yng Ngogledd Cymru yw Gyffin (mae'r enw llawn Y Gyffin yn gywirach ond mae pawb yn ei alw'n 'Gyffin')."
+                }
+            },
+            {
+                "id": "conwy#hendre-ddu",
+                "name": "Hendre-ddu",
+                "lat": "53.18129",
+                "lon": "-3.683549"
+            },
+            {
+                "id": "conwy#henryd",
+                "name": "Henryd",
+                "lat": "53.2550728",
+                "lon": "-3.8460302",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Henryd",
+                        "_text": "Henryd is a village and community on the western slopes of the Conwy valley in Conwy county borough, north Wales. It lies about 2 miles (3.2 km) south of Conwy, off the B5106 road. At the 2001 census, it had a population of 594, increasing to 715 at the 2011 census.\nThe meaning of Henryd in English is \"Old ford\", with hen meaning \"old\" and rhyd (mutated to ryd) meaning \"ford\".\nThe river Henryd, a tributary of the river Conwy, flows through the village. The village has a Nonconformist chapel and a small primary school (Ysgol Llangelynnin).\nThere are two housing estates in the village 'Maes refail' which is the council housing estate and the 1970s estate 'Erw fawr'. The oldest building in the village is Ffarm Henryd (Henryd Farm). The field behind Maes refail estate is known as Cae Ffarm (Farm field). The village well still exists in the field on the other side of the river.\nPlas Iolyn is a grade II listed country house set in its own grounds some 1.5 km (1 mile) north of the village.\nThe village is a popular starting point for walks in the northern Snowdonia mountains, especially the Carneddau. Nearby is Parc Mawr, [1] an area of woodland now owned by the Woodland Trust, who are replacing the 1960s-planted conifers with native species. Also nearby is the Roman road route through Bwlch-y-Ddeufaen, and the ancient 12th century parish church of Llangelynnin."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Henryd",
+                        "_text": "Pentref bach a chymuned yn Sir Conwy yng ngogledd Cymru yw Henryd.\nMae'r pentref gwledig tawel yn gorwedd yn rhan isaf Dyffryn Conwy ar lan orllewinol Afon Conwy, tua milltir o'r afon honno a thua phedair milltir o dref Conwy. Rhed Afon Gyffin trwy'r dolydd corsiog fymryn i'r gorllewin o'r pentref; mae'r pentref yn cymryd ei enw o'r 'hen ryd' ar yr afon honno.\nSaif y rhan hynaf o'r pentref o gwmpas yr hen gapel, a godwyd yn 1822, ar groesffordd lle cwrdd y l\u00f4n fach o Gonwy \u00e2 l\u00f4n dawel arall sy'n dringo i'r ffriddau uchel ar lethrau dwyreiniol Tal-y-Fan (yr olaf o'r Carneddau). Dwy filltir i'r de-orllewin mae pentref Llangelynnin a'i heglwys hynafol. Tua milltir o Henryd mae Melin Wenddar, hen felin olwyn ar lan Afon Ro i gyfeiriad Rowen.\nYn rhan newydd y pentref, i'r gogledd o'r groesffordd, ceir ysgol gynradd a nifer o dai newydd. Mae Cymreictod y pentref wedi dirywio cryn dipyn dros y blynyddoedd gan fod yr A55 mor agos."
+                    }
+                ]
+            },
+            {
+                "id": "conwy#kinmel bay (bae cinmel)",
+                "name": "Kinmel Bay (Bae Cinmel)"
+            },
+            {
+                "id": "conwy#llanbedr-y-cennin",
+                "name": "Llanbedr-y-cennin",
+                "lat": "53.205756",
+                "lon": "-3.855931",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Llanbedr-y-cennin",
+                        "_text": "This is a redirect from a title with another method of capitalisation. It leads to the title in accordance with the Wikipedia naming conventions for capitalisation, or it leads to a title that is associated in some way with the conventional capitalisation of this redirect title. This may help writing, searching and international language issues. For more information follow the category link.\nIf this redirect is an incorrect capitalization (a typo), then it is made available to aid searches, so pages that use this link should be updated to link directly to the target.\nUse this rcat to tag only mainspace redirects; when other capitalisations are in different namespaces, use {{R from modification}} instead."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Llanbedr-y-cennin",
+                        "_text": "Pentref bychan ym mwrdeistref sirol Conwy yw Llanbedr-y-cennin. Saif ar ochr orllewinol Dyffryn Conwy, ychydig i'r gogledd-orllewin o bentref Tal-y-Bont ar y ffordd B5106. Mae'n agos at ffin ddwyreiniol Parc Cenedlaethol Eryri. Mae'n rhan o gymuned Caerhun.\nMae yno eglwys, capel Annibynwyr, siop a thafarn, Ye Olde Bull Inn. Gerllaw'r pentref mae bryngaer nodedig Pen-y-gaer o Oes yr Haearn."
+                    }
+                ]
+            },
+            {
+                "id": "conwy#llanddoged",
+                "name": "Llanddoged",
+                "lat": "53.155817",
+                "lon": "-3.787551",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Llanddoged",
+                        "_text": "Llanddoged is a small village which lies in the hills a little over a mile to the north of Llanrwst, in Conwy county borough, Wales. The village itself has a small population, with a surrounding rural farming community. Most of the population are Welsh speakers. Llanddoged shares its community council with the rural community of Maenan. Llanddoged has two small hamlets attached to it - Groesffordd and Tan-Lan. Groesffordd has a motor repair garage known as 'Garej Groesffordd'. Tan-lan was known for its notorious bends on the A470 where, prior to road improvements, many road traffic collisions had occurred. Tan-lan is also home to an Environment Agency Wales depot."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Llanddoged",
+                        "_text": "Pentref bychan ym mwrdeistref sirol Conwy yw Llanddoged. Mae'n rhan o gymuned Llanddoged a Maenan.\nGorwedd y pentref ar lethrau dwyreiniol Dyffryn Conwy tua milltir a hanner i'r gogledd o Lanrwst.\nYn \u00f4l traddodiad, sefydlwyd Llanddoged gan Sant Doged (bl. 500-542). Mae'n bosibl mai'r un yw'r Doged hwn \u00e2'r 'Doged Frenin' y cyfeirir ato yn y chwedl Culhwch ac Olwen. Llanddoged yw'r unig eglwys a gysylltir \u00e2 Doged. Ar un adeg bu cerflun ohono yn yr eglwys. Mewn cae 60m o'r eglwys bresennol ceir Ffynnon Ddoged. Mae wal o gerrig o'i chwmpas a dywedir ei bod yn iachau nam ar y llygaid. Claddwyd y telynor Evan Jones (Ifan y Gorlan) (1787-1859) ym mynwent yr eglwys.\nCeir ysgol gynradd a pharc yn y pentref."
+                    }
+                ]
+            },
+            {
+                "id": "conwy#llanddulas",
+                "name": "Llanddulas",
+                "lat": "53.287553",
+                "lon": "-3.642969",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Llanddulas",
+                        "_text": "Llanddulas is a village in Conwy county borough, Wales midway between Old Colwyn and Abergele and next to the North Wales Expressway in the community of Llanddulas and Rhyd y Foel. The village lies beneath the limestone hill of Cefn-yr-Ogof (669 ft). This hill has large caves, and quarrying of limestone was formerly the main industry of the village, with crushed stone being exported from the 200 m long jetty.\nAccording to figures from the 2001 census, Llanddulas, combined with nearby village Rhyd y Foel, had a population of 1,572, with around 23% of the population having some knowledge of the Welsh language.\nLlanddulas is notable as being the place where Richard II was betrayed in 1399. and is also the birthplace of Lewis Valentine. Between 1889 and 1952 the village had its own railway station.\nAccording to legend, a cave on the mountain of Pen y Cefn was once the abode of the Devil, until the people of Llanddulas performed an exorcism at the cave to drive him away.\nIn February 1990 a storm and high tide caused extensive flooding to the east of here, especially at Towyn and Kinmel Bay. New coastal defence works were built along 7 miles of coast from Old Colwyn to the River Clwyd. At Llanddulas these consist of Dolos concrete shapes."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Llanddulas",
+                        "_text": "Pentref ar arfordir gogledd-ddwyrain Cymru ym mwrdeistref sirol Conwy yw Llanddulas (sillafiad amgen ond anghywir: Llandulas). Enwir y pentref ar \u00f4l afon Dulas, sy'n llifo trwyddo o'r tharddle ym mryniau Rhos. Yn \u00f4l cyfrifiad 2001, mae gan gymuned Llanddulas a Rhyd-y-foel, boblogaeth o 1,572, gyda 23% yn medru rhywfaint o Gymraeg.\nGorwedd Llanddulas rhwng Bae Colwyn i'r gorllewin ac Abergele i'r dwyrain. Rhed yr A55 heibio i'r pentref, rhyngddo a glan y m\u00f4r. Mae ffordd arall yn dilyn cwm Dulas i fyny i bentref Betws yn Rhos.\nGellir cyrraedd glan y m\u00f4r trwy ddilyn l\u00f4n trwy dwnel dan Reilffordd Arfordir Gogledd Cymru i fynd i'r traeth o gerrig m\u00e2n a mymryn o dywod. Ceir meysydd carafanau yno. Ym mhen gorllewinol y traeth ceir adfeilion sietis yr hen chwarel calchfaen."
+                    }
+                ]
+            },
+            {
+                "id": "conwy#llandrillo-yn-rhos",
+                "name": "Llandrillo-yn-Rhos",
+                "lat": "53.3080507",
+                "lon": "-3.7499412",
+                "wikipedia": {
+                    "lang": "cy",
+                    "href": "https:\/\/cy.wikipedia.org\/wiki\/Llandrillo-yn-Rhos",
+                    "_text": "Pentref, plwyf a chymuned ar arfordir bwrdeisdref sirol Conwy yw Llandrillo-yn-Rhos, weithiau Llandrillo (Saesneg: Rhos-on-Sea). Saif rhyw filltir i'r gorllewin o dref Bae Colwyn, ac erbyn hyn mae i bob pwrpas yn faesdref o'r dref honno. Roedd y boblogaeth yn 2011 yn 7,593.\nGerllaw mae Bryn Euryn, lle mae gweddillion bryngaer a atgyfnerthwyd yn yr Oesoedd Canol cynnar, efallai yn oes Maelgwn Gwynedd, a chwarel galchfaen fechan. Gellir gweld gweddillion Llys Euryn, sy'n dyddio o'r 16eg ganrif ond a adeiladwyd ar safle plas cynharach lle trigai Ednyfed Fychan, distain a phrif gynorthwydd Llywelyn Fawr yn rhan gyntaf y 13eg ganrif.\nAr y traeth islaw Bryn Eurun mae Rhos Fynach, lle adeiladwyd gored bysgota gan fynachod Abaty Aberconwy. Roedd yn cael ei ddefnyddio i bysgota hyd ddechrau'r 20fed ganrif. Yn \u00f4l un chwedl, o Landrillo y cychwynnodd Madog ar ei fordaith i America.\nRhwng Llandrillo a Bae Penrhyn, saif campws Coleg Llandrillo Cymru."
+                }
+            },
+            {
+                "id": "conwy#llandudno",
+                "name": "Llandudno",
+                "lat": "53.324061",
+                "lon": "-3.827609",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Llandudno",
+                        "_text": "Llandudno (\/\u03b8l\u00e6n\u02c8d\u026adno\u028a\/ or \/l\u00e6n\u02c8d\u026adno\u028a\/; Welsh pronunciation: [\u026can\u02c8d\u026adn\u0254]) is a seaside resort, town and community in Conwy County Borough, Wales, located on the Creuddyn peninsula, which protrudes into the Irish Sea. In the 2011 UK census, the community, which includes Penrhyn Bay and Penrhynside, had a population of 20,710. The town's name is derived from its patron saint, Saint Tudno.\nLlandudno, \"Queen of the Welsh Resorts\", a title first applied as early as 1864, is now the largest seaside resort in Wales, and lies on a flat isthmus of sand between the Welsh mainland and the Great Orme. Historically a part of Caernarfonshire, Llandudno was formerly in the district of Aberconwy within Gwynedd."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Llandudno",
+                        "_text": "Tref arfordirol yn Mwrdeistref Sirol Conwy yw Llandudno, sy'n gorwedd ar benrhyn y Creuddyn i'r gogledd o Gonwy a Bae Colwyn. Mae ganddi boblogaeth o tua 15,000. Mae'n gorwedd ar y tir isel sydd rhwng tir mawr gogledd Cymru a Phen y Gogarth Fe'i hadeiladwyd yn bennaf yn y 19eg ganrif fel cyrchfan gwyliau ac mae ei phensaern\u00efaeth hanesyddol yn enwog. Mae'n un o gyrchfannau twristaidd mwyaf poblogaidd gogledd Cymru. Daw ei henw o blwyf hynafol Sant Tudno. Mae Caerdydd 208.8 km i ffwrdd o Llandudno ac mae Llundain yn 322.5 km. Y ddinas agosaf ydy Bangor sy'n 23.2 km i ffwrdd."
+                    }
+                ]
+            },
+            {
+                "id": "conwy#llandudno junction",
+                "name": "Llandudno Junction",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Llandudno Junction",
+                    "_text": "Llandudno Junction (Welsh: Cyffordd Llandudno), once known as Tremarl, is a small town in the county borough of Conwy, Wales. It is part of the ancient parish of Llangystennin, and it is located south of Llandudno. It adjoins Deganwy and is to the east of the walled town of Conwy, which is on the opposite side of the River Conwy. The population is 6,722 (2011) and is part of the community of Conwy, and comprises the wards of Marl and Pensarn (Llandudno Junction).\nThe town grew up around Llandudno Junction railway station, which is a junction between the Crewe-Holyhead line and the Llandudno-Blaenau Ffestiniog line. There are through trains from Manchester to Llandudno, but passengers travelling from London, Cardiff, or Holyhead to Llandudno usually have to change trains at Llandudno Junction.\nLlandudno Junction, in addition to its passenger interchange, had a major steam locomotive servicing depot and extensive goods facilities. This railway depot was called 6G, and a new section of the A546 (carrying the name \"Ffordd 6G Road\") now crosses the site. The site of the depot and goods yard has been redeveloped, now accommodating a business park, fast food outlets, a leisure centre, a Cineworld multiplex cinema, and a Tesco supermarket.\nLocal employment opportunities changed significantly in the latter quarter of the 20th century owing to the loss not only of the railway depots but also of a major electrical manufacturing facility (Hotpoint), of which part of the old factory site is under planning application for three more Car Dealerships. Another part of the factory site has been bought by the Welsh Assembly Government and construction began in 2007 on a new office building that will house around 525 employees, including about 100 tourism, transport and enterprise jobs which will be relocated to the site from Cardiff. The keys to the building were officially handed over from the developers in May 2010.\nThe Old Station Hotel stands opposite the railway station. It is known locally as 'The Killer' or in Welsh 'Y Killer'. One version of the myth on how it got its name is that train drivers would get drunk there, then drive trains, effectively turning them into possible 'Killers'. Another version states that this is where the railway workers would spend their lunch breaks, i.e. 'killed time'.\nThere are two primary schools in Llandudno Junction, Ysgol Maelgwn and Ysgol Nant-y-Coed. The town is home to a 9-screen multiplex Cineworld cinema, Llandudno Junction Leisure Centre, a Tesco supermarket, and a McDonald's, KFC and Pizza Hut restaurant.\nLlandudno Junction F.C. enjoys good support from the locals. The town was previously home to Welsh Cup winners Borough United F.C.."
+                }
+            },
+            {
+                "id": "conwy#llanelian yn-rhos",
+                "name": "Llanelian yn-Rhos"
+            },
+            {
+                "id": "conwy#llanfair talhaiarn",
+                "name": "Llanfair Talhaiarn",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Llanfair Talhaiarn",
+                    "_text": "Llanfair Talhaiarn (Welsh: Llanfair Talhaearn), abbreviated to Llanfair TH, is a village and community approximately 5 miles (8.0 km) south of Abergele in Conwy county borough, Wales. Until 1974 it was included in Denbighshire.\nThe village derives its name from the church dedicated to Mary \"Llanfair\" and the bardic name of the poet and architect John Jones (January 1810 \u2013 October 1869) which was \"Talhaiarn\". Jones was born at the Harp Inn (now known as Hafod y G\u00e2n) in Llanfair.\nThe village is situated on the River Elwy (Afon Elwy). The population was 979 in 2001, increasing to 1,070 at the 2011 census with 44% being Welsh language speakers.\nLlanfair is accessible from the Abergele to Llanrwst road via an ancient three arch bridge that spans the Elwy and leads directly into the heart of the village, where can be found two old pubs, The Black Lion and The Swan Inn.\nAbout 100 yards north of the old bridge is a more modern bridge that carries the main Abergele to Llansannan road across the river.\nNearby is Mynydd Bodran, a 287 m (942 ft) hill which towers above the River Elwy. From the hill are fine views of Snowdonia and the North Wales coast.\nThe village was once part of the estate of Garthewin. The first written records of Garthewin date to the fourteenth century, but both that house and a later Jacobean house were replaced in the 18th century by the present building, which was subsequently altered in 1930 by Clough Williams-Ellis. It was from the 18th century until the late 20th the home of the Wynne family and notable for a private theatre constructed in the stables by R.O.F.Wynne which in the 1950s saw the first performances of several of Saunders Lewis's dramas."
+                }
+            },
+            {
+                "id": "conwy#llanfairfechan",
+                "name": "Llanfairfechan",
+                "lat": "53.252813",
+                "lon": "-3.975109",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Llanfairfechan",
+                        "_text": "Llanfairfechan (\"Little St Mary's Parish\") is a town and community in the Conwy County Borough, Wales. It is known as a seaside resort and had a population at the 2001 Census of 3,755, reducing to 3,637 at the 2011 Census. The history of the area dates back to at least Roman times, as demonstrated by the discovery of a large second century milestone, that is now preserved in the British Museum.\n^ \"Community population 2011\". Retrieved 14 May 2015. \n^ 2001 Census: Llanfairfechan, Office for National Statistics, retrieved 19 March 2009 \n^ British Museum Highlights [1]"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Llanfairfechan",
+                        "_text": "Tref fach ar arfordir ogleddol Sir Conwy, sy'n gorwedd rhwng Penmaenmawr a Chonwy i'r dwyrain ac Abergwyngregin a dinas Bangor i'r gorllewin, yw Llanfairfechan (\"Llanfair\" ar lafar yn lleol). Mae ffordd ddeuol yr A55 yn rhedeg yn agos i'r dref, rhyngddi a'r traeth, ac mae ganddi orsaf ar Reilffordd Arfordir Gogledd Cymru yn ogystal. Mae Caerdydd 204.2 km i ffwrdd o Llanfairfechan ac mae Llundain yn 326.2 km. Y ddinas agosaf ydy Bangor sy'n 11.4 km i ffwrdd.\nMae'r traeth yn gymharol eang ac yn ymestyn hyd Glan-m\u00f4r Elias a gwarchodfa natur Madryn, ar lan Traeth Lafan, i gyfeiriad y dwyrain. Ceir pwll hwylio cychod, caffi a chyfleusterau eraill yno, ac mae'n boblogaidd gan bobl leol ac ymwelwyr fel ei gilydd. Tu \u00f4l i'r dref mae'r tir yn codi i gyfeiriaid Tal-y-Fan, Bwlch-y-Ddeufaen a bryniau cyntaf y Carneddau. Llifa Afon Ddu (\"Afon Llanfairfechan\") i lawr drwy'r pentref o'i tharddle yn y Carneddau i'w haber."
+                    }
+                ]
+            },
+            {
+                "id": "conwy#llanfihangel glyn myfyr",
+                "name": "Llanfihangel Glyn Myfyr",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Llanfihangel Glyn Myfyr",
+                        "_text": "Llanfihangel Glyn Myfyr is a village and community in Conwy County Borough, in Wales. It is located on the Afon Alwen, at the south western edge of the Clocaenog Forest, 9.1 miles (14.6 km) north west of Corwen, 2.5 miles (4.0 km) east of Cerrigydrudion and 27.5 miles (44.3 km) south of Conwy. At the 2001 census the community had a population of 195, reducing to 189 at the 2011 census.\nThe old farmhouse at Bodtegir, south east of the village, built in 1655 by William Salesbury, the Royalist governor of Denbigh Castle during the English Civil War, is Grade II* listed, as is Saint Michael's Church. Pont Llyn Gigfran, which carries a minor road to Betws Gwerfil Goch over the Afon Alwen, in the south east of the community, is Grade II listed.\nThe antiquary Owen Jones, who compiled The Myvyrian Archaiology of Wales, published between 1801 and 1807, was born in the community. He died in 1814 and was buried in London, but his gravestone was removed to Llanfihangel Glyn Myfyr after the churchyard at All-Hallows-the-Less was damaged by bombing in World War II."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Llanfihangel Glyn Myfyr",
+                        "_text": "Pentref bychan a chymuned yng nghornel dde-ddwyreiniol eithaf sir Conwy, ond yn hanesyddol yn rhan o'r hen Sir Ddinbych, yw Llanfihangel Glyn Myfyr ( ynganiad ?\/i ). Mae yn ardal wledig Uwch Aled, tua 2 filltir i'r gogledd-ddwyrain o Gerrigydrudion ar yr hen l\u00f4n i Ruthun.\nMae Afon Alwen, sydd \u00e2'i tharddle yn Llyn Alwen tua 4 millir i'r gogledd-orllewin, yn llifo heibio i'r pentref ar ei ffordd i ymuno ag Afon Dyfrdwy. I'r de o'r pentref ceir bryn isel Mwdwl-eithin."
+                    }
+                ]
+            },
+            {
+                "id": "conwy#llangernyw",
+                "name": "Llangernyw",
+                "lat": "53.191737",
+                "lon": "-3.682544",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Llangernyw",
+                        "_text": "Llangernyw is a rural, mostly Welsh-speaking, village and community in Conwy County Borough, Wales. At the 2001 census it had a population of 982 in 2001, 67 per cent of which were Welsh-speaking. The figures for the 2011 census were : population 1,079: Welsh speakers= 63.7%. The village lies on the A548 between Llanrwst and Llanfair Talhaiarn, at the point where the Afon Cledwen, a tributary of the Afon Elwy, is crossed by the main road.\nSituated on the outskirts of the village is Hafodunos, a gothic mansion ravaged by fire in 2004.\nThe churchyard of St Digain's parish church in Llangernyw is the site of an ancient yew tree, Llangernyw Yew, estimated to be around 4,000 years old.\nAlso of note is the Sir Henry Jones Museum, which is dedicated to the life of the philosopher and academic, Henry Jones, who grew up in the village. The museum is his childhood home, a small cottage, which has been preserved internally and externally."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Llangernyw",
+                        "_text": "Pentref bychan a chymuned yn Sir Gonwy yw Llangernyw. Roedd yn rhan o'r hen Sir Ddinbych a Chlwyd cyn hynny. Mae'n un o gadarnleoedd yr iaith Gymraeg yn y rhan hon o'r sir.\nMae'r pentref yn gorwedd ar bwys cymer yr afonydd Cledwen, Gallen, a Collen (sy'n troi'n Afon Elwy ) ar l\u00f4n yr A548, tua 7 milltir i'r gogledd-ddwyrain o Lanrwst ac 10 milltir i'r de-orllewin o Abergele ar y l\u00f4n honno. Mae'n gorwedd mewn dyffryn deniadol yng nghanol bryniau isel wrth droed bryn Tre-pys-llygod."
+                    }
+                ]
+            },
+            {
+                "id": "conwy#llangwm",
+                "name": "Llangwm",
+                "lat": "51.747112",
+                "lon": "-4.91223",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Llangwm",
+                        "_text": "Llangwm could be one of several places in Wales:\nLlangwm, Conwy\nLlangwm, Monmouthshire\nLlangwm, Pembrokeshire"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Llangwm",
+                        "_text": "Gall Llangwm gyfeirio at sawl lle yng Nghymru:\nLlangwm, pentref a chymuned ym mwrdeisdref sirol Conwy\nLlangwm, pentref a chymuned yn Sir Benfro\nLlan-gwm, pentref a chymuned yn Sir Fynwy"
+                    }
+                ]
+            },
+            {
+                "id": "conwy#llannefydd",
+                "name": "Llannefydd",
+                "lat": "53.22746",
+                "lon": "-3.530115",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Llannefydd",
+                    "_text": "Llannefydd is a village and community in Conwy County Borough, in Wales. It is located on the border with Denbighshire, between the Afon Aled and River Elwy, 5.7 miles (9.2 km) north west of Denbigh, 5.8 miles (9.3 km) south west of St Asaph, 6.9 miles (11.1 km) south of Abergele and 15.2 miles (24.5 km) south east of Conwy. In the 2011 census the community parish had a population of 590.\nSaint Nefydd and Saint Mary's church, founded in the fifth century, is Grade I listed; the farms of Berain and Plas Uchaf are Grade II* listed, while numerous agricultural buildings in the community, along with a number of bridges over the two rivers, are Grade II listed. In 1978, archaeological excavations in a cave at Bont-newydd, in the east of the community, unearthed the teeth and jawbone of an 11-year-old Neanderthal boy dating from 230,000 years ago, the oldest human remains discovered in Wales.\nThomas Edwards, better known as the Welsh language dramatist and poet Twm o'r Nant, was born in Llannefydd in 1738, but fled to Llandeilo to avoid imprisonment for his uncle's debts, for which he had stood surety. His anterliwtau (English: interludes), satirical musical plays, lambasted tax collectors, landlords, lawyers and the religious hypocrisy of the established church, and promoted Methodism."
+                }
+            },
+            {
+                "id": "conwy#llanrhos",
+                "name": "Llanrhos",
+                "lat": "53.3036249",
+                "lon": "-3.816888",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Llanrhos",
+                        "_text": "Llanrhos (also called Eglwys Rhos) is a village to the east and south of Llandudno in the Conwy County Borough, Wales. The Llanrhos parish traditionally includes Deganwy, the Craig-y-Don district of Llandudno, the Little Orme and Penrhyn Bay.\nThe Church in Wales parish church is dedicated to St. Hilary and is in the diocese of St Asaph. The church was extensively rebuilt in 1865 but incorporates the roof beams and many other features of the former late medieval church said to have been built on the site of the original mid-6th-century church of Maelgwn Gwynedd whose castle was within the parish on the twin peaks at Deganwy.\nLlanrhos parish was almost entirely rural until the 19th and 20th century urban and residential developments first at Deganwy, then Craig-y-Don and later Penrhyn Bay.\nThe historic mansion of Gloddaeth Hall was the home of Iorwerth Goch of Creuddyn and pre-dates the 13th century conquest of Edward I. By 1460 it had become through marriage one of the homes of the Mostyn family, members of which lived there until about 1935 when it became a girls boarding school, which closed in 1964. In 1965, Lord Mostyn transferred the lease to Saint David's College for boys, which is now co-educational.\nBodysgallen Hall, within the village, home of its bachelor owner, Ievan Lloyd Mostyn, until his death in 1966, was sold in 1967 for \u00a315,000 with the contents being sold for \u00a335,000. Cadwallon Lawhir's 5th century AD residence ruins are extant atop a woodland knoll above the present Bodysgallen Hall (Williams, 1835). The square tower (non-defensive) has a five storey, ascending anti-clock wise, extant spiral staircase, which yields commanding views to the north (Lumina Technologies, 2006). Bodysgallen Hall is now a five-star destination hotel.\n\n"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Llanrhos",
+                        "_text": "Pentref i'r dwyrain a'r de o dref Llandudno, ym mwrdeisdref sirol Conwy, yw Llanrhos (a elwir hefyd yn Eglwys Rhos). Mae plwyf Llanrhos yn gorwedd yn y Creuddyn, cwmwd a fu'n rhan o hen gantref Rhos yn yr Oesoedd Canol, ac yn cynnwys, yn draddodiadol, Deganwy, ardal Craig-y-Don yn Llandudno, Rhiwledyn a Bae Penrhyn.\n\nCysegrir eglwys y plwyf i Sant Ilar (Hilary) ac mae'n gorwedd yn Esgobaeth Llanelwy. Cafodd yr eglwys ei atgyweirio'n sylweddol ym 1865 ond mae'n cadw'r hen drawstiau derw a nodweddion pensaerniol eraill o'r hen eglwys sy'n dyddio i'r Oesoedd Canol Diweddar. Yn \u00f4l traddodiad saif yr adeilad presennol ar safle'r eglwys gynharach a godwyd yn y 6ed ganrif gan Maelgwn Gwynedd. Hon oedd yr eglwys flaenaf yng nghantref Rhos a dyna pam y ceir Eglwys Rhos fel hen ffurf ar Llanrhos.\nCysylltir Maelgwn Gwynedd \u00e2'r eglwys yn y chwedl Hanes Taliesin a sawl cerdd Cymraeg Canol. Roedd gan y brenin amddiffynfa ar safle Castell Degannwy y cyfeirir ati fel 'Caer Ddegannwy'. Dywedir mai yn Eglwys Rhos y safai ei lys (neu ar safle y castell canoloesol). Yn \u00f4l traddodiad bu Maelgwn farw o'r Fad Felen yn 547 wedi iddo edrych trwy dwll clo'r eglwys ar \u00f4l ceisio lloches rhag y pla ynddi. Ceir sawl fersiwn o hen bennill sy'n cyfeirio at yr hanes. Y cyfeiriad cynharaf yw hwnnw gan Nennius yn ei Historia Brittonum sy'n dyfynnu'r llinell 'Hir hun Faelgwn yn llys Rhos'. Dywedir fod y Pla wedi dal Maelgwn yn rhith sarff euraidd neu ferch hud a lledrith a ddaeth ato o Forfa Rhianedd (wrth droed llethrau gorllewinol Pen y Gogarth).\nHefyd ym mhlwyf Llanrhos, ceir plasdy hanesyddol Gloddaeth a fu'n gartref i Iorwerth Goch o'r Creuddyn yn y 13eg ganrif yn \u00f4l traddodiad. Yn 1460 daeth yn eiddo trwy briodas i'r Mostyniaid, un o'r teuluoedd mwyaf grymus yng Ngogledd Cymru. Parhaodd rhai aelodau o'r teulu i fyw yno hyd at 1935 pan gafodd ei defnyddio fel ysgol breswyl i ferched, a gaeodd ym 1964. Ym 1965, rhoddodd Arglwydd Mostyn y brydles i Goleg Dewi Sant, ysgol breifat i fechgyn.\nPlasdy arall yn Llanrhos a ddaeth i feddiant y Mostyniaid oedd Neuadd Bodysgallen, llu bu byw ei berchennog dibriod, Ievan Lloyd Mostyn, hyd at ei farw ym 1966. Yn \u00f4l traddodiad bu gan Cadwallon Lawhir (5ed ganrif) lys ar y safle; yn \u00f4l yr hynafiaethydd Robert Williams yn ei lyfr The History and Antiquities of the Town of Aberconwy and its Neighbourhood (1835) mae olion y llys ar ben y bryn coediog gerllaw, ond dyma'r unig gyfeiriad atynt fel safle llys Cadwallon. Erbyn heddiw mae Neuadd Bodysgallen yn westy moethus pum seren.\nPlwyf glwedig fu Llanrhos hyd y 19eg ganrif. Ar ddiwedd y ganrif honno a dechrau'r 20fed cafwyd sawl datblygiad o dai yno, yn arbennig ar yr arfordir, e.e. Craig-y-don."
+                    }
+                ]
+            },
+            {
+                "id": "conwy#llanrwst",
+                "name": "Llanrwst",
+                "lat": "53.137033",
+                "lon": "-3.795732",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Llanrwst",
+                        "_text": "Llanrwst (Welsh pronunciation: [\u026can\u02c8ru\u02d0st]) is a small town and community on the A470 road and the River Conwy in Conwy County Borough, Wales. It takes its name from the 5th- to 6th-century Saint Grwst, \"church or parish\" llan \"of St Grwst\".\nLlanrwst developed around the wool trade, but also became renowned for harp and clock manufacture. Today, lying as it does on the edge of Snowdonia (Snowdonia starts about 3\/4 mile away on the other side of the river Conwy ), its main industry\u2014aside that of being a market town\u2014is tourism.\nNotable buildings in Llanrwst include the almshouses, two 17th-century chapels and the Parish Church of St Grwst, which holds the stone coffin of Llywelyn the Great.\nIn the 2011 census the population of the town was 3,323."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Llanrwst",
+                        "_text": "Mae Llanrwst yn dref fechan ar lan ddwyreiniol Afon Conwy yn Sir Conwy, tri chwarter y ffordd i fyny Dyffryn Conwy ar l\u00f4n yr A470, yng ngogledd Cymru. Mae Caerdydd 188.8 km i ffwrdd o Lanrwst ac mae Llundain yn 308.8 km. Y ddinas agosaf ydy Bangor sy'n 25 km i ffwrdd.\nMae Rheilffordd Dyffryn Conwy yn cysylltu'r dref \u00e2 Llandudno yn y gogledd a Blaenau Ffestiniog yn y de. Tyfodd y dref o gwmpas y diwydiant gwl\u00e2n ac roedd y dref yn adnabyddus am ei brethyn. Roedd gwneud telynnau yn ddiwydiant poblogaidd yno hefyd ac roedd galw mawr am gynnyrch gwneuthurwyr telynnau Llanrwst ledled Cymru. Erbyn heddiw twristiaeth yw'r prif ddiwydiant ynghyd ag amaethyddiaeth. Lleolir Gwasg Carreg Gwalch, un o gyhoeddwyr llai mwyaf llwyddianus Cymru, yn y dref."
+                    }
+                ]
+            },
+            {
+                "id": "conwy#llansanffraid glan conwy",
+                "name": "Llansanffraid Glan Conwy",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Llansanffraid Glan Conwy",
+                        "_text": "This is a redirect from a title that is another name such as a pseudonym, a nickname, or a synonym of the target, or of a name associated with the target. For more information follow the category link.\nThis redirect leads to the title in accordance with the naming conventions for common names and can help writing. It is not necessary to replace these redirected links with a piped link.\nIf this redirect is an incorrect name for the target, then use {{R from incorrect name}} instead."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Llansanffraid Glan Conwy",
+                        "_text": "Pentref a chymuned yw Llansanffraid Glan Conwy, weithiau Llansantffraid Glan Conwy neu dim ond Glan Conwy, yn sir Conwy. Yn ogystal a'r brif 'Llan' mae'r cymuned yn cynwys trefgorddau Pentrefelin a Dolwyd.\nSaif y gymuned ar lan ddwyreiniol Afon Conwy, ychydig i'r de i bentref Cyffordd Llandudno a'r pontydd dros yr afon Conwy. Mae'r briffordd A470 yn arwain trwy'r pentref ac mae yno orsaf ar Reilffordd Dyffryn Conwy."
+                    }
+                ]
+            },
+            {
+                "id": "conwy#llansannan",
+                "name": "Llansannan",
+                "lat": "53.178168",
+                "lon": "-3.596359",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Llansannan",
+                        "_text": "Llansannan is a rural village and community in Conwy County Borough, Wales. It lies on the bank of the River Aled and is about 8 miles to the south of Abergele and 9 miles (14 km) to the west of Denbigh. The population was 1,291 in 2001, with 67% able to speak Welsh. The figures for the 2011 census were: population 1,335 with 63% able to speak Welsh.\n\n"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Llansannan",
+                        "_text": "Pentref, cymuned a phlwyf yn sir Conwy yw Llansannan. Fe'i lleolir yn nyffryn Afon Aled, tua naw milltir i'r gorllewin o dref Dinbych.\nMae Llansannan yn sefyll ar groesffordd bwysig i sawl ffordd ar ucheldir yr hen Ddinbych. Rhed yr A544 rhwng Abergele a Llanfair Talhaearn yn y gogledd a Bylchau a Phentrefoelas yn y de trwyddo. Mae lonydd eraill yn ei chysylltu \u00e2 Gwytherin, Llanrwst a Llangernyw.\nMae'r eglwys yn gysegredig i Sant Sannan. Ceir cae yn ymyl y pentref o'r enw Tyddyn Sannan a gerllaw Pant yr Eglwys, ar bwys y cae hwnnw, ceir sylfeini adeilad a oedd efallai'n eglwys gynnar gysegredig i Sannan.\nCeir cofgolofn i bump o lenyddion o'r plwyf yng nghanol y pentref gyda cherflun wrth ei throed. Pen-y-Mwdwl yw'r enw ar y bryn ar bwys y pentref. Yn yr hen ddyddiau roedd Ffair Llansannan, a gynhelid ym mis Mai, yn adnabyddus iawn yn yr ardal."
+                    }
+                ]
+            },
+            {
+                "id": "conwy#llechwedd",
+                "name": "Llechwedd",
+                "lat": "53.2581455",
+                "lon": "-3.8620888",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Llechwedd",
+                        "_text": "Llechwedd is Welsh for \"hillside\" or \"slope\" and may refer to:\nLlechwedd, a village near Conwy, Wales.\nLlechwedd Du, a summit of Esgeiriau Gwynion, Wales.\nLlechwedd quarry, a slate quarry in Blaenau Ffestiniog, Wales.\nLlechwedd Slate Caverns, a visitor attraction in Llechwedd Quarry in Blaenau Ffestiniog, Wales.\nCarnedd Llechwedd-llyfn, a subsidiary summit of Carnedd y Filiast"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Llechwedd",
+                        "_text": "Mae mwy nag un lle o'r enw Llechwedd yng Nghymru:\nChwarel Llechwedd, ger Blaenau Ffestiniog\nLlechwedd Du, ger Bwlch y Groes , Y Bala , Gwynedd ;\nMoel Llechwedd, yn Arenig ger Llyn Celyn , y Bala;\nLlechwedd Llwyd ,\nCarnedd Llechwedd-llyfn, neu Llechwedd-llyfn, yn Arenig, rhwng y Bermo, Betws-y-Coed a'r Bala;\nLlechwedd y Glyn, ger Pumlumon, rhwng Aberystwyth ac Y Trallwng ;\nBanc Llechwedd-mawr, kern e Pumlumon, rhwng Aberystwyth ac Y Trallwng ;\nLlechwedd Ddu (Carnbwlchcloddiau)\nLlechwedd Hirgoed\nMoel Llechwedd-gwyn, neu Cerrig y Ieirch"
+                    }
+                ]
+            },
+            {
+                "id": "conwy#llugwy",
+                "name": "Llugwy",
+                "lat": "53.3046918",
+                "lon": "-3.5229764",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Llugwy",
+                        "_text": "Llugwy (or Lligwy) may refer to a number of places and archaeological sites in Wales:\nRiver Llugwy (Afon Llugwy), in Snowdonia\nFfynnon Llugwy, a lake in Snowdonia\nLligwy Bay, in Anglesey\nCapel Lligwy, a ruined 12th-century Anglesey church\nDin Lligwy, an Iron Age hut circle in north east Anglesey\nLligwy Burial Chamber, a Neolithic site in north east Anglesey\nCaer Llugwy (also known as Bryn-y-Gefeiliau), a Roman fort near Capel Curig\nLlugwy, Gwynedd, hamlet near Pennal, Gwynedd\nLlugwy Hall, ancestral Home of the Anwyl Family, near Pennal, Gwynedd"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Llugwy",
+                        "_text": "Gallai Llugwy neu Lligwy gyfeirio at:\nDaearyddiaeth\nAfon Llugwy, Sir Conwy\nAfon Llugwy, Powys\nFfynnon Llugwy, llyn bychan yn y Carneddau\nHenebion\nCaer Llugwy (Bryn-y-Gefeiliau), caer Rufeinig yn Sir Conwy\nCapel Lligwy, eglwys ganoloesol ym M\u00f4n\nDin Llugwy, safle o gyfnod y Rhufeiniaid ym M\u00f4n\nLlugwy (siambr gladdu), siambr gladdu neolithig ym M\u00f4n"
+                    }
+                ]
+            },
+            {
+                "id": "conwy#llyn brenig",
+                "name": "Llyn Brenig",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Llyn Brenig",
+                        "_text": "Llyn Brenig is a reservoir located in Wales, in the heart of the Denbigh Moors, at a height of 1200 feet, on the border between the counties of Conwy and Denbighshire. It is used to manage the flow in the River Dee as part of the River Dee regulation system which is designed to protect the water supply for North West England and north-east Wales, particularly Liverpool and its surrounding area."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Llyn Brenig",
+                        "_text": "Mae Llyn Brenig (Cyfeirnod OS: 983 573) yn gronfa d\u0175r ar Fynydd Hiraethog yng ngogledd Cymru, ar y ffin rhwng Conwy a Sir Ddinbych. Cr\u00ebwyd y llyn drwy godi argae ar draws Afon Brenig.\nDefnyddir Llyn Brenig i reoli llif Afon Dyfrdwy fel rhan o Gynllun Rheoli Llif Afon Dyfrdwy. Trwy reoli'r llif mae modd tynnu d\u0175r o'r afon yn is i lawr ar gyfer gogledd-orllewin Lloegr ac yn enwedig Lerpwl a'r cyffiniau.\nDechreuwyd adeiladu'r argae yn 1973 a gorffenwyd y gwaith yn 1976. Mae'r llyn yn dal 60 miliwn m\u00b3 o dd\u0175r, ac yr oedd wedi llenwi erbyn 1979. Llyn Brenig yw'r llyn mwyaf yng Nghymru o ran arwynebedd, tua 920 acer, ond mae Llyn Tegid) yn dal mwy o dd\u0175r."
+                    }
+                ]
+            },
+            {
+                "id": "conwy#llyn cowlyd reservoir",
+                "name": "Llyn Cowlyd Reservoir"
+            },
+            {
+                "id": "conwy#llyn eigiau reservoir",
+                "name": "Llyn Eigiau Reservoir"
+            },
+            {
+                "id": "conwy#llysfaen",
+                "name": "Llysfaen",
+                "lat": "53.280414",
+                "lon": "-3.66578",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Llysfaen",
+                        "_text": "Llysfaen is a village and community in Conwy County Borough overlooking the north coast of Wales. For local government purposes, it is also a ward."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Llysfaen",
+                        "_text": "Mae'r erthygl hon yn cyfeirio at bentref ar arfordir gogledd Cymru; am yr ardal ag enw tebyg yng Nghaerdydd, gweler Llys-faen.\n\nPentref a chymuned ar arfordir gogledd Cymru ym mwrdeisdref sirol Conwy yw Llysfaen. Gorwedd hanner milltir o'r m\u00f4r tua hanner ffordd rhwng Abergele i'r dwyrain a Bae Colwyn i'r gorllewin. Mae'r pentrefi cyfagos yn cynnwys Hen Golwyn, Llanddulas, Dolwen a Betws-yn-Rhos. I'r dwyrain ceir Mynydd Marian. Mae tua 2,680 o bobl yn byw yno ([1] 2005).\nHeddiw mae'r pentref yn rhan o sir Conwy, ond hyd 1923 bu'n alldir o'r hen Sir Gaernarfon wedi ei amgylchu'n gyfangwbl gan yr hen Sir Ddinbych; bu'n rhan o sir Clwyd o 1974 hyd 1996. Yn yr Oesoedd Canol bu'n rhan o gantref Rhos. Mae eglwys Sant Cynfran yn dyddio i'r Oesoedd Canol; yn \u00f4l traddodiad lleol fe'i sefydlwyd gan y sant yn y flwyddyn 777.\nAm gyfnod hir bu llawer o bobl y pentref yn gweithio yn chwareli calchfaen cyfagos Llysfaen a Llanddulas. Cludai llongau arfordirol y calchfaen i Lerpwl neu Fleetwood o Sieti Rayne ym Mae Llanddulas.\nCeir ysgol gynradd leol, Ysgol Cynfran, siop SPAR, neuad y pentref, a thri pharc."
+                    }
+                ]
+            },
+            {
+                "id": "conwy#machno",
+                "name": "Machno",
+                "lat": "53.0171158",
+                "lon": "-3.8139129"
+            },
+            {
+                "id": "conwy#maerdy",
+                "name": "Maerdy",
+                "lat": "51.676466",
+                "lon": "-3.483457",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Maerdy",
+                        "_text": "Maerdy (Welsh: Y Maerdy) is a village and community in the county borough of Rhondda Cynon Taf, and within the historic county boundaries of Glamorgan, Wales, lying at the head of the Rhondda Fach Valley."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Maerdy",
+                        "_text": "Gallai (Y) Maerdy gyfeirio at:\nY Maerdy, Conwy\nY Maerdy, Sir Fynwy\nMaerdy, Sir Gaerfyrddin\nY Maerdy, Rhondda Cynon Taf"
+                    }
+                ]
+            },
+            {
+                "id": "conwy#melin-y-coed",
+                "name": "Melin-y-coed",
+                "lat": "53.125151",
+                "lon": "-3.769123",
+                "wikipedia": {
+                    "lang": "cy",
+                    "href": "https:\/\/cy.wikipedia.org\/wiki\/Melin-y-coed",
+                    "_text": "Pentref bychan gwledig yn Sir Conwy, Cymru, yw Melin-y-coed (hefyd Melin-y-Coed).\nMae'r pentref yn gorwedd wrth droed y bryniau ar ochr ddwyreiniol Dyffryn Conwy tua milltir a hanner i'r de-ddwyrain o dref Llanrwst. Tu \u00f4l i'r pentref i'r dwyrain mae'r bryniau'n codi i Foel Seisiog (468m). Mae l\u00f4n yn cysylltu'r pentref \u00e2 Pentre Tafarn-y-fedw i'r gogledd ac un arall \u00e2 Llanrwst."
+                }
+            },
+            {
+                "id": "conwy#merddwr",
+                "name": "Merddwr",
+                "lat": "52.9805199",
+                "lon": "-3.4854583"
+            },
+            {
+                "id": "conwy#mochdre",
+                "name": "Mochdre",
+                "lat": "52.4840294",
+                "lon": "-3.3665787",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Mochdre",
+                        "_text": "Mochdre may refer to:\nMochdre, Conwy, North Wales\nMochdre, Powys, West Wales"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Mochdre",
+                        "_text": "Gallai Mochdre gyfeirio at un o ddau le yng Nghymru :\nMochdre, pentref yn sir Conwy\nMochdre, pentref a chymuned ym Mhowys\nMochdre, penterf yn Lloegr"
+                    }
+                ]
+            },
+            {
+                "id": "conwy#moelfre",
+                "name": "Moelfre",
+                "lat": "53.352276",
+                "lon": "-4.237343",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Moelfre",
+                        "_text": "Moelfre may refer to:\nMoelfre, Anglesey - a village and community on the Isle of Anglesey, Wales, United Kingdom\nMoelfre, Conwy - a place in the county borough of Conwy, Wales, United Kingdom\nMoelfre, Gwynedd - a hill in the Snowdonia range, in the county of Gwynedd, Wales, United Kingdom\nMoelfre, Powys - a hamlet in the community of Llansilin in the county of Powys, Wales, United Kingdom"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Moelfre",
+                        "_text": "Gallai Moelfre gyfeirio at:"
+                    }
+                ]
+            },
+            {
+                "id": "conwy#mynydd marian",
+                "name": "Mynydd Marian",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Mynydd Marian",
+                        "_text": "Mynydd Marian is a Site of Special Scientific Interest in the preserved county of Clwyd, north Wales. It is also a hill reaching a height of 208 metres (682 feet), with a trig point, and views to Snowdonia. It has high limestone cliffs which are popular with rock climbers."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Mynydd Marian",
+                        "_text": "Mae Mynydd Marian yn gopa mynydd a geir ger Betws yn Rhos rhwng Llandudno a Wrecsam; cyfeiriad grid SH888774. Uchder cymharol, neu \u201damlygrwydd\u201d y copa, ydy 106 metr: dyma'r uchder mae'r copa'n codi uwchlaw'r mynydd agosaf.\nDosberthir copaon Cymru, a gweddill gwledydd Prydain, yn rhestri arbennig yn \u00f4l uchder ac yn \u00f4l amlygrwydd y copa; mae'r copa hwn yn cael ei alw'n HuMP. Mae sawl cymdeithas yn mesur, gwiro a chasglu'r rhestri hyn a d\u00f4nt yngh\u0177d ar wefan \u201cDatabase of British and Irish hills\u201d. Uchder y copa o lefel y m\u00f4r ydy 208 metr (682 tr). Cafodd yr uchder ei fesur a'i gadarnhau ar 8 Mehefin 2009."
+                    }
+                ]
+            },
+            {
+                "id": "conwy#nant-y-felin",
+                "name": "Nant-y-felin",
+                "lat": "53.2807492",
+                "lon": "-4.2181645"
+            },
+            {
+                "id": "conwy#nant-y-pandy",
+                "name": "Nant-y-pandy",
+                "lat": "53.2611793",
+                "lon": "-4.3245502"
+            },
+            {
+                "id": "conwy#nant-y-rhiw",
+                "name": "Nant-y-Rhiw",
+                "lat": "53.117926",
+                "lon": "-3.762978"
+            },
+            {
+                "id": "conwy#nebo",
+                "name": "Nebo",
+                "lat": "53.0300719",
+                "lon": "-4.269537",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Nebo",
+                        "_text": "Nebo may refer to:"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Nebo",
+                        "_text": "Ceir mwy nag un enghraifft o'r enw Nebo:\nNebo - Duw Babilonaidd\nY Dwyrain Canol\nNebo - dinas Feiblaidd, yn Iwda\nNebo - dinas Feiblaidd, ym Moab\nCymru\nNebo - pentref yn Nyffryn Aeron, Ceredigion\nNebo - pentref yn Sir Conwy\nNebo - pentref yng Ngwynedd\nNebo - pentref ar Ynys M\u00f4n\nAwstralia\nNebo - tref yn Queensland\nSwydd Nebo\nYr Unol Daleithiau\nNebo, Illinois\nNebo, Kentucky\nNebo, Gogledd Carolina\nNebo Center, Califfornia\nArdal Ysgol Nebo, ardal ysgol yn Swydd Utah, Utah\nMynyddoedd\nEnwir sawl mynydd gyda'r enw hwn, gweler dudalen gwahaniaethu Mynydd Nebo"
+                    }
+                ]
+            },
+            {
+                "id": "conwy#old colwyn",
+                "name": "Old Colwyn",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Old Colwyn",
+                    "_text": "Old Colwyn (Welsh Hen Golwyn), is a small town just to the east of Colwyn Bay, in Conwy County Borough, Wales.\nPrior to local government reorganisation in April 1974 it was part of the Municipal Borough of Colwyn Bay, but the reorganisation established it as a separate community, whose population at the 2001 census was 7,626, increasing to 8,113 at the 2011 census. It hosted the National Eisteddfod in 1941. It also harbours the 3rd Colwyn Bay (Old Colwyn) Scout Group headquarters and is home to the area's comprehensive school, Ysgol Bryn Elian"
+                }
+            },
+            {
+                "id": "conwy#pabo",
+                "name": "Pabo",
+                "lat": "53.2872195",
+                "lon": "-3.785683",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Pabo",
+                    "_text": "Pabo may refer to:"
+                }
+            },
+            {
+                "id": "conwy#padog",
+                "name": "Padog",
+                "lat": "53.042103",
+                "lon": "-3.752648"
+            },
+            {
+                "id": "conwy#pandy tudur",
+                "name": "Pandy Tudur",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Pandy Tudur",
+                        "_text": "Pandy Tudur is a village in Conwy county borough, in the north-west of Wales, and lies some 5 miles NE of Llanrwst.\nIt takes its name from the pandy (or fulling mill) which was located there.\nAccording to the United Kingdom Census 2001, 55.5% of the population speak the Welsh language. The highest percentage of speakers is within the 5-9 age group, where 71.1% can speak the language. Children in the village mostly attend a small Welsh primary school in the nearby village of Llangernyw.\nThe village has a parish church.\nNearby lie the turbines of Moel Maelogan wind farm."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Pandy Tudur",
+                        "_text": "Pentref bychan yn sir Conwy yw Pandy Tudur. Saif lle mae'r ffordd B5384 i gyfeiriad Gwytherin yn gadael y briffordd A548 rhwng Llanrwst a Llangernyw.\nMae Eisteddfod Pandy Tudur yn cael ei chynnal yn flynyddol; dathlodd ei phen blwydd yn gant a hanner oed yn 2006. Cynhaliwyd yr eisteddfod gyntaf ar 26 Mehefin, 1856, gydag Eben Fardd yn beirniadu. Roedd yn arfer cael ei chynnal yn ysgol Pandy Tudur, sydd yn awr wedi cau, ond ers y 1970au mae'n cael ei chynnal yng Nghanolfan Addysg Bro Cernyw, Llangernyw."
+                    }
+                ]
+            },
+            {
+                "id": "conwy#penmachno",
+                "name": "Penmachno",
+                "lat": "53.039249",
+                "lon": "-3.79964",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Penmachno",
+                        "_text": "Penmachno is a village in the isolated upland valley of Cwm Penmachno, 4 miles south of Betws-y-Coed in the county of Conwy, north Wales. The two parts of the village are linked by a five-arched, stone bridge dating from 1785. The village has been referred to as Pennant Machno, Llandudclyd and Llan dutchyd in historical sources.\nAccording the 2011 census, the population of the Bro Machno Parish (which also includes Cwm Penmachno) was 617, of whom 342 (55%) were able to speak Welsh and 214 (34%) had no skills in Welsh."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Penmachno",
+                        "_text": "Mae Penmachno yn bentref yn yn sir Conwy yng ngogledd Cymru. Saif ynghanol Cwm Penmachno, 4 milltir i'r de o Fetws-y-Coed, yn nghymuned Bro Machno. Llifa afon Machno trwy'r pentref."
+                    }
+                ]
+            },
+            {
+                "id": "conwy#penmaen rhos",
+                "name": "Penmaen Rhos"
+            },
+            {
+                "id": "conwy#penmaenan",
+                "name": "Penmaenan",
+                "lat": "51.6748594",
+                "lon": "-3.1757295"
+            },
+            {
+                "id": "conwy#penmaenmawr",
+                "name": "Penmaenmawr",
+                "lat": "53.266577",
+                "lon": "-3.92065",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Penmaenmawr",
+                        "_text": "Penmaenmawr is a town and community in Conwy County Borough, Wales, which was formerly in the parish of Dwygyfylchi. It lies on the North Wales coast between Conwy and Llanfairfechan and was an important quarrying town, though this industry is no longer a major employer. The population of the community was 4,353 in 2011, including Dwygyfylchi and Capelulo.\nIt was named after Penmaenmawr mountain, which stands above the sea immediately west of the town. Much of its formerly rounded top (with an old hill-fort) has been quarried away, leaving the present-day lower flat top.\nThe town was bypassed by the A55 Expressway in the 1980s, losing its old Edwardian period promenade in the process, which was largely replaced by a modern one. Penmaenmawr is noted for its spectacular mountain and coastal walks. Nearby are the popular attractions of Bwlch Sychnant (Sychnant Pass) and Mynydd y Dref, and the town also lies partly within Eryri, the Snowdonia National Park."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Penmaenmawr",
+                        "_text": "Penmaenmawr & Foel Lus - geograph.org.uk - 3153833.jpg\nErthygl am y dref o'r enw Penmaenmawr yw hon. Am y mynydd o'r un enw gweler Penmaen-mawr.\nMae Penmaenmawr yn dref ym mhlwyf Dwygyfylchi, yng ngogledd-orllewin Sir Conwy, gogledd Cymru, poblogaeth tua 4,000. Mae'n dref glan m\u00f4r sydd wedi tyfu o gwmpas y chwarel, ond nid oes llawer o bobl yn gweithio yn y chwarel bellach. Mae'n sefyll ar arfordir y gogledd rhwng tref Conwy a Bangor, ar yr A55. Mae Caerdydd 205.4 km i ffwrdd o Penmaenmawr ac mae Llundain yn 325 km. Y ddinas agosaf ydy Bangor sy'n 14.8 km i ffwrdd.\nMae ganddi orsaf ar Reilffordd Arfordir Gogledd Cymru. Mae iddi dri ward, pob un a'i gymeriad ei hun; Penmaenan yn y gorllewin, Pant-yr-afon yn y canol a phentref Dwygyfylchi yn y gorllewin.\nBu newid mawr yn sg\u00eel creu'r l\u00f4n ddeuol newydd, yr \"Expressway\" (A55) yn y 1980au, pan gollodd y dref ran helaeth o'i phromen\u00e2d cyfnod Edwardaidd oedd yn boblogaidd gan bobl leol ac ymwelwyr fel ei gilydd, ond codwyd un newydd yn ei le. Mae Penmaenmawr yn nodedig am ei llwybrau cerdded ar y bryniau a'i golygfeydd hardd. Mae Bwlch Sychnant yn denu ymwelwyr."
+                    }
+                ]
+            },
+            {
+                "id": "conwy#pennant",
+                "name": "Pennant",
+                "lat": "52.246131",
+                "lon": "-4.177319",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Pennant",
+                        "_text": "Pennant may refer to:"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Pennant",
+                        "_text": "Gallai Pennant\" gyfeirio at:"
+                    }
+                ]
+            },
+            {
+                "id": "conwy#penrhyn bay (bae-penrhyn)",
+                "name": "Penrhyn Bay (Bae-Penrhyn)"
+            },
+            {
+                "id": "conwy#penrhyn side",
+                "name": "Penrhyn side"
+            },
+            {
+                "id": "conwy#pensarn",
+                "name": "Pensarn",
+                "lat": "53.2948359",
+                "lon": "-3.578062",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Pensarn",
+                        "_text": "Pensarn is a suburb of Abergele in Conwy County Borough, Wales. It has a population of around 2,000.\nThe name Pensarn means 'end of the causeway' in English. The crossing of Morfa Rhuddlan was facilitated by a causeway near the sea, located at this point. This causeway was later flanked by the holiday developments along the coast.\nPensarn is served by Abergele and Pensarn railway station, the A55 and National Cycle Route 5"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Pensarn",
+                        "_text": "Gweler hefyd: Pen-sarn (Ardudwy, Gwynedd) a Penysarn (Ynys M\u00f4n).\nPentref glan m\u00f4r ym mwrdeisdref sirol Conwy yw Pensarn. Saif yng nghymuned Abergele ar arfordir gogledd-ddwyrain Cymru, rhwng Abergele i'r de-orllewin a Thywyn, Bae Cinmel a'r Rhyl i'r dwyrain. Rhed yr A549 trwy'r pentref ac mae Rheilffordd Arfordir Gogledd Cymru yn mynd trwyddo. Ceir gorsaf rheilffordd yno."
+                    }
+                ]
+            },
+            {
+                "id": "conwy#pentre isaf",
+                "name": "Pentre Isaf"
+            },
+            {
+                "id": "conwy#pentre-bont",
+                "name": "Pentre-bont",
+                "lat": "53.047327",
+                "lon": "-3.882229"
+            },
+            {
+                "id": "conwy#pentre-llyn-cymmer",
+                "name": "Pentre-llyn-cymmer",
+                "lat": "53.0618709",
+                "lon": "-3.533873",
+                "wikipedia": {
+                    "lang": "cy",
+                    "href": "https:\/\/cy.wikipedia.org\/wiki\/Pentre-llyn-cymmer",
+                    "_text": "Pentref bychan yng nghornel dde-ddwyreiniol sir Conwy yw Pentre-llyn-cymmer (hefyd Pentrellyncymmer, Pentre Llyn Cymmer ac amrywiadau eraill). Mae yn ardal wledig Uwch Aled, tua tair milltir i'r gogledd o bentref Gerrigydrudion ac mae'n rhan o gymuned Cerrigydrudion. Saif lle mae Afon Brenig yn llifo i Afon Alwen.\nCeir dwy gronfa dd\u0175r fawr gerllaw, Llyn Brenig ychydig i'r gogledd a Chronfa Alwen i'r gogledd-orllewin. Ceir Canolfan Addysg Awyr-agored yma."
+                }
+            },
+            {
+                "id": "conwy#pentre-uchaf",
+                "name": "Pentre-uchaf",
+                "lat": "52.9234373",
+                "lon": "-4.4467753"
+            },
+            {
+                "id": "conwy#pentrefelin",
+                "name": "Pentrefelin",
+                "lat": "52.934281",
+                "lon": "-4.193056",
+                "wikipedia": {
+                    "lang": "cy",
+                    "href": "https:\/\/cy.wikipedia.org\/wiki\/Pentrefelin",
+                    "_text": "Mae Pentrefelin yn enw ar sawl lle yng Nghymru:\nPentrefelin, Ceredigion\nPentrefelin, Conwy\nPentrefelin, Gwynedd\nPentrefelin, Powys\nPentrefelin, Sir Gaerfyrddin\nPentrefelin, Ynys M\u00f4n, ar gyrion Amlwch\nGweler hefyd:\nPentre'r Felin (gwahaniaethu)"
+                }
+            },
+            {
+                "id": "conwy#pentrefoelas",
+                "name": "Pentrefoelas",
+                "lat": "53.04875",
+                "lon": "-3.680885",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Pentrefoelas",
+                        "_text": "Pentrefoelas is a village and community in Conwy County Borough, Wales. The village lies on the A5 road between Betws-y-coed to the west and Cerrigydrudion to the east. The Afon Merddwr river, a tributary of the River Conwy, flows through it. The community had a population of 356 at the time of the 2011 census, 70% were able to speak Welsh. It has an area of 53.86 km2 and covers a large region around the village including part of Mynydd Hiraethog, Llyn Alwen and part of Alwen Reservoir.\nThe name of the village comes from pentre (Welsh for \"village\") and a nearby hill, Foel Las (\"green bare-topped hill\"). The hill is the site of a motte built around 1164 in the time of Owain Gwynedd. Old Voelas House (or Plas Foel Las), mansion of the Wynne family, was built at the foot of the hill in 1545. It was demolished in 1819 and a new site was established two kilometres to the west. The current Voelas Hall was built in 1961 and was designed by the architect Clough Williams-Ellis.\nOther buildings around the village include:\nPlas Iolyn, home to Rhys Fawr ap Maredudd, his son Robert ap Rhys (the chaplain to Cardinal Wolsey), his grandson the 16th-century MP Elis Prys (known as Dr Coch and notorious for his oppression of the district) and his great-grandson, the poet Tomos Prys. It is now a farmhouse.\nGilar, built in the 16th century for the poet Rhys Wyn ap Cadwaladr (fl. c. 1600), perhaps by his father Cadwaladr ap Maurice after receiving a substantial grant of land from Henry VIII in 1545-6, which included the land later occupied by Plas Iolyn and Old Voelas House.\nThe village had a chapelry of Ysbyty Ifan built in 1766 and known as Voelas Chapel. The Parish Church was built on the same site in 1857-9.\nThe Pentrefoelas watermill (Melin Voelas) for grinding flour dates from 1815 and was restored by Clwyd County Council as part of a heritage scheme. The ironwork for the external overshot waterwheel was originally cast by the Llanrwst Foundry probably sometime in the 19th century"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Pentrefoelas",
+                        "_text": "Pentref a chymuned yn ne-ddwyrain Conwy yw Pentrefoelas. Mae'n gorwedd ar gyffordd yr A5 a'r B5113, 7 milltir i'r de-ddwyrain o Lanrwst a hanner ffordd rhwng Cerrig-y-drudion a Betws-y-Coed. Mae'n gorwedd yn ardal Uwch Aled a bu'n rhan o'r hen Sir Ddinbych gynt."
+                    }
+                ]
+            },
+            {
+                "id": "conwy#pont-y-pant",
+                "name": "Pont-y-pant",
+                "lat": "53.066074",
+                "lon": "-3.860398"
+            },
+            {
+                "id": "conwy#porth-llwyd",
+                "name": "Porth-llwyd",
+                "lat": "53.1915594",
+                "lon": "-3.8484557"
+            },
+            {
+                "id": "conwy#rhandir",
+                "name": "Rhandir",
+                "lat": "51.6780516",
+                "lon": "-4.1099542"
+            },
+            {
+                "id": "conwy#rhos-on-sea",
+                "name": "Rhos-on-Sea",
+                "lat": "53.3080507",
+                "lon": "-3.7499412",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Rhos-on-Sea",
+                    "_text": "Rhos-on-Sea (Welsh: Llandrillo-yn-Rhos), also known as Rhos or Llandrillo, is a seaside resort , community and electoral ward in Conwy County Borough, Wales. The population was 7,110 in 2001, increasing to 7,593 at the 2011 census. It is a mile to the northwest but effectively a suburb of Colwyn Bay, on the coast. It is named after the Welsh kingdom of Rhos established there in late Roman times as a sub-kingdom of Gwynedd, and later became a cantref (hundred)."
+                }
+            },
+            {
+                "id": "conwy#rhyd-y-foel",
+                "name": "Rhyd-y-foel",
+                "lat": "53.2763319",
+                "lon": "-3.633052",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Rhyd-y-foel",
+                    "_text": "This is a redirect from a title with a different spelling. Pages that link to this redirect may be updated to link directly to the target page if that results in an improvement of the text. Do not \"fix\" such links if they are not broken. Also, these links should not be replaced with piped links. For more information follow the category link."
+                }
+            },
+            {
+                "id": "conwy#rhydgaled",
+                "name": "Rhydgaled",
+                "lat": "53.1697114",
+                "lon": "-3.5077935"
+            },
+            {
+                "id": "conwy#rhydlydan",
+                "name": "Rhydlydan",
+                "lat": "53.042058",
+                "lon": "-3.65578",
+                "wikipedia": {
+                    "lang": "cy",
+                    "href": "https:\/\/cy.wikipedia.org\/wiki\/Rhydlydan",
+                    "_text": "Pentref bychan gwledig yn ne-ddwyrain bwrdeistref sirol Conwy (ond yn rhan o'r hen Sir Ddinbych cyn hynny) yw Rhydlydan. Fe'i lleolir yn ymyl i l\u00f4n yr A5, 2 filltir i'r dwyrain o Bentrefoelas a 4 milltir i'r gorllewin o Gerrigydrudion, tua 220m uwch lefel y m\u00f4r. Mae'n rhan o gymuned Pentrefoelas.\nSaif y pentref gwasgaredig ger bont ar afon Merddwr, sy'n ymuno yn afon Conwy fymryn yn is i lawr y cwm. Mae'n debyg iddo gael ei enw am fod groesfan lydan yma dros y tir corsiog a'r afon cyn i'r bont gael ei chodi.\nHanner milltir i'r gorllewin o Rydlydan ceir plasdy Plas Iolyn, a fu'n gartref i'r enwog Elis Prys (Y Doctor Coch) (?1512-1594?). Roedd y Dr Prys yn noddwr hael i feirdd gogledd Cymru. Adnewyddiodd Blas Iolyn tua'r flwyddyn 1560. Ymhlith y beirdd a ganodd glod lletygarwch Plas Iolyn y mae Tudur Aled, Si\u00f4n Tudur a Lewys M\u00f4n.\nTu \u00f4l i'r hen blasdy, i'r de, ceir Garn Prys (534m)."
+                }
+            },
+            {
+                "id": "conwy#rowen",
+                "name": "Rowen",
+                "lat": "53.230416",
+                "lon": "-3.863556",
+                "wikipedia": {
+                    "lang": "cy",
+                    "href": "https:\/\/cy.wikipedia.org\/wiki\/Rowen",
+                    "_text": "Pentref yn Sir Conwy yw Rowen neu Ro-wen, weithiau Y Ro. Daw'r enw o 'gro wen'. Saif ychydig oddi ar y ffordd B5106, rhwng Dolgarrog a Chonwy, ar ochr orllewinol Dyffryn Conwy.\nMae Afon Ro yn llifo trwy'r pentref cyn ymuno ag Afon Conwy. Mae gan y pentref siop a thafarn, ac mae hostel ieuenctid ychydig i'r gorllewin o'r pentref. Roedd y pentref yn bwysicach yn y gorffennol, gyfa thair melin a phandy yma.\nO ddilyn y ffordd heibio'r hostel ieuenctid, mae'n troi'n ffordd drol sy'n dilyn llinell y ffordd Rhufeinig o Canovium (Caerhun) i Segontium (Caernarfon). Gellir dilyn y ffordd yma i fyny i gyfeiriad Bwlch y Ddeufaen, gan basio nifer o henebion diddorol, megis siambr gladdu Maen y Bardd o'r cyfnod Neolithig. Ceir hen eglwys Llangelynnin gerllaw hefyd."
+                }
+            },
+            {
+                "id": "conwy#st george",
+                "name": "St George"
+            },
+            {
+                "id": "conwy#tal-y-bont",
+                "name": "Tal-y-Bont",
+                "lat": "52.485205",
+                "lon": "-3.986391"
+            },
+            {
+                "id": "conwy#tal-y-cafn",
+                "name": "Tal-y-cafn",
+                "lat": "53.22779",
+                "lon": "-3.816651",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Tal-y-cafn",
+                        "_text": "This is a redirect from a title with another method of capitalisation. It leads to the title in accordance with the Wikipedia naming conventions for capitalisation, or it leads to a title that is associated in some way with the conventional capitalisation of this redirect title. This may help writing, searching and international language issues. For more information follow the category link.\nIf this redirect is an incorrect capitalization (a typo), then it is made available to aid searches, so pages that use this link should be updated to link directly to the target.\nUse this rcat to tag only mainspace redirects; when other capitalisations are in different namespaces, use {{R from modification}} instead."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Tal-y-cafn",
+                        "_text": "Pentref bychan ym mwrdeistref sirol Conwy yw Tal-y-cafn (hefyd Tal-y-Cafn). Saif ger y briffordd A470, lle mae pont yn croesi Afon Conwy i gysylltu \u00e2'r ffordd B5106 ger Tyn-y-groes ar lan orllewinol yr afon. Mae ychydig i'r de o bentref Llansanffraid Glan Conwy.\nDim ond dyrnaid o dai a geir yn y pentref ond ceir gorsfaf ar Reilffordd Dyffryn Conwy gerllaw Bryn Castell, sef hen domen amddiffynol o'r Oesoedd Canol.\nCeir Gardd Bodnant tua milltir i'r dwyrain."
+                    }
+                ]
+            },
+            {
+                "id": "conwy#tan-lan",
+                "name": "Tan-lan",
+                "lat": "52.963216",
+                "lon": "-4.052349"
+            },
+            {
+                "id": "conwy#tan-y-fron",
+                "name": "Tan-y-fron",
+                "lat": "53.162019",
+                "lon": "-3.560298"
+            },
+            {
+                "id": "conwy#terfyn",
+                "name": "Terfyn",
+                "lat": "53.2553365",
+                "lon": "-3.4479021"
+            },
+            {
+                "id": "conwy#towyn",
+                "name": "Towyn",
+                "lat": "53.302171",
+                "lon": "-3.539537",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Towyn",
+                        "_text": "Towyn (Welsh: Tywyn), is a seaside resort in the County Borough of Conwy, Wales.\nIt is located between Rhyl, in Denbighshire, and Abergele in Conwy. According to the 2001 Census, together with neighbouring Kinmel Bay (to the east), it had a population 7,864, of which 10.7% could speak Welsh. Only a third of the population were born in Wales.\nA combination of gale-force winds, a high tide and rough seas caused Towyn's flood defences to be breached at about 11.00am on 26 February 1990. 4 square miles (10 km2) of land was flooded, affecting 2,800 properties and causing areas of the resort to be evacuated. The coastal defences have since been reconstructed and significantly enhanced.\nTowyn has a notable church. St. Mary's Church was designed by the renowned architect George Edmund Street, and was consecrated on 17 June 1873. It is known for the distinctive tiling on the roof. The same architect also designed the building which now houses the youth club in nearby Abergele.\nThe principal economic activity in Towyn is tourism, concentrated in the summer season. A mix of static caravans and touring caravan pitches provides accommodation."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Towyn",
+                        "_text": "Amrywiad ar y gair ac enw lle Tywyn yw Towyn. Gallai gyfeirio at un o sawl lle yng Nghymru:\nTywyn, tref ar arfordir de Gwynedd\nTywyn, pentref yn sir Conwy ger Y Rhyl\nTywyn y Capel, safle archaeolegol ar Ynys Gybi, M\u00f4n"
+                    }
+                ]
+            },
+            {
+                "id": "conwy#trefriw",
+                "name": "Trefriw",
+                "lat": "53.150729",
+                "lon": "-3.82576",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Trefriw",
+                        "_text": "Trefriw (Welsh pronunciation: [tr\u025b\u02c8vr\u026au]) is a village and community in Conwy County Borough, Wales. It lies on the river Crafnant in North Wales, a few miles south of the site of the Roman fort of Canovium, sited at Caerhun. At the 2001 census, the community had a population of 924, reducing to 783 at the 2011 census.\nTrefriw lies on the edge of Snowdonia, on the B5106 road to the north-west of Llanrwst, and about 4\u00bd miles north of Betws-y-coed by road. It is located on the western slopes of the glaciated Conwy valley, below the ridge of Cefn Cyfarwydd, the village having been largely built in a semicircle at the point where the river Crafnant flows from its hanging valley to join the river Conwy. The river Crafnant still provides power for the woollen mill, and in the past provided power for a number of other industries based along its banks, such as a forge which provided quarry tools.\nMost of the village lies within the Snowdonia National Park, the boundary running down the main street of the village.\nApart from its reputation as a good starting point for walks (the village has Walkers are Welcome status and stages an annual walking festival), Trefriw is today mostly known for its woollen mills, and for the nearby chalybeate spa, first known to have been used by the Romans and further developed in about 1700. Its waters were one of very few throughout Europe to have been classified as a medicine due to their high iron content.\n^ Office for National Statistics: Census 2001: Parish Headcounts: Conwy\n^ \"Community population 2011\". Retrieved 22 May 2015. \n^ \"Trefriw Walking Festival - Trefriw Walking Festival\". Trefriw Walking Festival."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Trefriw",
+                        "_text": "Pentref a chymuned yn Sir Conwy yw Trefriw a leolir ar lan orllewinol Afon Conwy. Yn 2001 roedd y boblogaeth yn 1338, gyda union 50% yn siarad Cymraeg; ond erbyn 2011 roedd y ganran wedi gostwng 5% i 44.8%.\nSaif Trefriw tua 2 filltir i'r gogledd-orllewin o dref Llanrwst a thua 4 milltir i'r de o bentref Dolgarrog. Yn y pentref mae Afon Crafnant yn ymuno ag Afon Conwy ar \u00f4l llifo i lawr o Lyn Crafnant. Rhed ffin Parc Cenedlaethol Eryri trwy'r pentref, gyda'r rhan fwyaf ohono yn y parc. Heblaw bod yn rhywfaint o ganolfan wyliau, mae Trefriw yn adnabyddus am y felin wl\u00e2n a'r sba, oedd yn cael ei defnyddio yn y cyfnod Rhufeinig ac a ddaeth yn adnabyddus yn y 18fed ganrif."
+                    }
+                ]
+            },
+            {
+                "id": "conwy#trofarth",
+                "name": "Trofarth",
+                "lat": "53.228882",
+                "lon": "-3.711626"
+            },
+            {
+                "id": "conwy#ty-mawr",
+                "name": "Ty-mawr",
+                "lat": "53.0098251",
+                "lon": "-3.6270191"
+            },
+            {
+                "id": "conwy#ty-nant",
+                "name": "Ty-nant",
+                "lat": "52.988585",
+                "lon": "-3.504056"
+            },
+            {
+                "id": "conwy#tynyfedw",
+                "name": "Tynyfedw",
+                "lat": "52.7491546",
+                "lon": "-3.6994759"
+            },
+            {
+                "id": "conwy#tywyn",
+                "name": "Tywyn",
+                "lat": "52.587006",
+                "lon": "-4.087249",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Tywyn",
+                        "_text": "Tywyn (\/\u02c8ta\u028a.\u026an\/; Welsh: [\u02c8t\u0259\u028a.\u1d7bn]), formerly Towyn, is a town and seaside resort on the Cardigan Bay coast of southern Gwynedd, Wales. It was previously in the historic county of Merionethshire. It is famous as the location of the Cadfan Stone, a stone cross with the earliest known example of written Welsh, and the home of the Talyllyn Railway."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Tywyn",
+                        "_text": "Gallai Tywyn gyfeirio at:"
+                    }
+                ]
+            },
+            {
+                "id": "conwy#ysbyty ifan",
+                "name": "Ysbyty Ifan",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Ysbyty Ifan",
+                        "_text": "Ysbyty Ifan is a small but historic village and community in Conwy County Borough, Wales. A bridge over the, still small, Afon Conwy is in the village. The population in 2011 was 196 in 76 households (29 household spaces had no usual residents), over 79% of the population were able to speak Welsh."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Ysbyty Ifan",
+                        "_text": "Pentref a chymuned yn Sir Conwy yw Ysbyty Ifan. Lleolir y pentref ar lannau Afon Conwy ifanc, rhai milltiroedd i'r de o Bentrefoelas ar l\u00f4n y B4407 (sy'n cysylltu Pentrefoelas ar yr A5 \u00e2 Ffestiniog). Hen enw Ysbyty oedd Dolgynwal."
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<county name="Cardiff">
+<county id="Cardiff">
     <postcodes>
         <postcode>CF3</postcode>
         <postcode>CF5</postcode>
@@ -405,8 +405,7 @@ Modern Rhiwbina, which includes the Garden Village, Wenallt Hill, Rhiwbina Hill,
             <name>Riverside</name>
             <lat />
             <lon />
-            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Riverside">Riverside may refer to:
-the shorelines of a river</wikipedia>
+            <wikipedia lang="en" href="https://en.wikipedia.org/wiki/Riverside">Riverside may refer to: the shorelines of a river</wikipedia>
             <wikipedia />
         </town>
         <town id="cardiff#roath">

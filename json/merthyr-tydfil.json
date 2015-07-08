@@ -1,0 +1,354 @@
+{
+    "id": "Conwy",
+    "population": {
+        "href": {
+
+        },
+        "_text": {
+
+        }
+    },
+    "poscodes": {
+        "postcode": [
+            "CF46",
+            "CF47",
+            "CF48"
+        ]
+    },
+    "towns": {
+        "town": [
+            {
+                "id": "merthyr tydfil#abercanaid",
+                "name": "Abercanaid",
+                "lat": "51.725747",
+                "lon": "-3.367402",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Abercanaid",
+                    "_text": "Abercanaid (Welsh: Abercannaid) is a small village in the Welsh county borough of Merthyr Tydfil, Glamorgan, Wales, United Kingdom with a population of about 5,060. It is situated 2.5 miles south of Merthyr town centre and is west of Pentrebach, across the River Taff and north of Troedyrhiw. The Taff Trail also runs through the village, adjacent to the path of the disused Glamorganshire Canal, which was an important passage for the transport of iron and coal during the industrial boom in which the Valleys prospered.\nIt forms part of three villages in the Plymouth Electoral Ward, along with Pentrebach and Troedyrhiw.\n\n"
+                }
+            },
+            {
+                "id": "merthyr tydfil#aberfan",
+                "name": "Aberfan",
+                "lat": "51.694515",
+                "lon": "-3.345293",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Aberfan",
+                        "_text": "Aberfan (Welsh pronunciation: [\u02ccab\u025br\u02c8van]) is a former coalmining village in South Wales, 4 miles (6.4 km) south of Merthyr Tydfil Town. The Taff Trail (locally known as the \"Canal Bank\" or just \"the bank\") runs through Aberfan from Troed-y-rhiw, to Treharris. The River Taff also flows through Aberfan.\nOn 21 October 1966, it became known for the Aberfan disaster, when a colliery spoil heap collapsed into homes and a school, killing 116 children and 28 adults.\nThere are now two schools, Ynysowen Primary School adjacent to the Grove Field and Ysgol Gynradd Gymraeg Rhyd-Y-Grug which has moved to the previously occupied Ynysowen Primary School building.\nThe post office in the village is open six days a week."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Aberfan",
+                        "_text": "Mae Aberfan yn bentref ym mwrdeistref sirol Merthyr Tudful. Rhed yr Afon Taf yn ogystal a Llwybr Taf (sy'n dirwyn o Droed-y-rhiw, i Dreharri) trwy'r pentref. Saif tua 6.4 km i'r de o Ferthyr Tydfil. Ceir dwy ysgol yma: Ysgol Gynradd Ynysowen ac Ysgol Gynradd Gymraeg Rhyd-Y-Grug."
+                    }
+                ]
+            },
+            {
+                "id": "merthyr tydfil#bedlinog",
+                "name": "Bedlinog",
+                "lat": "51.703915",
+                "lon": "-3.312749",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Bedlinog",
+                        "_text": "Bedlinog is a small village located in the Taff Bargoed Valley 10 km north of Pontypridd, 10 km north west of Caerphilly and 10 km south east of Merthyr Tydfil in south-east Wales. It is currently in the south of Merthyr Tydfil County Borough, but until 1974 was part of Gelligaer Urban District Council in the county of Glamorgan.\nIt has a population of around 1,400 people. The combined population of Bedlinog and Trelewis has been recently recorded as approximately 3,140. Previously, it was surrounded by coal mines and nearly all jobs were related directly to this industry, but all the mines are now closed. Unemployment is high but the increasing prosperity and growth of Cardiff, only half an hour south by car, has created many commuter jobs and a feeling of optimism for the future.\nThe village is sometimes seen as being isolated, but it is only a 30-minute drive from Cardiff, 45 minutes from Swansea and 45 minutes from Newport. The village is surrounded by steep, rolling green hills, from the top of which the Severn Estuary and the coast of Devon can be clearly seen.\nIn the past, Bedlinog was also nicknamed \"Little Moscow\" owing to the relatively high concentration of communists in the village. During the 1930s communists from the village volunteered to travel to Spain to fight in the Spanish Civil War. The Welsh socialist ethic still remains in the village, as well as in neighbouring Trelewis from where similar communist volunteers fought in the same civil war."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Bedlinog",
+                        "_text": "Mae pentref a chymuned) Bedlinog (weithiau: \"Beddllwynog\") wedi'i leoli ar afon Taf Bargoed yng Nghwm Taf Bargod ym Mwrdeistref Sirol Merthyr Tudful.\nLleolir Canolfan Ddringo Rhyngwladol Cymru ym Medlinog.\nDywedir mai tarddiad y gair yw \"Bod Llwynog\" (sy'n cyfeirio at yr afon Llwynog) ac yn ddiweddarach: \"Bedd Llwynog\" a ddefnyddir yn lleol."
+                    }
+                ]
+            },
+            {
+                "id": "merthyr tydfil#cefn-coed-y-cymmer",
+                "name": "Cefn-coed-y-cymmer",
+                "lat": "51.7615539",
+                "lon": "-3.40297",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Cefn-coed-y-cymmer",
+                    "_text": "Cefn-coed-y-cymmer (also Cefn Coed-y-cymmer) (Welsh: Cefncoedycymer) is a small community on the northwestern edge of Merthyr Tydfil County Borough in south Wales. It is situated in the neck of land between the rivers Taf Fawr and Taf Fechan at their confluence (Welsh: 'cymer'). The village lies within the community of Vaynor. Immediately to the north of the village is the hill of Cefn Cil Sanws on the southern slopes of which is Merthyr Tydfil Golf Club. The village is bounded both to the north and the west by the Brecon Beacons National Park.\nNotable features of the village are the A465 Heads of the Valleys Road and the impressive curving Cefn Coed Viaduct (51.7593\u00b0N 3.4064\u00b0W\ufeff \/ 51.7593; -3.4064\ufeff (Cefn Coed Viaduct)), an 1866 Grade II* listed building which formerly carried the Brecon and Merthyr railway over the River Taff but which now carries the Taff Trail, route 8 of the National Cycleway. It is the third largest viaduct in Wales and was designed by engineers Alexander Sutherland and Henry Conybeare. Sutherland was a friend of Robert Thompson Crawshay of the nearby Cyfarthfa Ironworks, and the viaduct was built on a curve to satisfy conditions laid down by the Crawshay Estate.\nBeyond the last buildings of Cefn, and parallel to the A470 road, lies the Jewish cemetery. It was established by the then-Merthyr Hebrew Congregation and consecrated in the 1860s, one of very few north of Cardiff. It is located on a steep slope with a stone wall and a small chapel (ohel)\n^ Ordnance Survey 1:25,000 scale Explorer map sheet OL12 Brecon Beacons National Park: western area\n^ Merthyr Tydfil Heritage Regeneration Trust. Heritage Plaques (Places): Cefn Coed or Pontycapel Viaduct"
+                }
+            },
+            {
+                "id": "merthyr tydfil#clwydyfagwyr",
+                "name": "Clwydyfagwyr",
+                "lat": "51.754471",
+                "lon": "-3.418598"
+            },
+            {
+                "id": "merthyr tydfil#craig berthlwyd",
+                "name": "Craig Berthlwyd"
+            },
+            {
+                "id": "merthyr tydfil#cwmfelin",
+                "name": "Cwmfelin",
+                "lat": "51.69855",
+                "lon": "-3.310787",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Cwmfelin",
+                    "_text": "Cwmfelin is a village out the southern outskirts of Maesteg, in the county borough of Bridgend, Wales. It was once part of the medieval commote of Tir Iarll, before becoming a part of the parish of Llangynwyd. Since 1974 it has been part of the community of Llangynwyd Middle."
+                }
+            },
+            {
+                "id": "merthyr tydfil#dowlais",
+                "name": "Dowlais",
+                "lat": "51.761811",
+                "lon": "-3.347789",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Dowlais",
+                        "_text": "Dowlais is a village and community of the county borough of Merthyr Tydfil, in Wales. At the 2001 census it had a population of 6,646. The name is derived from the Welsh du meaning 'black' and glais meaning 'stream'. Dowlais is notable within Wales and Britain for its historic association with ironworking; once employing, through the Dowlais Iron Company, roughly 5,000 people, the works being the largest in the world."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Dowlais",
+                        "_text": "Pentref ar gyrion Merthyr Tudful ym Morgannwg yw Dowlais. Mae'n gorwedd tua 2 filltir i'r gogledd-orllewin o ganol Merthyr ger cyffordd yr A465 a'r A4060. Daeth Dowlais yn adnabyddus yn y Chwyldro Diwydiannol fel safle un o weithiau haearn mwyaf gwledydd Prydain, a sefydlwyd yno yn y 1760au gan Thomas Lewis (Llanisien) a John Guest.\nBu'r diweddar Anthony Crockett, Esgob Bangor, yn rheithor Dowlais o 1986 hyd 1991."
+                    }
+                ]
+            },
+            {
+                "id": "merthyr tydfil#dowlais top",
+                "name": "Dowlais Top"
+            },
+            {
+                "id": "merthyr tydfil#ffos-y-fran",
+                "name": "Ffos-y-fran",
+                "lat": "51.5766981",
+                "lon": "-3.0562888"
+            },
+            {
+                "id": "merthyr tydfil#galon uchaf",
+                "name": "Galon Uchaf"
+            },
+            {
+                "id": "merthyr tydfil#gellideg",
+                "name": "Gellideg",
+                "lat": "51.7545038",
+                "lon": "-3.4037679"
+            },
+            {
+                "id": "merthyr tydfil#gurnos",
+                "name": "Gurnos",
+                "lat": "51.772591",
+                "lon": "-3.779618",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Gurnos",
+                    "_text": "Gurnos might also refer to Gurnos, Powys\nGurnos is a community of Merthyr Tydfil County Borough in Wales, United Kingdom. It consists principally of the Gurnos Estate, a large housing estate established by Merthyr Tydfil Council in the early 1950s and expanded over many years. Many of the initial streets were named after trees; such as Oak, Acacia and Rowan. A major expansion took place during the 1970s, including the building of Prince Charles Hospital. Streets on 1970s development were named after flowers and shrubs; such as Lavender, Heather, Lupin and Forsythia, with the exception of the three most recent areas known as Pen-Gurnos, Pen-y-Dre and Pen-y-Fan View. The area built since the 1970s is still often referred to locally as The New Estate.\nIt was reported in February 2011, that men living on the Gurnos Estate currently have a life expectancy of just 58 years, less than men in Iraq or Haiti This statement was later retracted and rectified, the Mail Online version of the article now states; \"An earlier version of this article referred to the figure for life expectancy in Merthyr Tydfil as being 58.8 years. In fact, this is the figure for \u2018healthy life expectancy\u2019 in Merthyr Tydfil, and the average life expectancy is not lower than that in Iraq or Haiti as originally reported.\".\nThe area was formerly open land, including the long-established Gurnos Farm. It also encompassed the notoriously dangerous Goitre Pond.\nThe design and planning of the Gurnos estate borrows ideas from the Radburn system. The estate has become notorious throughout Wales, with the reputation of being an area of deprivation and crime.\nThe Gurnos Tavern, one of the two community centres and many of the maisonette flats were demolished to make greener areas during the late 1990s."
+                }
+            },
+            {
+                "id": "merthyr tydfil#heolgerrig",
+                "name": "Heolgerrig",
+                "lat": "51.745272",
+                "lon": "-3.401637",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Heolgerrig",
+                        "_text": "Heolgerrig (Welsh for \"stony road\"; formerly \"Pen-yr-Heolgerrig\") is a small village in Merthyr Tydfil County Borough, Wales, adjacent to the recently constructed Cyfarthfa Retail Park. It is part of the community of Cyfarthfa.\n\nIt lies just west of Merthyr Tydfil, and is separated from it by the main A470 trunk road.\nVillage amenities include the Heolgerrig primary school, the Red Lion (Llew Coch) pub, two chapels and a post office."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Heolgerrig",
+                        "_text": "Pentref bychan a leolir ym mwrdeisdref sirol Merthyr Tudful yw Heolgerrig. Mae'n rhan o gymuned Cyfarthfa.  Saif ychydig i'r dwyrain o dref Merthyr Tudful a fe'u gwahenir gan briffordd yr A470. Ymhlith cyfleusterau'r pentref fe geir Ysgol Gynradd Heolgerrig, tafarn Y Llew Coch, Swyddfa Bost a dau gapel. Arferai un o'r capeli, sef Calfaria, fod yn gapel Cymraeg hyd yn weddol ddiweddar, er y ceir gwasanaethau dwyieithog o bryd i'w gilydd."
+                    }
+                ]
+            },
+            {
+                "id": "merthyr tydfil#melin caiach",
+                "name": "Melin Caiach"
+            },
+            {
+                "id": "merthyr tydfil#merthyr tydfil",
+                "name": "Merthyr Tydfil",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Merthyr Tydfil",
+                    "_text": "Merthyr Tydfil (\/\u02c8m\u025cr\u03b8\u0259r \u02c8t\u026adv\u026al\/; Welsh: Merthyr Tudful [\u02c8m\u025br\u03b8\u0268r \u02c8t\u0268\u02d0dv\u0268\u031el]) is a town in Wales, with a population of about 59,500, situated approximately 23 miles (37 km) north of Cardiff. Once the largest town in Wales, it is now the 14th largest urban area in Wales. It is in the historic county of Glamorgan and is currently the main town in Merthyr Tydfil County Borough administered by Merthyr Tydfil County Borough Council. Both the town and the county borough are often referred to as 'Merthyr'.\nAccording to legend, the town is named after Saint Tydfil, a daughter of King Brychan of Brycheiniog. According to her legend, she was slain at Merthyr by pagans around 480; the place was subsequently named Merthyr Tydfil in her honour. Although merthyr generally means \"martyr\" in modern Welsh, the meaning here is closer to the Latin martyrium: the mausoleum or church built over the relics of a martyr. Similar examples, all from south Wales, include Merthyr Cynog, Merthyr Dyfan and Merthyr Mawr. The Cornish and Breton language equivalents, in place names, are merther and merzher.\n^ Gwyn A. Williams, 'Romanticism in Wales', in Roy Porter and Mikul\u00e1\u0161 Teich (ed), Romanticism in National Context (Cambridge: Cambridge University Press 1988), p. 35.\n^ Wells, John (12 January 2010). \"Merthyr\". John Wells's phonetic blog. Retrieved 5 March 2010. \n^ Farmer, David Hugh. (1978). \"Tydfil\". In The Oxford Dictionary of Saints.\n^ University of Wales Dictionary, vol. III, page 2436."
+                }
+            },
+            {
+                "id": "merthyr tydfil#merthyr vale",
+                "name": "Merthyr Vale",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Merthyr Vale",
+                    "_text": "Merthyr Vale (Welsh: Ynysowen or Ynyswen) is a linear village in the Welsh county borough of Merthyr Tydfil. Lying on the A4054 road it is on the east bank of the River Taff. The name is also given to a community which includes the villages of Aberfan on the opposite side of the Taff, Mount Pleasant and the village of Merthyr Vale itself.\n\n"
+                }
+            },
+            {
+                "id": "merthyr tydfil#pant",
+                "name": "Pant",
+                "lat": "51.7726429",
+                "lon": "-3.3571127",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Pant",
+                    "_text": "Pant may refer to:\nUnderpants, an item of men's underwear\nTrousers, an article of clothing worn on the lower half of the body\nTo breathe quickly, spasmodically, or in a labored manner\nPanting is used by many furry animals as a means of thermoregulation\n\nPant (surname), a North Indian and Nepalese surname\nPublic Drinking Fountain\nPlaces\nPant (meaning \"a hollow\" in Welsh) is a common Welsh place name element\nPlaces named Pant include:\nPant, Denbighshire, Wales\nPant, Merthyr Tydfil, Wales\nPant, Shropshire, England\nPant, Wrexham, Wales\nPANT is an ICAO code for Annette Island Airport"
+                }
+            },
+            {
+                "id": "merthyr tydfil#pen-y-darren",
+                "name": "Pen-y-Darren",
+                "lat": "51.755037",
+                "lon": "-3.368671"
+            },
+            {
+                "id": "merthyr tydfil#pentrebach",
+                "name": "Pentrebach",
+                "lat": "51.721203",
+                "lon": "-3.355544",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Pentrebach",
+                        "_text": "Pentrebach (sometimes written Pentre-Bach) (translation: small village) is a village in Merthyr Tydfil County Borough, Wales. It lies on the east side of the River Taff opposite Abercanaid, South of Merthyr and North of Troedyrhiw. To the east of the village lies the Mynydd Cilfach-yr-Encil which rises up to 445 m. Pentrebach can be translated as \"Little Village\"\nPentrebach is part of the Plymouth electoral ward which covers Pentrebach, Abercanaid and Troedyrhiw. The village was founded at the time that John Guest built the Plymouth Ironworks in 1763. The name Guest became part of the Guest, Keen and Nettelfold company (GKN). In 1818 Anthony Hill took over ownership of the business. His House was later used as an old people's home, and today has been converted into a Brewers Fayre Restaurant with a Premier Inn attached.\n\nThe original Merthyr Tramroad, built in 1802, ran alongside the site of the modern day village, on it way from Pennydarren to Abercynon, though very little of the village had been built at that time. A tunnel still exists, which can be visited on the Merthyr Road. Locomotives had to tip their chimneys while going though this tunnel due to the tunnel clearance.\nPentrebach has its own railway station. This opened in 1886 on the standard gauge Taff Vale Railway which runs from Cardiff to Merthyr alongside the River Taff. The original purpose of the railway was to carry iron ore to Cardiff Docks.\nIn 1862, on the south side of the Village, The South Duffryn Colliery was opened with two shafts which were 250 m deep. At the height of the production there were some 1300 men employed there. An opencast mine was also located on the mountainside above the village.\nThe Plymouth Ironworks closed in 1882 and the South Duffryn Colliery ceased production in 1940.\n\nAfter the war, new industries were attracted to the village. In 1945, the Kayser Bondor Factory opened making underwear, followed in 1948 by the establishment of the Hoover factory manufacturing washing machines. The factory later went on the produce the Sinclair C5 battery-powered three-wheeler car. On Friday, 6 March 2009, Hoover confirmed that it was to cease production of washing machines and other laundry products at the factory. Linde has set up a factory in the village on a site where the South Duffryn Colliery was located.\nPentrebach has two clubs: The Hills Plymouth Cricket Club, and the Pentrebach Working men's club. Pentrebach also has a chapel, Jerusalem Chapel, Greenfield School and an Integrated Children's Centre.\nThe mountain above Pentrebach has become popular with hang glider pilots in recent years."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Pentrebach",
+                        "_text": "Pentref ym mwrdeisdref sirol Merthyr Tudful yw Pentrebach, weithiau Pentre-bach.\nSaif i'r de o ganol tref Merthyr Tudful, yr ochr arall o Afon Taf i bentref Abercannaid ac i'r gogledd o bentref Troed-y-rhiw. I'r dwyrain o'r pentref mae Mynydd Cilfach-yr-Encil (445 m.).\nTyfodd y pentref wedi i John Guest sefydlu Gwaith Haearn Plymouth yn 1763. Roedd rheilffordd wreiddiol Trevethick, a adeiladwyd yn 1804, yn arwain trwy'r pentref ar ei ffordd rhwng Penydarren ac Abercynon. Mae twnel yn yn dal i'w weld yma. Agorwyd Glofa South Duffryn yn 1862."
+                    }
+                ]
+            },
+            {
+                "id": "merthyr tydfil#pentwyn",
+                "name": "Pentwyn",
+                "lat": "51.5174663",
+                "lon": "-3.1515932",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Pentwyn",
+                        "_text": "Pentwyn (or Pen-twyn) may refer to:\nPentwyn, Cardiff, a district of the city of Cardiff, Wales\nPen-twyn, Monmouthshire, a village in Monmouthshire, Wales\nPentwyn, Caerphilly, a village in the Darran Valley, Wales"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Pentwyn",
+                        "_text": "Gallai Pentwyn gyfeirio at:\nPentwyn, Caerdydd, cymuned yn ninas Caerdydd\nPentwyn, Sir Fynwy, pentref yn Sir Fynwy"
+                    }
+                ]
+            },
+            {
+                "id": "merthyr tydfil#pentwyn berthlwyd",
+                "name": "Pentwyn Berthlwyd"
+            },
+            {
+                "id": "merthyr tydfil#pontsticill",
+                "name": "Pontsticill",
+                "lat": "51.791388",
+                "lon": "-3.369829",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Pontsticill",
+                        "_text": "Pontsticill is a village within the county borough of Merthyr Tydfil in South Wales. It lies within the valley of the Taf Fechan on the southern edge of the Brecon Beacons National Park. The village lies within the community of Vaynor in an area that was, until the local government re-organisation of 1974, within the historic county of Brecknockshire.\n\nPontsticill is closely associated with the Brecon Mountain Railway, a tourist railway which runs along the former Brecon and Merthyr Railway line. Immediately to the north of the village is the Pontsticill Reservoir which was completed in 1927.\nThe village name originates from the Welsh words pont and sticill and signifies a 'bridge near a stile'."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Pontsticill",
+                        "_text": "Pentref fechan yn rhan ogleddol bwrdeisdref sirol Merthyr Tudful yn ne Cymru yw Pontsticill. Saif ychydig i'r gogledd o dref Ferthyr Tudful, ar Afon Taf Fechan. Saif Cronfa Pontsticill i'r gogledd o'r pentref."
+                    }
+                ]
+            },
+            {
+                "id": "merthyr tydfil#taff fechan",
+                "name": "Taff Fechan"
+            },
+            {
+                "id": "merthyr tydfil#taff merthyr garden village",
+                "name": "Taff Merthyr Garden Village"
+            },
+            {
+                "id": "merthyr tydfil#trefechan",
+                "name": "Trefechan",
+                "lat": "51.769827",
+                "lon": "-3.397947"
+            },
+            {
+                "id": "merthyr tydfil#treharris",
+                "name": "Treharris",
+                "lat": "51.664972",
+                "lon": "-3.30586",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Treharris",
+                        "_text": "Treharris is a small town and community in the Taff Bargoed Valley in the south of Merthyr Tydfil County Borough, South Wales. It is located about 1 kilometre (0.6 mi) west of Trelewis, from which it is separated by the Taff Bargoed river, and 1.5 kilometres (0.9 mi) from Nelson in Caerphilly county borough and has a population of 6,252. As a community, Treharris includes the villages of Quakers Yard and Edwardsville. Due to steepness and narrowness of both the Taff and Taff Bargoed valleys at Treharris several notable bridges and viaducts have been built in the area."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Treharris",
+                        "_text": "Tref fechan yn rhan ddeheuol Merthyr Tudful yn ne Cymru yw Treharris. Saif tua 1 km i'r gorllewin o dref Trelewis, ar y briffordd A472. Roedd y boblogaeth yn 2001 yn 11,000.\nSefydlwyd y dref o amgylch gwaith glo yr Harris's Navigation Colliery, a agorwyd yn 1878. Enwyd y gwaith glo a'r dref ar \u00f4l Frederick William Harris, perchennog yr Harris Navigation Steam Coal Company. Ceir Ysgol Gynradd Gymraeg Rhydygrug yno."
+                    }
+                ]
+            },
+            {
+                "id": "merthyr tydfil#trelewis",
+                "name": "Trelewis",
+                "lat": "51.668956",
+                "lon": "-3.298156",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Trelewis",
+                        "_text": "Trelewis is a small village in the Taff Bargoed Valley of south-east Wales, currently located in the southern part of Merthyr Tydfil County Borough. It is a former mining village and together with nearby Bedlinog was until 1974 part of the Gelligaer Urban District Council area of the county of Glamorgan."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Trelewis",
+                        "_text": "Pentref bychan yn rhan ddeheuol bwrdeisdref sirol Merthyr Tudful yn ne Cymru yw Trelewis. Saif tua 1 km i'r dwyrain o dref Treharris, yr ochr arall i Afon Taf Bargoed, a 5 km i'r de o bentref Beddllwynog."
+                    }
+                ]
+            },
+            {
+                "id": "merthyr tydfil#troedyrhiw",
+                "name": "Troedyrhiw",
+                "lat": "51.712913",
+                "lon": "-3.345212",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Troedyrhiw",
+                    "_text": "This is a redirect from a modification of the target's title; for example, its words are rearranged, or punctuation in the name is changed. In cases of modification from distinctly longer or shorter names, please use {{R from long name}} or {{R from short name}}, respectively. For more information follow the category link.\nUse this rcat instead of {{R from other capitalisation}} and {{R from plural}} in namespaces other than mainspace for those types of modification."
+                }
+            },
+            {
+                "id": "merthyr tydfil#twynyrodyn",
+                "name": "Twynyrodyn",
+                "lat": "51.456435",
+                "lon": "-3.272815"
+            },
+            {
+                "id": "merthyr tydfil#vaynor",
+                "name": "Vaynor",
+                "lat": "51.785516",
+                "lon": "-3.382728",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Vaynor",
+                    "_text": "Vaynor (Welsh: Y Faenor, meaning \"The Manor\") is a village and community (formerly a parish) in Merthyr Tydfil County Borough in Wales, United Kingdom.\n\n"
+                }
+            },
+            {
+                "id": "merthyr tydfil#ynysowen",
+                "name": "Ynysowen",
+                "lat": "51.6969406",
+                "lon": "-3.3447043",
+                "wikipedia": {
+                    "lang": "cy",
+                    "href": "https:\/\/cy.wikipedia.org\/wiki\/Ynysowen",
+                    "_text": "Pentref a chymuned ym mwrdeisdref sirol Merthyr Tudful yn ne Cymru yw Ynysowen, weithiau Ynyswen (Saesneg: Merthyr Vale). Saif yn rhan ddeheuol y sir, ger glannau Afon Taf, ac heblaw pentref Ynysowen ei hun mae'n cynnwys pentref Aberfan. Roedd poblogaeth y gymuned yn 2001 yn 3,925."
+                }
+            }
+        ]
+    }
+}

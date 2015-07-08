@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<county name="Pembrokeshire">
+<county id="Pembrokeshire">
     <postcodes>
         <postcode>SA34</postcode>
         <postcode>SA35</postcode>

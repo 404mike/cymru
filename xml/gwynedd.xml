@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<county name="Gwynedd">
+<county id="Gwynedd">
     <postcodes>
         <postcode>LL21</postcode>
         <postcode>LL23</postcode>

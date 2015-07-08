@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<county name="Bridgend">
+<county id="Bridgend">
     <postcodes>
         <postcode>CF31</postcode>
         <postcode>CF32</postcode>

@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<county name="Rhondda Cynon Taff">
+<county id="Rhondda Cynon Taff">
     <postcodes>
         <postcode>CF35</postcode>
         <postcode>CF37</postcode>

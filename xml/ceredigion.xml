@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<county name="Ceredigion">
+<county id="Ceredigion">
     <postcodes>
         <postcode>SA38</postcode>
         <postcode>SA40</postcode>

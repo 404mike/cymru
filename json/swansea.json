@@ -1,0 +1,1523 @@
+{
+    "id": "Swansea",
+    "population": {
+        "href": {
+
+        },
+        "_text": {
+
+        }
+    },
+    "poscodes": {
+        "postcode": [
+            "SA1",
+            "SA18",
+            "SA2",
+            "SA3",
+            "SA4",
+            "SA5",
+            "SA6",
+            "SA7"
+        ]
+    },
+    "towns": {
+        "town": [
+            {
+                "id": "swansea#abertawe (swansea)",
+                "name": "Abertawe (Swansea)"
+            },
+            {
+                "id": "swansea#bach-y-gwreiddyn",
+                "name": "Bach-y-gwreiddyn"
+            },
+            {
+                "id": "swansea#barland common",
+                "name": "Barland Common"
+            },
+            {
+                "id": "swansea#berry",
+                "name": "Berry",
+                "lat": "51.3997529",
+                "lon": "-3.2825859",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Berry",
+                    "_text": "The botanical definition of a berry is a fleshy fruit produced from a single flower and containing one ovary. Grapes and eggplants are two common examples. The berry is the most common type of fleshy fruit in which the entire ovary wall ripens into an edible pericarp. They may have one or more carpels. The seeds are usually embedded in the fleshy interior of the ovary, but there are some non-fleshy exceptions, such as peppers, that have air rather than pulp around their seeds.\nA plant that bears berries is said to be bacciferous or baccate (a plant that resembles a berry, whether it actually is a berry or not, can also be called \"baccate\").\nIn everyday English, \"berry\" is a term for any small edible fruit. Berries are usually juicy, round, brightly coloured, sweet or sour, and do not have a stone or pit, although many seeds may be present.\nMany berries, such as the tomato, are edible, but others in the same family, such as the fruits of the potato (Solanum tuberosum) and the deadly nightshade (Atropa belladonna) are poisonous to humans."
+                }
+            },
+            {
+                "id": "swansea#birchgrove",
+                "name": "Birchgrove",
+                "lat": "51.667318",
+                "lon": "-3.872463",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Birchgrove",
+                        "_text": "Birchgrove may refer to :"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Birchgrove",
+                        "_text": "Gall yr enw Seisnig Birchgrove gyfeirio at sawl lle:"
+                    }
+                ]
+            },
+            {
+                "id": "swansea#bishopston",
+                "name": "Bishopston",
+                "lat": "51.5756777",
+                "lon": "-4.0493813",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Bishopston",
+                    "_text": "Bishopston may refer to:"
+                }
+            },
+            {
+                "id": "swansea#black pill",
+                "name": "Black Pill"
+            },
+            {
+                "id": "swansea#blackhills",
+                "name": "Blackhills",
+                "lat": "51.6026187",
+                "lon": "-4.0460486"
+            },
+            {
+                "id": "swansea#blue anchor",
+                "name": "Blue Anchor",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Blue Anchor",
+                    "_text": "Blue Anchor is a seaside village, in the parish of Old Cleeve, close to Carhampton in the West Somerset district of Somerset, England. The village takes its name from a 17th-century inn.\nThe village marks one end of the Blue Anchor to Lilstock Coast Site of Special Scientific Interest along which the Triassic cliffs have geological interest for the variety of fossils. The coloured alabaster found in the cliffs gave rise to the name of the colour \"Watchet Blue\". It is on the West Somerset Coast Path.\n\nBlue Anchor railway station is a station on the West Somerset Railway, a heritage railway in Somerset. It is situated in the village and houses the museum of the West Somerset Steam Railway Trust.\nWithin the village is the only example of an updraught brick kiln known to have survived in Somerset. It was built around 1830, supplied by small vessels carrying limestone to the small culm landing, and is now used as a garage. The kiln is thought to have been used until the 1870s when the large-scale production of bricks in Bridgwater rendered small brickyards uneconomic.\nMarshwood farmhouse dates from the late 15th century and was originally a manor house or grange. It has been designated by English Heritage as a Grade II* listed building.\nCoincidentally there is another Blue Anchor Inn directly north across the Bristol Channel in East Aberthaw, The Vale of Glamorgan."
+                }
+            },
+            {
+                "id": "swansea#bon-y-maen",
+                "name": "Bon-y-maen",
+                "lat": "51.641012",
+                "lon": "-3.910918",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Bon-y-maen",
+                    "_text": "Bon-y-maen, sometimes spelt Bonymaen, (Welsh: B\u00f4n-y-maen) is a community in Swansea, Wales located about 1.5 miles (2.4 km) north east of Swansea city centre. It falls within the Bonymaen ward. Immediately above Bon-y-maen on the top of Kilvey Hill is the main TV transmitter for Swansea. The local rugby team is Bonymaen RFC. Bonymaen is a Communities First area. B\u00f4n-y-maen is Welsh for 'Base of the stone' and there are legends that the same stone ends in Penmaen (English: Stone End) on the Gower Peninsula."
+                }
+            },
+            {
+                "id": "swansea#bryn",
+                "name": "Bryn",
+                "lat": "51.6169859",
+                "lon": "-3.7123799",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Bryn",
+                        "_text": "Bryn (which is Welsh for hill) is a component ward of the Metropolitan Borough of Wigan, Greater Manchester, England. It is part of the larger town of Ashton-in-Makerfield and is geographically indistinguishable from it. It forms a separate local council ward. Served by Bryn railway station, Bryn is home to the Three Sisters Recreation Area which has been created from three large spoil tips which remain from Bryn's role in Lancashire's coal mining past. The Three Sisters Recreation Area is also the site of the Three Sisters Race Circuit, which provides race driving instruction and plays host to kart racing events and motorcycle road race meetings at clubman level.\nThe former Bryn (or Brynne) Hall was the seat of the Gerard family beginning in the thirteenth century or earlier. It was a \"safe house\" for the English Roman Catholic martyr and saint Edmund Arrowsmith and his hand was reportedly preserved there after his execution. The house, dating to the fourteenth century, has now completely collapsed and remaining stones been cleared.\nThe Unitarian Park Lane Chapel in Wigan Road was built in 1697, though its congregation was founded in 1662. It is the oldest Non-conformist chapel and congregation in the whole district. By the nineteenth century Park Lane was only one of nine non-conformist chapels in the heavily recusant area."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Bryn",
+                        "_text": "Allt neu fynydd bychan yw bryn. Yn ogystal \u00e2 bod yn elfen gyffredin iawn mewn enwau lleoedd ceir enghreifftiau ohono ar ben ei hun fel enw lle:\nCymru\nBryn (Bannau Brycheiniog); Cyfeirnod grid OS: SO073227\nBryn, Castell-nedd Port Talbot\nBryn, Llanelli\nBryn-y-Gefeiliau\nBryn-crug\nBryn Euryn\nBryn Iwan\nBryn Celli Ddu\nLlanfair-ar-y-bryn\nBryn Gwyn\nBrynrefail\nBryniau Clwyd\nLloegr\nBryn, Swydd Amwythig\nBryn, Wigan\nCyffredinol\nbryngaer\nEnw personol Cymraeg ydy Bryn, hefyd. Mae enghreifftiau o nod yn cynnwys:\nBryn F\u00f4n\nBryn Terfel"
+                    }
+                ]
+            },
+            {
+                "id": "swansea#brynmill",
+                "name": "Brynmill",
+                "lat": "51.611497",
+                "lon": "-3.969249",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Brynmill",
+                        "_text": "Brynmill is a suburb of the City and County of Swansea, Wales, UK. It lies about two miles (3 km) to the west of Swansea city centre. It is a residential area forming the southern part of the Uplands electoral ward. As it is close to Swansea university, many students choose to rent rooms here during term time. Aside from the student population, this is a fairly middle-class area.\nBrynmill is approximately bounded by Swansea Bay to the south; Brynmill Lane to the west; Glanbrydan Avenue to the north; Bryn-y-Mor Road to the north-east; and Guildhall Road to the south-east. Brynmill can be further subdivided between the upland area of Brynmill proper and the lowland area of St. Helen's close the sea.\nBrynmill is situated on hilly terrain. Many of the properties are built on slopes. Property subsidence is a problem here. Property prices here are around the national average. Council tax rates here are quite high. The area offers convenient access to the city centre shopping area via the Oystermouth Road to the South, and Sketty Road to the North. However, these roads are rather congested during peak hours.\n\n"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Brynmill",
+                        "_text": "Maestref o ddinas Abertawe yw Brynmill. Fe'i lleolir tua dwy filltir (3.2 km) i'r gorllewin o ganol y ddinas. Ardal breswyl ddosbarth canol yw e'n bennaf, ac gan fod Prifysgol Abertawe yn agos iawn mae nifer o fyfyrwyr yn rhenti tai yno yn ystod y tymor.\nFfinir Brynmill gan Fae Abertawe i'r de, L\u00f4n Brynmill i'r gorllewin, Rhodfa Glanbrydan i'r gogledd, Heol Bryn-y-Mor i'r gogledd-ddwyrain, a Heol Guildhall i'r de-ddwyrain.\nLleolir Brynmill ar dir serth ac mae nifer o'r adeiladau wedi'u codi ar lethrau. O ganlyniad, gall ymsuddiant fod yn broblem yn yr ardal hon. Mae prisiau tai yn Brynmill o amgylch y cyfartaledd cenedlaethol."
+                    }
+                ]
+            },
+            {
+                "id": "swansea#burry",
+                "name": "Burry",
+                "lat": "51.590026",
+                "lon": "-4.228153",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Burry",
+                    "_text": "Burry is a surname. Notable people with the surname include:\nAndrew George Burry (1873\u20131975), businessman, manufacturer and philanthropist\nBurt Burry (born 1909), retired professional ice hockey player\nHarold Burry (1912\u20131992), head football coach at Westminster College\nHugh Burry (1930\u20132013), New Zealand rugby union player\nLester Burry (1898\u20131977), United Church minister\nMark Burry (21st century), New Zealand architect\nMichael Burry, American investment fund manager"
+                }
+            },
+            {
+                "id": "swansea#burry green",
+                "name": "Burry Green",
+                "wikipedia": {
+                    "lang": "cy",
+                    "href": "https:\/\/cy.wikipedia.org\/wiki\/Burry Green",
+                    "_text": "Pentref bychan yn Sir Abertawe yw Burry Green (ymddengys i cheir enw Cymraeg) a leolir tua 10 milltir i'r gorllewin o ddinas Abertawe ar ben gorllewinol penrhyn G\u0175yr a thua 2.5 milltir i'r gorllewin o bentref Llanrhidian."
+                }
+            },
+            {
+                "id": "swansea#burry pill",
+                "name": "Burry Pill"
+            },
+            {
+                "id": "swansea#cadle",
+                "name": "Cadle",
+                "lat": "51.6539639",
+                "lon": "-3.9825556",
+                "wikipedia": {
+                    "lang": "cy",
+                    "href": "https:\/\/cy.wikipedia.org\/wiki\/Cadle",
+                    "_text": "Pentref bychan yn Sir Abertawe yw Cadle a leolir ar y briffordd A483 rhai milltiroedd i'r gogledd o ddinas Abertawe. Erbyn hyn mae'r hen bentref yn cael ei amgylchynnu gan yr ardaloedd trefol o gwmpas Fforest-fach."
+                }
+            },
+            {
+                "id": "swansea#carnglas",
+                "name": "Carnglas",
+                "lat": "51.623393",
+                "lon": "-3.995124"
+            },
+            {
+                "id": "swansea#caswell",
+                "name": "Caswell",
+                "lat": "51.5721922",
+                "lon": "-4.023925",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Caswell",
+                    "_text": "Caswell may refer to:"
+                }
+            },
+            {
+                "id": "swansea#cefn-bychan",
+                "name": "Cefn-bychan",
+                "lat": "51.665206",
+                "lon": "-3.144116"
+            },
+            {
+                "id": "swansea#cefn-hengoed",
+                "name": "Cefn-hengoed",
+                "lat": "51.654335",
+                "lon": "-3.234659"
+            },
+            {
+                "id": "swansea#cefn-y-garth",
+                "name": "Cefn-y-Garth",
+                "lat": "52.9872711",
+                "lon": "-3.1268105"
+            },
+            {
+                "id": "swansea#cheriton",
+                "name": "Cheriton",
+                "lat": "51.616081",
+                "lon": "-4.238711",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Cheriton",
+                        "_text": "Cheriton may refer to"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Cheriton",
+                        "_text": "Gallai Cheriton gyfeirio at:"
+                    }
+                ]
+            },
+            {
+                "id": "swansea#clase",
+                "name": "Clase",
+                "lat": "51.6664098",
+                "lon": "-3.9438924",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Clase",
+                    "_text": "Clase is a suburban district of the City and County of Swansea, Wales falling within the Mynydd-Bach ward. Clase approximates to the housing area south of Clasemont Road between Morriston and Llangyfelach."
+                }
+            },
+            {
+                "id": "swansea#clydach",
+                "name": "Clydach",
+                "lat": "51.694293",
+                "lon": "-3.898795",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Clydach",
+                        "_text": "Clydach may refer to any of various settlements and rivers in South Wales:\nClydach, Monmouthshire (village)\nClydach, Swansea (village)\nClydach Gorge, (Welsh Cwm Clydach) Monmouthshire\nRiver Clydach, Monmouthshire, (Welsh Afon Clydach)\nLower Clydach River, Swansea Valley\nUpper Clydach River, Swansea Valley\nRiver Clydach (Neath), tributary of River Neath at Neath\nClydach Vale, (Rhondda Cynon Taff)"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Clydach",
+                        "_text": "Gweler hefyd Clydach (gwahaniaethu).\nTref fechan yn Sir Abertawe, Cymru, yw Clydach. Saif gerllaw traffordd yr M4. Mae tua chwarter y boblogaeth yn siarad Cymraeg."
+                    }
+                ]
+            },
+            {
+                "id": "swansea#cockett",
+                "name": "Cockett",
+                "lat": "51.632323",
+                "lon": "-3.98227",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Cockett",
+                    "_text": "Cockett (Welsh: Y Cocyd) is a community in Swansea, Wales falling within Cockett ward. It is located about 1.5 miles (2.4 km) north west of Swansea city centre.\nCockett, in common with much of western Swansea, was the result of late Victorian and early twentieth century expansion. More housing estates were developed during the 20th Century and further housing was constructed near the Townhill district in the early 2000s. The area now has a broad mix of housing stock. 83 per cent of the property in the Cockett neighbourhood is owner occupied. The South Wales Police regional headquarters for Swansea was based in Cockett, as is Dylan Thomas Community School. The South Wales Police regional headquarters now resides closer to the city centre however. There are a few shops in central Cockett, but the nearest shopping districts are on Carmarthen Road (A483) to the north and the Swansea West Business Park to the north west.\nThe main road through Cockett is the A4216 road linking Sketty to the south with Fforestfach to the north. Cockett railway station is a currently disused railway station to the north, by Station Road. The old platforms on the West Wales Lines are still in place and there are proposals by South West Wales Integrated Transport Consortium to reinstate this station in the future, which would provide a 10-minute journey to Swansea railway station in the city centre. Cockett is served by First Cymru buses from Swansea bus station: numbers 15 and 17 to Gowerton; number 43 to Morriston Hospital and numbers 400 and 404 to Llanelli."
+                }
+            },
+            {
+                "id": "swansea#common, the",
+                "name": "Common, The"
+            },
+            {
+                "id": "swansea#craig-cefn-parc",
+                "name": "Craig-cefn-parc",
+                "lat": "51.709251",
+                "lon": "-3.915678"
+            },
+            {
+                "id": "swansea#craig-y-duke",
+                "name": "Craig-y-Duke"
+            },
+            {
+                "id": "swansea#crofty",
+                "name": "Crofty",
+                "lat": "51.6362161",
+                "lon": "-4.1290629",
+                "wikipedia": {
+                    "lang": "cy",
+                    "href": "https:\/\/cy.wikipedia.org\/wiki\/Crofty",
+                    "_text": "Pentref bychan yn Sir Abertawe yw Crofty (ymddengys nad oes enw Cymraeg), a leolir tua 4 milltir i'r gorllewin o dref Gorseinon ar lan ogleddol Penrhyn G\u0175yr, rhwng Penclawdd a Llanmorlais. Mae'n rhan o gymuned Penclawdd.\nSaif chwarter milltir o'r m\u00f4r ger pentref Llanmorlais a chyferbyn i dref Llanelli dros y bae yn Sir Gaerfyrddin."
+                }
+            },
+            {
+                "id": "swansea#cwm dulais",
+                "name": "Cwm Dulais",
+                "wikipedia": {
+                    "lang": "cy",
+                    "href": "https:\/\/cy.wikipedia.org\/wiki\/Cwm Dulais",
+                    "_text": "Cwm yn ne Cymru, ym mwrdeisdref sirol Castell-nedd Port Talbot, yw Cwm Dulais, sy'n cael ei enw o Afon Dulais.\nMae'r cwm yn ymestyn tua'r de-orllewin a'r de o gyffiniau Onllwyn, i'r dwyrain o Ystradgynlais, i Aberdulais, fymryn i'r gogledd-ddwyrain o dref Castell Nedd. Y prif bentrefi eraill yw Blaendulais, Y Creunant a Cil-ffriw. Mae'r briffordd A4109 yn arwain ar hyd y cwm.\nFel mae Afon Dulais yn agosau at Afon Nedd ger Aberdulais, mae'n disgyn i raeadr ysblenydd Rhaeadrau Aberdulais, atyniad twristiaeth poblogaidd a safle hen weithfeydd haearn. Mae'r rhaeadr yn eiddo i'r Ymddiriedolaeth Genedlaethol.\nArferai Cwm Dulais fod yn ardal lofaol bwysig iawn. Roedd glofa Cefn Coed ger y Creunant yn nodedig fel y lofa glo carreg ddyfnaf yn y byd ar un adeg. Mae Amgueddfa Glofa Cefn Coed yn hen adeiladau glofa Blaenant, oedd yn estyniad o lofa Cefn Coed."
+                }
+            },
+            {
+                "id": "swansea#cwm gwyn",
+                "name": "Cwm Gwyn"
+            },
+            {
+                "id": "swansea#cwmcerdinen",
+                "name": "Cwmcerdinen",
+                "lat": "51.7487464",
+                "lon": "-3.9816271"
+            },
+            {
+                "id": "swansea#cwmdu",
+                "name": "Cwmdu",
+                "lat": "51.905508",
+                "lon": "-3.1924229",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Cwmdu",
+                        "_text": "Cwmdu may refer to:\nCwmdu, Swansea\nCwmdu, Carmarthenshire\nCwmdu, Powys"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Cwmdu",
+                        "_text": "Gallai Cwmdu neu Cwm-du gyfeirio at:\nCwmdu, Abertawe\nCwmdu, Powys\nCwm-du, Sir Gaerfyrddin\nGweler hefyd\nLlanfihangel Cwm Du gyda Bwlch a Chathedin"
+                    }
+                ]
+            },
+            {
+                "id": "swansea#cwmrhydyceirw",
+                "name": "Cwmrhydyceirw",
+                "lat": "51.6805251",
+                "lon": "-3.9275073",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Cwmrhydyceirw",
+                    "_text": "Cwmrhydyceirw is a village in the City and County of Swansea, south Wales. The village is located about 1 mile north of Morriston town centre. It is home to the main campus of Morriston Hospital, Morriston Comprehensive School and Cwmrhydyceirw Primary School. The English translation of the name means \"the valley of the stags' ford\" which gave rise to the name of local pub \"The Deer's Leap\". However, the name of the village may corrupted from its original, thought to have been \"Cwmrhydycwrw\" - a reference to the ale-like appearance of the local stream (\"cwrw\" meaning ale).[1]\n\n"
+                }
+            },
+            {
+                "id": "swansea#dunvant",
+                "name": "Dunvant",
+                "lat": "51.62487",
+                "lon": "-4.033764",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Dunvant",
+                    "_text": "Dunvant (Welsh: Dyfnant) (Dyfn - deep; nant - stream or brook) is a suburban district in the City and County of Swansea, Wales, and falls within the Dunvant ward. It is situated in a valley some 4.5 miles west of Swansea city centre."
+                }
+            },
+            {
+                "id": "swansea#faerdre",
+                "name": "Faerdre"
+            },
+            {
+                "id": "swansea#fagwyr",
+                "name": "Fagwyr",
+                "lat": "52.467708",
+                "lon": "-3.9948174"
+            },
+            {
+                "id": "swansea#felindre",
+                "name": "Felindre",
+                "lat": "51.706648",
+                "lon": "-3.973735",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Felindre",
+                        "_text": "Felindre (English: Velindre) is a rural village in south Wales. The village can be found in the far north of Swansea, in the electoral ward of Mawr.\nThe nearby Lower Lliw Reservoirs are a popular venue for walking and fishing. The water mill in the village was working until the late 1960s, there was also an abbatoir and a post office in the village. It also had three shops, and two mobile shops which used to come around the village twice a week. Again this was in the late 60's and 70's. The school in the village is Welsh speaking. There is also a public house in the village, the Shepherds Inn.\n\n"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Felindre",
+                        "_text": "Ceir sawl pentref yng Nghymru o'r enw Felindre:\nFelindre, Ceredigion\nFelindre, Powys (2):\nFelindre, Maldwyn\nFelindre, Brycheiniog\n\nFelindre, Sir Abertawe\nFelindre, Sir Gaerfyrddin (4):\nFelindre, ger Llangadog\nFelindre, ger Llanegwad\nFelindre, ger Llansadwrn\nFelindre, ger Gastell Newydd Emlyn\n\nGweler hefyd\nDre-fach Felindre"
+                    }
+                ]
+            },
+            {
+                "id": "swansea#fforest-fach",
+                "name": "Fforest-fach",
+                "lat": "51.647732",
+                "lon": "-3.985082",
+                "wikipedia": {
+                    "lang": "cy",
+                    "href": "https:\/\/cy.wikipedia.org\/wiki\/Fforest-fach",
+                    "_text": "Pentref yn Sir Abertawe yw Fforest-fach a leolir ar y briffordd A483 ar gwr gogleddol dinas Abertawe. Erbyn hyn mae'r pentref yn cael ei amgylchynnu gan ardaloedd trefol gogledd-orllewin Abertawe.\nCeir parc adwerthu mawr yn Fforest-fach. Yno hefyd ceir safle un o ffatrioedd Walkers Crisps."
+                }
+            },
+            {
+                "id": "swansea#fox hole",
+                "name": "Fox Hole"
+            },
+            {
+                "id": "swansea#frog moor",
+                "name": "Frog Moor"
+            },
+            {
+                "id": "swansea#garden village",
+                "name": "Garden Village",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Garden Village",
+                    "_text": "Garden Village may refer to:\nGarden Village, Ebbw Vale, Wales\nThe Garden Village, Kingston upon Hull\nGarden Village, Leeds, England\nGarden Village, Lincolnshire, England\nGarden Village, Ontario, Canada\nGarden Village, Sheffield, England\nGarden Village, Swansea, Wales\nGarden Village F.C.\n\nGarden Village, Wrexham, Wales\nGarden Village, Kentucky\nGarden City, New York, a village\n\n"
+                }
+            },
+            {
+                "id": "swansea#garn-swllt",
+                "name": "Garn-swllt",
+                "lat": "51.762796",
+                "lon": "-3.993668"
+            },
+            {
+                "id": "swansea#gendros",
+                "name": "Gendros",
+                "lat": "51.640224",
+                "lon": "-3.971329",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Gendros",
+                    "_text": "Gendros is a suburban district of the City and County of Swansea, Wales falling within the Cockett ward. Gendros approximates to the settlement northwest of Carmarthen Road (A483 road) between Cwmdu and Penlan. Other areas surrounding Gendros are Blaen-y-Maes, Ravenhill, Cwmbwrla, Cockett, Fforestfach and Mayhill and Townhill. Its post code begins with SA5.\nGendros has two churches, a primary school and a community centre.\nIt is also the birthplace of the famous British boxer Enzo Maccarinelli, a former World Cruiserweight Champion. It is also home to Chris Holley, the ex-mayor of Swansea."
+                }
+            },
+            {
+                "id": "swansea#gerdinen isaf",
+                "name": "Gerdinen isaf"
+            },
+            {
+                "id": "swansea#glais",
+                "name": "Glais",
+                "lat": "51.689365",
+                "lon": "-3.878138",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Glais",
+                    "_text": "Glais is a small semi-rural village of less than 1,000 people located in Swansea, Wales. The village is separated into two different electoral wards by a stream known as Nant-Y-Pal which runs through the middle of the settlement. To the north of Nant-Y-Pal, Glais comes under the Clydach Electoral Ward while to the south Glais falls under the Llansamlet Electoral Ward.\nUnusually for place names, Glais is not named after the stream Nant-Y-Pal but instead its name literally translates to Stream."
+                }
+            },
+            {
+                "id": "swansea#gorseinon",
+                "name": "Gorseinon",
+                "lat": "51.669543",
+                "lon": "-4.041545",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Gorseinon",
+                        "_text": "Gorseinon is a district town in Swansea, Wales, near the Loughor estuary. It was a small village until the late 19th century when it grew around the coal mining and tinplate industries. It is situated in the north west of Swansea City Centre, around 6 miles (9.7 km) north west of the city centre. Gorseinon is also a local Government community with its own elected town council.\nThe population of the Gorseinon town council area in the 2011 Census is 8,693. However, the ONS defines an area called the Gorseinon Urban Area which comprises all of the continuous built up area in and around Gorseinon. This area includes Gorseinon, Loughor, Garden Village and Penllergaer. and has a population of 20,581."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Gorseinon",
+                        "_text": "Mae Gorseinon yn dref ger Abertawe yn sir Abertawe. Fe'i lleoli ger aber y Llwchwr, tua 6 milltir i'r gogledd-orllewin o ganol y ddinas. Mae Gorseinon hefyd yn gymuned llywodraeth leol gyda chyngor etholedig yn y dref. Pentref bychan ydoedd tan diwedd y 19eg ganrif pan dyfodd yn sg\u00eel y diwydiannau glo a thunplat.\n\nMae Caerdydd 63.9 km i ffwrdd o Orseinon ac mae Llundain yn 273.5 km. Y ddinas agosaf ydy Abertawe sy'n 7.2 km i ffwrdd.\nYn \u00f4l Cyfrifiad 2001, mae gan ardal cyngor tref Gorseinon boblogaeth o 7,814. Fodd bynnag, diffinia Swyddfa Ystadegau Cenedlaethol y DU ardal a elwir Ardal Drefol Gorseinon sy'n cynnwys yr ardaloedd mwy poblog yn ac o amgylch Gorseinon. Mae'r ardal hon yn cynnwys Gorseinon, Llwchwr, Pentre'r Ardd a Penllergaer ac mae iddi boblogaeth o 19,273."
+                    }
+                ]
+            },
+            {
+                "id": "swansea#gowerton",
+                "name": "Gowerton",
+                "lat": "51.6480279",
+                "lon": "-4.042929",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Gowerton",
+                    "_text": "The village of Gowerton (Welsh: Treg\u0175yr) is situated about 4 miles north west of Swansea city centre, Wales. Gowerton is often known as the gateway to Gower. Gowerton's original name was Ffosfelin. The village falls within the Gowerton electoral ward of Swansea.\nIn 1980, the Welsh National Eisteddfod was hosted on the 'Elba' area of the village, the Eisteddfod stone (Gorsedd stones) is located on the round-about opposite the garage on the road to Penclawdd."
+                }
+            },
+            {
+                "id": "swansea#graig felen",
+                "name": "Graig Felen"
+            },
+            {
+                "id": "swansea#graig trewyddfa",
+                "name": "Graig Trewyddfa"
+            },
+            {
+                "id": "swansea#graig-fawr",
+                "name": "Graig-Fawr",
+                "lat": "51.8225737",
+                "lon": "-4.1505964"
+            },
+            {
+                "id": "swansea#grovesend",
+                "name": "Grovesend",
+                "lat": "51.688828",
+                "lon": "-4.038314",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Grovesend",
+                    "_text": "Grovesend (Welsh: Pengelli) is a village in the community of Grovesend and Waungron (Welsh: Pengelli a Waungron), City and County of Swansea in Wales. The community has a population of 1,181.\nGrovesend is a mainly residential community, with the major amenity being the welfare club. Locals must travel to nearby areas such as Gorseinon or Pontarddulais for shopping. Grovesend also has a primary school, with about 100 pupils in, and a nursing home."
+                }
+            },
+            {
+                "id": "swansea#hafod",
+                "name": "Hafod",
+                "lat": "51.6094859",
+                "lon": "-3.3813899",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Hafod",
+                    "_text": "Hafod is a district of the city of Swansea, in South Wales, U.K., and lies just north of the city centre, within the Landore ward. Hafod is the home to the Hafod Copperworks, founded in 1810 and closed in 1980 which is now being developed into an industrial heritage site.\nThe word hafod is Welsh for 'summer dwelling' (compare sheiling) or 'farm', and refers to the seasonal cycle of transhumance - the movement of livestock and people from a lowland winter pasture at the main residence (Welsh hendre) to a higher summer pasture from roughly May through October.\nThe western part of Hafod is a residential suburb. In the late 20th century, this was a mostly run-down area of Swansea, with property prices there being some of the lowest in the city centre area. In the new millennium, many properties in the main Neath Road (B4603) and some of the side streets have benefited from council grants to improve the fa\u00e7ade of the properties. Beside the River Tawe to the east is a small industrial strip around Morfa Road.\nHafod has a comprehensive school called Pentrehafod School, and a primary school called Hafod Primary school. There used to be junior and senior schools located on the same site but the school was ravaged by fire during the early 1990s. The new primary school was built to replace it and new buildings were constructed within the grounds of Pentrehafod school to cater for the junior and senior pupils. The community sports facility is the Pentrehafod sports hall and pool located in the grounds of the Pentrehafod Comprehensive School. The school is built on what was formerly the waste product dumping ground for the Morris family copper works.\nNeath Road is a busy thoroughfare used by buses and cars to travelling between central Swansea and the northern suburbs in and around Morriston and Llansamlet. There is a dedicated express bus route to the east of Neath Road, which is used by buses serving the Landore Park and Ride site and the 'bendy bus' service from Singleton Hospital to Morriston Hospital.\n\n"
+                }
+            },
+            {
+                "id": "swansea#hendrewen",
+                "name": "Hendrewen",
+                "lat": "53.2181808",
+                "lon": "-4.134996"
+            },
+            {
+                "id": "swansea#heol las",
+                "name": "Heol Las"
+            },
+            {
+                "id": "swansea#heol-ddu",
+                "name": "Heol-ddu",
+                "lat": "51.816049",
+                "lon": "-4.12201"
+            },
+            {
+                "id": "swansea#hillend",
+                "name": "Hillend",
+                "lat": "51.5949385",
+                "lon": "-4.2860202",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Hillend",
+                    "_text": "Hillend may refer to:\nHillend, Fife\nHillend, Edinburgh\nHillend, New Zealand"
+                }
+            },
+            {
+                "id": "swansea#horton",
+                "name": "Horton",
+                "lat": "51.548526",
+                "lon": "-4.201441",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Horton",
+                    "_text": "Horton may refer to:"
+                }
+            },
+            {
+                "id": "swansea#ilston",
+                "name": "Ilston",
+                "lat": "51.594221",
+                "lon": "-4.084956"
+            },
+            {
+                "id": "swansea#killay",
+                "name": "Killay",
+                "lat": "51.617448",
+                "lon": "-4.019402",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Killay",
+                    "_text": "Killay may refer to:\nKillay, County Tyrone, a townland and hamlet near Pomeroy in County Tyrone, Northern Ireland\nKillay, Swansea, a suburb and local government community in Swansea, Wales"
+                }
+            },
+            {
+                "id": "swansea#kittle",
+                "name": "Kittle",
+                "lat": "51.5840457",
+                "lon": "-4.0601657",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Kittle",
+                    "_text": "Kittle may refer to:\nKittle (surname)\nKittle (Guyana), a kettle drum used in the music of Guyana\nKittle, Swansea, an area of Pennard, Swansea, Wales"
+                }
+            },
+            {
+                "id": "swansea#knab, the",
+                "name": "Knab, The"
+            },
+            {
+                "id": "swansea#knelston",
+                "name": "Knelston",
+                "lat": "51.578038",
+                "lon": "-4.212099"
+            },
+            {
+                "id": "swansea#landimore",
+                "name": "Landimore",
+                "lat": "51.614672",
+                "lon": "-4.217941",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Landimore",
+                    "_text": "Landimore (Welsh: Lland\u00eem\u00f4r) is a hamlet on the north coast of the Gower, in the City and County of Swansea, south Wales. To the north are the extensive saltmarshes of Landimore Marsh, adjoining the Loughor estuary. Landimore Castle which is also known as Bovehill Castle is perched on a hill overlooking the village at OS grid reference SS 464993. Its ruinous remains are on private ground."
+                }
+            },
+            {
+                "id": "swansea#landore",
+                "name": "Landore",
+                "lat": "51.6412925",
+                "lon": "-3.9369162",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Landore",
+                    "_text": "Landore (Welsh: Gland\u0175r) is a district of Swansea, Wales, falling in the Landore council ward. A mainly residential area, it is located about 2.5 miles north of Swansea city centre. The north-easterly part of Landore is known as Morfa. There have been a number of new developments in the 21st century, such as the Liberty Stadium and the Morfa Shopping Park, which opened in 2005."
+                }
+            },
+            {
+                "id": "swansea#langland",
+                "name": "Langland",
+                "lat": "51.568571",
+                "lon": "-4.0123066",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Langland",
+                    "_text": "Langland could refer to:"
+                }
+            },
+            {
+                "id": "swansea#leason",
+                "name": "Leason",
+                "lat": "51.611265",
+                "lon": "-4.19066"
+            },
+            {
+                "id": "swansea#little reynoldston",
+                "name": "Little Reynoldston"
+            },
+            {
+                "id": "swansea#llanddewi",
+                "name": "Llanddewi",
+                "lat": "52.309483",
+                "lon": "-3.310747",
+                "wikipedia": {
+                    "lang": "cy",
+                    "href": "https:\/\/cy.wikipedia.org\/wiki\/Llanddewi",
+                    "_text": "Gallai'r enw lle Llanddewi gyfeirio at un o sawl lle:\nCymru\nLlanddewi, G\u0175yr\nLlanddewi Brefi\nLlanddewi Nant Hodni\nLlanddewi'r Cwm\nLlanddewi Rhydderch\nLlanddewi-yn-Heiob\nLlanddewi Ysgyryd\nLlanddewi Ystradenni\nLloegr\nLlanddewi, Swydd Henffordd\nLlanddewi Cil Peddeg"
+                }
+            },
+            {
+                "id": "swansea#llangennith",
+                "name": "Llangennith",
+                "lat": "51.600446",
+                "lon": "-4.271032",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Llangennith",
+                    "_text": "Llangennith (Welsh: Llangenydd\/Llangynydd) is a village in Gower, in the City and County of Swansea, south Wales. It sits at a crossroads in northwest Gower: Moor Lane leads westwards to a caravan park near Rhossili Bay; while Burrows Lane leads northwards to a caravan park overlooking Broughton Bay. The village has a scattering of houses, centred on St Cenydd's church, and one pub - the King's Head. The neighbouring bay is popular with surfers."
+                }
+            },
+            {
+                "id": "swansea#llangyfelach",
+                "name": "Llangyfelach",
+                "lat": "51.671667",
+                "lon": "-3.960054",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Llangyfelach",
+                        "_text": "Llangyfelach is a village located in the City and County of Swansea, Wales. Llangyfelach is situated about 4 miles north of the centre of Swansea, just west of Morriston. It falls within the Llangyfelach ward. To the west is open moorland.\nLlangyfelach was once the name of a parish that covered much of the former Lordship of Gower. Today's community covers a smaller area including the site of the former Felindre tinplate works, which hosted the National Eisteddfod in 2006.\nBordering the village to the north is the M4 motorway Junction 46. The village has its own primary school, crematorium, a former post office, The 'Plough and Harrow' pub, and a Scout hall.\nAt the centre of the village is the Parish Church of St David and Cyfelach. The site dates back to the 6th Century: St. David the Patron Saint of Wales founded an early Celtic monastery there. The present church has a 12th Century detached tower and a converted tithe barn as the present church. Contained within the church is the Llangyfelach Cross, a 9th Century Celtic stone.\nLlangyfelach was the birthplace of the painter Evan Walters, and is mentioned in a folk song about the practice of 'pressing' men into military service.\nLlangyfelach is the birthplace for welsh international bowler Mark Watkins who now resides in Brynhyfryd, Swansea."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Llangyfelach",
+                        "_text": "Pentref a chymuned yn ninas a sir Abertawe yw Llangyfelach. Saif tua pedair milltir i'r gogledd o ganol dinas Abertawe, ac i'r gorllewin o Dreforys. Mae traffordd yr M4 ychydig i'r gogledd.\nCeir yno ysgol gynradd, amlosgfa a thafarn. Mae'r eglwys wedi ei chysegru i Dewi Sant a Sant Cyfelach. Credir bod clas Celtaidd wedi bod ar y safle; mae t\u0175r yr eglwys bresennol, sydd ar wahan i'r eglwys ei hun, yn dyddio o'r 12fed ganrif. Ar un adeg roedd yr eglwys yn un o ganolfannau pwysicaf cantref Eginog. Tu mewn i'r eglwys mae Croes Llangyfelach, Croes Geltaidd yn dyddio o'r 9fed ganrif."
+                    }
+                ]
+            },
+            {
+                "id": "swansea#llanmadoc",
+                "name": "Llanmadoc",
+                "lat": "51.618953",
+                "lon": "-4.255532"
+            },
+            {
+                "id": "swansea#llanmorlais",
+                "name": "Llanmorlais",
+                "lat": "51.6307685",
+                "lon": "-4.121865",
+                "wikipedia": {
+                    "lang": "cy",
+                    "href": "https:\/\/cy.wikipedia.org\/wiki\/Llanmorlais",
+                    "_text": "Pentref bychan yn Sir Abertawe yw Llanmorlais a leolir tua 4.5 milltir i'r gorllewin o dref Gorseinon ar lan ogleddol Penrhyn G\u0175yr. Mae'n rhan o blwyf eglwysig Llanrhidian Uchaf.\nSaif chwarter milltir o'r m\u00f4r ger pentref Crofty a chyferbyn i dref Llanelli dros y bae yn Sir Gaerfyrddin, ar y B4295 sy'n ei gysylltu \u00e2 Gorseinon a Llanrhidian.\nCeir cors sylweddol rhwng y pentref a Llanrhidian."
+                }
+            },
+            {
+                "id": "swansea#llanrhidian",
+                "name": "Llanrhidian",
+                "lat": "51.608256",
+                "lon": "-4.17126",
+                "wikipedia": {
+                    "lang": "cy",
+                    "href": "https:\/\/cy.wikipedia.org\/wiki\/Llanrhidian",
+                    "_text": "Mae Llanrhidian yn bentref ar benrhyn G\u0175yr, yn sir Abertawe, de Cymru. Enwir y llan a'r pentref ar \u00f4l y sant cynnar Rhidian (5ed-6ed ganrif).\nSaif y pentref bron yng nghanol penrhyn G\u0175yr, ar groesffordd i'r de-orllewin o Benclawdd hanner ffordd rhwng Dynfant a Llangynydd.\nMae'r pentref yn rhoi ei enw i gymunedau Llanrhidian Uchaf a Llanrhidian Isaf."
+                }
+            },
+            {
+                "id": "swansea#llansamlet",
+                "name": "Llansamlet",
+                "lat": "51.664173",
+                "lon": "-3.900516",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Llansamlet",
+                        "_text": "Llansamlet is a suburban district of Swansea, Wales, falling into the Llansamlet ward. The area is centered on the A48 road (named Samlet Road and Clase Road in the area) and the M4 motorway.\nSimilar to many other places in Wales where the name begins with Llan, Llansamlet is named after a saint \u2013 Saint Samlet. There is a Saint Samlet's Church in the area on Church Road."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Llansamlet",
+                        "_text": "Cymuned ym mwrdeisdref sirol Abertawe yw Llansamlet. Saif yng ngogledd-ddwyrain dinas Abertawe, o amgylch y briffordd A48 a'r draffordd M4. Roedd y boblogaeth yn 2001 yn 6,196.\nDatbygodd diwydiannau glo a chopr pwysig yma yn y 18fed ganrif."
+                    }
+                ]
+            },
+            {
+                "id": "swansea#lon-las",
+                "name": "Lon-las",
+                "lat": "53.3648075",
+                "lon": "-4.5175844"
+            },
+            {
+                "id": "swansea#loughor",
+                "name": "Loughor",
+                "lat": "51.665095",
+                "lon": "-4.067286",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Loughor",
+                    "_text": "Loughor (\/\u02c8l\u028cx\u0259r\/) (Welsh: Casllwchwr) is a town in the City and County of Swansea, Wales, within the historic county boundaries of Glamorgan, Wales. It lies on the estuary of the River Loughor. The town has a community council called Llwchwr. In 2014, it was rated one of the most attractive postcode areas to live in Wales."
+                }
+            },
+            {
+                "id": "swansea#low neck",
+                "name": "Low Neck"
+            },
+            {
+                "id": "swansea#lower sketty",
+                "name": "Lower Sketty"
+            },
+            {
+                "id": "swansea#lunnon",
+                "name": "Lunnon",
+                "lat": "51.588281",
+                "lon": "-4.10046"
+            },
+            {
+                "id": "swansea#manselfield",
+                "name": "Manselfield",
+                "lat": "51.5807461",
+                "lon": "-4.0360794"
+            },
+            {
+                "id": "swansea#manselton",
+                "name": "Manselton",
+                "lat": "51.639634",
+                "lon": "-3.9523651",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Manselton",
+                    "_text": "Manselton is a suburban area of Swansea, Wales falling within the Cwmbwrla ward. Manselton approximates to the area to the west of Llangyfelach Road just north of the railway line from Landore depot to west Wales.\nManselton consists mainly of suburban housing, although there is large, open park area and a few shops. The local primary school is Manselton Primary school.\nGrade II listed buildings in the area include:\nMount Calvary Baptist Chapel & Hall on Cecil Street\nManselton School & attached Block on Manor Road\nSt. Michael & All Angel's Church on Manor Road\nManselton also has a local doctors surgery which is located along the side road by the local Chemist. It also has a local community center which is located behind the chemist."
+                }
+            },
+            {
+                "id": "swansea#mayals",
+                "name": "Mayals",
+                "lat": "51.5933629",
+                "lon": "-4.010752",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Mayals",
+                    "_text": "Mayals is a suburb of Swansea, Wales. It is located about 3 miles south west of Swansea city centre. It falls within the Mayals ward and the Mumbles community council area (MCC). The ward of Mayals lies within the constituency of Swansea West, the only MCC ward not in the Gower constituency.\nThe suburb of Mayals consists mainly of higher value privately owned housing. Located on Clyne Common near the suburb in the area is the Craig-y-Nos School, an independent school for children, whilst the well performing Mayals Primary School lies within the area. Actress Catherine Zeta-Jones once lived in the Mayals, on St Andrews Close and singer Bonnie Tyler maintains a home in Blackpill.\nMuch of the Mayals area is accounted for by Clyne common, upon which is the prestigious 18-hole Clyne golf club.\nThe renowned botanical gardens at Clyne also account for a significant amount of Mayals. The gardens include many rare, tropical and notable plans, including Britain\u2019s largest Magnolia, and many hybrids. Notable constructions include a Japanese bridge, the Admirals Tower, Gazebo, and the neo-Gothic Victorian Church. There is also a small lake, an unused quarry, family Pet Cemetery, and many hidden and secluded areas with Victorian paving and red-brick steps. However, the most notable building of all is Clyne Castle, built in 1791 by Richard Phillips a wealthy landowner. The castle and grounds were bought by the wealthy Swansea Vivian family in 1860, who made many changes to the castle and grounds. During that time the Castle hosted many notable guests, including Adelina Patti, Neville Chamberlain, Queen Victoria, Winston Churchill, and King Edward VIII and later on Jon and Carys Richards. In 1952 the Castle came under the ownership of Swansea University, becoming student accommodation. In 2003 the Castle was sold to become high value luxury apartments.\nThere is also a smaller Mayals Park, next to Mayals Primary School which unlike Clyne, has play-facilities for children as well as a small basketball court, footpaths and streams, and an unmaintained wooded area.\nIn the local council elections in 2008 Mayals (electoral ward) was won by Conservative Candidate Rene Kinzett, who stood for Swansea West in the 2010 national election. In the 2012 local council elections Linda Tyler-Lloyd retained the seat for the Conservative Party after Rene Kinzett decided to stand down."
+                }
+            },
+            {
+                "id": "swansea#mayhill",
+                "name": "Mayhill",
+                "lat": "51.6277904",
+                "lon": "-3.9542345",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Mayhill",
+                    "_text": "The district of Mayhill (also known as Mayhill Garden City) is spread over the top of a steep hill of the same name just north west of Swansea city centre, partly separated from Townhill to the west.\nMayhill Garden City started in 1914 as an experimental row of six houses that are still in occupation today as even numbers 2 to 12 Islwyn Road. The majority of homes were built by 1940. Maps from 1874, 1879, and 1921 confirm that prior to the Mayhill Garden City project, Townhill Farm occupied the upper end of Waun Wen Road and a well used by Baptists was located halfway down. At the end of what is now called Long Ridge (previously called Bryon Crescent) there was, and still is, a Jewish burial ground. Waun Wen Road was completed before 1938.\nPolitically, Mayhill falls within the Townhill ward. The south side of Mayhill overlooks the city centre, docklands and Swansea Bay. A prominent landmark on Mayhill, visible from the city centre and Hafod is Sea View Primary School (previously known as Mayhill Primary).\nMayhill consists mostly of suburban housing, however it does also feature a post office on Townhill Road, two fast food takeaways and a convenience store at the bottom of Waun Wen Road, as well as a small collection of shops at the intersection of Mayhill Road and Townhill Road. There are several churches in Mayhill including Our Lady of Lourdes, a popular Roman Catholic church, and Hill URC Church. Mayhill also features several park and nature reserve areas.\nThe largest open space recreational area is located around Sea View Primary School and includes parkland, small wooded areas, and heathland. There is also a small picnic park located along Bryn Y Don Road, and woodland between Waun Wen Road and Townhill Road.\nThe local football team is West End F.C. who play in Pryderi Park Stadium in the area."
+                }
+            },
+            {
+                "id": "swansea#middleton",
+                "name": "Middleton",
+                "lat": "51.567149",
+                "lon": "-4.277898",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Middleton",
+                    "_text": "It may also be spelled Middelton, Myddleton, and Myddelton.\nMiddleton may refer to:"
+                }
+            },
+            {
+                "id": "swansea#morriston",
+                "name": "Morriston",
+                "lat": "51.662244",
+                "lon": "-3.930297",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Morriston",
+                    "_text": "Morriston (Welsh: Treforys) is a community in the City and County of Swansea, Wales and falls within the Morriston ward. Morriston is sometimes referred to as a distinct town (e.g. the local football club is named Morriston Town A.F.C.), however Morriston never had a town charter, and is now part of the continuous urban area around Swansea, the centre of which lies three miles to the south-west. Morriston is the most populous of Swansea's electoral divisions. Morriston's Orpheus Choir has been described as one of the leading Welsh choirs.\nMorriston is close to other communities, these areas include Parc Gwernfadog, Cwmrhydyceirw, Clase, Ynystawe, Ynysforgan. This is due to the gradual centralisation of Morriston as an Electoral ward over the years which has gained intensity in the last decade due to the fast amount of services, organisations and commercial outlets available in the main area of Morriston."
+                }
+            },
+            {
+                "id": "swansea#mumbles head",
+                "name": "Mumbles Head"
+            },
+            {
+                "id": "swansea#mumbles hill",
+                "name": "Mumbles Hill",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Mumbles Hill",
+                    "_text": "Mumbles Hill is a hill near the south eastern tip of the Gower Peninsula, Wales. Parts of the hill form a designated Local Nature Reserve, declared in 1991.\nDefensive gunnery positions were built on the hill in World War II. Remnants of the 623rd Anti-Aircraft Battery gun emplacements and control bunker are still visible on the hill.\nCoastal Defence Battery 299 had a site on a hill with 6 inch gun and underground magazines, though none of this remains on the hill. However there are information boards marking the spot."
+                }
+            },
+            {
+                "id": "swansea#mumbles, the",
+                "name": "Mumbles, The"
+            },
+            {
+                "id": "swansea#murton",
+                "name": "Murton",
+                "lat": "51.5821143",
+                "lon": "-4.0432592",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Murton",
+                    "_text": "Murton could refer to:"
+                }
+            },
+            {
+                "id": "swansea#mynydd-bach",
+                "name": "Mynydd-Bach",
+                "lat": "51.646062",
+                "lon": "-2.748088",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Mynydd-Bach",
+                    "_text": "Mynydd-Bach or Mynydd-bach is a suburban district of the City and County of Swansea, Wales and falls within the Mynydd-Bach ward. The name Mynydd-Bach (\"little mountain\") refers to a small plateau, centred about 2.5 miles (4 km) north of Swansea city centre. The most important local employer is the DVLA, which moved here in 1974."
+                }
+            },
+            {
+                "id": "swansea#mynydd-bach-y-glo",
+                "name": "Mynydd-bach-y-glo",
+                "lat": "51.6429858",
+                "lon": "-4.0068397"
+            },
+            {
+                "id": "swansea#newton",
+                "name": "Newton",
+                "lat": "51.5726783",
+                "lon": "-4.0161386",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Newton",
+                        "_text": "Newton may refer to:"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Newton",
+                        "_text": "Gallai Newton gyfeirio at:"
+                    }
+                ]
+            },
+            {
+                "id": "swansea#nicholaston",
+                "name": "Nicholaston",
+                "lat": "51.574946",
+                "lon": "-4.135357",
+                "wikipedia": {
+                    "lang": "cy",
+                    "href": "https:\/\/cy.wikipedia.org\/wiki\/Nicholaston",
+                    "_text": "Pentref bychan yn Sir Abertawe yw Nicholaston (ymddengys ni cheir enw Cymraeg). a leolir tua 8 milltir i'r gorllewin o ddinas Abertawe. Mae'n gorwedd ar lan Bae Oxwich ar Benrhyn G\u0175yr. Mae tywynod Nicholaston yn Warchodfa Natur Cenedlaethol. Rhed y briffordd A4118 trwy'r pentref.\n\u2191 Enwau Cymru"
+                }
+            },
+            {
+                "id": "swansea#northway",
+                "name": "Northway",
+                "lat": "51.5853603",
+                "lon": "-4.0413315",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Northway",
+                    "_text": "Northway may refer to:"
+                }
+            },
+            {
+                "id": "swansea#norton",
+                "name": "Norton",
+                "lat": "52.298095",
+                "lon": "-3.021757",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Norton",
+                    "_text": "Norton may refer to:"
+                }
+            },
+            {
+                "id": "swansea#oldwalls",
+                "name": "Oldwalls",
+                "lat": "51.6058189",
+                "lon": "-4.186653"
+            },
+            {
+                "id": "swansea#oldway",
+                "name": "Oldway",
+                "lat": "51.5801043",
+                "lon": "-4.0441095"
+            },
+            {
+                "id": "swansea#overton",
+                "name": "Overton",
+                "lat": "52.97233",
+                "lon": "-2.934909",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Overton",
+                    "_text": "Overton may refer to:"
+                }
+            },
+            {
+                "id": "swansea#oxwich",
+                "name": "Oxwich",
+                "lat": "51.559028",
+                "lon": "-4.170341",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Oxwich",
+                        "_text": "Oxwich is a village on the Gower Peninsula, in the city and county of Swansea in south Wales. Oxwich is part of the small community of Penrice which extends from the village of Horton to Oxwich Bay, and as of 2001 recorded a population of 454 inhabitants.\nOxwich's main site of historical interest is the castle which is thought by many academics to be the most historic castle on the Gower Peninsula. The earliest evidence of it being inhabited is in 1459, where Philip Mansel was recorded as holding it. The Mansel family were a minor gentry in South Wales, who grew in power and prestige under the Tudor monarchs. The parish church of St. Illtyd's overlooks Oxwich Bay. A place of worship has stood on this site since the 6th century, but the main tower of today was built in the 14th century. The chancel of this church is thought to be a 6th-century cell. The church bell in the tower also dates back to the 14th century, but was recast in 1892. In the churchyard there is a well, which locals believe is haunted by a ghost. Legend has it that a ghost was seen in the churchyard before vanishing into a well."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Oxwich",
+                        "_text": "Pentref ar arfordir deheuol Penrhyn G\u0175yr ym mwrdeisdref siol Abertawe yw Oxwich (Cyf. OS SS498864). Saif yng nghymuned Pen-rhys. Nid ymddengys fod enw Cymraeg iddo.\nCysegrwyd yr eglwys, sy'n dyddio o'r 13eg a'r 14eg ganrif, i Sant Illtud. Gerllaw'r pentref mae traeth Bae Oxwich, Castell Oxwich, sy'n dyddio o gyfnod y Tuduriaid, a Chastell Pen-rhys. Yma hefyd mae gwarchodfa Natur Genedlaethol Oxwich. Mae Oxwich yn gyrchfan boblogaidd iawn i ymwelwyr, a cheir nifer o westai yma yn ogystal a maes carafannau."
+                    }
+                ]
+            },
+            {
+                "id": "swansea#oxwich green",
+                "name": "Oxwich Green"
+            },
+            {
+                "id": "swansea#oystermouth",
+                "name": "Oystermouth",
+                "lat": "51.575218",
+                "lon": "-4.006723",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Oystermouth",
+                    "_text": "Oystermouth (a corruption of the Welsh name Ystum Llwynarth or Ystumllwynarth) is an electoral ward and a village in the Mumbles community and also the City and County of Swansea, Wales.\nThe electoral ward consists of some or all of the following areas: Oystermouth, the Mumbles, Thistleboon, Limeslade, in the parliamentary constituency of Gower. The ward is bounded by Newton to the west, West Cross to the north and Swansea Bay to the south and east. As of 2010 it had a population of around 4,100."
+                }
+            },
+            {
+                "id": "swansea#pantyffynnon",
+                "name": "Pantyffynnon",
+                "lat": "51.779145",
+                "lon": "-3.985494",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Pantyffynnon",
+                        "_text": "Pantyffynnon is a small village in Carmarthenshire, Wales, half a mile south-west of Ammanford, and a mile east of Tycroes. It lies between the rivers Loughor and Amman at the foot of Mynydd y Betws.\nThe village is served by Pantyffynnon railway station on the Heart of Wales Line."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Pantyffynnon",
+                        "_text": "Pentref bychan yn ne Sir Gaerfyrddin yw Pantyffynnon. Mae'n rhan o gymuned Rhydaman.\nMae'n gorwedd tua milltir i'r de-orllewin o dref Rhydaman yn rhan isaf Dyffryn Aman. Fe'i lleolir rhwng afonydd Llwchwr ac Aman ac wrth droed Mynydd y Betws. Mae Gorsaf reilffordd Pantyffynnon ar llinell Rheilffordd Calon Cymru."
+                    }
+                ]
+            },
+            {
+                "id": "swansea#parc-hendy",
+                "name": "Parc-hendy",
+                "lat": "53.1658234",
+                "lon": "-3.1556807"
+            },
+            {
+                "id": "swansea#parkmill",
+                "name": "Parkmill",
+                "lat": "51.582248",
+                "lon": "-4.091894",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Parkmill",
+                    "_text": "The village of Parkmill (Welsh: Melin y Parc) is a small rural settlement in the Gower Peninsula (Welsh: G\u0175yr), South Wales (Welsh: De Cymru), midway between the villages of Penmaen and Ilston (Welsh: Llanilltud Gwyr), about eight miles (13 km) west of Swansea (Welsh: Abertawe), and about one mile (1.5 km) from the north coast of the Bristol Channel (Welsh: M\u00f4r Hafren). The village lies to the north of the A4118, the main South Gower road between Swansea and Port Eynon, in a wooded area, at the bottom of a valley.\nThe building at the centre of the village is a former school that is now home to the West Glamorgan Girl Guides Activity Centre. Pennard golf course lies immediately to the south of the village. Parkmill is in the Gower ward of the City and County of Swansea (Welsh: Cyngor Dinas a Sir Abertawe).\nParkmill's only religious building is the Mount Pisgah United Reformed Church, a Congregational chapel, erected in 1822 and rebuilt in 1890.\nThe area is little changed from the mid 19th century, when Samuel Lewis said in his 'A Topographical Dictionary of Wales' (1849):\n\nThe hamlet of Park-Mill, forming the most populous part of the parish, [Ilston] is yet extremely rural; and the surrounding scenery, which is characterized by features of tranquillity and seclusion, is enlivened by the small rivulet called Pennarth Pill, winding along a beautiful dell, in which are the ruins of an ancient chapel. On this stream a cloth manufactory was established early in the present century, but it has been discontinued.\n\nThe 'cloth manufactory', a 12th-century water powered corn and saw mill, at Parkmill has since been renovated and a rural crafts centre sited in it, called the Gower Heritage Centre."
+                }
+            },
+            {
+                "id": "swansea#pen-caer-fenny",
+                "name": "Pen-caer-fenny"
+            },
+            {
+                "id": "swansea#pen-clawdd",
+                "name": "Pen-clawdd",
+                "lat": "51.6419",
+                "lon": "-4.100126"
+            },
+            {
+                "id": "swansea#pen-lan",
+                "name": "Pen-lan",
+                "lat": "51.6476356",
+                "lon": "-3.9633356"
+            },
+            {
+                "id": "swansea#penllergaer",
+                "name": "Penllergaer",
+                "lat": "51.670418",
+                "lon": "-4.007427",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Penllergaer",
+                    "_text": "Penllergaer (Welsh: Penlle'r-gaer) is a village in the City and County of Swansea, Wales, falling within the electoral ward of the same name. It is situated about 4.5 miles north west of Swansea city centre, near junction 47 of the M4 motorway."
+                }
+            },
+            {
+                "id": "swansea#penmaen",
+                "name": "Penmaen",
+                "lat": "51.6748594",
+                "lon": "-3.1757295",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Penmaen",
+                        "_text": "Penmaen may refer to one of several places in Wales:\nPenmaen, Caerphilly\nPenmaen, Swansea\nSee also:\nPenmaenmawr, Conwy County Borough"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Penmaen",
+                        "_text": "Mae Penmaen wedi'i ddynodi'n Safle o Ddiddordeb Gwyddonol Arbennig yng Nghymru (SoDdGA neu SSSI) ers 01 Ionawr 1981 fel ymgais gadwraethol i amddiffyn a gwarchod y safle. Mae ei arwynebedd yn 0.26 hectar. Cyfoeth Naturiol Cymru yw'r corff sy'n gyfrifol am y safle.\n\u2191 Gwefan Cyngor Cefn Gwlad Cymru (bellach 'Cyfoeth Naturiol Cymru'); adalwyd 25 Rhagfyr 2013"
+                    }
+                ]
+            },
+            {
+                "id": "swansea#pennard",
+                "name": "Pennard",
+                "lat": "51.5758023",
+                "lon": "-4.0882899",
+                "wikipedia": {
+                    "lang": "cy",
+                    "href": "https:\/\/cy.wikipedia.org\/wiki\/Pennard",
+                    "_text": "Pentref a chymuned ar benrhyn G\u0175yr, yn sir Abertawe, yw Pennard. Saif tua 7 milltir i'r de-orllewin o ganol dinas Abertawe. Y canolfannau mwyaf poblog yn y gymuned yw Southgate a Kittle; pentref bychan yw Pennard ei hun. Roedd poblogaeth y gymuned yn 2001 yn 2,648.\nMae Castell Pennard, sydd gerllaw Three Cliffs Bay, yn dyddio o tua 1300, ond wedi ei adeiladu ar safle castell cynharach o tua 1150. Ceir gweddillion hen eglwys Pennard gerllaw. Claddwyd hon gan y twyni tywod yn y 14eg ganrif, a defnyddiwyd rhan o'i deunydd i adeiladu yr eglwys newydd rhyw 2 km i'r dwyrain. Claddwyd y bardd Harri Webb yma."
+                }
+            },
+            {
+                "id": "swansea#penrice",
+                "name": "Penrice",
+                "lat": "51.570474",
+                "lon": "-4.17669",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Penrice",
+                    "_text": "Penrice may refer to:\nPenrice, South Australia, a small town in the Barossa Valley in Australia\nPenrice, Swansea, a community in Wales\nPenrice Castle, near Penrice, Swansea.\nPenrice Community College, a comprehensive school in St Austell, Cornwall\nPenrice Soda Products a company listed on the Australian Stock Exchange named after its quarry near the town in South Australia\nEnglish surname:\nMajor John Penrice author of a glossary of the Quran (1873)"
+                }
+            },
+            {
+                "id": "swansea#pentre-chwyth",
+                "name": "Pentre-chwyth",
+                "lat": "51.637604",
+                "lon": "-3.926397"
+            },
+            {
+                "id": "swansea#pentre-dwr",
+                "name": "Pentre-dwr",
+                "lat": "51.650752",
+                "lon": "-3.891723"
+            },
+            {
+                "id": "swansea#pentrebach",
+                "name": "Pentrebach",
+                "lat": "51.721203",
+                "lon": "-3.355544",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Pentrebach",
+                        "_text": "Pentrebach (sometimes written Pentre-Bach) (translation: small village) is a village in Merthyr Tydfil County Borough, Wales. It lies on the east side of the River Taff opposite Abercanaid, South of Merthyr and North of Troedyrhiw. To the east of the village lies the Mynydd Cilfach-yr-Encil which rises up to 445 m. Pentrebach can be translated as \"Little Village\"\nPentrebach is part of the Plymouth electoral ward which covers Pentrebach, Abercanaid and Troedyrhiw. The village was founded at the time that John Guest built the Plymouth Ironworks in 1763. The name Guest became part of the Guest, Keen and Nettelfold company (GKN). In 1818 Anthony Hill took over ownership of the business. His House was later used as an old people's home, and today has been converted into a Brewers Fayre Restaurant with a Premier Inn attached.\n\nThe original Merthyr Tramroad, built in 1802, ran alongside the site of the modern day village, on it way from Pennydarren to Abercynon, though very little of the village had been built at that time. A tunnel still exists, which can be visited on the Merthyr Road. Locomotives had to tip their chimneys while going though this tunnel due to the tunnel clearance.\nPentrebach has its own railway station. This opened in 1886 on the standard gauge Taff Vale Railway which runs from Cardiff to Merthyr alongside the River Taff. The original purpose of the railway was to carry iron ore to Cardiff Docks.\nIn 1862, on the south side of the Village, The South Duffryn Colliery was opened with two shafts which were 250 m deep. At the height of the production there were some 1300 men employed there. An opencast mine was also located on the mountainside above the village.\nThe Plymouth Ironworks closed in 1882 and the South Duffryn Colliery ceased production in 1940.\n\nAfter the war, new industries were attracted to the village. In 1945, the Kayser Bondor Factory opened making underwear, followed in 1948 by the establishment of the Hoover factory manufacturing washing machines. The factory later went on the produce the Sinclair C5 battery-powered three-wheeler car. On Friday, 6 March 2009, Hoover confirmed that it was to cease production of washing machines and other laundry products at the factory. Linde has set up a factory in the village on a site where the South Duffryn Colliery was located.\nPentrebach has two clubs: The Hills Plymouth Cricket Club, and the Pentrebach Working men's club. Pentrebach also has a chapel, Jerusalem Chapel, Greenfield School and an Integrated Children's Centre.\nThe mountain above Pentrebach has become popular with hang glider pilots in recent years."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Pentrebach",
+                        "_text": "Pentref ym mwrdeisdref sirol Merthyr Tudful yw Pentrebach, weithiau Pentre-bach.\nSaif i'r de o ganol tref Merthyr Tudful, yr ochr arall o Afon Taf i bentref Abercannaid ac i'r gogledd o bentref Troed-y-rhiw. I'r dwyrain o'r pentref mae Mynydd Cilfach-yr-Encil (445 m.).\nTyfodd y pentref wedi i John Guest sefydlu Gwaith Haearn Plymouth yn 1763. Roedd rheilffordd wreiddiol Trevethick, a adeiladwyd yn 1804, yn arwain trwy'r pentref ar ei ffordd rhwng Penydarren ac Abercynon. Mae twnel yn yn dal i'w weld yma. Agorwyd Glofa South Duffryn yn 1862."
+                    }
+                ]
+            },
+            {
+                "id": "swansea#penydre",
+                "name": "Penydre",
+                "lat": "51.6656053",
+                "lon": "-3.7989143"
+            },
+            {
+                "id": "swansea#penyrheol",
+                "name": "Penyrheol",
+                "lat": "51.5857521",
+                "lon": "-3.2414775",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Penyrheol",
+                        "_text": "Penyrheol may refer to:\nPenyrheol, Caerphilly\nPenyrheol, Pontypool\nPenyrheol, Swansea"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Penyrheol",
+                        "_text": "Gallai Penyrheol gyfeirio at:\nPenyrheol, Caerffili\nPenyrheol, Abertawe"
+                    }
+                ]
+            },
+            {
+                "id": "swansea#pill",
+                "name": "Pill",
+                "lat": "51.480421",
+                "lon": "-2.68773",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Pill",
+                        "_text": "Pill or The Pill may refer to:\nDrug-related:\nPill (pharmacy), referring to anything small and round for a specific dose of medicine\n\"The Pill\", a general nickname for the combined oral contraceptive pill\nPlaces:\nPill, Tyrol, a municipality in Austria\nPill, Somerset, a village in the United Kingdom\nPill, a colloquial abbreviation of Pillgwenlly, electoral ward in the city of Newport, South Wales\nEntertainment:\n\"The Pill\" (song), a 1975 song by Loretta Lynn\n\"The Pill\", a 1965 song by The Brothers-in-Law on their 1965 album \"Oh, Oh, Canada\"\nThe Pill (film), a 2011 film\n\"The Pill\", a 1999 episode of That '70s Show TV series\n\"Pills\", a song by Bo Diddley\nPeople:\nAlison Pill (born 1985), Canadian actress\nBrett Pill (born 1984), American Major League Baseball player\nCathy Pill, Belgian fashion designer\nMalcolm Pill (born 1938), a former Lord Justice of Appeal of the Court of Appeal of England and Wales\nPill (rapper), American rapper\nOther uses:\nPill (textile), a small ball of fuzz on cloth, or the creation of such fuzz balls"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Pill",
+                        "_text": "Ardal o fewn i gymuned Aberdaugleddau, Sir Benfro, Cymru yw Pill, sydd 80.9 milltir (130.2 km) o Gaerdydd a 210.5 milltir (338.8 km) o Lundain.\n\nCynrychiolir Pill yn y Cynulliad Cenedlaethol gan Paul Davies (Ceidwadwyr) a'r Aelod Seneddol yw Stephen Crabb (Ceidwadwyr).\n\u2191 Gwefan y Cynulliad; adalwyd 24 Chwefror 2014\n\u2191 Gwefan parliament.uk; adalwyd 24 Chwefror 2014"
+                    }
+                ]
+            },
+            {
+                "id": "swansea#pilton green",
+                "name": "Pilton Green"
+            },
+            {
+                "id": "swansea#pitton",
+                "name": "Pitton",
+                "lat": "51.566471",
+                "lon": "-4.271145",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Pitton",
+                    "_text": "Pitton is also the name of a small village in the Gower Peninsula, Wales.\nPitton is a village in Wiltshire, England, about 7 miles (11 km) east of Salisbury, just off the A30 London Road."
+                }
+            },
+            {
+                "id": "swansea#pontardulais",
+                "name": "Pontardulais",
+                "lat": "51.712266",
+                "lon": "-4.037071"
+            },
+            {
+                "id": "swansea#pontlliw",
+                "name": "Pontlliw",
+                "lat": "51.69301",
+                "lon": "-4.011885",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Pontlliw",
+                    "_text": "Pontlliw (Welsh spelling: Pont-lliw) is a village in the community of Pontlliw and Tircoed, part of the City and County of Swansea in Wales. The community has an elected community council, and has a population of 2,075. The village is located near Pontarddulais, off Junction 47 of the M4 motorway.\nThe name of the village comes from the Welsh word for bridge (pont) and the name of the River Lliw which runs through the village.\nPontlliw has a primary school, as well as a number of small businesses such as a newsagent, Post Office, a hair salon and two public houses - The Buck and The Castle, colloquially known as 'The Shed' - as well as Indian restaurant Rasoi \nThe village also is home to Pontarddulais Golf Club - which lies within the boundaries of Pontlliw despite its name featuring neighbouring village Pontarddulais. The 9 hole course opened in the 1990s under the name Allt y Graban.\nPontlliw Village Hall is regularly used to stage theatrical performances and concerts as well as classes run by local groups  including Mark Jermin Stage School \nPassing motorists have to take care through the village though, as there are three sets of speed cameras in the village.\nPontlliw is located between the neighbouring villages Penllergaer and Pontarddulais.\nPontlliw is also the birthplace of Gareth Roberts, the former Wales rugby union player. Other notable residents with a rugby connection include Mervyn 'the Swerve' Davies, who lived in Vernon Close and Paul Thorburn, who lived in Heol Y Waun during the early 1990s."
+                }
+            },
+            {
+                "id": "swansea#port mead",
+                "name": "Port Mead"
+            },
+            {
+                "id": "swansea#port tennant",
+                "name": "Port Tennant",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Port Tennant",
+                    "_text": "Port Tennant is a suburban district of Swansea, Wales, falling within the St. Thomas ward. Port Tennant lies at the southern foot of Kilvey Hill just east of St. Thomas and is bounded by the Fabian Way to the south. It is a mostly residential area. An up and coming place to live, located next to the exciting SA1 development.\nThe area takes its name from the Tennant family who developed the Tennant Canal and were responsible for developing the area. The Tennant Canal terminates at the Vale of Neath Inn (now closed) in the south east of Port Tennant.\nLocal amenities include the Danygraig Primary School, a few playing fields to the east, a lovely little park for relaxing ; a doctors surgery, some clubs and public houses. Also a grave yard, churches and some handy shops with take away food shops ( Indian, Chinese etc ) on Port Tennant Road. There is a 550-car space Park and Ride site just south of the district, off Fabian Way with dedicated buses to Swansea city centre. There is a new bridge over fabian way linking Port Tennant to the docks and SA1 area. The Killvey woodland is a great place to walk a see the panoramic views of Swansea bay and beyond. There are horses stables on the side of the mountain and hotels car dealerships, petrol stations, post offices all within Port Tennant. The Tir John landfill site and adjacent Civic amenity site is located east of the residential area.\nThe neighbouring areas are Crymlyn Burrows, Crymlyn Bog, Kilvey Community Woodland, Swansea Docks and St. Thomas.\n\n"
+                }
+            },
+            {
+                "id": "swansea#port-eynon",
+                "name": "Port-Eynon",
+                "lat": "51.547634",
+                "lon": "-4.215976"
+            },
+            {
+                "id": "swansea#port-eynon point",
+                "name": "Port-Eynon Point"
+            },
+            {
+                "id": "swansea#poundffald",
+                "name": "Poundffald",
+                "lat": "51.6297672",
+                "lon": "-4.0714912"
+            },
+            {
+                "id": "swansea#pyle",
+                "name": "Pyle",
+                "lat": "51.528762",
+                "lon": "-3.69316",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Pyle",
+                    "_text": "Pyle (Welsh: Y P\u00eel ) is a village and community in Bridgend county borough, Wales. This large village is served by the A48 road, and lies less than one mile from Junction 37 of the M4 motorway, and is therefore only a half-hour journey from the capital city of Wales, Cardiff; in fact it lies approximately equidistant between the capital (Cardiff) and the second city (Swansea). The nearest town is the seaside resort of Porthcawl. Within the Community, to the northeast of Pyle, is the adjoining settlement of Kenfig Hill."
+                }
+            },
+            {
+                "id": "swansea#rallt",
+                "name": "Rallt",
+                "lat": "53.1182351",
+                "lon": "-4.1294653"
+            },
+            {
+                "id": "swansea#reynoldston",
+                "name": "Reynoldston",
+                "lat": "51.587465",
+                "lon": "-4.195722",
+                "wikipedia": {
+                    "lang": "cy",
+                    "href": "https:\/\/cy.wikipedia.org\/wiki\/Reynoldston",
+                    "_text": "Pentref a chymuned ar benrhyn G\u0175yr, yn sir Abertawe, yw Reynoldston. Roedd poblogaeth y gymuned yn 2001 yn 430.\nSaif Reynoldston yng nghanol Penrhyn G\u0175yr, ychydig i'r gogledd o'r briffordd A4118, yn yr hyn oedd yn hanesyddol yn rhan Seisnig G\u0175yr. Ceir colofn garreg o'r 9fed ganrif yn Eglwys Sant Si\u00f4r."
+                }
+            },
+            {
+                "id": "swansea#rhossili",
+                "name": "Rhossili",
+                "lat": "51.5690465",
+                "lon": "-4.2868132",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Rhossili",
+                    "_text": "Rhossili (Welsh: Rhosili) is a small village and community on the southwestern tip of the Gower Peninsula in Swansea. It is within an area designated as the first Area of Outstanding Natural Beauty in the United Kingdom. The village has a community council and is part of the Gower parliamentary constituency, and the Gower electoral ward."
+                }
+            },
+            {
+                "id": "swansea#rhyd-y-gwin",
+                "name": "Rhyd-y-gwin"
+            },
+            {
+                "id": "swansea#sandylane",
+                "name": "Sandylane",
+                "lat": "52.956445",
+                "lon": "-2.893017"
+            },
+            {
+                "id": "swansea#scurlage",
+                "name": "Scurlage",
+                "lat": "51.566746",
+                "lon": "-4.216944"
+            },
+            {
+                "id": "swansea#sketty",
+                "name": "Sketty",
+                "lat": "51.618165",
+                "lon": "-3.986448",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Sketty",
+                    "_text": "The suburban district of Sketty (Welsh: Sgeti) is located about 2 miles (3.2 km) to the west of the Swansea city centre on Gower Road. Sketty falls within the Sketty council ward of Swansea."
+                }
+            },
+            {
+                "id": "swansea#southgate",
+                "name": "Southgate",
+                "lat": "51.5724655",
+                "lon": "-4.0917658",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Southgate",
+                        "_text": "Southgate, South Gate or SouthGate may refer to:"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Southgate",
+                        "_text": "Gallai Southgate gyfeirio at un o sawl lle neu beth:\nCymru\nSouthgate, Abertawe\nSouthgate, Ceredigion\nSouthgate, Llundain"
+                    }
+                ]
+            },
+            {
+                "id": "swansea#st thomas",
+                "name": "St Thomas"
+            },
+            {
+                "id": "swansea#stembridge",
+                "name": "Stembridge",
+                "lat": "51.649966",
+                "lon": "-3.9756109"
+            },
+            {
+                "id": "swansea#swansea",
+                "name": "Swansea",
+                "lat": "51.62144",
+                "lon": "-3.943646",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Swansea",
+                        "_text": "Swansea (\/\u02c8sw\u0252nzi\/ SWON-zee; Welsh: Abertawe [ab\u025br\u02c8tau\u025b], \"mouth of the Tawe\"), officially known as the City and County of Swansea, is a coastal city and county in Wales. It is Wales's second largest city and the UK's twenty-sixth largest city. Swansea lies within the historic county boundaries of Glamorgan. Situated on the sandy South West Wales coast, the county area includes the Gower Peninsula and the Lliw uplands. The City and County of Swansea had a population of 239,000 in 2011, making it the second most populous local authority area in Wales after Cardiff. During its 19th-century industrial heyday, Swansea was a key centre of the copper industry, earning the nickname 'Copperopolis'."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Swansea",
+                        "_text": "Swansea yw'r enw Saesneg am ddinas a sir Abertawe, Cymru."
+                    }
+                ]
+            },
+            {
+                "id": "swansea#swansea (abertawe)",
+                "name": "Swansea (Abertawe)"
+            },
+            {
+                "id": "swansea#three crosses",
+                "name": "Three Crosses",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Three Crosses",
+                    "_text": "Three Crosses (Lithuanian: Trys kry\u017eiai) is a prominent monument in Vilnius, Lithuania, on the Hill of Three Crosses, originally known as the Bleak Hill (Lithuanian: Plikasis kalnas), in Kalnai Park. According to a legend, seven Franciscan friars were beheaded on top of this hill. Wooden crosses were built in the location since the early 17th century. It soon became a symbol of the city and an integral part of the city's skyline. As wood rots, the crosses needed to be periodically replaced. In 1916, a concrete monument was designed by Polish\u2013Lithuanian architect and sculptor Antoni Wiwulski. It was torn down in 1950 by order of the Soviet authorities. A new monument designed by Henrikas \u0160ilgalis was erected in its place in 1989. The monument was depicted on 50 litas banknote. A spectacular panorama of the Vilnius Old Town can be observed from a small observation deck at the base of the crosses."
+                }
+            },
+            {
+                "id": "swansea#tircanol",
+                "name": "Tircanol",
+                "lat": "51.6730928",
+                "lon": "-3.9226903"
+            },
+            {
+                "id": "swansea#tirdeunaw",
+                "name": "Tirdeunaw",
+                "lat": "51.654841",
+                "lon": "-3.951863",
+                "wikipedia": {
+                    "lang": "cy",
+                    "href": "https:\/\/cy.wikipedia.org\/wiki\/Tirdeunaw",
+                    "_text": "Ardal ar gyrion gogleddol dinas Abertawe, heb fod ymhell o Dreforys yw Tirdeunaw. Mae gan yr ardal gysylltiadau da gyda'r M4 i'r gogledd a Phenrhyn G\u0175yr i'r gorllewin.\nBellach mae Tirdeunaw yn ymestyn o groes Capel Caersalem ar hyd Heol Llangyfelach hyd ben y bryn uwchben Llangyfelach. Arferai ymestyn i ben uchaf Treboeth ac roedd ganddo swyddfa bost ac ysgol gynradd.\nMae dros 400 o blant yn mynychu'r ysgol, sef Ysgol Gynradd Gymraeg Tirdeunaw, y drws nesaf at Ysgol Gymunedol Daniel James. Ceir yno hefyd ganolfan hamdden, un siop trin gwallt a deintydd. Bellach, mae yna gae p\u00eal-droed newydd o'r enw 'Play Football' hefyd."
+                }
+            },
+            {
+                "id": "swansea#townhill",
+                "name": "Townhill",
+                "lat": "51.627415",
+                "lon": "-3.970862",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Townhill",
+                        "_text": "Townhill can refer to:\nAn area in the town of Hamilton, South Lanarkshire, Scotland\nTownhill, Fife, a village in Scotland\nTownhill, Swansea, an electoral ward and community and hill in Wales\nTownhill Park, a suburb of Southampton surrounding Townhill Park House\nTownhill, County Fermanagh, a townland in County Fermanagh, Northern Ireland"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Townhill",
+                        "_text": "Cymuned ym mwrdeisdref sirol Abertawe yw Townhill. Adeiladwyd y rhan fwyaf o'r tai yma yn ystod yr 20fed ganrif. Roedd y boblogaeth yn 2001 yn 8,443.\nMae Townhill yn adral fryniog, ac mae rhai o'i strydoedd yn serth iawn. Ffurfir yr ardal gan fryn o garreg dywod ychydig i'r gogledd o ganol y ddinas, a'i gopa tua 175m uwch lefel y m\u00f4r. Ceir ystad dai Townhill o amgylch y copa a'r gogledd-orllewin, ac ardal Mayhill ar y llechweddau i'r gogledd-ddwyrain."
+                    }
+                ]
+            },
+            {
+                "id": "swansea#trallwn",
+                "name": "Trallwn",
+                "lat": "51.6086478",
+                "lon": "-3.3315699",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Trallwn",
+                    "_text": "Trallwn is a common place name in Wales. Places include:\nTrallwn in Pontypridd\nTrallwn near Swansea."
+                }
+            },
+            {
+                "id": "swansea#tre-boeth",
+                "name": "Tre-boeth",
+                "lat": "51.648468",
+                "lon": "-3.948173"
+            },
+            {
+                "id": "swansea#ty-coch",
+                "name": "Ty-coch",
+                "lat": "51.6370656",
+                "lon": "-3.0255813"
+            },
+            {
+                "id": "swansea#ty-draw",
+                "name": "Ty-draw",
+                "lat": "51.4491674",
+                "lon": "-3.5252476"
+            },
+            {
+                "id": "swansea#tyn-y-cwm",
+                "name": "Tyn-y-cwm",
+                "lat": "52.4213123",
+                "lon": "-3.6712361"
+            },
+            {
+                "id": "swansea#uplands",
+                "name": "Uplands",
+                "lat": "51.61789",
+                "lon": "-3.972711",
+                "wikipedia": {
+                    "lang": "cy",
+                    "href": "https:\/\/cy.wikipedia.org\/wiki\/Uplands",
+                    "_text": "Cymuned ym mwrdeisdref sirol Abertawe yw Uplands. Saif tua milltir i'r gorllewin o ganol dinas Abertawe ac ar lan y m\u00f4r, o gwmpas y briffordd A4118, sy'n cysylltu canol Abertawe a Sgeti. Roedd y boblogaeth yn 2001 yn 13,355.\nMagwyd Dylan Thomas yma, yn rhif 5, Cwmdonkin Drive. Un arall a fagwyd yma oedd y gwleidydd Michael Heseltine."
+                }
+            },
+            {
+                "id": "swansea#upper killay",
+                "name": "Upper Killay"
+            },
+            {
+                "id": "swansea#waunarlwydd",
+                "name": "Waunarlwydd",
+                "lat": "51.639227",
+                "lon": "-4.014005",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Waunarlwydd",
+                    "_text": "Waunarlwydd (English: The Lord's Meadow \u2013 arlwydd is a local variant of arglwydd) is a village in Swansea, Wales, falling within the Cockett ward.\nA mostly residential area, despite its expanding size the village has the feeling of a small community."
+                }
+            },
+            {
+                "id": "swansea#waungron",
+                "name": "Waungron",
+                "lat": "51.7499619",
+                "lon": "-3.6129114"
+            },
+            {
+                "id": "swansea#wern",
+                "name": "Wern",
+                "lat": "52.716432",
+                "lon": "-3.106802",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Wern",
+                    "_text": "Wern is a river of Bavaria, Germany."
+                }
+            },
+            {
+                "id": "swansea#wern-olau",
+                "name": "Wern-olau",
+                "lat": "51.6910548",
+                "lon": "-3.7810059"
+            },
+            {
+                "id": "swansea#wernffrwd",
+                "name": "Wernffrwd",
+                "lat": "51.6242234",
+                "lon": "-4.1433837",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Wernffrwd",
+                    "_text": "Wernffrwd (Gwernffrwd) is a village in the south of Wales. It is located approximately 8.5 miles (13.7 km) from Swansea, and is within the Community of Llanrhidian Higher.\nThe village is situated in the north of the Gower Peninsula, overlooking the Loughor Estuary and consists of lower and upper Wernffrwd. The majority of the houses can be found in the lower part of the village, as does the church of Saint David's which can be found on the marsh road which skirts the village."
+                }
+            },
+            {
+                "id": "swansea#west cross",
+                "name": "West Cross",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/West Cross",
+                    "_text": "West Cross is a suburban area of Swansea, Wales, located to the south of Swansea city centre, near Mumbles falling within the West Cross ward.\nA high majority of the homes are Council built, but many have been sold to the occupiers in the Council's right to buy policy scheme during the 1970s and 1980s. Along with homes being bought, the Council had to upgrade a number of the houses during the 1980s, as they were of the BISF (British Iron and Steel Federation) prefabricated design and had to be brought up to current safety standards by removing asbestos insulation and replacing the structure rods. Along with the Council designed\/built homes, private homes were built (by home development companies) from the 1950s and 1960s onwards. The area also includes: two parks, three schools, two pubs and various small (convenience) stores.\nYsgol Gynradd Gymraeg Llwynderw, a Welsh-medium primary school, relocated from its temporary premises in Singleton Park to West Cross Lane in West Cross in September 2008. The school serves the Swansea West area and is now housed in modern purpose built premises at West Cross."
+                }
+            },
+            {
+                "id": "swansea#whiteford point",
+                "name": "Whiteford Point"
+            },
+            {
+                "id": "swansea#winsh-wen",
+                "name": "Winsh-wen",
+                "lat": "51.650408",
+                "lon": "-3.899885"
+            },
+            {
+                "id": "swansea#worms head",
+                "name": "Worms Head"
+            },
+            {
+                "id": "swansea#ynus-tawelog",
+                "name": "Ynus-tawelog"
+            },
+            {
+                "id": "swansea#ynysforgan",
+                "name": "Ynysforgan",
+                "lat": "51.6809847",
+                "lon": "-3.9174577",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Ynysforgan",
+                        "_text": "Ynysforgan is a village in Swansea, Glamorgan, Wales. It lies just off Junction 45 of the M4 motorway, geographically between Morriston and Ynystawe. The origins of its name are not known for certain but ynys is Welsh for a river-meadow (i.e., an \"island\" \u2013 the main meaning of ynys \u2013 in otherwise marshier ground beside a river) and Forgan is a mutation of the name Morgan; a reasonable translation of the name would therefore be Morgan's Meadow. The River Tawe flows past Ynysforgan so it is not unreasonable to speculate that it is the river in question. Several other nearby locations also use the term Ynys in their names including Ynystawe (the neighbouring village to Ynysforgan), Ynystanglws Farm (near Ynystawe), and Ynysmeudwy (near Pontardawe).\nHowever, as historically insignificant as Ynysforgan may seem it holds a hidden gem unknown to most locals and has its name embedded in the annals of Welsh time. In the latter part of the Middle Ages (circa 1330 - 1403) Ynysforgan was the home of Hopcyn ap Tomas ab Einion. This clearly indicates the name Ynysforgan extends back further than the 15th century and given the 'modernisation' of language it's conceivable its name is derived from old Welsh. Historians have speculated that ab Einion was responsible for a manuscript titled the Red Book of Hergest which is one of the most important medieval Welsh language manuscripts. Furthermore, in 1403 ab Einion was summoned to Carmarthen by none other than Owain Glynd\u0175r, the last true Prince of Wales to shed light on his fate by bringing his knowledge and expertise to bare by interpreting old bardic prophecies.[1] Click this link to view a commemorative stone dedicated to ab Einion located in Ynystawe Park.\nBefore 1963 Ynysforgan essentially comprised the main Swansea to Brecon road (now Clydach Road) with houses on either side. It is interesting to note the 1911 census shows the address as 'Clydack Road'. The 'newer' houses behind Clydach Road were built in late 1960 starting with Garth View, followed by Elizabeth Close, Ian's Walk and Orpheus Road. The builders name was Emrys Davies of Neath who was a sole trader employing skilled tradesmen. It is believed that the road names Elizabeth Close, Ian's Walk and Andrews Crescent are attributable to Mr Davies' relatives. Garth View takes its name from its aspect facing the hill opposite, known colloquially as 'The Garth'. Orpheus Road is probably in recognition of the famous Morriston Orpheus Choir.\nThe old Swansea Tram system extended up the Swansea valley as far as Llanllienwen Road where there was a halt. With the building of the M4 motorway in 1973 the geography of Ynysforgan changed dramatically. The motorway essentially cut the village in two resulting in the demolition of the old Sunday School which stood (roughly) in the vicinity of the M4 exit slip road straight on from Clydach Road and a new Sunday school was built at the top of Garth View and Christopher Road.\nUp until the mid-1970s there stood a grand house - Glyncollen - in its own grounds at the top of Garth View. Glyncollen was originally accessed by a long drive that joined the lower end of Llanllienwen Road, but this access was blocked when the motorway divided the village. In the 1930s Glyncollen House was the residence of the late Captain Sidney Davies, Managing Director of the Forest and Worcester Tinplate Works at Morriston - a brother of the late Alderman D. J. Davies of \"Firgrove\", Llanllienwen Road, a former Mayor of Swansea. He was followed as owner-occupier by the late Doctor and Mrs. N. E. Edwards-Jones, in the 1940s. The house was abandoned in the early 1970s and fell into ruin, only to be demolished later that decade. The grounds were taken over by the council and became a local amenity.\nYnysforgan used to lie on both the main Brecon to Swansea Canal which was navigable until the late 1950s and a Swansea Valley railway line. The canal was filled in and covered over in the 1960s and the route of the railway line has now been used as the Swansea valley by-pass road. There were several relics of World War II such as pillboxes and manholes along the canal: these were demolished when the canal was filled in.\n\n"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Ynysforgan",
+                        "_text": "Pentref bychan yn Sir Abertawe yw Ynysforgan. Fe'i lleolir i'r gogledd o ddinas Abertawe fymryn i'r de o Glydach. Rhed yr M4 heibio i'r de o'r pentref.\nGyferbyn ag Ynysforgan ceir Ynysdawe. Roedd gan y ddau le ran amlwg ym mywyd diwylliannol Morgannwg yn yr Oesoedd Canol am fod dau gartref y Tomasiaid yn gorwedd yno, un yn Ynysforgan a'r llall yn Ynysdawe. Yr enwocaf o'r teulu oedd Hopcyn ap Tomas (tua 1350 - 1400au), casglwr llawysgrifau, brudiwr a noddwr beirdd. Yn \u00f4l traddodiad galwodd Owain Glynd\u0175r am ei gyngor fel brudiwr yn 1403 ac roedd Llyfr Coch Hergest a nifer o lawysgrifau eraill yn ei feddiant."
+                    }
+                ]
+            },
+            {
+                "id": "swansea#ynystawe",
+                "name": "Ynystawe",
+                "lat": "51.690074",
+                "lon": "-3.905167",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Ynystawe",
+                    "_text": "Ynystawe (also Ynysdawe in Welsh; Welsh pronunciation: [\u0268\u031en\u0268\u031es.ta\u028a.\u025b]) is a small village in the City and County of Swansea in Wales, in the electoral ward of Morriston. It is centred half a mile (1 km) north of Junction 45 of the M4 motorway, between Ynysforgan and Clydach in the lower Swansea Valley. The Welsh name Ynystawe or Ynysdawe derives from ynys, meaning \"island\" or \"river-meadow\", and Tawe, the name of the river running immediately to the east and which gives the Welsh name of Swansea, Abertawe.\n\n"
+                }
+            },
+            {
+                "id": "swansea#ystradgynlais",
+                "name": "Ystradgynlais",
+                "lat": "51.779621",
+                "lon": "-3.753603",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Ystradgynlais",
+                        "_text": "Ystradgynlais (Welsh: [\u02cc\u0259sdrad\u02c8\u0261\u0259nlais], English \/\u02cc\u028cstr\u0259d\u02c8\u0261\u028cnla\u026as\/) is a town on the River Tawe in southwest Powys. The town, which is the largest in the historic county of Brecknockshire and the second largest in the administrative area of Powys, grew around the ironmaking, coal mining and watchmaking industries."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Ystradgynlais",
+                        "_text": "Tref yn ne-orllewin Powys, yng Nghwm Tawe Uchaf, yw Ystradgynlais."
+                    }
+                ]
+            }
+        ]
+    }
+}

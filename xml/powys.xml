@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<county name="Powys">
+<county id="Powys">
     <postcodes>
         <postcode>CF44</postcode>
         <postcode>CF48</postcode>

@@ -1,0 +1,804 @@
+{
+    "id": "Newport",
+    "population": {
+        "href": {
+
+        },
+        "_text": {
+
+        }
+    },
+    "poscodes": {
+        "postcode": [
+            "CF3",
+            "NP10",
+            "NP19",
+            "NP20"
+        ]
+    },
+    "towns": {
+        "town": [
+            {
+                "id": "newport#allt-yr-yn",
+                "name": "Allt-yr-yn",
+                "lat": "51.5894646",
+                "lon": "-3.0158755",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Allt-yr-yn",
+                    "_text": "Allt-yr-yn (Welsh: Allt-yr-ynn) is a suburb of the city of Newport, south-east Wales.\nPronounced by English-speaking locals as \"Olt-er-reen\", the spelling should include two Ns at the end, as \"Allt-yr-ynn\". The name means \"The slope (allt) of the ash trees (ynn which is the plural of onnen - ash tree)\" in Welsh.\nAllt-yr-yn forms an electoral ward (district) and coterminous community parish of the city. It is mainly residential and contains many large houses built in the early part of the 20th century. Some of the district is built upon the Ridgeway, with some of the ward offering views of surrounding areas such as Twmbarlwm. The area is governed by the Newport City Council.\n\nTowards the City Centre, Allt-yr-yn is home to the offices of Newport City Council, at the Civic Centre, of which its clock tower can be seen for miles around.\nUniversity of Wales, Newport had a campus located in Allt-yr-yn. It served as the university's Science, IT and Business faculty. before moving to a site with a new \u00a335 million complex on the banks of the River Usk in central Newport. The new campus formally opened in January 2011. Initially the new campus will house the Newport Business School and design, film and media elements of the Newport School of Art, Media and Design.\nOn the west side of Allt-yr-yn heights there is a Local Nature Reserve containing ancient woodland, meadows and five ponds. Between 1934 and the mid-1960s this was home to an open-air swimming baths, and is now managed by a volunteer group known as WING - Wildlife in Newport Group. The nature reserve borders the Crumlin Arm of the Monmouthshire and Brecon Canal which runs parallel to the M4 Motorway at Allt-yr-yn. Lock 2 has been restored by volunteers and work has started on lock 3. Lock 1 disappeared under road works in Newport early in the 20th century.\nA permanent military presence was established in the area with the completion of the Cavalry Barracks in 1845.\nThere was once a hospital in the ward, but this was deemed surplus to requirements and the site is now the Allt-yr-yn Heights estate."
+                }
+            },
+            {
+                "id": "newport#alway",
+                "name": "Alway",
+                "lat": "51.591045",
+                "lon": "-2.9536159",
+                "wikipedia": {
+                    "lang": "cy",
+                    "href": "https:\/\/cy.wikipedia.org\/wiki\/Alway",
+                    "_text": "Cymuned yn ninas Casnewydd yw Alway. Roedd poblogaeth yn gymuned yn 2001 yn 8,492.\nSaif bob ochr i'r briffordd A48, i'r dwyrain o ganol y ddinas. Ceir parciau Ladyhill a Liswerry yma, a chronfa dd\u0175r Ladyhill. Mae'r rhan fwyaf o'r tai yn dyddio o'r 1930au ymlaen, yn cynnwys stad Alway."
+                }
+            },
+            {
+                "id": "newport#barnardtown",
+                "name": "Barnardtown",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Barnardtown",
+                    "_text": "Barnardtown is a small area to the east of Newport Bridge in the city of Newport. It is roughly bounded by Duckpool Road, Church Road and Caerleon Road. It lies within the electoral ward of Saint Julian's and to the west is Riverside.\nThe original houses in the area were very slum-like tight rows with people living in appalling conditions. A local religious man Edward Barnard invested into building small new terraces. A condition of building the \"new village\" was that there were to be no pubs in the area and the names of the streets are that of church figures, e.g. Morden Road, Canon Street, Bishop Street, &c."
+                }
+            },
+            {
+                "id": "newport#barrack hill",
+                "name": "Barrack Hill"
+            },
+            {
+                "id": "newport#bassaleg",
+                "name": "Bassaleg",
+                "lat": "51.575543",
+                "lon": "-3.054328",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Bassaleg",
+                    "_text": "Bassaleg (Welsh: Basaleg) is a small semi-urban suburb on the west side of the city of Newport, in south Wales. It lies in the Graig electoral ward and community."
+                }
+            },
+            {
+                "id": "newport#beechwood",
+                "name": "Beechwood",
+                "lat": "51.590991",
+                "lon": "-2.963818",
+                "wikipedia": {
+                    "lang": "cy",
+                    "href": "https:\/\/cy.wikipedia.org\/wiki\/Beechwood",
+                    "_text": "Cymuned yn ninas Casnewydd yw Beechwood. Roedd poblogaeth y gymuned yn 2001 yn 7,594.\nSaif fymryn i'r dwyrain o ganol y ddinas, yr ochr draw i Afon Wysg. Cafodd ei henwi ar \u00f4l T\u0177 Beechwood, plasdy yn yr ardal. Ceir rhwydwaith ddwys o strydoedd yma, yn bennaf gyda thai a adeiladwyd ar ddiwedd y 19eg ganrif a dechrau'r 20fed ganrif.\nMae Eglwys Sant Ioan, Maes Kensington, yn adeilad a gynlluniwyd gan John Prichard a J.P. Seddon."
+                }
+            },
+            {
+                "id": "newport#bettws",
+                "name": "Bettws",
+                "lat": "51.608505",
+                "lon": "-3.027364",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Bettws",
+                    "_text": "Betws or Bettws \/\u02c8b\u025btu\u02d0s\/ may refer to one of several communities in Wales, or one in England:\nBettws, Bridgend, Llynfi Valley\nBetws, Carmarthenshire\nBetws Ifan\nBetws Bledrws, Llangybi\nCapel Betws Lleucu\nBetws-y-Coed\nBetws yn Rhos\nBetws Gwerfil Goch\nBetws Garmon\nBettws, Newport\nBettws Cedewain\nBetws Diserth\nBettws-y-Crwyn, Shropshire, England"
+                }
+            },
+            {
+                "id": "newport#bishpool",
+                "name": "Bishpool",
+                "lat": "51.5907089",
+                "lon": "-2.942784",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Bishpool",
+                    "_text": "Bishpool is a suburb within the electoral ward of Ringland, Newport. It lies to the western side of Ringland. Its facilities include Bishpool Methodist Church, Bishpool Dairy, and The Man of Gwent. With modern housing, it has a population of 400.\n\n"
+                }
+            },
+            {
+                "id": "newport#bishton",
+                "name": "Bishton",
+                "lat": "51.582262",
+                "lon": "-2.879853",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Bishton",
+                    "_text": "Bishton or Bishopston (Welsh: Llangadwaladr Trefesgob or simply Trefesgob) is a small rural community in the east of the city of Newport, south Wales. The parish lies in the Llanwern electoral district (ward) and contains the eastern end of Llanwern Steelworks, the Underwood estate as well as Bishton itself.\nThe name is said to derive from \"Bishop's Town\", as the village has been alleged to the sometime home of the Bishops of Llandaff. Owain Glyndwr destroyed the palaces at Bishton and Llandaff, from which time the episcopal palace was moved to Mathern.\n\n"
+                }
+            },
+            {
+                "id": "newport#blacktown",
+                "name": "Blacktown",
+                "lat": "51.5312986",
+                "lon": "-3.0688298",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Blacktown",
+                    "_text": "Blacktown is a suburb in the City of Blacktown, in Greater Western Sydney, in the state of New South Wales, Australia. Blacktown is located 34 kilometres west of the Sydney central business district and is the administrative centre of the local government area of City of Blacktown and the federal division of Chifley, Greenway and McMahon. Blacktown is the largest of any suburb or township in New South Wales and is one of the most multicultural places in Sydney."
+                }
+            },
+            {
+                "id": "newport#broadstreet common",
+                "name": "Broadstreet Common"
+            },
+            {
+                "id": "newport#brynglas",
+                "name": "Brynglas",
+                "lat": "51.507666",
+                "lon": "-3.6060521",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Brynglas",
+                    "_text": "Brynglas is an area of the city of Newport, South Wales, United Kingdom.\n\n"
+                }
+            },
+            {
+                "id": "newport#caerau park",
+                "name": "Caerau Park"
+            },
+            {
+                "id": "newport#caerleon (caerllion)",
+                "name": "Caerleon (Caerllion)"
+            },
+            {
+                "id": "newport#caerllion (caerleon)",
+                "name": "Caerllion (Caerleon)"
+            },
+            {
+                "id": "newport#casnewydd (newport)",
+                "name": "Casnewydd (Newport)"
+            },
+            {
+                "id": "newport#castleton",
+                "name": "Castleton",
+                "lat": "51.5436763",
+                "lon": "-3.078294"
+            },
+            {
+                "id": "newport#cefn",
+                "name": "Cefn",
+                "lat": "53.2299847",
+                "lon": "-3.4740981",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Cefn",
+                        "_text": "Cefn may refer to:\nPlaces\nCefn (community), in Wrexham county borough, Wales\nCefn Mawr, a large village in the community of Cefn\n\nCefn Fault, a geological fault in Wales\nSport\nCefn Druids A.F.C., a football club based in Cefn Mawr, playing in the Cymru Alliance.\nF.C. Cefn, a football club based in Cefn Mawr, playing in the Welsh National League (Wrexham Area) Premier Division"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Cefn",
+                        "_text": "Am ystyron eraill gweler Cefn (gwahaniaethu).\nRhan o arwyneb y corff dynol yw'r cefn. Fe'i cynhelir gan yr asgwrn cefn."
+                    }
+                ]
+            },
+            {
+                "id": "newport#christchurch",
+                "name": "Christchurch",
+                "lat": "51.603507",
+                "lon": "-2.944676",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Christchurch",
+                        "_text": "Christchurch (\/\u02c8kra\u026ast\u0283\u025crt\u0283\/; M\u0101ori: \u014ctautahi) is the largest city in the South Island of New Zealand, and the country's third-most populous urban area. It lies one third of the way down the South Island's east coast, just north of Banks Peninsula, which itself, since 2006, lies within the formal limits of Christchurch. The population of Christchurch City at the 5 March 2013 census was 341,469.\nThe city was named by the Canterbury Association, which settled the surrounding province of Canterbury. The name of Christchurch was agreed on at the first meeting of the association on 27 March 1848. It was suggested by John Robert Godley, who had attended Christ Church, Oxford. Some early writers called the town Christ Church, but it was recorded as Christchurch in the minutes of the management committee of the association. Christchurch became a city by Royal Charter on 31 July 1856, making it officially the oldest established city in New Zealand.\nThe river that flows through the centre of the city (its banks now largely forming an urban park) was named Avon at the request of the pioneering Deans brothers to commemorate the Scottish Avon, which rises in the Ayrshire hills near what was their grandfathers' farm and flows into the Clyde.\nThe usual M\u0101ori name for Christchurch is \u014ctautahi (\"the place of Tautahi\"). This was originally the name of a specific site by the Avon River near present-day Kilmore Street and the Christchurch Central Fire Station. The site was a seasonal dwelling of Ng\u0101i Tahu chief Te Potiki Tautahi, whose main home was Port Levy on Banks Peninsula. The \u014ctautahi name was adopted in the 1930s. Prior to that the Ng\u0101i Tahu generally referred to the Christchurch area as Karaitiana, a transliteration of the English word Christian. The city's name is often abbreviated by New Zealanders to Chch. In New Zealand Sign Language, the city's name is the fingerspelled letter C (made by forming the hand into a C shape) signed twice, with the second to the right of the first, while mouthing \"Christchurch\"."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Christchurch",
+                        "_text": "Gweler hefyd Christchurch (gwahaniaethu).\nDinas fawr yn Seland Newydd yw Christchurch. Fe'i lleolir ar lan y Cefnfor Tawel ar ochr ddwyreiniol Ynys y De."
+                    }
+                ]
+            },
+            {
+                "id": "newport#clearwell",
+                "name": "Clearwell",
+                "lat": "51.769121",
+                "lon": "-2.624361",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Clearwell",
+                        "_text": "Clearwell (anciently \"Clower-Wall\" etc.) is a village and former ancient manor in the Forest of Dean, West Gloucestershire, England. A recent survey indicated that the population of Clearwell is approximately 350.\nThere are mines locally that date back over 7,000 years to the mining of ochre and are known as Clearwell Caves. Later, the Romans mined iron at Clearwell Meend. Iron production expanded in medieval times and peaked in the 16th and 17th centuries, leaving a legacy of fine stone built buildings.\nClearwell Castle, a 'mock' castle of Gothic architecture built in 1728, is located in Clearwell."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Clearwell",
+                        "_text": "Pentref a chymuned yn Lloegr ydy Clearwell."
+                    }
+                ]
+            },
+            {
+                "id": "newport#coed-y-caerau",
+                "name": "Coed-y-caerau",
+                "lat": "51.621091",
+                "lon": "-2.895039"
+            },
+            {
+                "id": "newport#coedkernew",
+                "name": "Coedkernew",
+                "lat": "51.55028",
+                "lon": "-3.03979",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Coedkernew",
+                    "_text": "Coedkernew (Welsh: Coedcernyw) is a community in the south west of the city of Newport, South Wales, in the Marshfield ward.\nThe parish is bounded by Percoed reen to the south, Nant-y-Selsig to the southwest, and Pound Hill to the west. The northern boundary is formed from Gwern-y-cleppa to junction 28 of the M4, then the A48 Cardiff Road. The eastern boundary is formed from the Ebbw River Bridge roundabout to the west of the International Rectifier plant, Duffryn Drive, along the southern edge of Tredegar House country park, Pencarn Lane and Percoed Lane.\nDespite being a mostly rural parish to the south and west, the north and east is a continuation of the Duffryn built-up area, and has seen large increases in population in recent years due to the continued suburbanisation of Newport. This built-up area of Coedkernew forms a crescent around Duffryn and as such, much newly built housing in the Duffryn area actually falls within Coedkernew.\nThis area contains the landmark Coedkernew footbridge over the A48, the giant LG plant, three business parks or industrial parks: Imperial Park, Celtic Springs and Cleppa Park, the Patent Office, Office for National Statistics, Tredegar House as well as the large Celtic Horizons estate and St. Josephs RC High School.\nAt the northern boundary near Gwern-y-cleppa, the remains of a pre-historic burial chamber can be found which is believed to be neolithic. It is also considered to be one of the possible sites for Celliwig, the earliest recorded localisation for King Arthur's court.\n^ Office for National Statistics Parish Headcounts: Coedkernew\n^ Coedkernew Footbridge:: OS grid ST2784 :: Geograph Britain and Ireland - photograph every grid square!\n^ Imperial Park, Newport:: OS grid ST2884 :: Geograph Britain and Ireland - photograph every grid square!\n^ Celtic Springs Business Park, Newport:: OS grid ST2784 :: Geograph Britain and Ireland - photograph every grid square!\n^ GWERN-Y-CLEPPA, LONG BARROW | Site Details | Coflein"
+                }
+            },
+            {
+                "id": "newport#coldra",
+                "name": "Coldra",
+                "lat": "51.5999405",
+                "lon": "-2.9315675"
+            },
+            {
+                "id": "newport#crindau",
+                "name": "Crindau",
+                "lat": "51.599324",
+                "lon": "-2.9996633",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Crindau",
+                    "_text": "Crindau (Welsh: Crindai) is an older inner-city area just north of the city centre in Newport in south-east Wales. It lies within the Shaftesbury electoral district (ward) and community (parish).\nCrindau is roughly bounded by the Monmouthshire canal to the west, the M4 motorway to the north, River Usk to the east and South Wales Main Line to the south. It is bisected by the elevated section of the A4042 road. The district is well-served in transport terms as it contains junction 26 and 25a of the M4 as well as the A4042 and A4051 roads. There is a regular Newport Transport bus service from Malpas and Bettws to the city centre.\nTo the eastern side, adjoining the river is Shaftesbury Park, which was the original home of Newport Rugby Club before they moved to the Newport Athletics and Cricket Club site at Rodney Parade.\nA cycle and pedestrian walkway alongside the River Usk links Newport city centre at Crindau to the Home Farm area of Caerleon, 1 mile from central Caerleon. It is planned to extend the walkway from Home Farm to the centre of Caerleon. There is a marked heritage trail in Caerleon.\nCrindau is well served by a number of churches providing a cross-section of Christian traditions including Malpas Road Evangelical Church, Crindau Christian Fellowship, Shaftesbury Methodist Church and All Saints Church."
+                }
+            },
+            {
+                "id": "newport#duffryn",
+                "name": "Duffryn",
+                "lat": "51.5617097",
+                "lon": "-3.0203503",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Duffryn",
+                    "_text": "Duffryn (Welsh: Dyffryn) is a large housing estate [1] in the southwest of the city of Newport, south Wales comprising a large portion of the Tredegar Park electoral district (ward). Built on land belonging to Tredegar House [2], it was completed in 1978 and at the time won several awards for its design. The layout of the estate, as viewed from above, is that of large terraces undulating around a central wooded area. Originally a Council Estate, Duffryn is now a mix of private ownership and Newport City Homes RSL (Registered Social Landlord) properties.\nThe design of the estate is the result of a council competition. It was won by a consortium committed to the theories of planning devised in the architecture department of Cambridge University in the 1960s. The District Amenities Centre that was planned for the south-west corner of the 96-acre site was never built, so the plan of a largely self-sufficient community was not realised.\nDespite the relative recent development of the estate, the name Duffryn is an ancient name for the area. Duffryn is an anglicised version of the Welsh Dyffryn (meaning large U-shaped valley).\nDuffryn is home to two of Newport's largest secondary schools \u2014 Duffryn High School [3] and St. Joseph's RC High School. In 2006, Duffryn High School was the filming location of the Doctor Who episode \"School Reunion\", filmed in late-summer 2005.\nThe majority of the estate is heated from an updated central boiler house."
+                }
+            },
+            {
+                "id": "newport#gaer",
+                "name": "Gaer",
+                "lat": "51.8880509",
+                "lon": "-3.2066981",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Gaer",
+                        "_text": "Gaer may refer to:\nGaer, Newport, the electoral ward of Newport, South Wales\nGaer (Black Mountains), hill in the Black Mountains of Wales"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Gaer",
+                        "_text": "Gallai Gaer gyfeirio at un o sawl lle:\nY Gaer, Casnewydd - cymuned yng Nghasnewydd\nGaer, Powys - pentref bychan ym Mhowys\nY Gaer - caer Rufeinig yn ardal Brycheiniog , de Powys\nGaer Fawr - bryngaer enfawr ym mhlwyf Cegidfa , Powys\nGweler hefyd\nBryngaer\nCaer, dinas yn Swydd Gaer, Lloegr"
+                    }
+                ]
+            },
+            {
+                "id": "newport#garth",
+                "name": "Garth",
+                "lat": "52.133667",
+                "lon": "-3.536803",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Garth",
+                        "_text": "Garth may refer to:"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Garth",
+                        "_text": "Mae Garth yn enw sawl lle yng Nghymru, ac yn elfen mewn enwau lleoedd eraill:\nGarth, pentref yng Ngheredigion\nGarth, pentref ym mwrdeisdref sirol Pen-y-bont ar Ogwr\nGarth, pentref ym Mhowys\nGarth, pentref yn sir Wrecsam\nGarth (mynydd), Bannau Brycheiniog, Cyfeirnod grid OS: SO053506\nHefyd:\nGwaelod-y-Garth\nGarth Celyn, enw arall ar Ben-y-bryn, Abergwyngregyn\nChwarel y Garth, SoDdGA yn Ne Powys\nGarth Isaf, SoDdGA ym Mhowys\nGartheli, pentrefan yng Ngheredigion\nGall hefyd fod yn enw person:\nGarth Brooks, canwr gwlad Americanaidd"
+                    }
+                ]
+            },
+            {
+                "id": "newport#gatlas",
+                "name": "Gatlas",
+                "lat": "51.4786409",
+                "lon": "-3.2024369"
+            },
+            {
+                "id": "newport#glasllwch",
+                "name": "Glasllwch",
+                "lat": "51.5839868",
+                "lon": "-3.0330916"
+            },
+            {
+                "id": "newport#gold cliff",
+                "name": "Gold Cliff"
+            },
+            {
+                "id": "newport#goldcliff",
+                "name": "Goldcliff",
+                "lat": "51.543315",
+                "lon": "-2.915473"
+            },
+            {
+                "id": "newport#high cross",
+                "name": "High Cross",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/High Cross",
+                    "_text": "High Cross is the name of a number of locations in the United Kingdom:\nEngland\nHigh Cross, Cambridgeshire\nHigh Cross, Constantine, Cornwall\nHigh Cross, Truro, Cornwall\nHigh Cross, East Sussex\nHigh Cross, Hampshire\nHigh Cross, Hertfordshire\nHigh Cross, Leicestershire\nHigh Cross, Warwickshire\nHigh Cross, West Sussex\nNorthern Ireland\nHigh Cross, County Tyrone, a townland in County Tyrone, Northern Ireland\nWales\nHigh Cross, Newport"
+                }
+            },
+            {
+                "id": "newport#langstone",
+                "name": "Langstone",
+                "lat": "51.607214",
+                "lon": "-2.899949",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Langstone",
+                        "_text": "Langstone is a village near Havant, Hampshire in the south east of England in Portsmouth. It has good railway connections to London, Southampton, Portsmouth and Brighton, from the nearby Havant railway station. There are many large gated detached houses on the main road, \"Langstone Road\" and on the roads surrounding this. It has a sailing club, several architecturally unusual buildings, and several historically significant buildings, including a converted (water) millhouse and a converted 18th century windmill, the latter of which is a local landmark."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Langstone",
+                        "_text": "Pentref a chymuned yn Lloegr ydy Langstone."
+                    }
+                ]
+            },
+            {
+                "id": "newport#lawrence hill",
+                "name": "Lawrence Hill",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Lawrence Hill",
+                    "_text": "For the suburb of Bracknell in the UK, see Lawrence Hill, Bracknell Forest, for the inner city area of Bristol, UK see Lawrence Hill, Bristol.\nLawrence Hill is a Canadian novelist, essayist and memoirist. He is best known for his 2013 Massey Lectures Blood: The Stuff of Life, his critically acclaimed 2007 novel The Book of Negroes and his 2001 memoir Black Berry, Sweet Juice: On Being Black and White in Canada.\nHill was born in Newmarket, Ontario as the son of American immigrants \u2013 a black father and white mother \u2013 who moved to Toronto from Washington, D.C. in 1953."
+                }
+            },
+            {
+                "id": "newport#level of mendalgief",
+                "name": "Level of Mendalgief",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Level of Mendalgief",
+                    "_text": "The Level of Mendalgief (Welsh: Mendelgyf) is a small area to the south west of the city centre of the city of Newport in the Pill ward. The level is bounded by Cardiff Road to the north, Mendalgief Road to the east, Docks Way to the south and the Great Western Main Line to the west. The area formerly contained the Monmouthshire Bank sidings, but it is due to be regenerated into a new residential area.\nThe etymology of the name Mendalgief is unknown."
+                }
+            },
+            {
+                "id": "newport#liswerry",
+                "name": "Liswerry",
+                "lat": "51.577679",
+                "lon": "-2.9615551",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Liswerry",
+                        "_text": "Lliswerry (Welsh: Llyswyry), also spelt incorrectly Liswerry, is both an electoral district (ward) and community of the city of Newport, South Wales. The area is governed by the Newport City Council.\nA survey was held on facebook in 2015 regarding the spelling of the name and result was 100% in favour that it is spelt Lliswerry. Not one person agreed with the spelling Liswerry. All the local sign post are spelt Lliswerry and the local schools.\n\n"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Liswerry",
+                        "_text": "Cymuned yn ninas Casnewydd yw Liswerry. Daw'r enw o'r enw Cymraeg Llyswyry. Roedd poblogaeth y gymuned yn 2001 yn 10,335.\nSaif i'r dwyrain o ganol y ddinas. Ceir nifer fawr o stadau diwydiannol yma, ynghyd a meysydd criced a ph\u00eal-droed y ddinas. Ffurfir ei ff\u00een gan Afon Wysg yn y dwyrain, tra mae Llanwern i'r gorllewin."
+                    }
+                ]
+            },
+            {
+                "id": "newport#llanbeder",
+                "name": "Llanbeder",
+                "lat": "51.613118",
+                "lon": "-2.886035"
+            },
+            {
+                "id": "newport#llandevaud",
+                "name": "Llandevaud",
+                "lat": "51.608718",
+                "lon": "-2.865743",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Llandevaud",
+                    "_text": "Llandevaud is a small hamlet in east Newport, Wales with a church about a half mile from the village centre, going down towards The Foresters Oaks, a restaurant and public house, previously named the Rising Sun. Near the church was a primary school, now a private dwelling, which closed down in the early 1960s. The last teachers at the school, the Phillipses, husband and wife, lived on the premises. At the time of its closure there were 25 pupils attending the school. Pupils were transferred to another larger school at Lanstone, nearby."
+                }
+            },
+            {
+                "id": "newport#llandevenny",
+                "name": "Llandevenny",
+                "lat": "51.579867",
+                "lon": "-2.849538"
+            },
+            {
+                "id": "newport#llanmartin",
+                "name": "Llanmartin",
+                "lat": "51.601922",
+                "lon": "-2.879738",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Llanmartin",
+                    "_text": "Llanmartin (Welsh: Llanfarthyn) is a village and parish in the city of Newport, Wales.\n\n"
+                }
+            },
+            {
+                "id": "newport#llanvair-discoed",
+                "name": "Llanvair-Discoed",
+                "lat": "51.627906",
+                "lon": "-2.799395"
+            },
+            {
+                "id": "newport#llanwern",
+                "name": "Llanwern",
+                "lat": "51.589659",
+                "lon": "-2.914446",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Llanwern",
+                    "_text": "Llanwern is an electoral ward and community in the eastern urban-rural fringe of the City of Newport, South East Wales. Llanwern ward is bounded by the M4 and Langstone to the north, Ringland, Liswerry and the River Usk to the west, the River Severn to the south and the city boundary to the east. The ward includes Bishton, Goldcliff, Whitson and Redwick, as well as the community of Llanwern (population 333), which contains Llanwern village and the western half of the site of Llanwern steelworks. The area is governed by the Newport City Council."
+                }
+            },
+            {
+                "id": "newport#lwyd",
+                "name": "Lwyd",
+                "lat": "53.2869584",
+                "lon": "-3.5847725"
+            },
+            {
+                "id": "newport#maes-glas",
+                "name": "Maes-glas",
+                "lat": "51.567496",
+                "lon": "-3.012247",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Maes-glas",
+                        "_text": "This is a redirect from an alternative language \u2013 a page name in Welsh to a page name in another language. These words may directly translate or they may be related words, names or phrases. For more information follow the category link.\nThis redirect leads to its target in accordance with the naming conventions for titles in other languages and can help writing and searches. However, per WP:NOTBROKEN do not replace these redirected links with a piped link unless the page is updated for another reason."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Maes-glas",
+                        "_text": "Pentref yn Sir y Fflint, gogledd-ddwyrain Cymru, yw'r Maes-glas (Saesneg: Greenfield).\nGorwedd y pentref tua milltir i'r gogledd o Dreffynnon, ar yr arfordir rhwng Mostyn i'r gorllewin a'r Fflint i'r dwyrain. Rhed y ffordd A548 trwy'r pentref. Mae l\u00f4n fechan yn mynd trwy dwnel dan Reilffordd Arfordir Gogledd Cymru i lan aber Afon Dyfrdwy.\nAr gyrion y pentref ceir safle Abaty Dinas Basing. Saif ym Mharc Treftadaeth Maes-glas (\"Greenfield Valley\"), i'r gorllewin o'r pentref, sy'n atyniad twristaidd."
+                    }
+                ]
+            },
+            {
+                "id": "newport#maindee",
+                "name": "Maindee",
+                "lat": "51.589214",
+                "lon": "-2.974686",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Maindee",
+                    "_text": "Maindee (Welsh: Maendy) is a large inner-city commercial and residential area in the city of Newport, South Wales.\nIt lies on the eastern side of the River Usk, mostly within the electoral district (ward) of Victoria, although some areas traditionally associated with Maindee are in the Beechwood ward.\nThe name 'Maindee' is an anglicised version of Maendy meaning 'stone house'.\nMaindee is home to a sizeable Asian-Muslim population with three mosques located in the area.\nA large selection of shops are located on Chepstow Road, Corporation Road and Church Road. A station of Gwent Police and a public library are located on Chepstow Road. A station of South Wales Fire and Rescue Service is also located in Maindee.\nThe annual Maindee Festival and Parade, held each Summer, is a popular community arts event to all residents in Newport.\nThe former Maindee Baths is an Art Deco building and the disused empty swimming pool has been used for location shots in the BBC TV series Being Human.\nMaindee Unlimited, a community-led regeneration charity for the Maindee area, was formed in 2014.\n\n"
+                }
+            },
+            {
+                "id": "newport#malpas",
+                "name": "Malpas",
+                "lat": "53.019049",
+                "lon": "-2.7673359",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Malpas",
+                        "_text": "Malpas could be:"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Malpas",
+                        "_text": "Gallai Malpas gyfeirio at un o sawl lle:\nMalpas, Casnewydd, de-ddwyrain Cymru\nMalpas, Swydd Gaer, gogledd-orllewin Lloegr\nMalpas, Cernyw"
+                    }
+                ]
+            },
+            {
+                "id": "newport#marshfield",
+                "name": "Marshfield",
+                "lat": "51.5342194",
+                "lon": "-3.0626925",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Marshfield",
+                    "_text": "Marshfield may refer to various places. In some instances, the name is a corruption of march, meaning a border.\n\n"
+                }
+            },
+            {
+                "id": "newport#michaelston-y-fedw",
+                "name": "Michaelston-y-Fedw",
+                "lat": "51.555059",
+                "lon": "-3.095016",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Michaelston-y-Fedw",
+                    "_text": "Michaelston-y-Fedw (Welsh: Llanfihangel-y-fedw) is a small rural village and community to the west of the city of Newport, Wales, on the border of Cardiff city and Caerphilly county borough.\nThe name, which is a partial Anglicization of the Welsh Llanfihangel-y-fedw \u2013 meaning \"church enclosure (of) Michael (in) the birches\" \u2013 may also be seen spelt \"Michaelstone-y-Fedw\", \"Michaelston-y-Vedw\" and \"Michaelstone-y-Vedw\", the parish church being dedicated to Saint Michael.\nThere is a local pub called the Cefn Mably Arms. It first opened in 1824.\nThe community is bounded by the Rhymney River to the west, the A48(M) motorway to the south, and the Pound Hill road to the north and east. It contains Michaelston itself as well as a small cluster of houses known as Michaelstone Bridge about a mile to the north.\n^ Office for National Statistics Parish Headcounts: Michaelstone-y-Fedw\n^ Michaelston-y-fedw (Llanfihangel-y-fedw) St Michael's Church:: OS grid ST2484 :: Geograph Britain and Ireland - photograph every grid square!"
+                }
+            },
+            {
+                "id": "newport#milton",
+                "name": "Milton",
+                "lat": "51.6923559",
+                "lon": "-4.835491",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Milton",
+                    "_text": "Milton may refer to:"
+                }
+            },
+            {
+                "id": "newport#monmouthshire and brecon canal",
+                "name": "Monmouthshire and Brecon Canal",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Monmouthshire and Brecon Canal",
+                    "_text": "The Monmouthshire and Brecon Canal is a small network of canals in South Wales. For most of its 35-mile (56 km) length it runs through the Brecon Beacons National Park, and its present rural character and tranquillity belies its original purpose as an industrial corridor for coal and iron, which were brought to the canal by a network of tramways and\/or railroads, many of which were built and owned by the canal company.\nThe \"Mon and Brec\" was originally two independent canals - the Monmouthshire Canal from Newport to Pontymoile Basin (including the Crumlin Arm) and the Brecknock and Abergavenny Canal running from Pontymoile to Brecon. Both canals were abandoned in 1962, but the Brecknock and Abergavenny route and a small section of the Monmouthshire route have been reopened since 1970. Much of the rest of the original Monmouthshire Canal is the subject of a restoration plan, which includes the construction of a new marina at the Newport end of the canal."
+                }
+            },
+            {
+                "id": "newport#nash",
+                "name": "Nash",
+                "lat": "51.5483318",
+                "lon": "-2.9483295",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Nash",
+                        "_text": "Nash or NASH may refer to:"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Nash",
+                        "_text": "Gallai Nash gyfeirio at:\nNash, yr enw Saesneg ar bentref a chymuned Trefonnen, Casnewydd\nJohn Nash, (1752 - 1835), pensaer.\nMalcolm Nash, cyn-gricedwr Morgannwg"
+                    }
+                ]
+            },
+            {
+                "id": "newport#newport (casnewydd)",
+                "name": "Newport (Casnewydd)"
+            },
+            {
+                "id": "newport#parc-seymour",
+                "name": "Parc-Seymour",
+                "lat": "51.622455",
+                "lon": "-2.858408"
+            },
+            {
+                "id": "newport#pen-y-lan",
+                "name": "Pen-y-lan",
+                "lat": "51.502042",
+                "lon": "-3.162457",
+                "wikipedia": {
+                    "lang": "cy",
+                    "href": "https:\/\/cy.wikipedia.org\/wiki\/Pen-y-lan",
+                    "_text": "Ardal yng ngogledd Caerdydd, Cymru ydy Penylan, sy'n cael ei adnabod ei dai oes Fictoria a ffyrdd llydan gyda rhesi o goed ar eu hyd.\nMae'n pontio ffordd ddeuol yr A48 sy'n rhannu de a gogledd Penylan. Mae'n un o ardaloedd gwyrddaf Caerdydd, ac yn cynnwys rhan deheuol o Barc y Rhath.\nMae llyfrgell a chanolfan gymunedol wedi eu lleoli yn ne Penylan, ar gyffordd Ffordd Penylan a Ffordd Wellfield.\nAgorwyd Synagogue Penylan ym 1955, a caewyd yn 2003 pan agorwyd synagogue newydd yng Ngerddi Cyncoed gerllaw.\n\u2191  Penylan Library and Community Centre. library.wales.org.\n\u2191  History. Cardiff United Synagogue. Adalwyd ar 2010-01-23."
+                }
+            },
+            {
+                "id": "newport#penhow",
+                "name": "Penhow",
+                "lat": "51.612574",
+                "lon": "-2.834595"
+            },
+            {
+                "id": "newport#pentre-poeth",
+                "name": "Pentre-poeth",
+                "lat": "51.6676519",
+                "lon": "-3.932693"
+            },
+            {
+                "id": "newport#peterstone wentlooge",
+                "name": "Peterstone Wentlooge"
+            },
+            {
+                "id": "newport#pillgwenlly",
+                "name": "Pillgwenlly",
+                "lat": "51.5638425",
+                "lon": "-2.9881474",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Pillgwenlly",
+                    "_text": "Pillgwenlly (Welsh: Pillgwenlli) is an electoral district (ward) and coterminous community parish in the city of Newport, South Wales. The area is governed by the Newport City Council.\n\n"
+                }
+            },
+            {
+                "id": "newport#ponthir",
+                "name": "Ponthir",
+                "lat": "51.630038",
+                "lon": "-2.972663",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Ponthir",
+                    "_text": "Ponthir (Welsh: Pont-hir) is a large village and community at the south-west of the county borough of Torfaen on the boundary of the city of Newport, Wales. It is approximately six miles from Newport city centre and 3\u00bd miles from Cwmbran, lying between the settlements of Caerleon and Llanfrechfa."
+                }
+            },
+            {
+                "id": "newport#pye corner",
+                "name": "Pye Corner",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Pye Corner",
+                    "_text": "Pye Corner may refer to:\nPye Corner, an area of the village of Nash, Newport, Gwent, Wales\nPye Corner railway station, Newport, Wales\n\nGolden Boy of Pye Corner, a statue in London, England"
+                }
+            },
+            {
+                "id": "newport#redwick",
+                "name": "Redwick",
+                "lat": "51.552735",
+                "lon": "-2.849298",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Redwick",
+                    "_text": "Redwick could refer to:\nRedwick, Newport, a village in south east Wales\nRedwick, South Gloucestershire, a village in England"
+                }
+            },
+            {
+                "id": "newport#rhiwderin",
+                "name": "Rhiwderin",
+                "lat": "51.5808571",
+                "lon": "-3.0685082",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Rhiwderin",
+                    "_text": "Rhiwderin (Welsh: Rhiwderyn) is a small village in the west of the city of Newport, South Wales.\nIt lies in the community parish and electoral district (ward) of Graig.\nThe original village lies across a level crossing alongside the Ebbw Valley Railway and off the main A468 Newport\u2014Caerphilly road. There are additional houses on the other side of the main road known as Rhiwderin Heights which have almost merged the village with neighbouring Bassaleg.\nThe Pentrepoeth School is the local primary school in the area.\n\n"
+                }
+            },
+            {
+                "id": "newport#ridgeway",
+                "name": "Ridgeway",
+                "lat": "51.6173426",
+                "lon": "-4.0258019",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Ridgeway",
+                    "_text": "A ridgeway (road) is a road or path that follows a ridge, or the highest part of the landscape."
+                }
+            },
+            {
+                "id": "newport#ringland",
+                "name": "Ringland",
+                "lat": "51.5915123",
+                "lon": "-2.9349507",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Ringland",
+                        "_text": "Ringland may refer to:"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Ringland",
+                        "_text": "Cymuned yn ninas Casnewydd yw Ringland. Roedd poblogaeth y gymuned yn 2001 yn 8,470.\nSaif y gymuned i'r dwyrain o ganol y ddinas, ar gyrion yr ardal adeiledig. Mae'n cynnwys stadau dai Bishpool a Threberth, yn dyddio o ddiwedd yn 1940au. Ger ff\u00een ddwyreiniol y gymuned, mae ysgol gynradd Gymraeg Casnewydd."
+                    }
+                ]
+            },
+            {
+                "id": "newport#rogerstone",
+                "name": "Rogerstone",
+                "lat": "51.592432",
+                "lon": "-3.0599949",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Rogerstone",
+                    "_text": "Rogerstone (Welsh: T\u0177 du, meaning \"Black house\") is a village, ward and community (parish) of the city of Newport, southeastern Wales. The area is governed by the Newport City Council. Historically the village was in Monmouthshire up to 1974 and latterly Gwent until 1996.\nThe parish lies at the gateway to the Sirhowy valley, to the north of Newport on the eastern side of the Ebbw River. It is bounded by the M4 motorway to the south, the Ebbw River to the west, the Henllys vale to the east and the city boundary with Caerphilly county borough to the north.\nRogerstone railway station is on the Ebbw Valley Railway. It opened on 6 February 2008 and links Ebbw Vale to Cardiff Central via Rogerstone. The Re-opening of the link from Rogerstone to Newport railway station is planned for the future."
+                }
+            },
+            {
+                "id": "newport#saltmarsh",
+                "name": "Saltmarsh",
+                "lat": "51.5417844",
+                "lon": "-2.9372585"
+            },
+            {
+                "id": "newport#somerton",
+                "name": "Somerton",
+                "lat": "51.585888",
+                "lon": "-2.964433",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Somerton",
+                        "_text": "Somerton \/\u02c8s\u028cm\u0259rt\u0259n\/ is a small town and civil parish in the South Somerset district of the English county of Somerset. It gave its name to the county of Somerset, was briefly, around the start of the 14th century, the county town, and around 900 AD was possibly the capital of Wessex. It has held a weekly market since the Middle Ages, and the main square with its market cross is today an attractive location for visitors. Situated on the River Cary, approximately 8.8 miles (14.2 km) north-west of Yeovil, the town has its own parish council serving a population of 4,697 as of 2011. The civil parish includes the hamlets of Etsome and Hurcot.\nThe history of Somerton dates back to the Anglo-Saxon era, when it was an important political and commercial centre. After the Norman conquest of England the importance of the town declined despite being the former county town of Somerset in the late thirteenth century and early fourteenth century. Despite losing county town status, Somerton then became a market town in the Middle Ages, whose economy was supported by transport systems using the River Parrett, and later rail transport via the Great Western Railway, and by light industries including glove making and gypsum mining.\nIn the centre of Somerton the wide market square, with its octagonal roofed market cross, is surrounded by old houses, while close by is the 13th century Church of St Michael and All Angels. Somerton also had links with Muchelney Abbey in the Middle Ages. The BBC drama The Monocled Mutineer was filmed in Somerton from 1985 to 1986."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Somerton",
+                        "_text": "Tref yn Gwlad yr Haf, Lloegr ydy Somerton . Mae ganddi boblogaeth o oddeutu 4,706.\nMae Caerdydd 56.6 km i ffwrdd o Somerton ac mae Llundain yn 190.5 km. Y ddinas agosaf ydy Wells sy'n 18 km i ffwrdd."
+                    }
+                ]
+            },
+            {
+                "id": "newport#st brides wentlooge",
+                "name": "St Brides Wentlooge"
+            },
+            {
+                "id": "newport#st julians",
+                "name": "St Julians",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/St Julians",
+                    "_text": "This is a redirect from a modification of the target's title; for example, its words are rearranged, or punctuation in the name is changed. In cases of modification from distinctly longer or shorter names, please use {{R from long name}} or {{R from short name}}, respectively. For more information follow the category link.\nUse this rcat instead of {{R from other capitalisation}} and {{R from plural}} in namespaces other than mainspace for those types of modification."
+                }
+            },
+            {
+                "id": "newport#stelvio",
+                "name": "Stelvio",
+                "lat": "51.5804173",
+                "lon": "-3.0128638",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Stelvio",
+                    "_text": "Stelvio may refer to\nStelvio, the Italian name for the municipality of Stilfs in South Tyrol\nStelvio Pass, a mountain pass in Italy\nStelvio National Park, a national park of Italy\nStelvio Piste, a downhill skiing course named after the Stelvio Pass located in Bormio\nStelvio (cheese), a cheese named after the village\nStelvio, a suburb of Newport, United Kingdom\nSt\u00e9lvio Rosa da Cruz, Portuguese footballer\nStelvio Cipriani, Italian composer\nStelvio Massi, Italian film director\nStelvio Mestrovich, Italian musicologist"
+                }
+            },
+            {
+                "id": "newport#stow park",
+                "name": "Stow Park"
+            },
+            {
+                "id": "newport#summerhill",
+                "name": "Summerhill",
+                "lat": "53.07817",
+                "lon": "-3.033461",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Summerhill",
+                        "_text": "Summerhill or Summer Hill may refer to:"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Summerhill",
+                        "_text": "Gallai Summerhill neu Summer Hill gyfeirio at:\nYr Alban\nSummerhill, Aberdeen\nSummerhill, Dumfries (maesdref)\nCymru\nBrynhyfryd, Wrecsam (Saesneg: Summerhill)\nIwerddon\nSummerhill, Swydd Fermanagh, Gogledd Iwerddon\nSummerhill, Dulyn, ardal yn ninas Dulyn\nSummerhill, Swydd Meath"
+                    }
+                ]
+            },
+            {
+                "id": "newport#summerleaze",
+                "name": "Summerleaze",
+                "lat": "51.5602845",
+                "lon": "-2.8298352"
+            },
+            {
+                "id": "newport#the village",
+                "name": "The Village",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/The Village",
+                    "_text": "The Village or Village may refer to:\nVillage, a human settlement or community"
+                }
+            },
+            {
+                "id": "newport#underwood",
+                "name": "Underwood",
+                "lat": "51.5961865",
+                "lon": "-2.8890049",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Underwood",
+                    "_text": "Underwood is a surname of English topographic origin."
+                }
+            },
+            {
+                "id": "newport#usk",
+                "name": "Usk",
+                "lat": "51.703533",
+                "lon": "-2.903404",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Usk",
+                    "_text": "Usk (Welsh: Brynbuga) is a small town in Monmouthshire, south-east Wales, situated 10 miles (16 km) northeast of Newport.\n\nIt is located on the River Usk, which is spanned by an arched stone bridge at the western entrance to the town. A castle above the town overlooks the ancient crossing point. It developed as a small market town, with some industry including the making of Japanware, and a notable prison. In recent years Usk has become known for its history of success in Britain in Bloom competitions, winning the Large Village award in 2005. The resident population of the town in 2001 was 2,318, increasing to 2,834 at the 2011 census."
+                }
+            },
+            {
+                "id": "newport#whitson",
+                "name": "Whitson",
+                "lat": "51.54858",
+                "lon": "-2.900821",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Whitson",
+                    "_text": "Whitson is a village in the outskirts of the city of Newport, south Wales.\n^ Office for National Statistics Parish Headcounts: Goldcliff Community (Whitson combined)"
+                }
+            },
+            {
+                "id": "newport#wilcrick",
+                "name": "Wilcrick",
+                "lat": "51.589264",
+                "lon": "-2.853101",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Wilcrick",
+                    "_text": "Wilcrick (Welsh: Chwilgrug) is a small village within the administrative boundary of the city of Newport, South Wales, just to the west of Magor. It is within the historic county of Monmouthshire.\nThe name translates from the Welsh as \"bare hill\". Three farms are located in the village: Church Farm, Newhouse Farm and Tump Farm."
+                }
+            }
+        ]
+    }
+}

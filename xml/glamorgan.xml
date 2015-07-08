@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<county name="Glamorgan">
+<county id="Glamorgan">
     <postcodes>
         <postcode>CF32</postcode>
         <postcode>CF35</postcode>

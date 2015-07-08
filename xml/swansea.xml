@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<county name="Swansea">
+<county id="Swansea">
     <postcodes>
         <postcode>SA1</postcode>
         <postcode>SA18</postcode>

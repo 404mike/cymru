@@ -1,0 +1,1142 @@
+{
+    "id": "Caerphilly",
+    "population": {
+        "href": {
+
+        },
+        "_text": {
+
+        }
+    },
+    "poscodes": {
+        "postcode": [
+            "CF3",
+            "CF46",
+            "CF81",
+            "CF82",
+            "CF83"
+        ]
+    },
+    "towns": {
+        "town": [
+            {
+                "id": "caerphilly#aberbargoed",
+                "name": "Aberbargoed",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Aberbargoed",
+                        "_text": "Aberbargoed (Welsh: Aberbargod) is a small town in the Welsh county borough of Caerphilly, within the historic boundaries of Monmouthshire, south Wales. Aberbargoed once contained the largest ever colliery waste tip in Europe, although this has now been reclaimed and turned into a country park."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Aberbargoed",
+                        "_text": "Pentref yn Sir Caerffili yw Aberbargoed (hefyd: Aberbargod ar lafar yn lleol). Fe'i lleolir yng ngogledd y sir ar y briffordd A4049 tua milltir i'r gogledd o Bargoed, rhwng Tredegar ac Ystrad Mynach."
+                    }
+                ]
+            },
+            {
+                "id": "caerphilly#abercarn",
+                "name": "Abercarn",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Abercarn",
+                        "_text": "Abercarn is a small town and community in Caerphilly county borough, Wales, 10 miles (16 km) north-west of Newport on the A467 between Cwmcarn and Newbridge, within the historic boundaries of Monmouthshire."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Abercarn",
+                        "_text": "Cymuned a thref fechain ym mwrdeistref sirol Caerffili yw Abercarn, 10 milltir (16 km) i'r gogled orllewin o Gasnewydd ar ffordd yr A467 rhwng Cwmcarn a Threcelyn, lleolir yn sir hanesyddol Sir Fynwy. Mae'n ran o etholaeth seneddol Islwyn. Roedd poblogaeth o 4793 yn ystod cyfrifiad 2001.\nMae'r dref yn gorwedd yng nghanol dyffryn Afon Ebwy, ar ymyl de-ddwyreiniol ardal mwyngloddio Morgannwg a Sir Fynwy. Mae Caerdydd 18.2 km i ffwrdd o Abercarn ac mae Llundain yn 210.4 km. Y ddinas agosaf ydy Casnewydd sy'n 11.6 km i ffwrdd.\nYn hanesyddol, mae'r ardal yn gysylltiedig \u00e2 glofeydd, gweithfeydd dur a phlat tin maes glo de Cymru a Chymoedd De Cymru, ond mae rhain i gyd wedi cau erbyn hyn. Yma y safodd Glofa'r Prince of Wales, lle bu'r drydedd drychineb waethaf yng Nghymru pan laddwyd 268 o weithwyr ar 11 Medi 1878."
+                    }
+                ]
+            },
+            {
+                "id": "caerphilly#abertridwr",
+                "name": "Abertridwr",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Abertridwr",
+                        "_text": "Abertridwr may refer to:\nAbertridwr, Powys, Wales\nAbertridwr, Caerphilly, Wales"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Abertridwr",
+                        "_text": "Gallai Abertridwr gyfeirio at un o ddau le yng Nghymru:\nAbertridwr (Powys)\nAbertridwr (Caerffili)"
+                    }
+                ]
+            },
+            {
+                "id": "caerphilly#abertysswg",
+                "name": "Abertysswg",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Abertysswg",
+                    "_text": "Abertysswg (Welsh: Abertyswg) is a village in the county borough of Caerphilly, Wales, within the historic boundaries of Monmouthshire."
+                }
+            },
+            {
+                "id": "caerphilly#argoed",
+                "name": "Argoed",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Argoed",
+                        "_text": "Argoed is a Welsh word, meaning 'by a wood'. It is the name of several places:\n\n"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Argoed",
+                        "_text": "Gallai Argoed gyfeirio at:\nHanes\nArgoed Llwyfain, safle brwydr yn Yr Hen Ogledd\nDaearyddiaeth\nArgoed, Caerffili, cymuned yn sir Caerffili\nArgoed, Powys, pentrefan ym Mhowys\nArgoed, Sir y Fflint, cymuned yn Sir y Fflint\nArgoed, Swydd Amwythig, pentref yn Swydd Amwythig\nArgoed, ffurf Gymraeg ar Argoad yn Llydaw\nArall\n'Argoed', cerdd gan T. Gwynn Jones\nAfan Argoed neu Parc Coedwig Afan, parc fforest yng Nghwm Afan\nYsgol Uwchradd Argoed. Bryn-y-Baal (Mynydd Isa), Sir y Fflint"
+                    }
+                ]
+            },
+            {
+                "id": "caerphilly#bargod (bargoed)",
+                "name": "Bargod (Bargoed)"
+            },
+            {
+                "id": "caerphilly#bargoed (bargod)",
+                "name": "Bargoed (Bargod)"
+            },
+            {
+                "id": "caerphilly#bedwas",
+                "name": "Bedwas",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Bedwas",
+                        "_text": "Bedwas is a town two miles north-east of Caerphilly, south Wales, situated in the Caerphilly county borough, within the historic boundaries of Monmouthshire.\nBedwas neighbours Trethomas, Graig-y-Rhacca and Machen, and forms a council ward in conjunction with those communities."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Bedwas",
+                        "_text": "Mae Bedwas yn dref fechan ar ororau Caerffili, ym mwrdeistref sirol Caerffili, de Cymru ger cymunedau Trethomas a Machen. Lleolir ar ffordd yr A468. Arferid ei alw'n \"Bedwas Isaf\" gan mai enw arall ar Faesycwmwr oedd Bedwas; unwyd y ddau bentref yn y 19eg ganrif dan yr enw \"Bedwas\" a dyfodd yn bennaf oherwydd y diwydiant glo.\nMae Caerdydd 13 km i ffwrdd o Bedwas ac mae Llundain yn 214.1 km."
+                    }
+                ]
+            },
+            {
+                "id": "caerphilly#bedwellty",
+                "name": "Bedwellty",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Bedwellty",
+                    "_text": "Bedwellty was a parish and urban district in Monmouthshire, South Wales, until 1974.\nThe original ancient parish was very large, including most of the upper Ebbw and Sirhowy valleys. A number of coal mining communities grew up in the parish, and in the 19th century these became separate local government units.\nOn 19 June 1874, Ebbw Vale, Rhymney and Tredegar local boards of health and local government districts were formed, each including parts of the civil parish. The remainder of Bedwellty itself became a local government district on 29 June 1891. In 1894 the local boards were replaced by urban districts. The areas included in Bedwellty, Ebbw Vale, Rhymney and Tredegar urban districts became separate civil parishes.\nBedwellty urban district included the hamlets and villages of Aberbargoed, Argoed, Bargoed, Blackwood, New Tredegar, Pengam and Rock.\nIn 1926 Bedwellty and Mynyddislwyn urban districts formed the West Monmouthshire Omnibus Board to ensure local control of bus services. In 1935 a County Review Order altered the boundaries between Bedwellty and Mynyddislwyn.\nThe urban district was abolished by the Local Government Act 1972 in 1974. Its area was split: the wards of Aberbargoed, Cwmsyfiog, New Tredegar and Phillipstown passed to the Rhymney Valley district of Mid Glamorgan, and the remainder was included in the Islwyn borough of Gwent.\nFurther local government reorganisation in 1996 has led to the area of the former urban district being included in the county borough of Caerphilly. It now corresponds to the communities of Aberbargoed, Argoed, Bargoed, Blackwood, Cefn Fforest, New Tredegar, and part of the community of Darran Valley.\nThe parliamentary constituency of Bedwellty was created in 1918 covering a much larger area. It continued to exist until 1983, when it was replaced by the constituency of Islwyn. The member of parliament for the Bedwellty and Islwyn constituencies from 1970 to 1995 was Neil Kinnock, who took the title Baron Kinnock, of Bedwellty in the County of Gwent in 2005.\n\n"
+                }
+            },
+            {
+                "id": "caerphilly#black vein",
+                "name": "Black Vein"
+            },
+            {
+                "id": "caerphilly#blackwood (coed duon)",
+                "name": "Blackwood (Coed Duon)"
+            },
+            {
+                "id": "caerphilly#brithdir",
+                "name": "Brithdir",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Brithdir",
+                        "_text": "Brithdir is the name of a number of locations in Wales:"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Brithdir",
+                        "_text": "Gallai Brithdir gyfeirio at:\nPentrefi\nBrithdir, Caerffili\nBrithdir, Ceredigion\nBrithdir, Gwynedd\nCaer Rufeinig Brithdir\nYsgol Gynradd Brithdir\n\nBrithdir, Powys - Plasdy ac ardal yng nghymuned Aberriw, Powys\nBrithdir a Chwm Mawr - Safle o Ddiddordeb Gwyddonol Arbennig ym Mhowys\n\nCymuned\nBrithdir a Llanfachreth, Gwynedd"
+                    }
+                ]
+            },
+            {
+                "id": "caerphilly#bryn",
+                "name": "Bryn",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Bryn",
+                        "_text": "Bryn (which is Welsh for hill) is a component ward of the Metropolitan Borough of Wigan, Greater Manchester, England. It is part of the larger town of Ashton-in-Makerfield and is geographically indistinguishable from it. It forms a separate local council ward. Served by Bryn railway station, Bryn is home to the Three Sisters Recreation Area which has been created from three large spoil tips which remain from Bryn's role in Lancashire's coal mining past. The Three Sisters Recreation Area is also the site of the Three Sisters Race Circuit, which provides race driving instruction and plays host to kart racing events and motorcycle road race meetings at clubman level.\nThe former Bryn (or Brynne) Hall was the seat of the Gerard family beginning in the thirteenth century or earlier. It was a \"safe house\" for the English Roman Catholic martyr and saint Edmund Arrowsmith and his hand was reportedly preserved there after his execution. The house, dating to the fourteenth century, has now completely collapsed and remaining stones been cleared.\nThe Unitarian Park Lane Chapel in Wigan Road was built in 1697, though its congregation was founded in 1662. It is the oldest Non-conformist chapel and congregation in the whole district. By the nineteenth century Park Lane was only one of nine non-conformist chapels in the heavily recusant area."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Bryn",
+                        "_text": "Allt neu fynydd bychan yw bryn. Yn ogystal \u00e2 bod yn elfen gyffredin iawn mewn enwau lleoedd ceir enghreifftiau ohono ar ben ei hun fel enw lle:\nCymru\nBryn (Bannau Brycheiniog); Cyfeirnod grid OS: SO073227\nBryn, Castell-nedd Port Talbot\nBryn, Llanelli\nBryn-y-Gefeiliau\nBryn-crug\nBryn Euryn\nBryn Iwan\nBryn Celli Ddu\nLlanfair-ar-y-bryn\nBryn Gwyn\nBrynrefail\nBryniau Clwyd\nLloegr\nBryn, Swydd Amwythig\nBryn, Wigan\nCyffredinol\nbryngaer\nEnw personol Cymraeg ydy Bryn, hefyd. Mae enghreifftiau o nod yn cynnwys:\nBryn F\u00f4n\nBryn Terfel"
+                    }
+                ]
+            },
+            {
+                "id": "caerphilly#brynawel",
+                "name": "Brynawel"
+            },
+            {
+                "id": "caerphilly#bute town",
+                "name": "Bute Town",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Bute Town",
+                    "_text": "Bute Town (Welsh: Drenewydd \"New Town\") is a village in the county borough of Caerphilly, near Rhymney, in Wales. It was built in the 1830s as a \"model village\" to house local workers, and named after the Marquis of Bute. Built with 48 houses arranged in three rows, the village housed between 195 and 430 people in the 19th century. Bute Town has been a Conservation Area since October 1972, and all of the buildings are on the statutory list of buildings of architectural or historic interest.\nThe Doctor Who episode The Crimson Horror filmed on location in Bute Town in mid-2012."
+                }
+            },
+            {
+                "id": "caerphilly#caerffil (caerphilly)",
+                "name": "Caerffil (Caerphilly)"
+            },
+            {
+                "id": "caerphilly#caerphilly (caerffil)",
+                "name": "Caerphilly (Caerffil)"
+            },
+            {
+                "id": "caerphilly#cefn bychan (newbridge)",
+                "name": "Cefn Bychan (Newbridge)"
+            },
+            {
+                "id": "caerphilly#cefn fforest",
+                "name": "Cefn Fforest",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Cefn Fforest",
+                        "_text": "Cefn Fforest is a Community in Caerphilly County Borough, Wales. A wholly urbanised community, it forms the western fringes of the town of Blackwood. By area, it is the smallest of all of the communities of Wales.\n\n"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Cefn Fforest",
+                        "_text": "Cymuned ac un o faestrefi Caerffili ym mwrdeisdref sirol Caerffili ydy Cefn Fforest sy'n ffinio gyda maestref y Coed-duon."
+                    }
+                ]
+            },
+            {
+                "id": "caerphilly#cefn hengoed",
+                "name": "Cefn Hengoed",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Cefn Hengoed",
+                        "_text": "Cefn Hengoed is a small village in the centre of Caerphilly borough, within the historic boundaries of Glamorganshire. Bordering the larger village of Hengoed, Cefn Hengoed contains the local Derwendeg primary school. Derwendeg primary school has recently celebrated its 90th birthday.\nCefn Hengoed has a local public house called The Crosskeys which is situated facing the opening of Lansbury Avenue.\nThere is also a youth center in Cefn Hengoed where the young (and medium young) children can come together in fraternity, equality and liberty to relax without worrying about homework or school for exactly an hour and a half.\nIt is also home to Europe's most expensive toilet, which was designed and built by Microsoft. The toilet, which is housed in the local post office, had to be decommissioned due to the expense of running its twin-core flushing system.\nIn 2011 there was speculation that Terrence Malick was going to film part of his upcoming movie The Tree of Life in the village. However, when Alan dropped his flip camera in the river whilst filming tadpoles, these plans were abandoned."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Cefn Hengoed",
+                        "_text": "Pentref bychan yn sir Caerffili yw Cefn Hengoed. Fe'i lleolir yn rhan isaf Cwm Rhymni ar bwys y briffordd A469 tua 2 filltir i'r gogledd o Ystrad Mynach. Mae'n rhan o gymuned Gelli-gaer, sy'n cynnwys pentref Hengoed hefyd.\nCeir ysgol gynradd Derwendeg yn y pentref."
+                    }
+                ]
+            },
+            {
+                "id": "caerphilly#cefn-crib",
+                "name": "Cefn-crib"
+            },
+            {
+                "id": "caerphilly#chapel of ease",
+                "name": "Chapel of Ease",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Chapel of Ease",
+                    "_text": "This is a redirect from a title with another method of capitalisation. It leads to the title in accordance with the Wikipedia naming conventions for capitalisation, or it leads to a title that is associated in some way with the conventional capitalisation of this redirect title. This may help writing, searching and international language issues. For more information follow the category link.\nIf this redirect is an incorrect capitalization (a typo), then it is made available to aid searches, so pages that use this link should be updated to link directly to the target.\nUse this rcat to tag only mainspace redirects; when other capitalisations are in different namespaces, use {{R from modification}} instead."
+                }
+            },
+            {
+                "id": "caerphilly#chatham",
+                "name": "Chatham",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Chatham",
+                    "_text": "Chatham may refer to:"
+                }
+            },
+            {
+                "id": "caerphilly#coed duon (blackwood)",
+                "name": "Coed Duon (Blackwood)"
+            },
+            {
+                "id": "caerphilly#craig-y-rhacca",
+                "name": "Craig-y-Rhacca"
+            },
+            {
+                "id": "caerphilly#croespenmaen",
+                "name": "Croespenmaen"
+            },
+            {
+                "id": "caerphilly#crosskeys",
+                "name": "Crosskeys",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Crosskeys",
+                        "_text": "Crosskeys (Welsh: Pont-y-cymer) is a small village and community in Caerphilly county borough in Wales."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Crosskeys",
+                        "_text": "Pentref a chymuned ym Mwrdeisdref sirol Caerffili ydy Crosskeys. Mae'r ardal wedi'i henwi ar \u00f4l y gwesty sydd yno, a'r enw Cymraeg cyn hynny oedd Pontycymer."
+                    }
+                ]
+            },
+            {
+                "id": "caerphilly#crumlin",
+                "name": "Crumlin",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Crumlin",
+                    "_text": "Crumlin may refer to:\nNorthern Ireland, UK\nCrumlin, Belfast, a ward of North Belfast\nCrumlin, County Antrim, a village in County Antrim\nCrumlin railway station, Northern Ireland, County Antrim\nCrumlin United F.C., a Northern Irish football club\nthe Crumlin meteorite of 1902, which fell in Northern Ireland\n\nRepublic of Ireland\nCrumlin, County Westmeath, a townland in the civil parish of Rathaspick\nCrumlin, Dublin, a suburb of Dublin\nCrumlin GAA, a Gaelic Athletic Association in Dublin\n\nWales, UK\nCrumlin, Caerphilly, a town in Caerphilly County Borough"
+                }
+            },
+            {
+                "id": "caerphilly#cwm dows",
+                "name": "Cwm Dows"
+            },
+            {
+                "id": "caerphilly#cwm gelli",
+                "name": "Cwm Gelli"
+            },
+            {
+                "id": "caerphilly#cwmcarn",
+                "name": "Cwmcarn",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Cwmcarn",
+                        "_text": "Cwmcarn is a village situated in the Ebbw valley in south Wales, in the historic boundaries of Monmouthshire. It grew with 19th-century coal mining, but is now known for its extensive mature forestry and greenery, that attract thousands of visitors and mountain biking enthusiasts each year."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Cwmcarn",
+                        "_text": "Pentref ym Mwrdeistref Sirol Caerffili yw Cwmcarn, a leolir yn nyffryn Afon Ebwy. Mae'n rhan o etholaeth seneddol Islwyn. Tyfodd yn sylweddol yn ystod y 19eg ganrif gyda dyfodiad mwyngloddio glo i'r ardal. Mae'n adnabyddus am ei goedwig sy'n tynnu miloedd o ymwelwyr a beicwyr mynydd pob blwyddyn."
+                    }
+                ]
+            },
+            {
+                "id": "caerphilly#cwmfelinfach",
+                "name": "Cwmfelinfach",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Cwmfelinfach",
+                    "_text": "Cwmfelinfach is a small village located in the Sirhowy valley of south-east Wales. It is part of the district of Caerphilly within the historic boundaries of Monmouthshire. Located north of Wattsville and about 5 miles north of the nearest town Risca and south of Blackwood.\nCwmfelinfach was home to a coal mining community during the early to mid 20th century. The colliery, known as \"Nine Mile Point\", opened about 1905 and closed in 1964. Nine Mile Point Colliery was the site of the first ever 'sit in' of miners. During 1935 there was a \"stay down strike\" involving 164 colliers. They were protesting over the use of \"Scab\" miners (men not members of the Federation unlike the rest of the \"Points\" workforce) and their ordeal only ended after the company promised no non-federation men would be employed at the colliery, the stay-down strike lasted for 177 hours. Miners from other collieries in the area, some taking similar action, supported their action.\nCwmfelinfach can be translated from the Welsh language as \"valley of the little mill\". The village was a small hamlet (place) until the late 19th century \u2014 therefore the majority of housing is traditional terraced from early 20th century. A map of 1885 showns the Melin (mill) and the Welsh Calvinistic Methodist chapel Babel Chapel. [1] The grave of Islwyn the 19th century Welsh-language poet can be found here. [2]\nTo the east the valley is bordered by the hills of Pen-y-Trwyn (1,028 ft \/ 313 m). To the west is Mynydd y Grug (1,132 ft \/ 345 m)."
+                }
+            },
+            {
+                "id": "caerphilly#cwmnantyrodyn",
+                "name": "Cwmnantyrodyn"
+            },
+            {
+                "id": "caerphilly#cwmsyfiog",
+                "name": "Cwmsyfiog"
+            },
+            {
+                "id": "caerphilly#danygraig",
+                "name": "Danygraig"
+            },
+            {
+                "id": "caerphilly#deri",
+                "name": "Deri",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Deri",
+                    "_text": "Deri may refer to:\nAryeh Deri (born 1959), leader of Israel's Shas Party\nMiksa D\u00e9ri (1854\u20131938), a Hungarian electrical engineer\n(Fiction), an Ergoth Emperor\nthe Digital Enterprise Research Institute (DERI), an international network of semantic web research organisations.\nDeri, Caerphilly, a village in South Wales\nIn India, Deri may refer to Hero-stones of Sati, indicating the location where the lady might have become Sati."
+                }
+            },
+            {
+                "id": "caerphilly#draethen",
+                "name": "Draethen",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Draethen",
+                        "_text": "Draethen is a village in the county borough of Caerphilly, South Wales. The village is located some 3 miles (4.8 km) south of Caerphilly, and 6 miles (9.7 km) northeast of Cardiff.\nLocated on the southern reaches of the Rhymney River within the historic boundaries of Glamorgan, Draethen is bordered by Bedwas to the west, Rhiwderin to the east, Michaelston-y-Fedw to the south east and Lower Machen to the north.\nDraethen Woods contain a number of former lead mining sites and surface workings dating back to at least Roman times. The mines once exploited a vein of lead ore that exists in the exposed limestone of the Southern Outcrop in this region. All the sites are presently fenced off, but there are no known access restrictions, making it a popular location for experienced cavers.\nThe Rhymny Valley Ridgeway Walk, the Rhymney River Circular Walk and the Llwyn Hir Forestry Walk all meet up at Draethen."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Draethen",
+                        "_text": "Pentref bychan ym Mwrdeisdref Sirol Caerffili yw Draethen. Mae'n gorwedd yn ne-ddwyrain y sir tua 2 filltir i'r de o bentref Machen, ar bwys y ffordd A468 a thus 6 milltir i'r gorllewin o ddinas Casnewydd. Mae'n rhan o gymuned Rhydri.\n\n<"
+                    }
+                ]
+            },
+            {
+                "id": "caerphilly#ebbw",
+                "name": "Ebbw"
+            },
+            {
+                "id": "caerphilly#energlyn",
+                "name": "Energlyn"
+            },
+            {
+                "id": "caerphilly#fairoak",
+                "name": "Fairoak"
+            },
+            {
+                "id": "caerphilly#fleur-de-lis",
+                "name": "Fleur-de-lis",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Fleur-de-lis",
+                    "_text": "The fleur-de-lis or fleur-de-lys (plural: fleurs-de-lis) is a stylized lily (in French, fleur means \"flower\", and lis means \"lily\") or iris that is used as a decorative design or symbol. It may be \"at one and the same time, religious, political, dynastic, artistic, emblematic, and symbolic\", especially in French heraldry.\nThe fleur-de-lis is represented in Unicode at U+269C (\u269c) in the Miscellaneous Symbols block."
+                }
+            },
+            {
+                "id": "caerphilly#fochriw",
+                "name": "Fochriw",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Fochriw",
+                        "_text": "Fochriw is a village located in Caerphilly County Borough, Wales. It was well known for its neighbouring collieries, which employed nearly the entire local population in the early 20th century. It lies within the historic county boundaries of Glamorgan. The village appears as the backdrop on the BBC Wales sitcom High Hopes credits."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Fochriw",
+                        "_text": "Pentref yng nghymuned Cwm Darran ym Mwrdeisdref Sirol Caerffili yw Fochriw. Saif yn rhan uchaf Cwm Darran, neu Bargoed Fach, ychydig i'r gorllewin o'r briffordd A469 ac i'r de-orllewin o dref Rhymni.\nAr un adeg roedd Fochriw yn ardal lofaol bwysig, gyda nifer o weithfeydd glo yn y cylch. Erbyn hyn, mae llawer o olion y cyfnod hwn wedi diflannu oherwydd gwaith adfer y dirwedd. Mae dwy ran i'r pentref, Ysgwyddgwyn a Brithdir, gyda nant Bargoed Fach yn eu gwahanu.\nCeir ysgol ar gwr y pentref."
+                    }
+                ]
+            },
+            {
+                "id": "caerphilly#gelli-haf",
+                "name": "Gelli-haf"
+            },
+            {
+                "id": "caerphilly#gelligaer",
+                "name": "Gelligaer",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Gelligaer",
+                    "_text": "Gelligaer is a town and community in the County Borough of Caerphilly, Wales, in the Rhymney River valley. The community also includes the villages of Cefn Hengoed and Hengoed to the south."
+                }
+            },
+            {
+                "id": "caerphilly#gelligroes",
+                "name": "Gelligroes"
+            },
+            {
+                "id": "caerphilly#gilfach",
+                "name": "Gilfach",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Gilfach",
+                    "_text": "Gilfach is the small district that lies between Bargoed and Pengam, situated in the Caerphilly county borough, seven miles north of Caerphilly, within the historic boundaries of Glamorgan, Wales.\nThe name Gilfach is derived from the Welsh words cil (nook) and bach (small).\nGilfach is the smallest of the three Electoral wards that make up Greater Bargoed (along with Bargoed and Aberbargoed).\nGilfach has many institutions, such as an OAP Welfare Hall, Workingmen's Club, Scout Hall, and a YMCA building. There is also a bowling green and tennis courts.\nAs with many villages and towns through Britain, Gilfach has a War Memorial to the fallen of both world wars situated in the Garden of Peace.\nThere are two primary schools in Gilfach: Gilfach Fargoed Primary School, which teaches through the medium of English; and Ysgol Gymraeg Gilfach Fargod, which teaches through the medium of the Welsh language.\nGilfach has two places of worship in St. Margaret's parish church, and Ainon Baptist church.\nIn addition to the Workman's Club, Gilfach has two public houses in the Gwerthonor and The Capel Hotel.\nThe village is served by Gilfach Fargoed railway station."
+                }
+            },
+            {
+                "id": "caerphilly#glan-y-nant",
+                "name": "Glan-y-nant"
+            },
+            {
+                "id": "caerphilly#glandwr",
+                "name": "Glandwr"
+            },
+            {
+                "id": "caerphilly#gwrhay",
+                "name": "Gwrhay"
+            },
+            {
+                "id": "caerphilly#hendredenny park",
+                "name": "Hendredenny Park"
+            },
+            {
+                "id": "caerphilly#hengoed",
+                "name": "Hengoed",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Hengoed",
+                        "_text": "Hengoed \/\u02c8h\u025bn.\u0261\u0254\u026ad\/ is a village on the west side of the Rhymney Valley - between Ystrad Mynach to the South and Cefn Hengoed to the North. Across the valley it looks towards Maesycwmmer. The village is in the county borough of Caerphilly, in the traditional county of Glamorgan, Wales. The name literally means 'old wood' in the Welsh language. The electoral ward of Hengoed includes the villages of Hengoed and Cefn Hengoed and a part of Tir-y-Berth in the north west. The ward population was recorded at 5,548 in the 2011 census, an increase of 10% over the previous 10 years (2001 = 5,046), due in part to several new-build housing developments in the ward between 2001 and 2011."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Hengoed",
+                        "_text": "Pentref mawr ym Mwrdeistref Sirol Caerffili yw'r Hengoed. Mae'n rhan o gymuned Gelli-gaer sy'n cynnwys pentref cyfagos Cefn Hengoed hefyd. Fe'i lleolir ar ochr orllewinol Cwm Rhymni. Poblogaeth: 5,044 (Cyfrifiad 2001).\nMae gan yr Hengoed ddwy sedd ar Gyngor Bwrdeistref Sirol Caerffili lle mae'n cael ei gynrychioli gan ddau gynghorwr Plaid Cymru ar hyn o bryd.\nLleolir Ysgol Gynradd Gymraeg Ystrad Mynach yn agos i'r pentref.\nGwasanaethir yr Hengoed gan orsaf ar lein y Cymoedd sy'n ei gysylltu gyda Rhymni i'r gogledd a gorsaf Caerdydd Canolog i'r de."
+                    }
+                ]
+            },
+            {
+                "id": "caerphilly#hollybush",
+                "name": "Hollybush",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Hollybush",
+                    "_text": "Hollybush is a residential area of Malpas within the city of Newport, South Wales, United Kingdom.\n\n"
+                }
+            },
+            {
+                "id": "caerphilly#kendon",
+                "name": "Kendon",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Kendon",
+                    "_text": "Kendon may refer to:\nAdam Kendon, British authority on the topic of gesture\nFrank Samuel Herbert Kendon, English writer, poet and academic"
+                }
+            },
+            {
+                "id": "caerphilly#lansbury park",
+                "name": "Lansbury Park",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Lansbury Park",
+                    "_text": "Lansbury Park is a residential suburb area of the town of Caerphilly in Wales."
+                }
+            },
+            {
+                "id": "caerphilly#llan-dafal",
+                "name": "Llan-dafal"
+            },
+            {
+                "id": "caerphilly#llanbradach",
+                "name": "Llanbradach",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Llanbradach",
+                        "_text": "Llanbradach is a village in the Welsh county borough of Caerphilly, within the historic boundaries of Monmouthshire, south Wales less than 3 miles north of the town of Caerphilly.\nIt is mostly residential, and contains three pubs, a primary school, a small local shopping area, a recreation ground, a library, two doctor's surgeries, and a youth centre. Being a traditional long and narrow South Wales Valleys village, its potential for expansion is restricted by the river on its eastern side and the hillside to the west.\nThe village is served by Llanbradach railway station on the former Rhymney Railway line. The Village is twinned with the village of Ploubezre in Brittany"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Llanbradach",
+                        "_text": "Mae Llanbradach yn bentref ac yn gymuned i'r gogledd o dref Caerffili ym Mwrdeistref Sirol Caerffili. Saif ger y briffordd A469.\nMae'r enw yn dod o'r Afon Bradach"
+                    }
+                ]
+            },
+            {
+                "id": "caerphilly#llancaiach",
+                "name": "Llancaiach",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Llancaiach",
+                    "_text": "Llancaich is a hamlet just north of the village of Nelson, Caerphilly."
+                }
+            },
+            {
+                "id": "caerphilly#llanfabon",
+                "name": "Llanfabon",
+                "wikipedia": {
+                    "lang": "cy",
+                    "href": "https:\/\/cy.wikipedia.org\/wiki\/Llanfabon",
+                    "_text": "Plwyf ym Merthyr Tudful oedd Llanfabon, wedi ei lleoli tua 5 milltir i'r gogledd-gogledd-orllewin o Gaerffili. Roedd yng ngwmwd Senghenydd, ym Morgannwg.\nYn yr ardal yma yr oedd teulu Llanbradach yn afer byw. Cysgrwyd yr eglwys leol i Sant Mabon, a galwyd hi ar ei \u00f4l. Mae Mabon, fodd bynnag yn enw llawer h\u0177n na hyn ac yn deillio o'r duw Celtaidd Mabon fab Modron neu Maponos."
+                }
+            },
+            {
+                "id": "caerphilly#llanfach",
+                "name": "Llanfach"
+            },
+            {
+                "id": "caerphilly#llanhilleth",
+                "name": "Llanhilleth",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Llanhilleth",
+                    "_text": "Llanhilleth (from Welsh Llanheledd, meaning \"Church of Saint Heledd, the \/i\/ replacing the original \/e\/ due to the regional dialect of the area (Gwenhwyseg) changing the \/e\/ sound to \/i\/\") is a village on the A467 road between Ebbw Vale and Crumlin in Blaenau Gwent, Wales.\nTwo large mounds in the field behind the Carpenter\u2019s Arms are the remains of the medieval Llanhilleth castle which originally had two large, stone-built towers.\nPart of the Monmouthshire Canal ran through the parish; the Ebbw River forms the western boundary of the parish.\nNearby are the villages of Aberbeeg and St Illtyd, the latter of which contains the parish church."
+                }
+            },
+            {
+                "id": "caerphilly#llechryd",
+                "name": "Llechryd",
+                "lat": "52.062678",
+                "lon": "-4.601234",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Llechryd",
+                        "_text": "Llechryd (Welsh pronunciation: [\u026c\u025bxr\u026ad]) is a village on the A484 road approximately 3 miles (4.8 km) from Cardigan, in Ceredigion, Wales. It is part of the Community of Llangoedmor."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Llechryd",
+                        "_text": "Pentref yn Nyffryn Teifi, Ceredigion yw Llechryd, a leolir tua 3 milltir a hanner i'r de-ddwyrain o Aberteifi.\nSaif y pentref ar lan ogleddol afon Teifi ar l\u00f4n yr A484 rhwng Castell Newydd Emlyn ac Aberteifi. Ceir pont ar afon Teifi yn y pentref sy'n dwyn y ffordd i Gilgerran ac Abercuch ar y lan ddeheuol.\nLlai na milltir i'r dwyrain o Lechryd ceir safle hen blas Maenordeifi (Manordeifi). Glanarberth yw'r enw ar ran o'r pentref, sy'n dwyn cysylltiad ag Arberth (safle llys Pwyll yng nghainc gyntaf y Mabinogi)."
+                    }
+                ]
+            },
+            {
+                "id": "caerphilly#lower machen",
+                "name": "Lower Machen",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Lower Machen",
+                    "_text": "Lower Machen (Welsh: Machen Isaf) is a small hamlet of 19 houses on the A468 road at the very western edge of the city of Newport, South Wales.\nMachen itself lies further west in the county borough of Caerphilly, although both lie within the historic boundaries of Monmouthshire.\nLower Machen holds an annual festival of chamber music concerts in the 12th-century church of St. Michael and All Angels. Ruperra Castle is also located in Lower Machen."
+                }
+            },
+            {
+                "id": "caerphilly#lower ochrwyth",
+                "name": "Lower Ochrwyth"
+            },
+            {
+                "id": "caerphilly#machen",
+                "name": "Machen",
+                "lat": "51.595305",
+                "lon": "-3.134396",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Machen",
+                        "_text": "Machen is a large village 3 miles east of Caerphilly, south Wales, situated in the Caerphilly borough within the historic boundaries of Monmouthshire. It neighbours Bedwas and Trethomas, and forms a council ward in conjunction with those communities. It lies on the Rhymney River. Mynydd Machen (Machen Mountain) provides a view over the village. It is possible to walk up to and along the top of the mountain, where a number of large boulders are present."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Machen",
+                        "_text": "Mae Machen (Cyfeirnod OS: ST 226 887) yn bentref eitha mawr, wedi'i leoli tair milltir i'r dwyrain o Gaerffili ar ffordd yr A468 ym Mwrdeistref Sirol Caerffili yn ne Cymru. Mae Bedwas a Threthomas gerllaw, sydd ynghyd \u00e2 Machen yn llunio ward cyngor. Ceir Castell Machen, un o gestyll y tywysogion Cymreig, ger y pentref.\nSaif y pentref wrth droed Mynydd Machen. Mae'n bosibl cerdded i fyny ac ar hyd y mynydd, lle mae nifer o feini a enwir mewn chwedlau lleol. Creodd Dennis Spargo, trigolyn o Fachen, ffilm o'r enw Machen: Then & Now, sef hanes y pentref yn 2005, ynghyd \u00e2'i deulu a'i ffrindiau."
+                    }
+                ]
+            },
+            {
+                "id": "caerphilly#maesycwmmer",
+                "name": "Maesycwmmer",
+                "lat": "51.64218",
+                "lon": "-3.223086",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Maesycwmmer",
+                    "_text": "Maesycwmmer (Welsh: Maesycwmer) is a village and community in the centre of Caerphilly County Borough in Wales, within the historic boundaries of Monmouthshire.\n\n"
+                }
+            },
+            {
+                "id": "caerphilly#manmoel",
+                "name": "Manmoel",
+                "lat": "51.724994",
+                "lon": "-3.1889599"
+            },
+            {
+                "id": "caerphilly#markham",
+                "name": "Markham",
+                "lat": "51.702836",
+                "lon": "-3.208469",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Markham",
+                    "_text": "Markham may refer to:"
+                }
+            },
+            {
+                "id": "caerphilly#mynyddislwyn",
+                "name": "Mynyddislwyn",
+                "lat": "51.637594",
+                "lon": "-3.165904",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Mynyddislwyn",
+                    "_text": "Mynyddislwyn was a civil parish and urban district in Monmouthshire, south east Wales. It was abolished in local government reorganisation in 1974.\nThe ancient parish of Mynyddislwyn covered a large part of the lower Ebbw and Sirhowy Valleys. In 1894 the Crosskeys area was included in the urban district of Risca, and Abercarn was constituted a separate urban district.\nThe remainder of the parish was included in St Mellons Rural District, and included the hamlets of Fleur-de-Lis, Gelligroes, Penmain, Pontllanfraith and Ynysddu.\nOn October 1, 1903 Mynyddislwyn became an urban district. In 1926 it formed the West Monmouthshire Omnibus Board with neighbouring Bedwellty urban district, to maintain local ownership of local bus services. In 1935 the boundaries were adjusted with Bedwas and Machen and Bedwellty urban districts under a County Review Order.\nMynyddislwyn urban district was abolished in 1974, with its area passing to the borough of Islwyn, in the newly created administrative county of Gwent. Further local government reform in 1996 included the area in the county borough of Caerphilly.\nUnfortunately, St Tudor's church rarely has services now due to the poor attendance and commitment of the minute congregation.\n\n"
+                }
+            },
+            {
+                "id": "caerphilly#nant-y-ceisiad",
+                "name": "Nant-y-ceisiad",
+                "lat": "51.6000214",
+                "lon": "-3.157909"
+            },
+            {
+                "id": "caerphilly#nelson",
+                "name": "Nelson",
+                "lat": "51.65229",
+                "lon": "-3.2836949",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Nelson",
+                        "_text": "Nelson commonly refers to\nLord Nelson (1758\u20131805), British admiral\nNelson may also refer to:"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Nelson",
+                        "_text": "Gall Nelson gyfeirio at:"
+                    }
+                ]
+            },
+            {
+                "id": "caerphilly#new tredegar",
+                "name": "New Tredegar",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/New Tredegar",
+                    "_text": "New Tredegar (Welsh: Tredegar Newydd) is a former mining community in the Rhymney Valley, Caerphilly county borough, Wales, within the historic boundaries of Monmouthshire.\nNew Tredegar is now home to 'The Winding House', a county museum which opened in 2008. It is controlled by CCBC Museums service and the Friends of the Winding House community group.\nThe area is rich in the mining heritage of the South Wales mining industry.\nCapel Golf Club, New Tredegar, (now defunct) first appeared in the mid 1930s and continued into the 1950s."
+                }
+            },
+            {
+                "id": "caerphilly#newbridge (cefn bychan)",
+                "name": "Newbridge (Cefn Bychan)"
+            },
+            {
+                "id": "caerphilly#newtown",
+                "name": "Newtown",
+                "lat": "52.512112",
+                "lon": "-3.313106",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Newtown",
+                        "_text": "Newtown may refer to:"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Newtown",
+                        "_text": "Gallai Newtown gyfeirio at:"
+                    }
+                ]
+            },
+            {
+                "id": "caerphilly#oakdale",
+                "name": "Oakdale",
+                "lat": "51.681194",
+                "lon": "-3.178658",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Oakdale",
+                        "_text": "Oakdale is the name of several places:"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Oakdale",
+                        "_text": "Ceir sawl lle o'r enw Oakdale:"
+                    }
+                ]
+            },
+            {
+                "id": "caerphilly#pantside",
+                "name": "Pantside",
+                "lat": "51.6689027",
+                "lon": "-3.1352786"
+            },
+            {
+                "id": "caerphilly#pantygasseg",
+                "name": "Pantygasseg"
+            },
+            {
+                "id": "caerphilly#parc mawr",
+                "name": "Parc Mawr"
+            },
+            {
+                "id": "caerphilly#pen-twyn",
+                "name": "Pen-twyn",
+                "lat": "51.698227",
+                "lon": "-3.1478442"
+            },
+            {
+                "id": "caerphilly#pen-y-bank",
+                "name": "Pen-y-bank",
+                "lat": "52.9384307",
+                "lon": "-3.0514687"
+            },
+            {
+                "id": "caerphilly#pengam",
+                "name": "Pengam",
+                "lat": "51.669302",
+                "lon": "-3.223154",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Pengam",
+                        "_text": "Pengam is a former coal village in the Rhymney Valley, Caerphilly county borough, in Wales. It is also a community, containing itself and the nearby village of Fleur de Lys, and at the 2001 census it has a population of 3,842."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Pengam",
+                        "_text": "Pentref bychan a chymuned yn sir Caerffili yw Pengam. Fe'i lleolir ar lan Afon Rhymni yng Nghwm Rhymni, ger y Coed Duon. Yn 2005 roedd 3,842 o bobl yn byw yno.\nCeir gorsaf reilffordd ym Mhengam ar y lein sy'n cysylltu Caerdydd a Rhymni. Dyma'r orsaf agosaf i'r Coed Duon.\nLleolir Ysgol Gyfun Cwm Rhymni yn y pentref."
+                    }
+                ]
+            },
+            {
+                "id": "caerphilly#penllwyn",
+                "name": "Penllwyn",
+                "lat": "53.0096409",
+                "lon": "-3.0358279",
+                "wikipedia": {
+                    "lang": "cy",
+                    "href": "https:\/\/cy.wikipedia.org\/wiki\/Penllwyn",
+                    "_text": "Pentrefan yng nghymuned Melindwr, Ceredigion, Cymru yw Penllwyn, sydd 72.5 milltir (116.7 km) o Gaerdydd a 175.4 milltir (282.3 km) o Lundain.\n\nCynrychiolir Penllwyn yn y Cynulliad Cenedlaethol gan Elin Jones (Plaid Cymru) a'r Aelod Seneddol yw Mark Williams (Y Democratiaid Rhyddfrydol)."
+                }
+            },
+            {
+                "id": "caerphilly#penmaen",
+                "name": "Penmaen",
+                "lat": "51.6748594",
+                "lon": "-3.1757295",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Penmaen",
+                        "_text": "Penmaen may refer to one of several places in Wales:\nPenmaen, Caerphilly\nPenmaen, Swansea\nSee also:\nPenmaenmawr, Conwy County Borough"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Penmaen",
+                        "_text": "Mae Penmaen wedi'i ddynodi'n Safle o Ddiddordeb Gwyddonol Arbennig yng Nghymru (SoDdGA neu SSSI) ers 01 Ionawr 1981 fel ymgais gadwraethol i amddiffyn a gwarchod y safle. Mae ei arwynebedd yn 0.26 hectar. Cyfoeth Naturiol Cymru yw'r corff sy'n gyfrifol am y safle.\n\u2191 Gwefan Cyngor Cefn Gwlad Cymru (bellach 'Cyfoeth Naturiol Cymru'); adalwyd 25 Rhagfyr 2013"
+                    }
+                ]
+            },
+            {
+                "id": "caerphilly#penpedairheol",
+                "name": "Penpedairheol",
+                "lat": "51.6685147",
+                "lon": "-3.2410141",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Penpedairheol",
+                        "_text": "Penpedairheol may refer to:\nPenpedairheol, Caerphilly, Wales\nPenpedairheol, Monmouthshire, Wales"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Penpedairheol",
+                        "_text": "Pentref bychan yng Nghwm Rhymni yw Penpedairheol. Fe'i lleolir rhwng pentrefi Pengam, Gelligaer, Bargoed a Hengoed ym Mwrdeistref Sirol Caerffili, de Cymru."
+                    }
+                ]
+            },
+            {
+                "id": "caerphilly#penrhiw",
+                "name": "Penrhiw"
+            },
+            {
+                "id": "caerphilly#pentrapeod",
+                "name": "Pentrapeod",
+                "lat": "51.7131594",
+                "lon": "-3.0629825"
+            },
+            {
+                "id": "caerphilly#pentref-y-groes",
+                "name": "Pentref-y-groes",
+                "lat": "53.168723",
+                "lon": "-3.487016"
+            },
+            {
+                "id": "caerphilly#pentwyn-mawr",
+                "name": "Pentwyn-mawr",
+                "lat": "51.6590779",
+                "lon": "-3.1666324"
+            },
+            {
+                "id": "caerphilly#penybryn",
+                "name": "Penybryn",
+                "lat": "51.6580129",
+                "lon": "-3.251338",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Penybryn",
+                    "_text": "Penybryn is a small village situated near Gelligaer in the County Borough of Caerphilly, Wales."
+                }
+            },
+            {
+                "id": "caerphilly#penyrheol",
+                "name": "Penyrheol",
+                "lat": "51.5857521",
+                "lon": "-3.2414775",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Penyrheol",
+                        "_text": "Penyrheol may refer to:\nPenyrheol, Caerphilly\nPenyrheol, Pontypool\nPenyrheol, Swansea"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Penyrheol",
+                        "_text": "Gallai Penyrheol gyfeirio at:\nPenyrheol, Caerffili\nPenyrheol, Abertawe"
+                    }
+                ]
+            },
+            {
+                "id": "caerphilly#pochin houses",
+                "name": "Pochin Houses"
+            },
+            {
+                "id": "caerphilly#pontllanfraith",
+                "name": "Pontllanfraith",
+                "lat": "51.656335",
+                "lon": "-3.182134",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Pontllanfraith",
+                    "_text": "Pontllanfraith (Welsh: Pontllan-fraith) is a large village located in the Sirhowy Valley in Caerphilly county borough, south Wales, within the historic boundaries of Monmouthshire. It is situated adjacent to the town of Blackwood, with the Sirhowy River passing through both locations. The village includes the communities of the Penllwyn, Springfield, Woodfieldside and The Bryn."
+                }
+            },
+            {
+                "id": "caerphilly#pontlottyn",
+                "name": "Pontlottyn",
+                "lat": "51.746888",
+                "lon": "-3.280835",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Pontlottyn",
+                    "_text": "Pontlottyn (Welsh: Pontlotyn>is a village located in the county borough of Caerphilly, within the historic county boundaries of Glamorgan, Wales. It is sited just to the south of Rhymney, and to the west of the Rhymney River."
+                }
+            },
+            {
+                "id": "caerphilly#pontymister",
+                "name": "Pontymister",
+                "lat": "51.604287",
+                "lon": "-3.0857899",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Pontymister",
+                    "_text": "Pontymister (Welsh:Pont-y-meistr) is a small village in Caerphilly county borough in Wales."
+                }
+            },
+            {
+                "id": "caerphilly#pontywaun",
+                "name": "Pontywaun",
+                "lat": "51.627045",
+                "lon": "-3.12778"
+            },
+            {
+                "id": "caerphilly#princetown",
+                "name": "Princetown",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Princetown",
+                    "_text": "Princetown is a village situated in the Dartmoor national park in the English county of Devon. It is the principal settlement of the civil parish of Dartmoor Forest.\nThe village has its origins in 1785, when Sir Thomas Tyrwhitt, Secretary to the Prince of Wales, leased a large area of moorland from the Duchy of Cornwall estate, hoping to convert it into good farmland. He encouraged people to live in the area and suggested that a prison be built there. He called the settlement Princetown after the Prince of Wales.\nPrincetown is the site of Dartmoor Prison. At around 435 metres (1,430 feet) above sea level, it is the highest settlement on the moor, and one of the highest in the United Kingdom. It is also the largest settlement located on the high moor. The Princetown Railway, closed in 1956, was also the highest railway line in England, its Princetown terminus being 435 metres (1,427 ft) above sea level."
+                }
+            },
+            {
+                "id": "caerphilly#pwllypant",
+                "name": "Pwllypant"
+            },
+            {
+                "id": "caerphilly#rhymney",
+                "name": "Rhymney",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Rhymney",
+                    "_text": "Rhymney (\/\u02c8r\u028cmni\/; Welsh: Rhymni [\u02c8r\u0325\u0259mn\u026a]) is a town and a community located in the county borough of Caerphilly in south-east Wales, within the historic boundaries of Monmouthshire. Along with the villages of Pontlottyn, Fochriw, Abertysswg, Deri and New Tredegar, Rhymney is designated as the 'Upper Rhymney Valley' by the local Unitary Authority, Caerphilly County Borough Council. As a community, Rhymney includes the town of Rhymney, Pontlottyn, Abertysswg, Butetown and Twyncarno. Rhymney is known to many outside of Wales as a result of the song \"The Bells of Rhymney\", a musical adaptation of a poem by Idris Davies."
+                }
+            },
+            {
+                "id": "caerphilly#rhymney (rhymni)",
+                "name": "Rhymney (Rhymni)"
+            },
+            {
+                "id": "caerphilly#rhymni (rhymney)",
+                "name": "Rhymni (Rhymney)"
+            },
+            {
+                "id": "caerphilly#risca",
+                "name": "Risca",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Risca",
+                    "_text": "For alternate meanings: see Risca (disambiguation).\nRisca [1] (Welsh: Rhisga) is a town of approximately 11,500 people in south-east Wales, within the Caerphilly County Borough and the historic boundaries of Monmouthshire. It is today part of the Newport conurbation (which as a whole has a population of 140,200), though it is not a Ward of Newport City Council. Risca has a railway station, opened on the Ebbw Valley Railway in February 2008, after a gap of 46 years.\nThe town lies at the south-eastern edge of the South Wales Coalfield and a coal mine used to operate in the town with terraced housing nearby for miners. On 1 December 1860 an explosion at the Black Vein Colliery at Risca killed more than 140 men and boys as well as 28 pit ponies.\nRisca is home to Ty-Sign, which is a large housing estate built in the early 1960s as a satellite village for the then new Llanwern steelworks. Risca has a rural aspect and is surrounded to the east and west by several extensively wooded hills [2] including Mynydd Machen [3] (1,188 ft\/362m) and Twmbarlwm [4] (1,375 ft\/419m) which attract tourists for the hillwalking and mountain bikers to Cwmcarn Forest Drive."
+                }
+            },
+            {
+                "id": "caerphilly#rock",
+                "name": "Rock",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Rock",
+                    "_text": "Rock usually refers to:\nRock (geology), a naturally occurring solid aggregate of minerals or mineraloids\nRock music, a form of popular music\nRock or Rocks may also refer to:"
+                }
+            },
+            {
+                "id": "caerphilly#rudry",
+                "name": "Rudry",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Rudry",
+                    "_text": "Rudry (Welsh: Rhydri) is a small village and community located to the east of Caerphilly in Wales. As a community Rudry contains not only the village of Rudry, but also the villages of Draethen, Garth and Waterloo.\nThe village is a rural location, surrounded by woods with walks along the Rhymney Valley Ridgeway Walk. Its main attraction being the Maenllwyd Inn. It is thought that Oliver Cromwell took shelter in the village church."
+                }
+            },
+            {
+                "id": "caerphilly#senghenydd",
+                "name": "Senghenydd",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Senghenydd",
+                    "_text": "Senghenydd (Welsh: Senghennydd) is a town in the Aber valley, roughly four miles north-west of the town of Caerphilly. Traditionally within the county of Glamorgan it is now in the community of Aber Valley in the county borough of Caerphilly, Wales. The population of the Aber Valley in the United Kingdom Census 2001 was 6,696."
+                }
+            },
+            {
+                "id": "caerphilly#sirhowy",
+                "name": "Sirhowy"
+            },
+            {
+                "id": "caerphilly#springfield",
+                "name": "Springfield",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Springfield",
+                        "_text": "Springfield may refer to:\nSpringfield (toponym), the place name in general"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Springfield",
+                        "_text": "Mae Springfield (Gaeleg: ? ) yn gymuned yn Fife, yn yr Alban. Yn 2001 roedd y boblogaeth yn 1,013 gyda 87.36% o\u2019r rheiny wedi\u2019u geni yn yr Alban a 9.08% wedi\u2019u geni yn Lloegr."
+                    }
+                ]
+            },
+            {
+                "id": "caerphilly#swffryd",
+                "name": "Swffryd",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Swffryd",
+                        "_text": "Swffryd or Sofrydd is a community that sits at the boundary of Blaenau Gwent County Borough, Wales and its post town is Newport. Most of the site was built as local authority houses to house the mining population. Lewis Street, Rectory Road and other parts in the west of the village have older houses and buildings. Remains of the Crumlin Viaduct can still be seen in Swffryd \/ Sofrydd and can be seen in full view from neighbouring Crumlin just off Lewis Street at the top of the embankment."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Swffryd",
+                        "_text": "Pentref ym Mlaenau Gwent yw Swffryd (hefyd: Craig Swffryd). Mae'n gorwedd yn ne eithaf y sir yn union am y ffin sirol rhwng Blaenau Gwent a Chaerffili, tua 2 filltir i'r dwyrain o bentref Crymlyn. Mae'n rhan o gymuned a phlwyf Llanhiledd.\nRhed y ffordd B4471 trwy'r pentref, gan ei gysylltu ag Aber-b\u00eeg."
+                    }
+                ]
+            },
+            {
+                "id": "caerphilly#tafarnaubach",
+                "name": "Tafarnaubach",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Tafarnaubach",
+                    "_text": "Tafarnaubach is a village situated on the Sirhowy River in the county borough of Blaenau Gwent, in south-east Wales. Located within the historic boundaries of Monmouthshire it lies about two miles from Tredegar town centre.\nTo the south of the village lies a small Country Park, Parc Bryn Bach, while the northern part of the district is dominated by the Tafarnaubach Industrial Estate. The village is overlooked by Mynydd Llangynidr, a location that was popular for illegal bare-knuckle boxing mountain fights during the late 19th century due to its proximity to three county borders.\n\n"
+                }
+            },
+            {
+                "id": "caerphilly#tir-y-berth",
+                "name": "Tir-y-berth"
+            },
+            {
+                "id": "caerphilly#tirphil",
+                "name": "Tirphil"
+            },
+            {
+                "id": "caerphilly#ton-y-pistyll",
+                "name": "Ton-y-pistyll"
+            },
+            {
+                "id": "caerphilly#trecenydd",
+                "name": "Trecenydd",
+                "lat": "51.574221",
+                "lon": "-3.233446",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Trecenydd",
+                    "_text": "Trecenydd is a residential area in Caerphilly, Wales, United Kingdom.\nIt is near the centre of Caerphilly and is relatively small compared to other areas of Caerphilly.\nTrecenydd has several schools in its vicinity: Hendre Infant School, Hendre Junior School, and also St Cenydd Comprehensive School.\nAber railway station is in Trecenydd.\n\n"
+                }
+            },
+            {
+                "id": "caerphilly#tredomen",
+                "name": "Tredomen"
+            },
+            {
+                "id": "caerphilly#treowen",
+                "name": "Treowen",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Treowen",
+                    "_text": "Treowen (or Tre-owen) is an early 17th-century house in Monmouthshire, Wales, regarded as \"the most important early C17 gentry house in the county\". It is located in open countryside within the parish of Wonastow, about \u00bd mile (1 km) north-east of the village of Dingestow, and 3 miles (4.8 km) south-west of Monmouth. It is a Grade I listed building, and, after being used as a farmhouse for three centuries, is now a conference and functions venue."
+                }
+            },
+            {
+                "id": "caerphilly#trethomas",
+                "name": "Trethomas",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Trethomas",
+                    "_text": "Trethomas [1] (English: Thomastown) is a small village 2\u00bd miles north-east of Caerphilly, south-east Wales, situated in the Caerphilly county borough, within the historic boundaries of Monmouthshire.\nIt neighbours Bedwas and Machen, and forms a council ward in conjunction with those communities."
+                }
+            },
+            {
+                "id": "caerphilly#trinant",
+                "name": "Trinant",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Trinant",
+                    "_text": "Trinant is a village located in the county borough of Caerphilly, within the historic county borders of Monmouthshire. Trinant is part of the community of Crumlin and is located north of the village of Crumlin and west of the Ebbw River. The village has a single school, Trinant Primary School. Trinant is the home to Trinant RFC rugby union team."
+                }
+            },
+            {
+                "id": "caerphilly#troedrhiwfuwch",
+                "name": "Troedrhiwfuwch"
+            },
+            {
+                "id": "caerphilly#twyn shon-ifan",
+                "name": "Twyn Shon-Ifan"
+            },
+            {
+                "id": "caerphilly#ty-sign",
+                "name": "Ty-Sign"
+            },
+            {
+                "id": "caerphilly#upper ochrwyth",
+                "name": "Upper Ochrwyth"
+            },
+            {
+                "id": "caerphilly#van",
+                "name": "Van",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Van",
+                        "_text": "A van is a kind of vehicle used for transporting goods or people. In the main and most prevalent usage, a van is smaller than a truck and bigger than an automobile. There is some varying in the scope of the word across the different English-speaking countries."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Van",
+                        "_text": "Gallai Van gyfeirio at:\nSillafiad Saesneg o Fan, cerbyd neu enw lle\nVan, Twrci, dinas yn nwyrain Twrci\nVan (talaith), talaith yn nwyrain Twrci\nLlyn Van, llyn yn nwyrain Twrci"
+                    }
+                ]
+            },
+            {
+                "id": "caerphilly#watford park",
+                "name": "Watford Park"
+            },
+            {
+                "id": "caerphilly#wattsville",
+                "name": "Wattsville",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Wattsville",
+                    "_text": "Wattsville is a small village in the Sirhowy Valley, eight miles north west of Newport, the county capital, in south-east Wales, within the historic boundaries of Monmouthshire."
+                }
+            },
+            {
+                "id": "caerphilly#west end",
+                "name": "West End",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/West End",
+                    "_text": "West End most commonly refers to:\nWest End of London, an area of central London, England\nWest End theatre, a popular term for mainstream professional theatre staged in the large theatres of London, England\nWest End may also refer to:"
+                }
+            },
+            {
+                "id": "caerphilly#wyllie",
+                "name": "Wyllie",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Wyllie",
+                        "_text": "Wyllie is a small village south of Blackwood in the county borough of Caerphilly, within the historic boundaries of Monmouthshire, Wales.\n\n"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Wyllie",
+                        "_text": "Pentref fechain ym mwrdeistref sirol Caerffili yw Wyllie. Lleolir i'r de o'r Coed Duon yn ardal hanesyddol Sir Fynwy."
+                    }
+                ]
+            },
+            {
+                "id": "caerphilly#ynysddu",
+                "name": "Ynysddu",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Ynysddu",
+                        "_text": "Ynysddu is a small village in the Sirhowy valley of south-east Wales. It is part of the district of Caerphilly within the historic boundaries of Monmouthshire. It is next to Cwmfelinfach, 4.3 miles (6.8 km) north of the town of Risca and 4 miles (5.1 km) south of the market town of Blackwood, about 10 minutes by road from the M4 motorway and 35 minutes from the Severn Bridge. The electorate in 2008 was 2,905."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Ynysddu",
+                        "_text": "Pentref ym mwrdeisdref sirol Caerffili yw Ynysddu, weithiau Ynys-ddu. Saif yn Nyffryn Sirhywi, gerllaw Cwmfelinfach, 4.3 milltir i'r gogledd o Rhisga a 4 milltir i'r de o dred Coed Duon.\nSefydlwyd yn pentref yn gynnar yn y 19eg ganrif gan berchenog glofa lleol, John Hodder Moggridge, ar gyfer ei weithwyr. Roedd nifer yr etholwyr yn 2008 yn 2,905. Mae'r pentref yn fwyaf enwog fel man geni'r bardd William Thomas (\"Islwyn\") (1832 - 1878)."
+                    }
+                ]
+            },
+            {
+                "id": "caerphilly#ystrad mynach",
+                "name": "Ystrad Mynach",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Ystrad Mynach",
+                        "_text": "Ystrad Mynach is a town in the County Borough of Caerphilly, within the ancient county of Glamorgan, Wales, and is 5 miles north of Caerphilly town. It has a population of around 13,500 and stands in the Rhymney Valley [1]. Before the Industrial Revolution and the coming of coal mining in the South Wales Coalfield the valley was rural and farmed [2]. It lies in the community of Gelligaer."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Ystrad Mynach",
+                        "_text": "Mae Ystrad Mynach yn dref ym Mwrdeistref Sirol Caerffili yn ne Cymru. Saif ar y briffordd A472. Mae ganddi boblogaeth o tua 13,500 a saif yng Nghwm Rhymni. Mae Caerdydd 18.4 km i ffwrdd o Ystrad Mynach ac mae Llundain yn 217.3 km. Y ddinas agosaf ydy Casnewydd sy'n 18 km i ffwrdd.\nCyn y Chwyldro Diwydiannol a dyfodiad y gwaith glo roedd yr ardal yn dir amaethyddol gyda nifer o ffermydd. saif yng nghymuned Gelligaer."
+                    }
+                ]
+            }
+        ]
+    }
+}

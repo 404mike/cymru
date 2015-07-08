@@ -1,0 +1,1719 @@
+{
+    "id": {
+
+    },
+    "population": {
+        "href": {
+
+        },
+        "_text": {
+
+        }
+    },
+    "poscodes": {
+        "postcode": [
+            "CH1",
+            "CH4",
+            "CH5",
+            "CH6",
+            "CH7",
+            "CH8",
+            "LL11",
+            "LL12",
+            "LL18",
+            "LL19"
+        ]
+    },
+    "towns": {
+        "town": [
+            {
+                "id": "flintshire#abermorddu",
+                "name": "Abermorddu",
+                "lat": "53.104455",
+                "lon": "-3.033518",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Abermorddu",
+                        "_text": "Abermorddu is a village in the county of Flintshire, Wales.\nApproximately 5 miles from Wrexham and situated on the A541 road, it is contiguous with the village of Caergwrle and closely related to the village of Hope.\nAbermorddu Primary School, although originally in the village, has for the many decades actually had its site in Cefn-y-beddCefn-y-bedd, whilst the local secondary school is Castell Alun High School in nearby Hope."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Abermorddu",
+                        "_text": "Mae Abermorddu yn bentref bychan yn Sir y Fflint, gogledd-ddwyrain Cymru. Fe'i lleolir ar ffordd yr A541 yn agos i'r ffin \u00e2 Swydd Gaer, Lloegr, a tua 6 milltir o Wrecsam.\nGwasanaethir yr ardal gan Ysgol Uwchradd Castell Alun. Mae'r pentrefi cyfagos yn cynnwys Caergwrle, Yr Hob a Cefn-y-bedd."
+                    }
+                ]
+            },
+            {
+                "id": "flintshire#afon-wen",
+                "name": "Afon-wen",
+                "lat": "53.23337",
+                "lon": "-3.302453",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Afon-wen",
+                        "_text": "This is a redirect from a page that has been moved (renamed). This page was kept as a redirect to avoid breaking links, both internal and external, that may have been made to the old page name. For more information follow the category link."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Afon-wen",
+                        "_text": "Am y pentref yng Ngwynedd gweler Afon Wen.\nPentref bychan yn Sir y Fflint yw Afon-wen (hefyd: Afonwen). Saif fymryn oddi ar y briffordd A541, ger cyffordd y ffordd honno a'r B5122, ychydig i'r de o dref Caerwys.\nLlifa Afon Chwiler trwy'r pentref. Tua 1.5 milltir i'r de ceir Moel y Parc, un o gopaon Bryniau Clwyd."
+                    }
+                ]
+            },
+            {
+                "id": "flintshire#alltami",
+                "name": "Alltami",
+                "lat": "53.1821707",
+                "lon": "-3.0982514",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Alltami",
+                    "_text": "Alltami is a small village in Flintshire, in northeast Wales near the town of Buckley.\nIt lies on the A494 road which runs from Ellesmere Port to Dolgellau.\nThere is one pub, The Tavern, in the village. Alltami is the home of the first Primitive Methodist chapel in North Wales."
+                }
+            },
+            {
+                "id": "flintshire#alyn",
+                "name": "Alyn",
+                "lat": "53.1084139",
+                "lon": "-2.948195",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Alyn",
+                    "_text": "Ayn may refer to any of the following:"
+                }
+            },
+            {
+                "id": "flintshire#aston",
+                "name": "Aston",
+                "lat": "53.197057",
+                "lon": "-3.035807",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Aston",
+                    "_text": "Aston is an area within the city of Birmingham, in the West Midlands of England. Commencing immediately to the north-east of the city centre, Aston constitutes a ward within the unitary authority."
+                }
+            },
+            {
+                "id": "flintshire#axton",
+                "name": "Axton",
+                "lat": "53.310054",
+                "lon": "-3.34673",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Axton",
+                    "_text": "Axton may refer to:\nAxton, Virginia, an unincorporated community in the United States\nAxton, an alternative spelling for Axstane, the Hundred in Kent\nAxton (surname)\nAxton (character), the name of a Borderlands 2 character"
+                }
+            },
+            {
+                "id": "flintshire#babell",
+                "name": "Babell",
+                "lat": "53.255571",
+                "lon": "-3.270349",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Babell",
+                        "_text": "Babell is a hamlet in Flintshire, Wales. It is part of the community of Ysgeifiog.\nThe hamlet takes its name from the Babell Methodist chapel, built in 1836, but the surrounding area was formerly known as Gelliloveday or Gellilyfdy (a township of Ysgeifiog parish). The name Gellilyfdy was recorded in the Domesday book, and possibly means \"wych elm wood\" (from Welsh gelli, \"wood\", and llwyv, llwyfanen, \"wych elm\").\nThere is a section of the ancient earthwork Offa's Dyke nearby at Llyn-Ddu. Although rural the area is dotted with old copper workings from the 19th century.\nThe notable 17th century antiquary John Jones lived at the hall of Gellilyfdy, to the west of the present-day village."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Babell",
+                        "_text": "Pentref yn Sir y Fflint yw Babell. Saif ar ffordd gefn rhwng y ddwy briffordd A55 ac A541, i'r de-orllewin o dref Treffynnon."
+                    }
+                ]
+            },
+            {
+                "id": "flintshire#bagillt",
+                "name": "Bagillt",
+                "lat": "53.267912",
+                "lon": "-3.174352",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Bagillt",
+                        "_text": "Bagillt (\/\u02c8b\u00e6\u0261\u026alt\/; Welsh pronunciation: [ \u02c8ba\u0261\u026a\u026ct]) is a small town, overlooking the Dee Estuary, near Holywell in Flintshire, Wales. At the 2001 Census the population was recorded as 3,918, increasing to 4,165 at the 2011 census."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Bagillt",
+                        "_text": "Pentref a chymuned yn Sir y Fflint yw Bagillt, rhwng Treffynnon (3 km i'r gorllewin) a'r Fflint (2 km i'r de-ddwyrain). Poblogaeth Cymuned Bagillt yw 3,918 (Cyfrifiad 2001).\nYn y Domesday Book (1086), ei enw oedd Backelie. Benthyciad o'r Saesneg, wedi'i Gymreigio, yw'r enw felly. Mae Backelie yn ffurf ar y Saesneg Bacga's lea 'llannerch Bacga'. Gerllaw, ceir tomen mwnt a beili o'r enw Mwnt Bryn Castell.\nTyfodd Bagillt yn gyflym yn y 19eg ganrif. Codwyd Eglwys y Santes Fair yno rhwng 1837 a 1839 fel ymateb i hynny. Poblogaeth y plwyf yn 1901 oedd 2,637."
+                    }
+                ]
+            },
+            {
+                "id": "flintshire#berth-ddu",
+                "name": "Berth-ddu",
+                "lat": "53.128966",
+                "lon": "-3.7840624"
+            },
+            {
+                "id": "flintshire#berthengam",
+                "name": "Berthengam",
+                "lat": "53.3071727",
+                "lon": "-3.3219529"
+            },
+            {
+                "id": "flintshire#big mancot",
+                "name": "Big Mancot"
+            },
+            {
+                "id": "flintshire#blaenau",
+                "name": "Blaenau",
+                "lat": "51.8052935",
+                "lon": "-4.0233859",
+                "wikipedia": {
+                    "lang": "cy",
+                    "href": "https:\/\/cy.wikipedia.org\/wiki\/Blaenau",
+                    "_text": "Gallai Blaenau gyfeirio at:\nTirffurf\nBlaen (tirffurf)\nTrefi a phentrefi\nBlaenau, Blaenau Gwent (Saesneg: Blaina), tref ym Mlaenau Gwent\nBlaenau, Sir Gaerfyrddin, pentref\nBlaenau Ffestiniog, tref yng Ngwynedd\nSir\nBlaenau Gwent\nBlaenau Gwent (gwahaniaethu)\n\nArall\nBlaenau Plastics, ffatri ym Mlaenau Ffestiniog"
+                }
+            },
+            {
+                "id": "flintshire#bretton",
+                "name": "Bretton",
+                "lat": "53.1683692",
+                "lon": "-2.9800617",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Bretton",
+                        "_text": "Bretton may refer to:"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Bretton",
+                        "_text": "Gallai Bretton gyfeirio at un o sawl lle:\nCymru\nBretton, Sir y Fflint\nLloegr\nBretton, Swydd Derby\nBretton, un o faesdrefi Peterborough, Swydd Gaergrawnt\nWest Bretton, Gorllewin Swydd Efrog\nBretton Hall, plasdy yng Ngorllewin Efrog\nGweler hefyd\nBretton Woods"
+                    }
+                ]
+            },
+            {
+                "id": "flintshire#bridge end",
+                "name": "Bridge End",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Bridge End",
+                    "_text": "Bridge End may refer to:\nBridge End, County Donegal, Republic of Ireland\nBridge End, County Durham, England\nBridge End, Lincolnshire, England\nBridge End, Northumberland, England\nBridge End, Shetland, Scotland\nBridge End, Warwick, England\nBridge End railway station, Belfast, Northern Ireland (renamed to Titanic Quarter since March 2012)"
+                }
+            },
+            {
+                "id": "flintshire#broughton",
+                "name": "Broughton",
+                "lat": "53.163494",
+                "lon": "-2.997219",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Broughton",
+                    "_text": "Broughton may refer to:"
+                }
+            },
+            {
+                "id": "flintshire#bryn celyn",
+                "name": "Bryn Celyn"
+            },
+            {
+                "id": "flintshire#bryn common",
+                "name": "Bryn Common"
+            },
+            {
+                "id": "flintshire#brynford",
+                "name": "Brynford",
+                "lat": "53.261485",
+                "lon": "-3.237202",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Brynford",
+                    "_text": "Brynford (Welsh: Brynffordd) is a village in Flintshire, Wales. It is located to the south west of the town of Holywell and near the A55 road (North Wales Expressway). At the 2001 Census, Brynford had a population of 1,098, reducing to 1,059 at the 2011 Census.\nAmenities in Brynford include St. Michael's Church, a local village shop, two inns, a park, golf club, private day nursery and local bus company, Oares Coaches. The Cynfaen Memorial Methodist Chapel, serving Brynford, is in the nearby village of Calcoed.\nHistorically, the area was extensively mined for lead and has been left with the scars of that past all over its common land.\nThe explorer and journalist Henry Morton Stanley was a student teacher in the old village school.\n\n"
+                }
+            },
+            {
+                "id": "flintshire#buckley",
+                "name": "Buckley",
+                "lat": "53.17005",
+                "lon": "-3.0814879",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Buckley",
+                    "_text": "Buckley (Welsh: Bwcle [\u02c8b\u028akl\u025b]) is a town and community in Flintshire, located in north-east Wales. It is situated 2 miles (3.2 km) from the county town of Mold and is contiguous with the nearby villages of Ewloe, Alltami (which are both under the jurisdiction of Buckley town council) and Mynydd Isa. The town is located on the A549 road, with the larger A55 road passing nearby.\nBuckley is the second largest town in Flintshire in terms of population. According to the 2001 Census, the community had a total population of 14,568, increasing to 15,665 at the 2011 census.\nNotable nearby landmarks include Ewloe Castle."
+                }
+            },
+            {
+                "id": "flintshire#buckley (bwcle)",
+                "name": "Buckley (Bwcle)"
+            },
+            {
+                "id": "flintshire#burntwood pentre",
+                "name": "Burntwood Pentre"
+            },
+            {
+                "id": "flintshire#bwcle (buckley)",
+                "name": "Bwcle (Buckley)"
+            },
+            {
+                "id": "flintshire#bwlch",
+                "name": "Bwlch",
+                "lat": "51.8910259",
+                "lon": "-3.240574",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Bwlch",
+                        "_text": "Bwlch (meaning a 'pass' in Welsh) is a small village in Powys, southern Wales. The settlement is strung out along the A40 road which crosses a low col above the Usk Valley at this point on its route between Brecon and Crickhowell. The village is a part of the administrative community of 'Llanfihangel Cwmdu with Bwlch and Cathedine'."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Bwlch",
+                        "_text": "Am y pentref ym Mhowys, gweler Bwlch, Powys.\nBwlch yw rhywle lle gellir tramwyo rhwng rhywbeth. Gall fod rhwng dau fynydd, neu ddwy ochr o gwm neu hyd yn oed lle gwag mewn clawdd. Ceir yr enw ar sawl enw lle.\nMae un pentre o'r enw Bwlch rhwng Aberhonddu a'r Fenni. Hefyd Tan y Bwlch yng Ngwynedd."
+                    }
+                ]
+            },
+            {
+                "id": "flintshire#caergwrle",
+                "name": "Caergwrle",
+                "lat": "53.110854",
+                "lon": "-3.042487",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Caergwrle",
+                        "_text": "Caergwrle is a village in the county of Flintshire, in north east Wales. Approximately 5\u20136 miles from Wrexham and situated on the A541 road, it is contiguous with the villages of Abermorddu and Hope, though, in parts, the Caergwrle and Hope are separated by a river border. The village lies on the River Alyn and sits at the base of Hope Mountain. At the 2001 Census, the population was 1,650. The population was subsequently absorbed in the Community of Hope and only the electoral ward remained. The population of this ward as taken at the 2011 census was 1,619.\n^ 2001 Census: Caergwrle, Office for National Statistics, retrieved 2 July 2008 \n^ \"Ward population 2011\". Retrieved 25 May 2015."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Caergwrle",
+                        "_text": "Mae Caergwrle yn bentref yn Sir y Fflint, gogledd-ddwyrain Cymru. Fe'i lleolir ar ffordd yr A541, tua 5-6 milltir i'r gogledd o Wrecsam, ac mae'n cyffwrdd \u00e2'r pentref agosaf, Abermorddu. Mae'n gorwedd wrth droed Mynydd yr Hob (sy'n fryn isel yn hytrach na mynydd go iawn).\nSaif Caergwrle ar lannau Afon Alun. Gerllaw ceir adfeilion castell Cymreig a godwyd gan y tywysog Dafydd ap Gruffudd, brawd Llywelyn Ein Llyw Olaf, ar dir a roddwyd iddo gan Edward I o Loegr ar \u00f4l ei gyrch cyntaf ar Gymru yn 1277. Yn y pentref ceir pont ceffylau pynnau sy'n dyddio i'r 17eg ganrif, y dywedir bod ysbryd yn aflonyddu yno; bu bron iddi gael ei dinistrio gan lifogydd yn 2000, ond mae wedi cael ei thrwsio ers hynny.\nMae gan Caergwrle gysylltiad cryf \u00e2 phentref Yr Hob. Mae ganddo orsaf trenau ar Reilffordd y Gororau, sy'n ei gysylltu \u00e2 Wrecsam a Lerpwl. Ceir bysus yn rhedeg i'r Wyddgrug a Chaer."
+                    }
+                ]
+            },
+            {
+                "id": "flintshire#caerwys",
+                "name": "Caerwys",
+                "lat": "53.2465649",
+                "lon": "-3.309278",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Caerwys",
+                        "_text": "Caerwys is a town in Flintshire, Wales. It is situated just under two miles from the A55 North Wales Expressway and one mile from the A541 Mold-Denbigh road. At the 2001 Census, the population of Caerwys community was 10,315, with a total ward population of 20,496. Following reorganisation the community population fell dramatically at the 2011 Census to 1,283 with the ward falling to 2,569.\nCaerwys is mentioned in the Domesday Book as a small market town. The well-maintained church is dedicated to St. Michael. It has two parallel naves. The oldest part of the building is a stone tower whose base is said to have been part of a Roman observation tower. Contained within the church is the cover slab of a tomb reputed to have been that of Elizabeth Ferrers, the wife of Dafydd ap Gruffudd, prince of Wales (d. 1283). A short, informative booklet about the church was written in 1936 and updated in 1995. As well as being surrounded by areas of outstanding natural beauty and views across mountains and valleys, the centre of Caerwys has been designated a conservation area.\nCaerwys and Philadelphia have important historical connections. Local doctor, Thomas Wynne, sailed to America on the ship Welcome in 1682 with William Penn. Wynne was one of the founding fathers of Philadelphia and became the first speaker of the Provisional Assembly, as well as a provincial judge. The original street plan of Philadelphia was designed on the street pattern of Caerwys. Many Welsh names crop up in the city, and several buildings built in Philadelphia resemble buildings in the Caerwys area, some of which still stand today.\nCaerwys also hosted two of the most important eisteddfodau of the early modern era, one in 1523, during in the reign of Henry VIII of England at which Tudur Aled was present and the other, sanctioned by Elizabeth I, in 1568.\n\n^ 2001 Census: Caerwys (Parish), Office for National Statistics, retrieved 15 June 2008 \n^ 2001 Census: Caerwys (Ward), Office for National Statistics, retrieved 15 June 2008 \n^ \"Community population 2011\". Retrieved 25 May 2015. \n^ \"Ward population 2011\". Retrieved 25 May 2015. \n^ Flintshire Conservation Areas, Flintshire County Council, retrieved 3 August 2009 \n^ Caerwys: Thomas Wynne, Caerwys Town Council, retrieved 13 February 2009 \n^ Following footsteps, Vale Advertiser \/ icNorthWales, 12 May 2006, retrieved 13 February 2009 \n^ Williams, D., 1961, A Short History of Modern Wales, London: John Murray, p.28"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Caerwys",
+                        "_text": "Tref fechan yn Sir y Fflint yw Caerwys, a leolir 8 km (5 milltir) i'r de-orllewin o Dreffynnon. (Cyfeirnod OS: SJ 128 729). Yng Nghyfrifiad 2001 roedd y boblogaeth yn 1,315."
+                    }
+                ]
+            },
+            {
+                "id": "flintshire#calcoed",
+                "name": "Calcoed",
+                "lat": "53.2654844",
+                "lon": "-3.2452623",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Calcoed",
+                    "_text": "Calcoed is a small village in Flintshire, Wales. It is located to the south west of the town of Holywell, to the north west of the village of Brynford and near the A55 road (North Wales Expressway). It contains the Cynfaen Memorial Methodist Chapel and several houses."
+                }
+            },
+            {
+                "id": "flintshire#carmel",
+                "name": "Carmel",
+                "lat": "53.281435",
+                "lon": "-3.241424",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Carmel",
+                        "_text": "Carmel in the Bible refers to two distinct places:\nMount Carmel, coastal mountain range in Israel overlooking the Mediterranean Sea\nCarmel (biblical settlement), an ancient Israelite town in Judea\nThe word Carmel (Hebrew language: \u05db\u05b7\u05bc\u05e8\u05b0\u05de\u05b6\u05dc) means \"fresh\" (planted), or \"vineyard\" (planted) and Karmiel (Hebrew: \u05db\u05b7\u05bc\u05e8\u05b0\u05de\u05b4\u05d9\u05d0\u05b5\u05dc) is a portmanteau meaning \"God's Vineyard\".\nIn modern times, the name was also given to:"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Carmel",
+                        "_text": "Gallai Carmel gyfeirio at un o sawl peth:"
+                    }
+                ]
+            },
+            {
+                "id": "flintshire#catch",
+                "name": "Catch",
+                "lat": "53.2381716",
+                "lon": "-3.1845967",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Catch",
+                    "_text": "Catch may refer to:"
+                }
+            },
+            {
+                "id": "flintshire#cefn-eurgain",
+                "name": "Cefn-eurgain"
+            },
+            {
+                "id": "flintshire#celyn-mali",
+                "name": "Celyn-Mali"
+            },
+            {
+                "id": "flintshire#chwitffordd (whitford)",
+                "name": "Chwitffordd (Whitford)"
+            },
+            {
+                "id": "flintshire#cilcain",
+                "name": "Cilcain",
+                "lat": "53.1774202",
+                "lon": "-3.2323767",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Cilcain",
+                        "_text": "Cilcain is a small community, near Mold in Flintshire, north-east Wales. The village has an industrial history and includes the Millennium Woods, a post office, a public house, a parish church, a primary school (Ysgol y Foel) and a village hall.\nCilcain borders the parishes of Rhosesmor, Rhes-y-cae and Rhydymwyn."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Cilcain",
+                        "_text": "Pentref a chymuned yn Sir y Fflint yw Cilcain. Saif i'r gorllewin o dref Yr Wyddgrug, ac ychydig i'r dwyrain o gopa Moel Llys-y-Coed, gyda Moel Famau i'r de-orllewin. Ceir yno eglwys, siop, tafarn, swyddfa'r post a neuadd y pentref.\nCofnodir yr eglwys gyntaf yn 1291. Ar un adeg roedd plwyf Cilcain yn cynnwys Cefn, Llan (neu Tre'r Llan), Llystynhunydd (neu Glust), Llys y Coed, Maes y Groes, Mechlas (neu Dolfechlas) a Trellyniau; erbyn hyn mae gryn dipyn yn llai.\nCodwyd ysgol trwy danysgrifiad cyhoeddus yn y pentref yn 1799. Mae adeilad yr ysgol yn d\u0177 preifat erbyn heddiw.\nCynhelir G\u0175yl Cilcain yn flynyddol i hybu'r celfyddydau a diwylliant."
+                    }
+                ]
+            },
+            {
+                "id": "flintshire#coed-llai (leeswood)",
+                "name": "Coed-Llai (Leeswood)"
+            },
+            {
+                "id": "flintshire#coed-talon",
+                "name": "Coed-talon",
+                "lat": "53.1219895",
+                "lon": "-3.0951771",
+                "wikipedia": {
+                    "lang": "cy",
+                    "href": "https:\/\/cy.wikipedia.org\/wiki\/Coed-talon",
+                    "_text": "Pentre bychan yn Sir y Fflint yw Coed-talon, sy'n gorwedd i'r de o'r Wyddgrug. Mae'n rhan o gymuned Treuddyn."
+                }
+            },
+            {
+                "id": "flintshire#croes-wian",
+                "name": "Croes-wian"
+            },
+            {
+                "id": "flintshire#cymau",
+                "name": "Cymau",
+                "lat": "53.095963",
+                "lon": "-3.054356",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Cymau",
+                        "_text": "Cymau is a small village situated in the community of Llanfynydd, Flintshire on the edge of the mountains of north-east Wales. Its name is derived from the Welsh word cymau, an old form of the plural for cwm, \"valley\" or \"hollow\".\n\nThe village is located on the side of Hope Mountain, a land feature that can be seen for miles around. Neighbouring villages include Ffrith to the west and Brymbo to the south. The nearest towns are Wrexham to the south-east and Mold towards the north-west.\nThe area is known for its scenic beauty and large number of available hill-walking routes. The summit of Hope Mountain offers views of the Cheshire Plain and, in the opposite direction, it is possible to see sunsets behind the Welsh hills.\nThe population of Cymau is around 350. The village boasts a pub (The Old Talbot Inn) and one parish church with a roof made from corrugated iron and also a chapel. The former village Post Office and general store closed in 2009.\nDuring the winter months, despite the local bus being occasionally unable to traverse the terrain, the village remains reasonably accessible."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Cymau",
+                        "_text": "Pentref bychan yn Sir y Fflint yw Cymau. Fe'i lleolir ger Llanfynydd ac mae'n rhan o blwyf eglwysig Llanfynydd. Poblogaeth: tua 350.\nGorwedd y pentref ar lethrau Mynydd yr Hob. I'r gorllewin ceir pentref bychan Ffrith ac i'r de ceir pentref Brymbo."
+                    }
+                ]
+            },
+            {
+                "id": "flintshire#ddol",
+                "name": "Ddol",
+                "lat": "53.230991",
+                "lon": "-3.2885164"
+            },
+            {
+                "id": "flintshire#dee",
+                "name": "Dee",
+                "lat": "53.3157488",
+                "lon": "-3.186886",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Dee",
+                        "_text": "Dee might refer to:"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Dee",
+                        "_text": "Gallai Dee gyfeirio at:\nDr John Dee, ysgolhaig Seisnig o dras Cymraeg\nEnw Saesneg ar Afon Dyfrdwy\nAfon Dee, enw nifer o afonydd yn yr Alban a Lloegr. Yr enwocaf yw Afon Dee (Swydd Aberdeen)"
+                    }
+                ]
+            },
+            {
+                "id": "flintshire#dobs hill",
+                "name": "Dobs Hill"
+            },
+            {
+                "id": "flintshire#dolphin",
+                "name": "Dolphin",
+                "lat": "53.255268",
+                "lon": "-3.211067",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Dolphin",
+                    "_text": "Dolphins are cetacean mammals closely related to whales and porpoises.\nThere are almost forty species of dolphin in 17 genera. They vary in size from 1.2 m (4 ft) and 40 kg (90 lb) (Maui's dolphin), up to 9.5 m (30 ft) and 10 tonnes (9.8 long tons; 11 short tons) (the orca or killer whale). They are found worldwide, mostly in the shallower seas of the continental shelves and are carnivores, eating mostly fish and squid. The family Delphinidae, the largest in the order Cetacea, evolved relatively recently, about ten million years ago during the Miocene."
+                }
+            },
+            {
+                "id": "flintshire#drury",
+                "name": "Drury",
+                "lat": "53.172192",
+                "lon": "-3.056287",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Drury",
+                    "_text": "Drury may refer to:"
+                }
+            },
+            {
+                "id": "flintshire#ewloe",
+                "name": "Ewloe",
+                "lat": "53.188496",
+                "lon": "-3.048273",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Ewloe",
+                    "_text": "Ewloe (\/\u02c8ju\u02d0lo\u028a\/; Welsh: Ewlo, Welsh pronunciation: [\u02c8\u025b\u028al\u0254]) is a small town in Flintshire, Wales, contiguous with Hawarden and Buckley and near to Queensferry and Shotton. Situated close to the Flintshire\/Cheshire sector of the Wales-England border, Ewloe forms part of Deeside. The A55 expressway passes through the town and its most notable landmark is Ewloe Castle. At the 2001 Census, the population was 4,862 (2,390 males, 2,472 females). Ewloe ceased being a town in its own name with all of the population being listed under Hawarden. The electoral ward remained with a total population taken at the 2011 Census of 5,420.\nIn 2004 professional footballer Michael Owen bought a small street of houses, Austen Close in Ewloe, for his extended family. He had grown up and owned a house nearby.\n^ 2001 Census: Ewloe, Office for National Statistics, retrieved 29 May 2008 \n^ \"Ward population 2011\". Retrieved 25 May 2015. \n^ Star's old home for sale, BBC News, 12 January 2004, retrieved 3 April 2008"
+                }
+            },
+            {
+                "id": "flintshire#ewloe green",
+                "name": "Ewloe Green"
+            },
+            {
+                "id": "flintshire#ffynnongroyw",
+                "name": "Ffynnongroyw",
+                "lat": "53.329433",
+                "lon": "-3.300051",
+                "wikipedia": {
+                    "lang": "cy",
+                    "href": "https:\/\/cy.wikipedia.org\/wiki\/Ffynnongroyw",
+                    "_text": "Lleolir pentref Ffynnongroyw ym mhen ogleddol Sir y Fflint ar arfordir gogledd-ddwyrain Cymru. Fe'i lleolir i'r de o Dalacre ar lan orllewinol Glannau Dyfrdwy, tua hanner ffordd rhwng Prestatyn i'r gorllewin a Mostyn i'r dwyrain, ar yr A548. Mae'n rhan o gymuned Llanasa.\nEnwir y pentref ar \u00f4l y Ffynnongroyw, ffynnon naturiol mewn llecyn ym mhen L\u00f4n y Ffynnon. Ceir carreg yn do arni a gril (diweddar) i'w hamddiffyn.\nTu \u00f4l i'r pentref cyfyd bryniau cyntaf Bryniau Clwyd, gan ffurfio ymyl ddwyreiniol Dyffryn Clwyd.\nMae Rheilffordd Arfordir Gogledd Cymru yn mynd rhwng y pentref a'r arfordir, ond does dim gorsaf yno."
+                }
+            },
+            {
+                "id": "flintshire#flint (y fflint)",
+                "name": "Flint (Y Fflint)"
+            },
+            {
+                "id": "flintshire#flint mountain",
+                "name": "Flint Mountain",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Flint Mountain",
+                    "_text": "Flint Mountain (Welsh: Mynydd Y Fflint) is a small village seated in Flintshire, North Wales, approximately 12 miles west of the city of Chester, mid-way between Mold and Flint, and situated just off junction 33 of the A55 North Wales Expressway. Points of interest include the Coach and Horses pub, and recently developed football club Flint Mountain FC. In Mid-2006, the population of Flint Mountain was 1,958.\nOn clear days to the north and east, The Wirral, Liverpool, Manchester, Chester, Lake District, Isle of Man, Preston, Blackpool and Pendle Hill can all be seen."
+                }
+            },
+            {
+                "id": "flintshire#galdlys",
+                "name": "Galdlys"
+            },
+            {
+                "id": "flintshire#garden city",
+                "name": "Garden City",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Garden City",
+                    "_text": "Garden City or Garden Suburb may refer to:"
+                }
+            },
+            {
+                "id": "flintshire#garreg",
+                "name": "Garreg",
+                "lat": "52.9542689",
+                "lon": "-4.065282",
+                "wikipedia": {
+                    "lang": "cy",
+                    "href": "https:\/\/cy.wikipedia.org\/wiki\/Garreg",
+                    "_text": "Mae Garreg (treiglad meddal carreg) yn elfen gyffredin mewn enwau lleoedd yng Nghymru. Gallai gyfeirio at:\nGarreg, Gwynedd, pentref yng Ngwynedd\nGarreg Lwyd (dau le)"
+                }
+            },
+            {
+                "id": "flintshire#garth",
+                "name": "Garth",
+                "lat": "52.133667",
+                "lon": "-3.536803",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Garth",
+                        "_text": "Garth may refer to:"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Garth",
+                        "_text": "Mae Garth yn enw sawl lle yng Nghymru, ac yn elfen mewn enwau lleoedd eraill:\nGarth, pentref yng Ngheredigion\nGarth, pentref ym mwrdeisdref sirol Pen-y-bont ar Ogwr\nGarth, pentref ym Mhowys\nGarth, pentref yn sir Wrecsam\nGarth (mynydd), Bannau Brycheiniog, Cyfeirnod grid OS: SO053506\nHefyd:\nGwaelod-y-Garth\nGarth Celyn, enw arall ar Ben-y-bryn, Abergwyngregyn\nChwarel y Garth, SoDdGA yn Ne Powys\nGarth Isaf, SoDdGA ym Mhowys\nGartheli, pentrefan yng Ngheredigion\nGall hefyd fod yn enw person:\nGarth Brooks, canwr gwlad Americanaidd"
+                    }
+                ]
+            },
+            {
+                "id": "flintshire#glan-y-don",
+                "name": "Glan-y-don",
+                "lat": "53.305643",
+                "lon": "-3.250857",
+                "wikipedia": {
+                    "lang": "cy",
+                    "href": "https:\/\/cy.wikipedia.org\/wiki\/Glan-y-don",
+                    "_text": "Pentref yn Sir y Fflint, gogledd-ddwyrain Cymru, yw Glan-y-don.\nGorwedd y pentref hanner milltir i'r de-ddwyrain o Fostyn, ar lan aber Afon Dyfrdwy, tua dwy filltir a hanner i'r gogledd o Dreffynnon. Hanner milltir i'r dwyrain ceir pentref bychan Llannerch-y-m\u00f4r. Dim ond cilfach o dir sy'n gorwedd rhwng y pentref a Mostyn.\nRhed y ffordd A548 heibio i'r pentref. Mae Rheilffordd Arfordir Gogledd Cymru yn pasio tua chwarter milltir i'r gogledd ond does dim gorsaf i'r pentref."
+                }
+            },
+            {
+                "id": "flintshire#glan-yr-afon",
+                "name": "Glan-yr-afon",
+                "lat": "52.971617",
+                "lon": "-3.4577463",
+                "wikipedia": {
+                    "lang": "cy",
+                    "href": "https:\/\/cy.wikipedia.org\/wiki\/Glan-yr-afon",
+                    "_text": "Gallai Glan-yr-afon neu Glanrafon gyfeirio at:\nGlan-yr-afon, Bodffordd, Ynys M\u00f4n\nGlan-yr-afon, Mariandyrys, Ynys M\u00f4n\nGlan'rafon, Caerdydd"
+                }
+            },
+            {
+                "id": "flintshire#glasdir",
+                "name": "Glasdir",
+                "lat": "53.1146727",
+                "lon": "-3.1215129"
+            },
+            {
+                "id": "flintshire#golch",
+                "name": "Golch",
+                "lat": "53.2822045",
+                "lon": "-3.2549123"
+            },
+            {
+                "id": "flintshire#golftyn",
+                "name": "Golftyn",
+                "lat": "53.2183702",
+                "lon": "-3.0801033"
+            },
+            {
+                "id": "flintshire#gorsedd",
+                "name": "Gorsedd",
+                "lat": "53.280322",
+                "lon": "-3.275356",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Gorsedd",
+                        "_text": "A gorsedd \/\u02c8\u0261\u0254rs\u025b\u00f0\/ plural gorseddau, is a community or coming together of modern-day bards. The word is of Welsh origin, meaning \"throne\". It is often spelled gorsedh in Cornwall and goursez in Brittany, reflecting the spellings in the Cornish and Breton languages, respectively.\nWhen the term is used without qualification, it usually refers to the national Gorsedd of Wales, namely Gorsedd Beirdd Ynys Prydain, meaning \"The Gorsedd of Bards of the Island of Britain\". However, other gorseddau exist, such as the Cornish Gorsedh Kernow and the Breton Goursez Vreizh."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Gorsedd",
+                        "_text": "Gallai gorsedd gyfeirio at un o sawl peth:\nGorsedd (cadair), cadair seremon\u00efol a symbol awdurdod a ddefnyddir gan frenhinoedd a.y.y.b.\nGorsedd (mytholeg), bryn neu dwmpath arbennig ym mytholeg y Celtiaid\nEisteddfodol:\nGorsedd y Beirdd (Cymru)\nGorseth Kernow (Cernyw)\nGoursez Vreizh (Llydaw)\nLlenyddiaeth:\nGorsedd y Byd (1615), llyfr gan Rhosier Smyth\nPentref\nGorsedd, gerllaw Treffynnon\nYr Orsedd, gerllaw Wrecsam"
+                    }
+                ]
+            },
+            {
+                "id": "flintshire#greenfield",
+                "name": "Greenfield",
+                "lat": "53.288406",
+                "lon": "-3.20504",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Greenfield",
+                    "_text": "Greenfield or Greenfields may refer to:"
+                }
+            },
+            {
+                "id": "flintshire#greenfield (maes-glas)",
+                "name": "Greenfield (Maes-Glas)"
+            },
+            {
+                "id": "flintshire#gronant",
+                "name": "Gronant",
+                "lat": "53.337751",
+                "lon": "-3.365556",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Gronant",
+                        "_text": "Gronant is a village in Flintshire, Wales. The population, as measured by the 2001 census is 1,595, living in 697 households. The average age of the populace is 41.4 years, slightly higher than the national average. Following reorganisation all the population is now listed under the community of Llanasa. The electoral ward remains. The population of this ward taken at the 2011 census was 1,527.\nGronant dunes form part of an extensive network of dunes which extend from Prestatyn, in Denbighshire, to Point of Ayr, in Flintshire at the entrance to the Dee Estuary.They are designated as a Local Nature Reserve, and the dune system as a whole is recognised as a Site of Special Scientific Interest.\n^ \"Gronant Profile\" (PDF). Flintshire County Council. Retrieved 2007-12-02. \n^ \"Ward population 2011\". Retrieved 25 May 2015. \n^ \"Gronant Dunes\". Virtual Presatyn. Retrieved 2007-12-02."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Gronant",
+                        "_text": "Mae Gronant yn bentref bychan yn Sir y Fflint, gogledd-ddwyrain Cymru. Saif y pentref tua milltir o arfordir gogledd Cymru yng nghornel gogledd-orllewinol eithaf Sir y Fflint, bron ar y ffin \u00e2 Sir Ddinbych. Mae'n gorwedd rhwng Prestatyn i'r gorllewin a Gwesbyr a Talacre i'r dwyrain. Mae'n rhan o gymuned Llanasa.\nTu \u00f4l i'r pentref mae nant yn codi i'r Graig Fawr, y cyntaf o Fryniau Clwyd. Mae l\u00f4n dan bont ar Reilffordd Arfordir Gogledd Cymru yn arwain o'r pentref i'r traeth a'r tywynnau sy'n ymestyn o Brestatyn i'r Parlwr Du.\nAr y traeth gerllaw Gronant, ceir yr unig fan lle mae'r Forwennol Fechan yn nythu yng Nghymru. Mae'r nythod yn cael eu gwarchod gan wirfoddolwyr."
+                    }
+                ]
+            },
+            {
+                "id": "flintshire#gwaenysgor",
+                "name": "Gwaenysgor",
+                "lat": "53.321786",
+                "lon": "-3.387222",
+                "wikipedia": {
+                    "lang": "cy",
+                    "href": "https:\/\/cy.wikipedia.org\/wiki\/Gwaenysgor",
+                    "_text": "Pentref a phlwyf yn Sir y Fflint yw Gwaenysgor Saif fymryn i'r de-ddwyrain o dref Prestatyn. Mae Llwybr Clawdd Offa yn mynd heibio iddo.\nCysegrwyd yr eglwys i Mair Fadlen. Crybwyllir y plwyf a'r eglwys yn Llyfr Dydd y Farn yn 1086 fel \"Wenescol\". Credir bod y rhan fwyaf o'r adeilad presennol ychydig yn hwyrach."
+                }
+            },
+            {
+                "id": "flintshire#gwernaffield-y-waun",
+                "name": "Gwernaffield-y-Waun",
+                "lat": "53.1720083",
+                "lon": "-3.1913245"
+            },
+            {
+                "id": "flintshire#gwernymynydd",
+                "name": "Gwernymynydd",
+                "lat": "53.156413",
+                "lon": "-3.167228",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Gwernymynydd",
+                        "_text": "Gwernymynydd (Welsh:Alder Trees in the mountain) is a small community in the market town of Mold, or Yr Wyddgrug in Flintshire, Wales. At its highest point it is one thousand feet above sea level. With around one thousand inhabitants, it boasts three pubs (The Swan, The Rainbow, and The Glyndwr) and a once-busy garage, now a coach depot, home to Eagles & Crawford. Gwernymynydd is also home to a farm, a community centre, and a village primary school. Neighbouring communities include Cadole, Y Waun (Gwernaffield), Nercwys, and Yr Wyddgrug (Mold). The population was measured at the 2011 census at 1,141.\n^ \"Community population 2011\". Retrieved 25 May 2015."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Gwernymynydd",
+                        "_text": "Pentref a chymuned yn Sir y Fflint yw Gwernymynydd. Saif ar y briffordd A494 rhyw filltir i'r de-orllewin o dref Yr Wyddgrug.\nMae gan y pentref boblogaeth o tua 1,000. Ceir tair tafarn ac ysgol gynradd yma."
+                    }
+                ]
+            },
+            {
+                "id": "flintshire#gwespyr",
+                "name": "Gwespyr",
+                "lat": "53.334396",
+                "lon": "-3.336653",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Gwespyr",
+                    "_text": "Gwespyr is a village in Flintshire on the north coast of Wales. Gwespyr had a population of 289 people in the 2001 census. It overlooks Point of Ayr on the west side of the River Dee estuary and its sandy beaches with dunes. The hills of the Clwydian Range behind the village form the eastern boundary of the Vale of Clwyd. Gwespyr also looks respectively Welsh but is an alien name. It represents Old English for 'West-bury' which came to be interpreted as the 'west fort' meaning the western most fort in Mercia. Originally, it is thought to have been a strategic Mercian lookout which was reduced in importance with the development of a fortified Rhuddlan.\n\nGwespyr is famed worldwide for its top quality stone quarried in quantity from Roman times and shipped all around the world. \"Gwespyr Stone\" as it became known had a fine grain and colour also a remarkable quality of cutting and shaping. It was used for many buildings around Gwespyr. It was also used to build the ancient Maen Achwyfan at Whitford, the chapel at St Winefride's Well in Holywell, stone carvings in Rhuddlan Castle and Denbigh Castle, St Asaph Cathedral, The Talacre Arms Public house in Gwespyr and Basingwerk Abbey in Greenfield, Flintshire. Gwespyr stone was also found on sites such as Prestatyn Castle and the Roman bathhouse located in Prestatyn. There is plenty of evidence of the stone industry in Gwespyr prevalent even today, though all but one quarry is disused. The quarry in use today is home to Delyn Metal."
+                }
+            },
+            {
+                "id": "flintshire#halkyn (helygain)",
+                "name": "Halkyn (Helygain)"
+            },
+            {
+                "id": "flintshire#halkyn mountain",
+                "name": "Halkyn Mountain"
+            },
+            {
+                "id": "flintshire#hawarden (penarlag)",
+                "name": "Hawarden (Penarlag)"
+            },
+            {
+                "id": "flintshire#helygain (halkyn)",
+                "name": "Helygain (Halkyn)"
+            },
+            {
+                "id": "flintshire#hendre",
+                "name": "Hendre",
+                "lat": "51.5262874",
+                "lon": "-3.529573"
+            },
+            {
+                "id": "flintshire#higher kinnerton",
+                "name": "Higher Kinnerton",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Higher Kinnerton",
+                    "_text": "Higher Kinnerton is a small residential village in Flintshire, Wales and electoral ward, very close to the Wales-England border. Its sister village, Lower Kinnerton is on the other side of the border in Cheshire, England."
+                }
+            },
+            {
+                "id": "flintshire#higher shotton",
+                "name": "Higher Shotton"
+            },
+            {
+                "id": "flintshire#holway",
+                "name": "Holway",
+                "lat": "53.2793592",
+                "lon": "-3.2375288",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Holway",
+                    "_text": "Holway may refer to:"
+                }
+            },
+            {
+                "id": "flintshire#holywell (treffynnon)",
+                "name": "Holywell (Treffynnon)"
+            },
+            {
+                "id": "flintshire#hope (yr hob)",
+                "name": "Hope (Yr Hob)"
+            },
+            {
+                "id": "flintshire#horeb",
+                "name": "Horeb",
+                "lat": "52.057661",
+                "lon": "-4.3422349",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Horeb",
+                        "_text": "Horeb may refer to:\nMount Horeb, possibly another name for the Biblical Mount Sinai\nMount Horeb, Wisconsin, in Dane County, Wisconsin\nMount Horeb Sasthamcotta, ashram in Kerala, India\nHoreb, Carmarthenshire, Wales\nHoreb, Ceredigion, Wales\nHoreb, Flintshire, Wales"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Horeb",
+                        "_text": "Gallai Horeb gyfeirio at un o sawl lle:\nYn y Beibl:\nHoreb, mynydd yn y Dwyrain Canol (lleoliad ansicr)\nPentrefi yng Nghymru:\nHoreb (Ceredigion)\nHoreb (Sir Gaerfyrddin)\nHoreb (Sir y Fflint)\nYn ogystal mae Horeb yn enw ar sawl capel yng Nghymru."
+                    }
+                ]
+            },
+            {
+                "id": "flintshire#kelsterton",
+                "name": "Kelsterton",
+                "lat": "53.2295627",
+                "lon": "-3.0838917"
+            },
+            {
+                "id": "flintshire#kinnerton green",
+                "name": "Kinnerton Green"
+            },
+            {
+                "id": "flintshire#lane end",
+                "name": "Lane End",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Lane End",
+                    "_text": "Lane End is the name of more than one place.\nIn the United Kingdom:\nLane End, Bradford\nLane End, Buckinghamshire\nLane End, Cumbria\nLane End, Derbyshire\nLane End, Devon\nLane End, Dorset\nLane End, Kent\nLane End, Hampshire\nLane End, Herefordshire\nLane End, Isle of Wight\nLane End, Staffordshire, a district of Stoke-on-Trent incorporated with Longton, Staffordshire in 1865.\nLane End, Surrey\nLane End, Wiltshire"
+                }
+            },
+            {
+                "id": "flintshire#leadmill",
+                "name": "Leadmill",
+                "lat": "53.172634",
+                "lon": "-3.13665"
+            },
+            {
+                "id": "flintshire#leeswood (coed-llai)",
+                "name": "Leeswood (Coed-Llai)"
+            },
+            {
+                "id": "flintshire#little mancot",
+                "name": "Little Mancot"
+            },
+            {
+                "id": "flintshire#little mountain",
+                "name": "Little Mountain",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Little Mountain",
+                    "_text": "Little Mountain may refer to:\nIn the U.S.:\nLittle Mountain (Ohio)\nLittle Mountain, South Carolina, a town\nLittle Mountain (South Carolina), a mountain\nLittle Mountain (Tennessee)\nLittle Mountain (Virginia), a mountain\nLittle Mountain (Utah), a mountain\nLittle Mountain (West Virginia), a mountain\nLittle Mountain (California), a small, but very well known, foothill\nIn the UK:\nLittle Mountain, Flintshire\nIn Canada:\nLittle Mountain (British Columbia), the name of a large hill in the city containing Queen Elizabeth Park, British Columbia\nLittle Mountain (Vancouver Island), a mountain near Parksville on Vancouver Island"
+                }
+            },
+            {
+                "id": "flintshire#lixwm",
+                "name": "Lixwm",
+                "lat": "53.232947",
+                "lon": "-3.247763",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Lixwm",
+                    "_text": "Lixwm (Welsh: Licswm) is a small village in Flintshire, Wales. It is part of the community of Ysceifiog.\nLixwm was formerly a mining village, and one explanation of its unusual name was that it was given to it by miners who moved to the area from Derbyshire: in their dialect \"likesome\", or \"licksome\", was an adjective meaning \"pleasant\". It may have been referred to as Lixwm Green, or Lixum Green, for a period in the 19th century.\nLewis's 1843 Topographical Dictionary of Wales noted that at that time the majority of the population of Ysceifiog parish lived in Lixwm and were mainly employed in mines in the neighbouring parishes. Even at that time, however, the population was declining due to the closure of some mines.\n\n"
+                }
+            },
+            {
+                "id": "flintshire#llan-eurgain (northop)",
+                "name": "Llan-eurgain (Northop)"
+            },
+            {
+                "id": "flintshire#llanasa",
+                "name": "Llanasa",
+                "lat": "53.324285",
+                "lon": "-3.3453339",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Llanasa",
+                        "_text": "Llanasa is village in the county of Flintshire, northeast Wales. Llanasa is described as one of the ancient parishes of Flintshire. It originally comprised the townships of Gronant, Gwespyr, Kelston, Golden Grove, Picston, Trewaelod, Axtyn and Trelogan.\nNamed after Saint Asaph the village is known to have existed since at least c.600 AD and was originally called Llanasaph meaning the Church of Saint Asaph. It was where the tomb and relics of Saint Asaph were enshrined before they were moved to the larger St Asaph Cathedral sometime before 1281. This ancient parish church was later the burial place of Gruffudd Fychan (the father of Owain Glynd\u0175r). The stone slab which covered his tomb survives and is engraved with the words HIC LACET GRVFVD VACHAN or \"here lies Gruffudd Fychan\". This slab, according to records, was originally in the centre of the south aisle and it would appear that Gruffudd Fychan was buried somewhere in this church sometime between 1350 and 1370. His mortal remains have not been found.\nWelsh relatives of Glynd\u0175r, known as the Hughes of Gwerclas family, continued to live in the area during the 18th and 19th Centuries."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Llanasa",
+                        "_text": "Pentref bychan, plwyf a chymuned yn Sir Fflint, gogledd-ddwyrain Cymru, yw Llanasa. Mae'n gorwedd tua 300 troedfedd i fyny wrth droed yr olaf o Fryniau Clwyd, tua 2 filltir a hanner i'r dwyrain o Brestatyn yng ngogledd-orllewin Sir Fflint. Y pentrefi cyfagos yw Talacre a Gwesbyr i'r gogledd, Ffynnongroyw i'r dwyrain a Gwaenysgor a Threlawnyd i'r gorllewin.\nMae cymuned Llanasa yn cynnwys pentrefi Talacre, Gronant, Gwesbyr, Trelogan a Ffynnongroyw yn ogystal a phentref Llanasa ei hun, ac mae hefyd yn cynnwys y Parlwr Du, y pwll glo mwyaf yn Sir y Fflint. Roedd poblogaeth y gymuned yn 4,820 yn 2001."
+                    }
+                ]
+            },
+            {
+                "id": "flintshire#llanfynydd",
+                "name": "Llanfynydd",
+                "lat": "51.928285",
+                "lon": "-4.09887",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Llanfynydd",
+                        "_text": "Llanfynydd is a village, parish and community in Carmarthenshire, Wales. The population of the community taken at the 2011 census was 499. It lies some 10 miles north-east of the county town, Carmarthen.\nThe community is bordered by the communities of: Llansawel; Talley; Manordeilo and Salem; Llangathen; Llanegwad; and Llanfihangel Rhos-y-Corn, all being in Carmarthenshire.\n^ \"Community population 2011\". Retrieved 15 April 2015."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Llanfynydd",
+                        "_text": "Gallai Llanfynydd gyfeirio at:\nLlanfynydd, pentref a chymuned yn Sir Gaerfyrddin\nLlanfynydd, pentref a chymuned yn Sir y Fflint"
+                    }
+                ]
+            },
+            {
+                "id": "flintshire#llannerch-y-mor",
+                "name": "Llannerch-y-mor",
+                "lat": "53.3022996",
+                "lon": "-3.2388201"
+            },
+            {
+                "id": "flintshire#lloc",
+                "name": "Lloc",
+                "lat": "53.284018",
+                "lon": "-3.295021",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Lloc",
+                    "_text": "Lloc is a small village in Flintshire, north Wales. It is located within the community of Holywell. It lies north of the Clwydian Range, just east of the border with Denbighshire.\n\n"
+                }
+            },
+            {
+                "id": "flintshire#llong",
+                "name": "Llong",
+                "lat": "53.154425",
+                "lon": "-3.102179",
+                "wikipedia": {
+                    "lang": "cy",
+                    "href": "https:\/\/cy.wikipedia.org\/wiki\/Llong",
+                    "_text": "Defnyddir llong i deithio neu i gludo nwyddau dros y m\u00f4r, afonydd, camlesi a llynnoedd. Gelwir llong fechan yn gwch neu bad."
+                }
+            },
+            {
+                "id": "flintshire#lower kinnerton",
+                "name": "Lower Kinnerton",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Lower Kinnerton",
+                        "_text": "Lower Kinnerton is a village and civil parish in the unitary authority of Cheshire West and Chester and the ceremonial county of Cheshire, situated on the border between England and Wales. It has a population of 119, increasing to 136 at the 2011 census. The village is located south of Broughton and to the north west of the parish and village of Dodleston. The neighbouring village of Higher Kinnerton is across the border in Flintshire.\nLower Kinnerton has a few houses and farms. It also is home to a local Kennel and Cattery, Warren Wood Kennels and Cattery.\nThe population was 97 in 1801, 94 in 1851, 127 in 1901 and 142 in 1951."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Lower Kinnerton",
+                        "_text": "Pentref a phlwyf sifil yn Swydd Gaer, Lloegr yw Lower Kinnerton. Fe'i lleolir ar y ffin rhwng Cymru (Sir y Fflint) a Lloegr, i'r de o Frychdyn ac i'r gogledd-orllewin o bentref bychan Dodleston. Gorwedd y pentref cyfagos Higher Kinnerton dros y ffin yn Sir y Fflint."
+                    }
+                ]
+            },
+            {
+                "id": "flintshire#lower mountain",
+                "name": "Lower Mountain"
+            },
+            {
+                "id": "flintshire#maes pennant",
+                "name": "Maes Pennant"
+            },
+            {
+                "id": "flintshire#maes-glas (greenfield)",
+                "name": "Maes-Glas (Greenfield)"
+            },
+            {
+                "id": "flintshire#maes-y-dre",
+                "name": "Maes-y-dre",
+                "lat": "53.2828193",
+                "lon": "-3.5754317"
+            },
+            {
+                "id": "flintshire#mancot royal",
+                "name": "Mancot Royal"
+            },
+            {
+                "id": "flintshire#marian",
+                "name": "Marian",
+                "lat": "53.2370409",
+                "lon": "-3.1313425",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Marian",
+                        "_text": "Marian may refer to:"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Marian",
+                        "_text": "Marian yw'r enw am y gro neu gerrig sy'n cael ei waddodi gan rewlif, fel arfer ar yr ymylon ohono. Mae'n rhoi enw ar ambell i le yng Nghymru, er enghraifft Marianglas."
+                    }
+                ]
+            },
+            {
+                "id": "flintshire#milwr",
+                "name": "Milwr",
+                "lat": "53.262408",
+                "lon": "-3.2147508",
+                "wikipedia": {
+                    "lang": "cy",
+                    "href": "https:\/\/cy.wikipedia.org\/wiki\/Milwr",
+                    "_text": "Yn y lluoedd arfog, aelod o fyddin sydd ddim yn swyddog yw milwr. Er hynny, mae'r gair \"milwr\" yn gyffredinol yn cael ei ddefnyddio i gyfeirio at unrhyw berson sydd wedi ymrestru \u00e2'r fyddin."
+                }
+            },
+            {
+                "id": "flintshire#moel-y-crio",
+                "name": "Moel-y-crio",
+                "lat": "53.2188302",
+                "lon": "-3.2056453"
+            },
+            {
+                "id": "flintshire#mold",
+                "name": "Mold",
+                "lat": "53.167203",
+                "lon": "-3.141903",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Mold",
+                    "_text": "A mold (US) or mould (UK \/ NZ \/ AU \/ ZA \/ CA) is a fungus that grows in the form of multicellular filaments called hyphae. In contrast, fungi that can adopt a single celled growth habit are called yeasts.\nMolds are a large and taxonomically diverse number of fungal species where the growth of hyphae results in discoloration and a fuzzy appearance, especially on food. The network of these tubular branching hyphae, called a mycelium, is considered a single organism. The hyphae are generally transparent, so the mycelium appears like very fine, fluffy white threads over the surface. Cross-walls (septa) may delimit connected compartments along the hyphae, each containing one or multiple, genetically identical nuclei. The dusty texture of many molds is caused by profuse production of asexual spores (conidia) formed by differentiation at the ends of hyphae. The mode of formation and shape of these spores is traditionally used to classify molds. Many of these spores are colored, making the fungus much more obvious to the human eye at this stage in its life-cycle.\nMolds are considered to be microbes and do not form a specific taxonomic or phylogenetic grouping, but can be found in the divisions Zygomycota and Ascomycota. In the past, most molds were classified within the Deuteromycota.\nMolds cause biodegradation of natural materials, which can be unwanted when it becomes food spoilage or damage to property. They also play important roles in biotechnology and food science in the production of various foods, beverages, antibiotics, pharmaceuticals and enzymes. Some diseases of animals and humans can be caused by certain molds: disease may result from allergic sensitivity to mold spores, from growth of pathogenic molds within the body, or from the effects of ingested or inhaled toxic compounds (mycotoxins) produced by molds."
+                }
+            },
+            {
+                "id": "flintshire#mold (yr wyddgrug)",
+                "name": "Mold (Yr Wyddgrug)"
+            },
+            {
+                "id": "flintshire#mostyn",
+                "name": "Mostyn",
+                "lat": "53.3129799",
+                "lon": "-3.2692784",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Mostyn",
+                        "_text": "Mostyn is a small village in Flintshire, Wales, and electoral ward lying on the estuary of the River Dee, located near the town of Holywell.\nMostyn once served as a port from which ferries used to sail (until 2004) to Dublin on the Liverpool-Dublin route. Today, manufactured wings for the Airbus A380 aircraft leave Mostyn on the ship Ville De Bordeaux, after travelling down the River Dee by barge from the Airbus wing factory at Broughton, Flintshire. See Itin\u00e9raire \u00e0 Grand Gabarit for more details of the transportation.\nMostyn Port has been the construction base for some of the Irish Sea Offshore Windfarms \u2013\nNorth Hoyle, (Constructed 2003\u20132004)\nBurbo Bank (2006\u20132007)\nRhyl Flats, (2008\u20132009)\nGwynt y M\u00f4r (2012\u20132015)\nAlso some of the work for the Robin Rigg and Walney windfarms.\nBetween 1848 and 1966 there was a railway station in the village on the Chester to Holyhead line.\nMostyn's port area is home to the headquarters of Warwick International Group Limited, manufacturers of bleach activators for detergent applications.\nJust down the A548 road from Mostyn at Llanerch-y-Mor is the now closed Mostyn Fun Ship. The ship started life as the Duke of Lancaster, a car ferry and cruise ship. After it was permanently dry-docked in Mostyn, it earned its later name from its new operation as an arcade and bar.\nTheir football team Mostyn Dragons are champions of Clwyd League Division Two and promoted to division one in 2008\u201309"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Mostyn",
+                        "_text": "Pentref a chymuned yn Sir y Fflint, ar Lannau Dyfrdwy, ger Treffynnon, yw Mostyn. Bu'n borthladd fferri prysur yn y gorffennol fel rhan o'r gwasanaeth fferi Lerpwl - Dulyn, ond gorffennodd y gwasanaeth yn 2004. Heddiw mae'r esgyll anferth ar gyfer yr awyren A380 a gynhyrchir yn ffatri Airbus, Brychdyn (Broughton), yn cael eu cludo o Fostyn drosodd i Ffrainc ar fwrdd y long Ville De Bordeaux, ar \u00f4l teithio yno ar fwrdd barges o'r ffatri hyd aber Afon Dyfrdwy."
+                    }
+                ]
+            },
+            {
+                "id": "flintshire#mount pleasant",
+                "name": "Mount Pleasant",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Mount Pleasant",
+                    "_text": "Mount Pleasant may refer to:"
+                }
+            },
+            {
+                "id": "flintshire#mwdwl-eithin",
+                "name": "Mwdwl-eithin",
+                "lat": "53.0727222",
+                "lon": "-3.6177777",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Mwdwl-eithin",
+                        "_text": "Mwdwl-eithin (532 metres (1,745 ft)) is the highest point on the Denbigh Moors (Welsh: Mynydd Hiraethog) of North Wales. This gently rising mountain lies about 10 miles (16 km) east of Betws-y-Coed. On its summit is a trig point and a ruined building which still provides shelter against a storm. A few metres away is a large raised stone cairn.\nThe whole area is underlain by Silurian mudstone which was extensively glaciated during the last British glaciation. The whole area is now very wet moorland dominated by heather (Calluna and Erica spp.) and rushes. Three of the surrounding valleys and depressions have been used for drinking water storage reservoirs, Llyn Alwen, Llyn Aledand Alwen Reservoir."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Mwdwl-eithin",
+                        "_text": "Copa uchaf Mynydd Hiraethog yw Mwdwl-eithin. Saif yn sir Conwy, tua 10 milltir i'r dwyrain o bentref Betws y Coed ac 1km i'r gorllewin o Lyn Brenig.\nCeir carnedd ar y copa. Yn y dyffrynnoedd o'i gwmpas ceir nifer o gronfeydd: Llyn Alwen, Cronfa Alwen a Llyn Aled.\nMae Mwdwl-eithin yn gopa mynydd a geir ym Mynydd Hiraethog rhwng Llandudno a Wrecsam; cyfeiriad grid SH917540. Uchder cymharol, neu \u201damlygrwydd\u201d y copa, ydy 267 metr: dyma'r uchder mae'r copa'n codi uwchlaw'r mynydd agosaf.\nDosberthir copaon Cymru, a gweddill gwledydd Prydain, yn rhestri arbennig yn \u00f4l uchder ac yn \u00f4l amlygrwydd y copa; mae'r copa hwn yn cael ei alw'n Marilyn a Dewey. Mae sawl cymdeithas yn mesur, gwiro a chasglu'r rhestri hyn a d\u00f4nt yngh\u0177d ar wefan \u201cDatabase of British and Irish hills\u201d. Uchder y copa o lefel y m\u00f4r ydy 532 metr (1745 tr). Cafodd yr uchder ei fesur a'i gadarnhau ar 22 Rhagfyr 2007."
+                    }
+                ]
+            },
+            {
+                "id": "flintshire#mwynbwll",
+                "name": "Mwynbwll",
+                "lat": "53.1951715",
+                "lon": "-3.215235"
+            },
+            {
+                "id": "flintshire#mynydd isa",
+                "name": "Mynydd Isa",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Mynydd Isa",
+                        "_text": "Mynydd Isa [\u02ccm\u0259n\u0268\u031e\u00f0 \u02c8\u026asa] is a village in Flintshire, in north-east Wales. It lies between the county town of Mold, and Buckley. Mynydd Isa was originally a small hamlet on the north side of the Mold to Buckley road (now the A549 road) just downhill from the now demolished Calvinist chapel. It does not appear on Ordnance Survey maps until 1912.\nIts placename is Welsh for \"lower mountain\".\nAnother old hamlet nearby was Pant-y-Fownog, on the same road nearer Buckley (centred on the Griffin Inn); although the name was used well into the 1900s on picture postcards of the area and by the local Co-Op shop next to the Inn. The name has long since become disused (except for lending its name to a road in nearby Buckley).\nBryn-y-Baal [\u02ccbr\u0268\u031en\u0259\u02c8b\u0251\u02d0l] is an old hamlet much enlarged since the 1970s and now contiguous with but not part of Mynydd Isa. Bryn-y-Baal takes its name from a Middle English word \"bale\" (rhymes with \"Carl\") meaning small hill. It was later written in a Welsh language form as 'b\u00e2l' with a circumflex over the \"\u00e2\". In Welsh this is pronounced as a long A. This form appears on early Ordnance Survey maps. Eventually it was written in the Anglicised form 'Baal' - still correctly pronounced to rhyme with \"Carl\".\nIn the area there is a secondary school known as Argoed High School in Bryn-y-Baal and a primary school Ysgol Mynydd Isa - the Junior department being in Bryn-y-Baal (formerly Ysgol y Bryn and before that Mynydd Isa Junior School), and the Infants department (formerly known as Wat's Dyke Infant School) on a separate site in Mynydd Isa.\nAmenities include a pub, The Griffin on Mold Road. (The Mercia on Mercia Drive closed in 2010), various shops and the village centre which houses the library and other clubs and associations.\nThe village has a large youth organisation (established in 1984) with football teams representing the village in the county league from 7 to 16 years old and adult football dating back to the 1930s; however the adult team disbanded in 2009.\nThe village also has a large social media following through the Facebook page: 'The Mynydd Isa Chronicles.'\n^ Flintshire Place Names by Hwyl Wyn Owen ISBN 978-0-7083-1242-1 (1995)"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Mynydd Isa",
+                        "_text": "Pentref gweddol fawr yn Sir y Fflint yw Mynydd Isa. Saif ger y briffordd A549, tua hanner y ffordd rhwng Yr Wyddgrug a Bwcle.\nAr un adeg roedd Bryn-y-Baal (hefyd Bryn-y-B\u00e2l) yn bentref ar wah\u00e2n, ond yn awr mae'n rhan o Fynydd Isa i bob pwrpas. Y cyngor lleol yw Cyngor Cymunedol Argoed.\nMae ysgol uwchradd yn y pentref, sef Ysgol Uwchradd Argoed. Ceir dwy dafarn hefyd."
+                    }
+                ]
+            },
+            {
+                "id": "flintshire#mynydd-llan",
+                "name": "Mynydd-llan",
+                "lat": "51.8239738",
+                "lon": "-4.1838382"
+            },
+            {
+                "id": "flintshire#naid-y-march",
+                "name": "Naid-y-march"
+            },
+            {
+                "id": "flintshire#nannerch",
+                "name": "Nannerch",
+                "lat": "53.219301",
+                "lon": "-3.252431",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Nannerch",
+                        "_text": "Nannerch is a village in Flintshire, Wales. It is situated in an Area of Outstanding Natural Beauty. At the 2001 Census the population of Nannerch was 531, reducing to 496 at the 2011 Census.\n^ 2001 Census: Nannerch, Office for National Statistics, retrieved 27 July 2008 \n^ \"Community population 2011\". Retrieved 25 May 2015."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Nannerch",
+                        "_text": "Pentref bychan a chymuned yn Sir y Fflint yw Nannerch (Cyfeirnod OS: SJ166695). Saif fymryn oddi ar y briffordd A541, tua hanner y ffordd rhwng Yr Wyddgrug a Dinbych. Y boblogaeth yn 2001 oedd 531. Nid oes siop yma, ond ceir tafarn sydd yn dyddio yn \u00f4l i'r 18ed ganrif, sef The Cross Foxes. mae yma ysgol gyda thua 60 o blant.\nYn y bryniau gerllaw mae olion bryngeiri Pen-y-Cloddiau a Moel Arthur. Ceir nifer o ffynhonau gan gynnwys Ffynnon Sara, sef tarddiad yr afon Chwiler, yn \u00f4l traddodiad.\nMae cofnodion yn dangos y defnyddiwyd yr enw ar y lle mor bell yn \u00f4l \u00e2 1254, sef yn wreiddiol yr enw ar yr afon. Mae'n gyfuniad o ddau enw: 'nant' ac 'erch' (Saesneg: dappled) fel a geir yn yr enw Abererch, ger Pwllheli.\nMae'r eglwys (sef St. Michael and All Angels) yn gymharol newydd ac yn dyddio o 1853 ac wedi ei godi o galchfaen lleol. Y pensaer oedd Thomas W Wyatt o Lundain. Saif Neuadd Penbedw gerllaw, neuadd braf a godwyd yn 1775 gyda cylch cerrig Celtaidd o'i flaen."
+                    }
+                ]
+            },
+            {
+                "id": "flintshire#nant alyn",
+                "name": "Nant Alyn"
+            },
+            {
+                "id": "flintshire#nant mawr",
+                "name": "Nant Mawr"
+            },
+            {
+                "id": "flintshire#nant y flint",
+                "name": "Nant y Flint"
+            },
+            {
+                "id": "flintshire#nercwys",
+                "name": "Nercwys",
+                "lat": "53.1436503",
+                "lon": "-3.1536443",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Nercwys",
+                        "_text": "Nercwys is a rural village and community in Flintshire, Wales which is surrounded by open countryside. The community population taken at the 2011 census was 585.\nThe older, Anglicised spelling of Nerquis can sometimes be found.\nIt has a small school and a local bus service to Mold which is around 3 miles away.\nNercwys lies on the eastern fringe of the Clwydians, and is served by a network of lanes. The modern settlement straggles along a shelf that interrupts the prevailing south-west to north-east slope. The River Terrig, a tributary of the Alyn, runs northwards less than one kilometre to the east.\nThe origins of this settlement are obscure. The shape of the churchyard might indicate an early medieval origin but there is no convincing evidence to corroborate the theory.\nThe church, an ancient chapelry of Mold, is first documented in 1291, when the place was termed Nerchgwys. The meaning of the name is obscure but could combine either 'hanner' [half] or 'anner' [heifer] with 'cwys' [furrow]. The development of Nercwys through the Middle Ages and even into the post-medieval era remains to be elucidated. The first depiction on an estate map of 1734 shows Plas-yn-llan to the south of the churchyard, the White Lion Inn at the crossroads and a small number of dwellings scattered along the road.\nIn Nercwys you can find a Grade 1 listed Welsh Fortified border house which is referred to as TOWER. It is the only Welsh fortified border house still standing and has been in the same family for six centuries and is still privately owned. Over the decades the building has had many additions, including a tower and battlements which Mr Wynne-Eyton (The current occupier) thinks date from the 18th Century and belong to the early Gothic Revival period. This now gentrified home of was referred to by the 15 th century poet Hywel Cilcan as \u201cthe fair Tower \u2026.a fortress twenty fathoms high\u201d. Rheinallt ap Gryfydd ap Bleddyn, who features in the continuous border warfare of the time, hung the Mayor of Chester in the dining hall at TOWER in 1465. An iron staple in the ceiling of the medieval dining hall marks the spot. The family motto \u201cHeb dduw, heb ddim\u201d, which translates as \u201cwithout God there is nothing\u201d, is carved over the fireplace and stained glass windows in the building display the family coat of arms\nThe parish church is dedicated to St Mary, dates back to the 1100s and is a grade II* listed building."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Nercwys",
+                        "_text": "Pentref gwledig a chymuned yn Sir Fflint yw Nercwys. Saif tua dwy filltir i'r de o dref Yr Wyddgrug."
+                    }
+                ]
+            },
+            {
+                "id": "flintshire#new brighton",
+                "name": "New Brighton",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/New Brighton",
+                    "_text": "New Brighton is the name of several places:"
+                }
+            },
+            {
+                "id": "flintshire#northop (llan-eurgain)",
+                "name": "Northop (Llan-eurgain)"
+            },
+            {
+                "id": "flintshire#northop hall",
+                "name": "Northop Hall",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Northop Hall",
+                    "_text": "Northop Hall is a large village near Mold, in Flintshire, Wales. Located to the east of Northop, near the A55 North Wales Expressway, the village is largely residential in character. At the 2001 Census, the village of Northop Hall had a population of 1,665, falling to 1,530 at the 2011 census.\nThe village has one pub, the Boar's Head; until recently there was a second, the Black Lion, and they were universally known locally as the 'Top Monkey' and 'Bottom Monkey'. There are active cricket and hockey clubs.\nThe hall that gives the village its name is a 13th-century manor house which is located in close proximity to Smithy Lane and the Mold to Connah's Quay road. It was the most important house in Northop parish. It was occupied by local aristocracy including the Evans family, ancestors of author George Eliot. The original Northop Hall is now a private house and not to be confused with Northop Hall Country House Hotel which is Victorian and located elsewhere in the village."
+                }
+            },
+            {
+                "id": "flintshire#oakenholt",
+                "name": "Oakenholt",
+                "lat": "53.2361714",
+                "lon": "-3.1040311",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Oakenholt",
+                        "_text": "Oakenholt is a village in Flintshire, Wales. It is situated to the south east of the town of Flint, near the A548 road. At the 2001 Census, the population of the Flint Oakenholt Ward was 2920."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Oakenholt",
+                        "_text": "Pentref yn Sir y Fflint yw Oakenholt. Nid ymddengys fod enw Cymraeg iddo.\nSaif Oakenholt ger aber Afon Dyfrdwy, ychydig i'r de-ddwyrain o dref Y Fflint ar y briffordd A548. Sefydlwyd melin bapur yma yn 1870."
+                    }
+                ]
+            },
+            {
+                "id": "flintshire#old warren",
+                "name": "Old Warren"
+            },
+            {
+                "id": "flintshire#pant",
+                "name": "Pant",
+                "lat": "51.7726429",
+                "lon": "-3.3571127",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Pant",
+                    "_text": "Pant may refer to:\nUnderpants, an item of men's underwear\nTrousers, an article of clothing worn on the lower half of the body\nTo breathe quickly, spasmodically, or in a labored manner\nPanting is used by many furry animals as a means of thermoregulation\n\nPant (surname), a North Indian and Nepalese surname\nPublic Drinking Fountain\nPlaces\nPant (meaning \"a hollow\" in Welsh) is a common Welsh place name element\nPlaces named Pant include:\nPant, Denbighshire, Wales\nPant, Merthyr Tydfil, Wales\nPant, Shropshire, England\nPant, Wrexham, Wales\nPANT is an ICAO code for Annette Island Airport"
+                }
+            },
+            {
+                "id": "flintshire#pant y wacco",
+                "name": "Pant y Wacco"
+            },
+            {
+                "id": "flintshire#pantasaph",
+                "name": "Pantasaph",
+                "lat": "53.275824",
+                "lon": "-3.265739",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Pantasaph",
+                        "_text": "Pantasaph is a small village in Flintshire, north-east Wales, two miles south of Holywell in the community of Whitford. Its name translates into English as Asaph's Hollow."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Pantasaph",
+                        "_text": "Pentref yn Sir y Fflint yw Pantasaph. Saif ar ymyl yr A55 yng ngogledd y sir, tua dwy milltir i'r gorllewin o Dreffynnon a saith milltir i'r dwyrain o Lanelwy. Enwir y pentref ar \u00f4l Sant Asaph.\nMae gan yr Eglwys Gatholig fynachlog o Urdd Sant Ffransis a chwfent yn y pentre ac mae dylanwad yr eglwys i'w gweld ymhobman yno. Daw nifer o bobl i Bantasaph i dreulio cyfnod o enciliad."
+                    }
+                ]
+            },
+            {
+                "id": "flintshire#pantymwyn",
+                "name": "Pantymwyn",
+                "lat": "53.176044",
+                "lon": "-3.204926",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Pantymwyn",
+                    "_text": "Pantymwyn is a small village just outside Mold in Flintshire, Wales.\nThe village is located within a designated Area of Outstanding Natural Beauty, lying on the east side of the Clwydian Range. Pantymwyn is 4 miles west of Mold and 16 miles west of Chester.\nThe village has a pub (the Crown Inn), a post office and convenience store, a garage and an 18-hole uplands golf course (the home of Mold Golf Club). During the summer, Pantymwyn holds an annual village fair.\nAccess to the Loggerheads country park is within short walking distance, as are many walks over the Clwydian Range of mountains. The village is often visited by walkers and cyclists.\nThe area has a history involving lead mining."
+                }
+            },
+            {
+                "id": "flintshire#pen-uchar plwyf",
+                "name": "Pen-Uchar Plwyf"
+            },
+            {
+                "id": "flintshire#pen-y-ball top",
+                "name": "Pen-y-Ball Top"
+            },
+            {
+                "id": "flintshire#pen-y-cefn",
+                "name": "Pen-y-cefn",
+                "lat": "53.265395",
+                "lon": "-3.331624"
+            },
+            {
+                "id": "flintshire#pen-y-felin",
+                "name": "Pen-y-felin",
+                "lat": "53.2718406",
+                "lon": "-3.8414638"
+            },
+            {
+                "id": "flintshire#pen-y-ffordd",
+                "name": "Pen-y-ffordd",
+                "lat": "53.327895",
+                "lon": "-3.302742",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Pen-y-ffordd",
+                        "_text": "Pen-y-ffordd is a hamlet in Flintshire, Wales. It is located between Holywell and Prestatyn, to the north west of Mostyn."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Pen-y-ffordd",
+                        "_text": "Pentref a chymuned yn Sir y Fflint yw Pen-y-ffordd (sillafiad amgen: Penyffordd). Saif fymryn oddi ar y briffordd A550, i'r de-ddwyrain o dref Bwcle. Roedd y boblogaeth yn 2001 yn 3,715.\nCeir dwy ysgol gynradd a gorsaf reilffordd yn y pentref."
+                    }
+                ]
+            },
+            {
+                "id": "flintshire#pen-y-maes",
+                "name": "Pen-y-maes",
+                "lat": "53.2754869",
+                "lon": "-3.2089337"
+            },
+            {
+                "id": "flintshire#penarlag (hawarden)",
+                "name": "Penarlag (Hawarden)"
+            },
+            {
+                "id": "flintshire#penbedw",
+                "name": "Penbedw",
+                "lat": "51.6567122",
+                "lon": "-2.9996836",
+                "wikipedia": {
+                    "lang": "cy",
+                    "href": "https:\/\/cy.wikipedia.org\/wiki\/Penbedw",
+                    "_text": "Tref ar lan Afon Merswy, ar benrhyn Cilgwri gyferbyn \u00e2 Lerpwl yw Penbedw (Saesneg: Birkenhead). Mae ganddi boblogaeth o oddeutu 83,729. Mae Caerdydd 212.3 km i ffwrdd o Birkenhead ac mae Llundain yn 288.5 km. Y ddinas agosaf ydy Lerpwl sy'n 7.6 km i ffwrdd."
+                }
+            },
+            {
+                "id": "flintshire#pentre",
+                "name": "Pentre",
+                "lat": "51.654745",
+                "lon": "-3.491629",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Pentre",
+                    "_text": "Pentre is a village and community, near Treorchy in Rhondda valley, falling within the county borough of Rhondda Cynon Taf, Wales. The village's name is taken from the Welsh word Pentref, which translates as homestead, though Pentre is named after a large farm that dominated the area before the coming of industrialisation. The community takes in the neighbouring village of Ton Pentre."
+                }
+            },
+            {
+                "id": "flintshire#pentre halkyn",
+                "name": "Pentre Halkyn",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Pentre Halkyn",
+                    "_text": "Pentre Halkyn (Welsh: Pentre Helygain) is a small village in Flintshire, Wales. It is situated approximately three miles from Holywell, and is off Junction 32 of the A55 North Wales Expressway. It has a quarry, a small hotel, a local shop and not much else. The village borders on the Halkyn Mountain Site of Special Scientific Interest and Special Area of Conservation."
+                }
+            },
+            {
+                "id": "flintshire#pentre-ffwrndan",
+                "name": "Pentre-Ffwrndan",
+                "lat": "53.242458",
+                "lon": "-3.11919"
+            },
+            {
+                "id": "flintshire#penyffordd",
+                "name": "Penyffordd",
+                "lat": "53.148561",
+                "lon": "-3.04468",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Penyffordd",
+                    "_text": "Penyffordd is a village and an electoral ward in Flintshire, Wales, situated to the south west of Buckley and to the west of Chester. The name is derived from the Welsh Pen Y Ffordd - meaning, literally, \"head of the road\". The resident population of Penyffordd, as measured in the 2001 Census, was 3,715, increasing to 3,874 at the 2011 census.\nPenyffordd lies to the east of A550, south of its junction with the A55 (North Wales Expressway). The ward consists of the neighbouring villages of Penyffordd and Penymynydd, which are a ribbon development along the line of the former major road.\nA hamlet named Pen-y-ffordd is also in Flintshire, Wales. It is located between Holywell and Prestatyn, near Mostyn."
+                }
+            },
+            {
+                "id": "flintshire#penymynydd",
+                "name": "Penymynydd",
+                "lat": "53.1574878",
+                "lon": "-3.040781",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Penymynydd",
+                    "_text": "Penymynydd is a small village in Flintshire, Wales, merging with the larger neighbouring village of Penyffordd. The name Penymynydd is Welsh, meaning \"top\" or \"end of the mountain\".\nThe village consists of a number of modern housing estates (Well House Drive, Coed Terfyn, Coed Y Graig), and also housing on Penymynydd Road (most of which is in Penyffordd). Penymynydd has one church: St John The Baptist's Church. A second church formerly existed in the village and has since been redeveloped. St John The Baptist's Primary School is church aided and takes children between the ages of 3 and 11."
+                }
+            },
+            {
+                "id": "flintshire#per-ffordd-llan",
+                "name": "Per-ffordd-llan",
+                "lat": "52.592615",
+                "lon": "-3.649623"
+            },
+            {
+                "id": "flintshire#picton",
+                "name": "Picton",
+                "lat": "53.3294349",
+                "lon": "-3.3251339",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Picton",
+                        "_text": "Picton may refer to:\nPicton, New South Wales, Australia\nPicton, Western Australia, an industrial suburb of Bunbury, Western Australia, Australia\nPicton, Ontario, Canada\nPicton, Lennox and Nueva, islands off Tierra del Fuego, Chile\nPicton, New Zealand\nPicton (New Zealand electorate)\n\nPicton, Cheshire, England, UK\nPicton, North Yorkshire, England, UK\nPicton Castle, in Pembrokeshire, Wales, UK\nSS Picton, involved in the Halifax Explosion\nPicton (racehorse), a competitor that failed to complete the 1848 Grand National"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Picton",
+                        "_text": "Gallai Picton (Cymreigiad: Pictwn; amrywiad Pickton) gyfeirio at:"
+                    }
+                ]
+            },
+            {
+                "id": "flintshire#point of ayr",
+                "name": "Point of Ayr",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Point of Ayr",
+                    "_text": "There are two other similarly named points in the British Isles: Point of Ayre, Isle of Man and Point of Ayre, Scotland.\nPoint of Ayr (Welsh: Y Parlwr Du) is the northernmost point of mainland Wales. It is situated immediately to the north of Talacre in Flintshire, at the mouth of the Dee estuary. It is to the southwest of the Liverpool Bay area of the Irish Sea. It is the site of a RSPB (Royal Society for the Protection of Birds) nature reserve RSPB Dee Estuary Point of Ayr, and is part of Gronant and Talacre Dunes Site of Special Scientific Interest."
+                }
+            },
+            {
+                "id": "flintshire#pont-newydd",
+                "name": "Pont-newydd",
+                "lat": "51.8946133",
+                "lon": "-3.8376721"
+            },
+            {
+                "id": "flintshire#pontblyddyn",
+                "name": "Pontblyddyn",
+                "lat": "53.138087",
+                "lon": "-3.082329",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Pontblyddyn",
+                        "_text": "Pontblyddyn is a small village outside Leeswood, in Flintshire, Wales and is situated around 8 miles from Wrexham. Plas Teg, one of the most important Jacobean era houses in Wales is located near the village. Engineer Joseph Clegg was born in the village where he lived for most of his childhood."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Pontblyddyn",
+                        "_text": "Pentref bach y tu allan i Goed-Llai yn Sir y Fflint ydyw Pontblyddyn. Mae Pontblyddyn yn cael ei chynnwys yng nghyffiniau Coed-Llai. Yn y pentref mae tafarn o'r enw 'Tafarn y Bont' a chlwb criced. Mae Afon Alun yn llifo trwy'r pentref."
+                    }
+                ]
+            },
+            {
+                "id": "flintshire#prenbrigog",
+                "name": "Prenbrigog",
+                "lat": "53.1689431",
+                "lon": "-3.1009771"
+            },
+            {
+                "id": "flintshire#pwll-clai",
+                "name": "Pwll-clai",
+                "lat": "52.9252846",
+                "lon": "-4.5604289"
+            },
+            {
+                "id": "flintshire#pwll-melyn",
+                "name": "Pwll-melyn",
+                "lat": "51.8747853",
+                "lon": "-5.1992419"
+            },
+            {
+                "id": "flintshire#queensferry",
+                "name": "Queensferry",
+                "lat": "53.208293",
+                "lon": "-3.020103",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Queensferry",
+                        "_text": "Queensferry is another name for South Queensferry, Edinburgh, Scotland. It may also refer to:\nNorth Queensferry, Fife\nQueensferry, Flintshire"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Queensferry",
+                        "_text": "Erthygl am y dref yng Nghymru yw hon. Am y dref yn yr Alban gweler Queensferry (Caeredin).\nTref a chymuned yn Sir y Fflint yw Queensferry (sydd weithiau'n cael ei galw'n Y Fferi Isaf hefyd yn Gymraeg). Mae'n gorwedd ar yr A494 yn agos i'r ffin \u00e2 Lloegr ger groesfan bwysig ar afon Dyfrdwy."
+                    }
+                ]
+            },
+            {
+                "id": "flintshire#rhes-y-cae",
+                "name": "Rhes-y-Cae",
+                "lat": "53.2260527",
+                "lon": "-3.2178121"
+            },
+            {
+                "id": "flintshire#rhewl-fawr",
+                "name": "Rhewl-fawr",
+                "lat": "53.1082618",
+                "lon": "-3.3176291"
+            },
+            {
+                "id": "flintshire#rhewl-mostyn",
+                "name": "Rhewl-Mostyn",
+                "lat": "53.313351",
+                "lon": "-3.266714"
+            },
+            {
+                "id": "flintshire#rhosesmor",
+                "name": "Rhosesmor",
+                "lat": "53.208367",
+                "lon": "-3.176684",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Rhosesmor",
+                        "_text": "Rhosesmor is a small village near Mold, Flintshire, in north-east Wales. The village lies near the parishes of Halkyn and Rhes-y-cae. The hamlet of Wern-y-Gaer is encompassed by the boundaries of the village."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Rhosesmor",
+                        "_text": "Pentref bychan tair milltir i'r gogledd o'r Wyddgrug yn Sir y Fflint, gogledd-ddwyrain Cymru, yw Rhosesmor. Ceir ynddo swyddfa bost, eglwys, tafarn, parc, ysgol gynradd a neuadd pentref. Gorwedd y pentref yn agos i bentrefi Rhydymwyn, Llaneurgain ac Helygain. I'r gogledd-orllewin cyfyd llethrau Mynydd Helygain.\nCaerfallwch oedd yr hen enw ar y pentref cyn iddo dyfu yn y 19eg ganrif; mae'r enw yn cael ei ddefnyddio ar gyfer y plwyf newydd a greuwyd y 1870au.\nMae gan y pentref hanes hir o fwyngloddio plwm ac mae'n cynnwys sawl adeilad sydd dros 300 mlynedd oed, yn arbennig yn ardal Wern-y-Gaer o'r pentref. Ceir nifer o dwneli ac ogofau - naturiol neu o waith dyn - dan y ddaear o gwmpas y pentref, sy'n dyst i'r hanes hir o gloddio yn yr ardal, efallai mor gynnar \u00e2 chyfnod y Rhufeiniaid yng Nghymru.\nI'r dwyrain o Rosesmor saif bryngaer Moel y Gaer rhan o Fryniau Clwyd, a godwyd yn Oes yr Haearn."
+                    }
+                ]
+            },
+            {
+                "id": "flintshire#rhydymwyn",
+                "name": "Rhydymwyn",
+                "lat": "53.1962",
+                "lon": "-3.190858",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Rhydymwyn",
+                        "_text": "Rhydymwyn (the name in Welsh means 'Ford of the Ore' and takes its placename from the ford across the River Alyn now replaced by a small iron bridge) is a village in Flintshire, Wales, located in the upper Alyn valley. Once a district of Mold, it was recognised as a separate parish from 1865. It is now part of the community of Cilcain.\n\n"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Rhydymwyn",
+                        "_text": "Pentref bychan yn Sir y Fflint yw Rhydymwyn. Fe'i lleolir yn Nyffryn Alun ger Yr Wyddgrug. Mae'r pentrefi cyfagos yn cynnwys Rhosesmor, Llaneurgain a Helygain.\nMae Gwaith y Dyffryn, sydd erbyn hyn yn warchodfa natur, ar gyrion y pentref."
+                    }
+                ]
+            },
+            {
+                "id": "flintshire#saith ffynnon",
+                "name": "Saith ffynnon"
+            },
+            {
+                "id": "flintshire#saltney",
+                "name": "Saltney",
+                "lat": "53.176631",
+                "lon": "-2.930295",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Saltney",
+                        "_text": "Saltney is a small town on the England\u2013Wales border with the west part lying in Flintshire and the eastern part in Cheshire. It is part of the Deeside conurbation of towns that lie near the River Dee."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Saltney",
+                        "_text": "Tref a chymuned yn Sir y Fflint yw Saltney. Hen enw Cymraeg ar y lle oedd Morfa Caer. Saif ger y briffordd A5104 ar ochr gorllewinol dinas Caer, bron ar y ffin rhwng Cymru a Lloegr, ac mae i bob pwrpas yn un o faesdrefi Caer.\nAr un adeg roedd diwydiannau megis adeiladu llongau a distyllu olew yn bwysig yma. Erbyn hyn, cymerwyd eu lle gan ddiwydiannau ysgafn a pharciau busnes.\nRoedd poblogaeth y gymuned yn 2001 yn 4,769. Dim ond 13.1% o'r rhain oedd ag unrhyw wybodaeth o'r Gymraeg, y ganran isaf o unrhyw un o gymunedau Sir y Fflint.\nTua hanner milltir i'r gorllewin ceir pentref bychan Saltney Ferry."
+                    }
+                ]
+            },
+            {
+                "id": "flintshire#sandycroft",
+                "name": "Sandycroft",
+                "lat": "53.195068",
+                "lon": "-2.999372",
+                "wikipedia": {
+                    "lang": "cy",
+                    "href": "https:\/\/cy.wikipedia.org\/wiki\/Sandycroft",
+                    "_text": "Pentref yn Sir y Fflint yw Sandycroft. Does dim enw Cymraeg am y pentref, sy'n gorwedd tua milltir a hanner i'r de-ddwyrain o ganol Queensferry ar lan ddeheuol Afon Dyfrdwy.\nLleolir Ysgol Gynradd Sandycroft yn y pentref."
+                }
+            },
+            {
+                "id": "flintshire#sarn",
+                "name": "Sarn",
+                "lat": "51.54036",
+                "lon": "-3.583936",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Sarn",
+                        "_text": "Sarn may refer to:"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Sarn",
+                        "_text": "Gallai Sarn gyfeirio at un o sawl peth:\nTirffurfiau:\nSarn, tirffurf\nSarn Badrig, Bae Ceredigion\nFfyrdd:\nSarn Helen, yr hen ffordd Rufeinig yn cysylltu Gogledd a De Cymru\nPentrefi:\nSarn, Pen-y-bont ar Ogwr, pentref yn ne Cymru\nSarn, Powys, pentref ym Mhowys\nSarn Bach, pentref yn Ll\u0177n\nSarn Mellteyrn, pentref yn Ll\u0177n\nGweler hefyd:\nSarnau (neu Y Sarnau), enw ar sawl pentref yng Nghymru"
+                    }
+                ]
+            },
+            {
+                "id": "flintshire#sealand",
+                "name": "Sealand",
+                "lat": "53.2116343",
+                "lon": "-2.9696932",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Sealand",
+                        "_text": "Sealand may refer to:"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Sealand",
+                        "_text": "Gall Sealand gyfeirio at:\nSealand, pentref a chymuned yn Sir y Fflint\nMaes Awyr Sealand, maes awyr yn Sir y Fflint\nTywysogaeth Sealand, \"gwladwriaeth\" oddi ar arfordir de-ddwyrain Lloegr"
+                    }
+                ]
+            },
+            {
+                "id": "flintshire#shotton",
+                "name": "Shotton",
+                "lat": "53.2115447",
+                "lon": "-3.0380242",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Shotton",
+                        "_text": "Shotton may refer to:"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Shotton",
+                        "_text": "Tref a chymuned yn Sir y Fflint ar Lannau Dyfrdwy, gogledd-ddwyrain Cymru, yw Shotton. Mae ganddi boblogaeth o tua 9,000 o bobl. Mae'n gorwedd ar yr A548 rhwng Y Fflint a Queensferry, tair milltir o'r ff\u00een \u00e2 gogledd-orllewin Lloegr. Mae ganddi orsaf trenau ar Rheilffordd Arfordir Gogledd Cymru ac mae trac arall yn ei chysylltu \u00e2 Wrecsam.\nCafodd y dre ei sefydlu fel pentre bach gan y Mersiaid ond newidiai ddwylo'n aml ar \u00f4l hynny. Ni thyfodd lawer tan y 18fed ganrif pan agorwyd pyllau glo yn yr ardal.\nDaeth yn enwog am ei gwaith dur, a agorwyd gan Gwmni John Summers a'i Feibion, o Staybridge. Yna cafodd ei redeg gan lywodraeth Prydain dan British Steel. Erbyn hyn mae'n rhan o Gr\u0175p Corus.\nAgorwyd Pont Penarl\u00e2g yn y dref yn 1889. Lleolir Ysbyty Cymunedol Glannau Dyfrdwy yno hefyd."
+                    }
+                ]
+            },
+            {
+                "id": "flintshire#shotwick",
+                "name": "Shotwick",
+                "lat": "53.239116",
+                "lon": "-2.9940319",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Shotwick",
+                        "_text": "Shotwick is a small village and civil parish on southern end of the Wirral Peninsula in the unitary authority of Cheshire West and Chester and the ceremonial county of Cheshire, England. The village is situated close to the county of Flintshire on the England\u2013Wales border. (Map). The village was located on the River Dee until it was canalised in 1736 after which the reclaimed land has since developed into the neighbouring Deeside Industrial Park."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Shotwick",
+                        "_text": "{{Infobox UK place | ArticleTitle = Shotwick | country = Lloegr | static_image = [[Image:Houses in Shotwick - geograph.org.uk - 203126.jpg|250px | static_image_caption = | latitude = 53.239 | longitude = -2.994 | official_name = Shotwick | population = | population_ref = | civil_parish = Shotwick | unitary_england = Gorllewin Swydd Gaer a Chaer | lieutenancy_england = Swydd Gaer | region = Gogledd-orllewin Lloegr | shire_county = | constituency_westminster = Dinas Caer | post_town = CHESTER \/ SWYDD GAER | postcode_district = CH1 | dial_code = 01244 | hide_services = Yes | os_grid_reference = SJ337718 }}\nPentref yn Swydd Gaer (sir seremoniol), Lloegr ydy Shotwick. Mae ganddo boblogaeth o oddeutu .\nSaif yn Swydd Gaer, sydd o fewn tafliad carreg i Sir y Fflint ac yn un o siroedd y Gororau."
+                    }
+                ]
+            },
+            {
+                "id": "flintshire#smithy gate",
+                "name": "Smithy Gate"
+            },
+            {
+                "id": "flintshire#soughton (sychdyn)",
+                "name": "Soughton (Sychdyn)"
+            },
+            {
+                "id": "flintshire#spon green",
+                "name": "Spon Green"
+            },
+            {
+                "id": "flintshire#sychdyn (soughton)",
+                "name": "Sychdyn (Soughton)"
+            },
+            {
+                "id": "flintshire#talacre",
+                "name": "Talacre",
+                "lat": "53.352329",
+                "lon": "-3.317597",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Talacre",
+                        "_text": "Talacre is a village in Flintshire on the north coast of Wales in the community of Llanasa.\nIt is near Point of Ayr on the west side of the River Dee estuary and has a sandy beach with dunes with large holiday caravan parks adjacent. The hills of the Clwydian Range behind the village form the eastern boundary of the Vale of Clwyd. The name Talacre is a combination of the Welsh words tal, meaning end, and acrau, meaning acres. In the north-east Welsh dialect, acrau is pronounced as acre.\n\nThe village is probably most popular for the lighthouse on the nearby beach and the Talacre Beach Caravan Park, a short walk away from the Presthaven Sands holiday park. The lighthouse has been noted for numerous ghostly sightings, people claiming to see a figure wearing old fashioned lighthouse keeper clothes and standing in front of the glass dome of the abandoned lighthouse. The lighthouse was featured in popular British television drama Skins, in the episode Skins Pure.\nTalacre was used by the military during World War II, as an aircraft firing range. Fighters flew over the remote village every day, shooting at wooden targets in the dunes and at drogues towed by aircraft. It was also used for testing new devices, such as \"window\" the anti-radar foil that, on occasion, covered the whole village with silver.\nThe village is often used as part of Paul O'Grady's comedy act, telling stories of how he spent many summers \"Stuck in a four berth caravan in Talacre\", and is therefore now part of popular culture as a famous \"typically British\" seaside holiday resort.\nPart of the beach where the lighthouse is situated has been shown briefly in a recent Dulux paint advert with the Old English Sheep Dog mascot."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Talacre",
+                        "_text": "Mae Talacre yn bentref ym mhen gogleddol eithaf Sir y Fflint ar arfordir gogledd-ddwyrain Cymru. Mae'n rhan o gymuned Llanasa. Fe'i lleolir fymryn i'r de o'r Parlwr Du ar lan orllewinol Glannau Dyfrdwy, tua hanner ffordd rhwng Prestatyn i'r gorllewin a Ffynnongroyw i'r dwyrain. Mae ganddo draeth tywodlyd a sawl maes carafan gerllaw.\nTu \u00f4l i'r pentref cyfyd bryniau cyntaf Bryniau Clwyd, gan ffurfio ymyl ddwyreiniol Dyffryn Clwyd. Ceir goleudy i'r gogledd o'r pentref, ger y Parlwr Du.\nMae Rheilffordd Arfordir Gogledd Cymru yn mynd heibio hanner milltir i'r de o'r pentref, ar y l\u00f4n iddo o bentref Gwesbyr, ond does dim gorsaf yno."
+                    }
+                ]
+            },
+            {
+                "id": "flintshire#tanlan",
+                "name": "Tanlan",
+                "lat": "53.0247285",
+                "lon": "-3.5624011"
+            },
+            {
+                "id": "flintshire#tanlan banks",
+                "name": "Tanlan Banks"
+            },
+            {
+                "id": "flintshire#the moor",
+                "name": "The Moor",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/The Moor",
+                    "_text": "The Moor may refer to:\nGeography of England:\nThe Moor, core street of The Moor Quarter of Sheffield\nThe Moor, Hawkhurst, green within that village and civil parish\nTitled works:\nThe Moor (novel) (1998) by L.R. King\n\"The Moor\" (The Borgias) (2011), episode of the television series\nOther:\nOthello (character), whether explicitly so named (e.g. by Shakespeare, ca. 1603) or not\nPersonification of the Moors, in their collective role as a medieval political force"
+                }
+            },
+            {
+                "id": "flintshire#tre-lan",
+                "name": "Tre-lan",
+                "lat": "51.6651669",
+                "lon": "-3.9292616"
+            },
+            {
+                "id": "flintshire#tre-mostyn",
+                "name": "Tre-Mostyn",
+                "lat": "53.3086284",
+                "lon": "-3.2905104"
+            },
+            {
+                "id": "flintshire#treffynnon (holywell)",
+                "name": "Treffynnon (Holywell)"
+            },
+            {
+                "id": "flintshire#trelogan",
+                "name": "Trelogan",
+                "lat": "53.3103069",
+                "lon": "-3.3278914",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Trelogan",
+                        "_text": "Trelogan is a village in Flintshire, north east Wales. It is located between Mostyn and Trelawnyd and is almost contiguous with Berthengam. Trelogan has a population of approximately 200 people.\nThe village has its own primary school (Ysgol Gynradd Trelogan), a public house (The Afon Goch), community centre, photographers studio, animal rescue centre and, until 2005, its own post office.\nThe placename Trelogan derives from the name Logan, the person believed to have founded the village having been named that. The village in history was the locality for several lead-zinc mines, working at least until 1841.\nMany people in Japan are familiar with Trelogan, as UK scientists developed a process to plant the semi-toxic, at least to plants, spoil tips from the lead-zinc mines with native UK plant species. Up to this point it had not been possible to grow plants on this type of semi-toxic terrain which was common in Japan due to the many lead-zinc mines in operation."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Trelogan",
+                        "_text": "Mae Trelogan yn bentref bychan yn Sir y Fflint, gogledd-ddwyrain Cymru. Mae'n rhan o gymuned Llanasa. Mae'n gorwedd yn y bryniau isel tua hanner ffordd rhwng Trelawnyd i'r gorllewin a Mostyn i'r dwyrain. I'r gogledd ceir pentref Llanasa.\nMae gan y pentref boblogaeth o tua 200. Lleolir Ysgol Gynradd Trelogan yno. Hyd 2005 roedd gan y pentref ei swyddfa bost, ond mae wedi cau rwan. Ceir tafarn yn y pentref.\nTuag 1 filltir i'r de-ddwyrain o'r pentref ceir carreg hynafol Maen Achwyfan a'i groes Geltaidd gynnar."
+                    }
+                ]
+            },
+            {
+                "id": "flintshire#treuddyn",
+                "name": "Treuddyn",
+                "lat": "53.117209",
+                "lon": "-3.1204139",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Treuddyn",
+                        "_text": "Treuddyn is a small village and community in Flintshire, Wales, located just off the A5104 road, around 4 miles south-east of Mold and 3 miles north-west of Caergwrle. The community includes the nearby village of Coed Talon, to the east, and Rhydtalog, to the south-west on the Denbighshire border. The community's population was 1,567 during the 2001 Census.\nThere are two primary schools: Ysgol Terrig, which is a Welsh medium school and Ysgol Parc y Llan, which is an English medium school. The closest secondary schools are Ysgol Maes Garmon (Welsh) and Alun School (English) in Mold, 4.5 miles away. There is also a Post Office and shop.\nTreuddyn has its own church, St Mary's, and there are also two active chapels in the village. A third chapel, that of the Baptist denomination, has closed. There are many Bronze Age cairns in the area. It was an industrial area during the 19th and 20th centuries, with mining of coal, iron and lead. There was a distillery to extract oil from the coal, and a blast furnace between 1817 and 1865. In 1834 around 450 men were constantly employed in the collieries and other industries.."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Treuddyn",
+                        "_text": "Pentref a chymuned yn Sir y Fflint yw Treuddyn. Saif fymryn oddi ar ar y briffordd A5104 i'r de o'r Wyddgrug. Cyfeirnod OS: SJ252583. Hen enw'r pentref oedd 'Tryddyn'.\nMae'r gymuned hefyd yn cynnwys pentref Coed-talon, ychydig i'r dwyrain. Ceir nifer o hynafiaethau yn y gymuned, yn cynnwys carneddi o Oes yr Efydd.\nMae'r eglwys, sy'n gysegredig i'r Santes Fair, yn sefyll ar safle eglwys hynafol. Codwyd yr eglwys newydd yn 1875 a dim ond darnau gwydr ffenestr lliw o'r 14eg ganrif sy'n weddill o'r hen eglwys. Ond mae'r llan o gwmpas yr eglwys, darn o dir dyrchafedig o ffurf grwn, yn hen. Cyfeiria Gwyddoniadur Cymru at faen hir ym mynwent yr eglwys, ond does dim s\u00f4n am hynny yn yr arolwg o'r safle gan CPAT (Ymddiriedolaeth Archaeoleg Clwyd-Powys).\nAr un adeg roedd cryn dipyn o ddiwydiant yn yr ardal, gyda chloddio am lo, haearn a phlwm. Roedd distyllfa yma i ennill olew o'r glo, ac roedd ffwrnais chwyth yma o 1817 hyd 1865. Roedd poblogaeth y gymuned yn 2001 yn 1,567."
+                    }
+                ]
+            },
+            {
+                "id": "flintshire#waen",
+                "name": "Waen",
+                "lat": "53.186802",
+                "lon": "-3.334615",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Waen",
+                    "_text": "Waen is a sparsely populated community in the Vale of Clwyd, in the Welsh county of Denbighshire. It includes the hamlet of Waen Goleugoed. The former civil parish was created in 1896 from the Flintshire portion of St Asaph, and lies on the eastern bank of the River Clwyd, 2.7 miles (4.3 km) east of St Asaph, 15.4 miles (24.8 km) north west of Mold, 5.1 miles (8.2 km) north of Denbigh and 11.9 miles (19.2 km) north of Ruthin. At the 2001 census the community had a population of 245, falling slightly to 241 at the 2011 census. The North Wales Expressway (A55) crosses the community from east to west, on its route from Chester to Bangor.\nThe farmhouse at Bodeugan, in the north of the community, dates from the 17th century, and is Grade II* listed. The Flintshire county archives at Hawarden contain a letter dated Christmas 1812, in which the then tenant, Robert Roberts, complained that the house was bewitched, recounting a series of poltergeist activity in which stones, coals, dung and water were thrown at the inhabitants, windows were broken and milk churns smashed. On Christmas Eve, the spirit was claimed to have thrown the servants out of their beds. Pont Dafydd, built in 1630 across the River Clwyd, but now standing in a field since the river was diverted, is an ancient monument and is Grade II listed."
+                }
+            },
+            {
+                "id": "flintshire#walwen",
+                "name": "Walwen",
+                "lat": "53.229414",
+                "lon": "-3.241301"
+            },
+            {
+                "id": "flintshire#wepre",
+                "name": "Wepre",
+                "lat": "53.2175185",
+                "lon": "-3.0478423"
+            },
+            {
+                "id": "flintshire#wern-y-gaer",
+                "name": "Wern-y-gaer",
+                "lat": "51.591725",
+                "lon": "-3.0563759"
+            },
+            {
+                "id": "flintshire#whelston",
+                "name": "Whelston",
+                "lat": "53.2790461",
+                "lon": "-3.1873995",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Whelston",
+                    "_text": "Whelston, part of the Bagillt West electoral ward of Flintshire County Council, Wales, is situated just off the A548 coast road, and has been signposted as Boot End since 2002. Boot End is a colloquial name for the areas of Whelston, Walwen, Riverbank, and New Brighton in Bagillt."
+                }
+            },
+            {
+                "id": "flintshire#whitford (chwitffordd)",
+                "name": "Whitford (Chwitffordd)"
+            },
+            {
+                "id": "flintshire#windmill",
+                "name": "Windmill",
+                "lat": "53.1689758",
+                "lon": "-3.0790504",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Windmill",
+                    "_text": "A windmill is a mill that converts the energy of wind into rotational energy by means of vanes called sails or blades. Centuries ago, windmills usually were used to mill grain, pump water, or both. Thus they often were gristmills, windpumps, or both. The majority of modern windmills take the form of wind turbines used to generate electricity, or windpumps used to pump water, either for land drainage or to extract groundwater."
+                }
+            },
+            {
+                "id": "flintshire#y fflint (flint)",
+                "name": "Y Fflint (Flint)"
+            },
+            {
+                "id": "flintshire#yr hob (hope)",
+                "name": "Yr Hob (Hope)"
+            },
+            {
+                "id": "flintshire#yr wyddgrug (mold)",
+                "name": "Yr Wyddgrug (Mold)"
+            },
+            {
+                "id": "flintshire#ysceifiog",
+                "name": "Ysceifiog",
+                "lat": "53.233096",
+                "lon": "-3.272297",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Ysceifiog",
+                    "_text": "Ysceifiog, also written Ysgeifiog, is a small village, community and parish in Flintshire, Wales. It lies on a back road just north of the A541 highway between Nannerch and Caerwys. The name translates roughly as \"a place where elder trees grow\".\nThe parish includes the villages of Lixwm, to the east of Ysceifiog village, and Babell, to the north."
+                }
+            }
+        ]
+    }
+}

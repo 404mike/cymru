@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<county name="Blaenau Gwent">
+<county id="Blaenau Gwent">
     <postcodes>
         <postcode>NP23</postcode>
     </postcodes>

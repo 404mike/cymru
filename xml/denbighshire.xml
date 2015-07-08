@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<county name="Denbighshire">
+<county id="Denbighshire">
     <postcodes>
         <postcode>CH7</postcode>
         <postcode>LL11</postcode>

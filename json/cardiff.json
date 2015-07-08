@@ -1,0 +1,635 @@
+{
+    "id": "Cardiff",
+    "population": {
+        "href": {
+
+        },
+        "_text": {
+
+        }
+    },
+    "poscodes": {
+        "postcode": [
+            "CF3",
+            "CF5",
+            "CF83"
+        ]
+    },
+    "towns": {
+        "town": [
+            {
+                "id": "cardiff#began",
+                "name": "Began"
+            },
+            {
+                "id": "cardiff#birchgrove",
+                "name": "Birchgrove",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Birchgrove",
+                        "_text": "Birchgrove may refer to :"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Birchgrove",
+                        "_text": "Gall yr enw Seisnig Birchgrove gyfeirio at sawl lle:"
+                    }
+                ]
+            },
+            {
+                "id": "cardiff#blackweir",
+                "name": "Blackweir"
+            },
+            {
+                "id": "cardiff#butetown",
+                "name": "Butetown",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Butetown",
+                    "_text": "Butetown (or The Docks, Welsh: Tre-biwt) is a community in the south of the city of Cardiff, the capital of Wales. It was originally a model housing estate built in the early nineteenth century by John Crichton-Stuart, 2nd Marquess of Bute, for whose title the area was named. Commonly known as \"Tiger Bay\", this area became one of the UK's first multicultural communities with people from over 50 countries settled here by the outbreak of World War I, working in the docks and allied industries. Some of the largest communities included the Somalis, Yemenis and Greeks, whose influence still lives on today. A Greek Orthodox church still stands at the top of Bute Street. It is known as one of the \"five towns of Cardiff\", the others being Crockhertown, Grangetown, Newtown and Temperance Town. The population of the ward taken at the 2011 census was 10,125."
+                }
+            },
+            {
+                "id": "cardiff#bwlch-y-cwm",
+                "name": "Bwlch-y-cwm"
+            },
+            {
+                "id": "cardiff#caerau",
+                "name": "Caerau",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Caerau",
+                        "_text": "Caerau may refer to:\nCaerau, Bridgend, near Maesteg in the River Llynfi valley, south Wales\nCaerau, Cardiff, a district of the city of Cardiff, Wales"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Caerau",
+                        "_text": "Gallai Caerau gyfeirio at:"
+                    }
+                ]
+            },
+            {
+                "id": "cardiff#caerdydd (cardiff)",
+                "name": "Caerdydd (Cardiff)"
+            },
+            {
+                "id": "cardiff#canton",
+                "name": "Canton",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Canton",
+                        "_text": "Canton may refer to:"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Canton",
+                        "_text": "Gallai canton gyfeirio at un o sawl peth:"
+                    }
+                ]
+            },
+            {
+                "id": "cardiff#cardiff (caerdydd)",
+                "name": "Cardiff (Caerdydd)"
+            },
+            {
+                "id": "cardiff#cathays",
+                "name": "Cathays",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Cathays",
+                        "_text": "Cathays (\/k\u0259\u02c8te\u026az\/ k\u0259-TAYZ; Welsh: Cathays) is a district in the centre of Cardiff, capital of Wales. It is an old suburb of Cardiff established in 1875. It is very densely populated and contains many older terraced houses giving it a Victorian era atmosphere. The area falls into the Cathays ward."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Cathays",
+                        "_text": "Cymuned yn ninas Caerdydd yw Cathays. Roedd y boblogaeth yn 2001 yn 1,538.\nSefydlwyd Cathays ym 1875, ac mae llawer o'r tai yn dyddio o'r un cyfnod. Ceir ansicrwydd ynghylch tarddiad yr enw, ond gall fod yn gysylltiedig \u00e2 \"Cad\" yn yr ystyr o \"frwydr\". Gan ei bod yn agos i Brifysgol Caerdydd, ceir cyfartaledd uchel o fyfyrwyr yno.\nMae Cathays yn cynnwys Parc Cathays, lle ceir pencadlys Cynulliad Cenedlaethol Cymru a nifer o adeiladau eraill sy'n perthyn i'r llywodraeth a'r brifysgol."
+                    }
+                ]
+            },
+            {
+                "id": "cardiff#cathays park",
+                "name": "Cathays Park",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Cathays Park",
+                    "_text": "Cathays Park or Cardiff Civic Centre (Welsh: Parc Cathays) is a civic centre area in the city centre of Cardiff, the capital city of Wales, consisting of a number of early 20th century buildings and a central park area, Alexandra Gardens. It includes Edwardian buildings such as the Temple of Peace, City Hall, the National Museum and Gallery of Wales and several buildings belonging to the Cardiff University campus. It also includes Cardiff Crown Court, the administrative headquarters of the Welsh Government, and the more modern Cardiff Central Police Station. The Pevsner architectural guide to the historic county of Glamorgan judges Cathays Park to be \"the finest civic centre in the British Isles\". The area falls within the Cathays electoral ward."
+                }
+            },
+            {
+                "id": "cardiff#coryton",
+                "name": "Coryton",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Coryton",
+                        "_text": "Coryton may refer to several places in the United Kingdom:\nCoryton, Cardiff, Wales\nCoryton railway station (Cardiff), still in use\n\nCoryton Refinery, Essex, England, oil refinery and former village\nCoryton railway station (Essex), a closed railway station in Britain, closed 1952\n\nCoryton, Devon, England\nCoryton railway station (Devon), closed 1962\nCoryton Cove at Dawlish in Devon, location of Coryton Tunnel\n\nCoryton baronets"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Coryton",
+                        "_text": "Mae Coryton yn enw ar sawl lle yn y Deyrnas Unedig:\nCoryton, Caerdydd, Cymru\nPurfa Coryton, Essex, Lloegr, purfa olew a chyn-bentref\nCoryton, Dyfnaint, Lloegr\nCoryton Cove, Dawlish, Dyfnaint, lleoliad Twnel Coryton\nMae tri gorsaf reilffordd Coryton:\nGorsaf reilffordd Coryton (Caerdydd)\nGorsaf reilffordd Coryton (Dyfnaint) (caewyd 1962)\nGorsaf reilffordd Coryton (Essex)\nMae Coryton hefyd yn gyfenw Seisnig:\nAlec Coryton (1895\u20131981), cadlywydd RAF yn yr Ail Ryfel Byd\nWilliam Coryton (1580\u20131651), gwleidydd Cernyweg"
+                    }
+                ]
+            },
+            {
+                "id": "cardiff#creigiau",
+                "name": "Creigiau",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Creigiau",
+                    "_text": "Creigiau is a dormitory settlement in the north-west of Cardiff, the capital of Wales. The village currently has about 1,500 houses and a population of approximately 5,000 people. The Cardiff ward is called Creigiau\/St. Fagans.\n^ \"Ward population 2011\". Retrieved 8 April 2015."
+                }
+            },
+            {
+                "id": "cardiff#cyncoed",
+                "name": "Cyncoed",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Cyncoed",
+                        "_text": "Cyncoed is a community in the north of the city of Cardiff, capital of Wales. Located to the north east of the city, Cyncoed is one of the most affluent suburbs of Cardiff. It has some of the highest property prices in Wales."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Cyncoed",
+                        "_text": "Ardal ym mhrifddinas Cymru, Caerdydd yw Cyncoed. Lleolir yng nghogledd-ddwyrain y ddinas, ac mae'n un a ardaloedd cyfoethocaf Caerdydd, a Chymru yn gyffredinol, gyda rhai o brisiau tai drystaf Cymru. Mae hefyd yn amgylchynu pentref Lakeside, lle mae stryd cyfoethocaf Caerdydd ac un o'r ysgolion mwyaf poblogaidd iw cael.\nAdeiladwyd yr ardal yn ystod yr 20fed ganrif yn bennaf, pan oedd Caerdydd yn ehangu'n sydyn. Mae'r tai yno yn gymysgedd o dai mawr ar wah\u00e2n a thai ar led-wah\u00e2n llai. Mae ystadau tai modern yn amgylchynnu'r ardal erbyn hyn, ac mae nifer o'r tai gwreiddiol wedi cael eu dychwel gyda sawl t\u0177 newydd llai yn cael eu adeiladu ar yr hen safle.\nMae gan yr ardal ganolfan siopa bychain, nifer o eglwysi, a synagog, oherywdd bod cymuned Iddewig gweddol fawr yng Nghyncoed, ac ysgolion cynradd ac uwchradd. Mae hefyd yn gartref i un o gampysau Prifysgol Fetropolitan Caerdydd a neuaddau annedd Prifysgol Caerdydd."
+                    }
+                ]
+            },
+            {
+                "id": "cardiff#cyntwell",
+                "name": "Cyntwell"
+            },
+            {
+                "id": "cardiff#east moors",
+                "name": "East Moors"
+            },
+            {
+                "id": "cardiff#ely",
+                "name": "Ely",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Ely",
+                        "_text": "Ely or ELY may refer to:"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Ely",
+                        "_text": "Dinas yn Swydd Gaergrawnt, Lloegr yw Ely, a leolir 14 milltir (23 km) i'r gogledd-ddwyrain o ddinas Caergrawnt a thua 80 milltir (129 km) o ddinas Llundain. Sefydlodd \u00c6thelthryth (Etheldreda) abaty yn Ely yn 673 OC ac yn 1083 dechreuwyd codi eglwys gadeiriol ar y safle gan y Normaniaid a thyfodd tref ac wedyn dinas o gwmpas yr eglwys. Ailwampiwyd y Gadeirlan yn 1845 a 1870 gan y pensaer George Gilbert Scott. Mae poblogaeth y ddinas yn 20,256 (2011) sy'n ei wneud yn un o ddinasoedd lleiaf Lloegr.\nAmaethyddiaeth ydy asgwrn cefn economi'r ddinas, bellach, ers i'r canlynol ddod i ben: cynaeafu'r pren helyg, magu llysywod, torri mawn a dal adar i'w gwerthu a'u bwyta."
+                    }
+                ]
+            },
+            {
+                "id": "cardiff#fairwater",
+                "name": "Fairwater",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Fairwater",
+                        "_text": "Fairwater could be"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Fairwater",
+                        "_text": "Gall Fairwater olygu mwy nag un lle."
+                    }
+                ]
+            },
+            {
+                "id": "cardiff#flat holm",
+                "name": "Flat Holm",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Flat Holm",
+                    "_text": "Flat Holm (Welsh: Ynys Echni) is a limestone island lying in the Bristol Channel approximately 6 km (4 mi) from Lavernock Point in the Vale of Glamorgan, but in the City and County of Cardiff. It includes the most southerly point of Wales.\nThe island has a long history of occupation, dating at least from Anglo-Saxon and Viking age. Religious uses include visits by disciples of Saint Cadoc in the 6th century, and in 1835 it was the site of the foundation of the Bristol Channel Mission, which later became the Mission to Seafarers. A sanatorium for cholera patients was built in 1896 as the isolation hospital for the port of Cardiff. Guglielmo Marconi transmitted the first wireless signals over open sea from Flat Holm to Lavernock. Because of frequent shipwrecks a lighthouse was built on the island, which was replaced by a Trinity House lighthouse in 1737. Because of its strategic position on the approaches to Bristol and Cardiff a series of gun emplacements, known as Flat Holm Battery, were built in the 1860s as part of a line of defences, known as Palmerston Forts. On the outbreak of World War II, the island was rearmed.\nIt is now managed by Cardiff Council's Flat Holm Project Team and designated as a Local Nature Reserve, Site of Special Scientific Interest and a Special Protection Area, because of the maritime grassland and rare plants such as rock sea-lavender (Limonium binervosum) and wild leek (Allium ampeloprasum). The island also has significant breeding colonies of lesser black-backed gulls (Larus fuscus), herring gulls (Larus argentatus) and great black-backed gulls (Larus marinus). It is also home to slow worms (Anguis fragilis) with larger than usual blue markings."
+                }
+            },
+            {
+                "id": "cardiff#gabalfa",
+                "name": "Gabalfa",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Gabalfa",
+                        "_text": "Gabalfa (English pronunciation: \/\u0261\u0259\u02c8b\u00e6lv\u0259\/, Welsh pronunciation: [\u0261a\u02c8balva]) is a district in the north of the city of Cardiff, capital of Wales. It is characterised by an enormous fly over road at the Gabalfa Interchange, where the A48 road meets the A470 road (North Road) which leads from Cardiff to northern Wales, and the A469 road (Caerphilly Road). The area is also the site of the All Nations Centre.\nThe name is derived from the Welsh 'Ceubalfa', which is literally translated as 'place of the boat'. It was formerly the site of a ferry crossing across the River Taff, upon which a school is now built.\nThe area around St. Joseph's Church near to Companies' House is known as 'the Colonies' due to the number of street names after former British colonies, such as Australia Road, Newfoundland Road and many more."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Gabalfa",
+                        "_text": "Cymuned a ward etholiadol ym mhrifddinas Cymru, Caerdydd yw Gabalfa. Saif yng ngogledd y ddinas, o gympas Cyffordd Gabalfa, lle mae'r priffyrdd A48, A470 ac A469 yn cyfarfod. Mae'r faestref Mynachdy yn rhan o'r gymuned hon.\nAr un adeg, roedd Gabalfa yn safle fferi ar draws Afon Taf. Daw'r enw \"Gabalfa\" o \"ceubalfa\", lleoliad y fferi."
+                    }
+                ]
+            },
+            {
+                "id": "cardiff#glan-y-llyn",
+                "name": "Glan-y-llyn"
+            },
+            {
+                "id": "cardiff#grangetown",
+                "name": "Grangetown",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Grangetown",
+                        "_text": "Grangetown may refer to:\nGrangetown, Cardiff, Wales\nGrangetown,Bristol,area of Clifton,Bristol\nGrangetown, North Yorkshire, Middlesbrough, England\nGrangetown, Tyne and Wear, Sunderland, England"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Grangetown",
+                        "_text": "Ardal a chymuned yng Nghaerdydd yw Grangetown. Mae'n un o faestrefi mwyaf Caerdydd, ac mae'n ffinio ag ardaloedd Glan'rafon, Treganna a Thre-Biwt. Mae Afon Taf yn nadreddu drwy'r ardal. Fe'i datblygwyd gan deulu Winsdor-Clive, yn bennaf. Gyferbyn ag ardal Bae Caerdydd, mae Grangetown wedi ennill o'r datblygiadau a welwyd yno'n ddiweddar, gan gynnwys adeiladau newydd a gwasanaethau megis cysylltiadau trafnidiaeth gwell.\nRoedd gan Grangetown boblogaeth o 14,367 mewn 6,230 aelwyd yn ystod cyfrifiad 2001. Mae'n ardal amrywiol ac amlddiwylliannol, gyda phoblogaeth sylweddol o bobl o dras Somaliaidd, Asiaidd, a thras cymysg. Mae'n gartref i deml Hind\u0175 mwyaf Caerdydd, ac amryw o fosgiau gan gynnwys mosg newydd Abu Bakkar."
+                    }
+                ]
+            },
+            {
+                "id": "cardiff#gwaelod-y-garth",
+                "name": "Gwaelod-y-garth",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Gwaelod-y-garth",
+                        "_text": "This is a redirect from a title with another method of capitalisation. It leads to the title in accordance with the Wikipedia naming conventions for capitalisation, or it leads to a title that is associated in some way with the conventional capitalisation of this redirect title. This may help writing, searching and international language issues. For more information follow the category link.\nIf this redirect is an incorrect capitalization (a typo), then it is made available to aid searches, so pages that use this link should be updated to link directly to the target.\nUse this rcat to tag only mainspace redirects; when other capitalisations are in different namespaces, use {{R from modification}} instead."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Gwaelod-y-garth",
+                        "_text": "Pentref ger Caerdydd yw Gwaelod-y-garth, ym mhlwyf Pentyrch. Mae wedi bod yn ran o Ddinas Caerdydd ers 1996 a bu'n rhan o sir De Morgannwg rhwng 1974 a 1996. Fe'i lleolir rhwng Caerdydd a Phontypridd."
+                    }
+                ]
+            },
+            {
+                "id": "cardiff#heath",
+                "name": "Heath",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Heath",
+                    "_text": "A heath or heathland is a shrubland habitat found mainly on free-draining infertile, acidic soils, and is characterised by open, low-growing woody vegetation. Moorland is generally related to high-ground heaths with \u2014 especially in the British Isles \u2014 a cooler and more damp climate.\nHeaths are widespread worldwide but are fast disappearing and considered a rare habitat in Europe. They form extensive and highly diverse communities across Australia in humid and sub-humid areas. Fire regimes with recurring burning are required for the maintenance of the heathlands. Even more diverse though less widespread heath communities occur in Southern Africa. Extensive heath communities can also be found in the California chaparral, New Caledonia, central Chile and along the shores of the Mediterranean Sea. In addition to these extensive heath areas, the vegetation type is also found in scattered locations across all continents, except Antarctica."
+                }
+            },
+            {
+                "id": "cardiff#lisvane",
+                "name": "Lisvane",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Lisvane",
+                    "_text": "Lisvane (Welsh: Llys-faen) is an affluent community in the north of Cardiff, the capital of Wales, located 5 miles (8.0 km) north of the city centre. Lisvane is generally considered to be one of the wealthiest residential areas of Wales, with an average house price \u00a3410,000 as of 2011, with many properties worth in excess of \u00a31 million. Lisvane has 3,319 residents, and comprises approximately 1,700 dwellings, a local village shop, a primary school, a community cabin library, a park, a nursery, a parish church, a public house, a war memorial, a Scout hall and community or village hall."
+                }
+            },
+            {
+                "id": "cardiff#llandaff",
+                "name": "Llandaff",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Llandaff",
+                    "_text": "Llandaff (\/l\u00e6n\u02c8d\u00e6f\/; Welsh: Llandaf [\u026can\u02c8d\u0251\u02d0v]; from llan \"church\" and Taf) is a district in the north of Cardiff, capital of Wales, having been incorporated into the city in 1922. It is the seat of the Church in Wales Bishop of Llandaff, whose diocese covers the most populous area of South Wales."
+                }
+            },
+            {
+                "id": "cardiff#llandaff north",
+                "name": "Llandaff North",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Llandaff North",
+                    "_text": "Llandaff North (Welsh: Ystum Taf), is a community in the north of Cardiff, the capital city of Wales.\n\n"
+                }
+            },
+            {
+                "id": "cardiff#llanedeyrn",
+                "name": "Llanedeyrn",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Llanedeyrn",
+                    "_text": "Llanedeyrn (Welsh: Llanedern) is a district in the east of the city of Cardiff, Wales, located around 3.5 miles from the city centre."
+                }
+            },
+            {
+                "id": "cardiff#llanishen",
+                "name": "Llanishen",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Llanishen",
+                        "_text": "Llanishen (Welsh Llanisien llan church + Isien Saint Isan) is a district in the north of Cardiff, the capital city of Wales. The Cardiff ward population taken at the 2011 census was 17,149. Llanishen is well known as the home of the 'Tax Offices', the tallest buildings in north Cardiff and a landmark for miles around. The office complex overlooks the 'Crystal and Fishguard estates', Parc Ty Glas industrial estate, old village, leafy suburban roads and various parkland that constitute the district. Llanishen is also home to a fully featured Leisure Centre and the former 60-acre (240,000 m2) Llanishen Reservoir - a local beauty spot that is connected to a green corridor which bisects the city from the rising hills in the north to Cardiff Bay in the south."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Llanishen",
+                        "_text": "Gallai Llanishen (Seisnigiad o'r enw Llanisien) gyfeirio at un o ddau le:\nLlanisien, Caerdydd\nLlanisien, Sir Fynwy"
+                    }
+                ]
+            },
+            {
+                "id": "cardiff#llanmaes",
+                "name": "Llanmaes",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Llanmaes",
+                    "_text": "Llanmaes or Llanfaes is a small village in the Vale of Glamorgan near the market town of Llantwit Major.\n\n"
+                }
+            },
+            {
+                "id": "cardiff#llanrumney",
+                "name": "Llanrumney",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Llanrumney",
+                    "_text": "Llanrumney (Welsh Llanrhymni) is a district and suburb in the east of Cardiff, the capital city of Wales.\n\n"
+                }
+            },
+            {
+                "id": "cardiff#maindy",
+                "name": "Maindy",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Maindy",
+                    "_text": "Maindy (Welsh: Maendy, meaning Stone House) is a district of the city of Cardiff, Wales. It lies between the districts of Cathays and Penylan. It falls within the Cathays ward.\nA notable facility in the area is the Maindy Centre consisting of a cycle track and swimming pool. The cycle track was used in the 1958 British Empire and Commonwealth Games.\nThe area is served by the Capital City Green bus route."
+                }
+            },
+            {
+                "id": "cardiff#monmouthshire and brecon canal",
+                "name": "Monmouthshire and Brecon Canal",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Monmouthshire and Brecon Canal",
+                    "_text": "The Monmouthshire and Brecon Canal is a small network of canals in South Wales. For most of its 35-mile (56 km) length it runs through the Brecon Beacons National Park, and its present rural character and tranquillity belies its original purpose as an industrial corridor for coal and iron, which were brought to the canal by a network of tramways and\/or railroads, many of which were built and owned by the canal company.\nThe \"Mon and Brec\" was originally two independent canals - the Monmouthshire Canal from Newport to Pontymoile Basin (including the Crumlin Arm) and the Brecknock and Abergavenny Canal running from Pontymoile to Brecon. Both canals were abandoned in 1962, but the Brecknock and Abergavenny route and a small section of the Monmouthshire route have been reopened since 1970. Much of the rest of the original Monmouthshire Canal is the subject of a restoration plan, which includes the construction of a new marina at the Newport end of the canal."
+                }
+            },
+            {
+                "id": "cardiff#morganstown",
+                "name": "Morganstown"
+            },
+            {
+                "id": "cardiff#mynachdy",
+                "name": "Mynachdy",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Mynachdy",
+                    "_text": "Mynachdy (Welsh 'monastery' \u2013 mynach monk + t\u0177 house) is a district of the city of Cardiff, Wales.\nMynachdy is situated between Gabalfa, Birchgrove and Cathays. It is close to a few universities such as Cardiff University and the Royal Welsh College of Music & Drama, as well as student accommodation.\nNant-Gwaedlyd (bloody brook in Welsh). A stream which rises in the Cefn range of hills, flows in a south-easterly direction through Whitchurch and is, apparently, lost in the Glamorganshire Canal at Mynachdy. It is said, with some probability, to derive its name from the great battle fought between the Welsh and the Normans on Cardiff Heath c. 1090.\nCabarn-Plwca. A place on the border between Llys-Talybont manor and the Mynachdy lands."
+                }
+            },
+            {
+                "id": "cardiff#newton",
+                "name": "Newton",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Newton",
+                        "_text": "Newton may refer to:"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Newton",
+                        "_text": "Gallai Newton gyfeirio at:"
+                    }
+                ]
+            },
+            {
+                "id": "cardiff#pantmawr",
+                "name": "Pantmawr"
+            },
+            {
+                "id": "cardiff#pen-y-lan",
+                "name": "Pen-y-lan",
+                "wikipedia": {
+                    "lang": "cy",
+                    "href": "https:\/\/cy.wikipedia.org\/wiki\/Pen-y-lan",
+                    "_text": "Ardal yng ngogledd Caerdydd, Cymru ydy Penylan, sy'n cael ei adnabod ei dai oes Fictoria a ffyrdd llydan gyda rhesi o goed ar eu hyd.\nMae'n pontio ffordd ddeuol yr A48 sy'n rhannu de a gogledd Penylan. Mae'n un o ardaloedd gwyrddaf Caerdydd, ac yn cynnwys rhan deheuol o Barc y Rhath.\nMae llyfrgell a chanolfan gymunedol wedi eu lleoli yn ne Penylan, ar gyffordd Ffordd Penylan a Ffordd Wellfield.\nAgorwyd Synagogue Penylan ym 1955, a caewyd yn 2003 pan agorwyd synagogue newydd yng Ngerddi Cyncoed gerllaw.\n\u2191  Penylan Library and Community Centre. library.wales.org.\n\u2191  History. Cardiff United Synagogue. Adalwyd ar 2010-01-23."
+                }
+            },
+            {
+                "id": "cardiff#pentrebane",
+                "name": "Pentrebane",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Pentrebane",
+                    "_text": "Pentrebane (Welsh: Pentre-Baen) is a district in the west of Cardiff, capital of Wales.\nPentrebane sits on the top of the hill overlooking the adjacent suburbs of Fairwater and Llandaff, and on the cusp of St. Fagans and the Vale of Glamorgan. To the north of the suburb lies the route of the former Llantrisant and Taff Vale Junction Railway and is served by Fairwater railway station.\nThere are three primary schools in close proximity to each other: Holy Family R.C. Primary, Pentrebane Primary and Ysgol Coed Y Gof. A Roman Catholic secondary school, Bishop Hannon was built in Pentrebane in the 1960s but demolished around 1987 to make way for housing (on what is now called Bell Fields)."
+                }
+            },
+            {
+                "id": "cardiff#pentwyn",
+                "name": "Pentwyn",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Pentwyn",
+                        "_text": "Pentwyn (or Pen-twyn) may refer to:\nPentwyn, Cardiff, a district of the city of Cardiff, Wales\nPen-twyn, Monmouthshire, a village in Monmouthshire, Wales\nPentwyn, Caerphilly, a village in the Darran Valley, Wales"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Pentwyn",
+                        "_text": "Gallai Pentwyn gyfeirio at:\nPentwyn, Caerdydd, cymuned yn ninas Caerdydd\nPentwyn, Sir Fynwy, pentref yn Sir Fynwy"
+                    }
+                ]
+            },
+            {
+                "id": "cardiff#pentyrch",
+                "name": "Pentyrch",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Pentyrch",
+                    "_text": "Pentyrch is a community located on the western outskirts of Cardiff, the capital city of Wales. The village gives its name to a Cardiff local authority electoral ward, Pentyrch, which covers the village and surrounding area. Welsh-speakers make up 20% of the town's population, making it the most Welsh-speaking district in the capital."
+                }
+            },
+            {
+                "id": "cardiff#pontcanna",
+                "name": "Pontcanna",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Pontcanna",
+                        "_text": "Pontcanna (Welsh pont bridge + Canna) is a western district of the city of Cardiff, Wales. Its area is bounded approximately by Llandaff Fields to the north, the Riverside district and Cowbridge Road to the south, the River Taff to the east and the district of Canton to the west.\nPontcanna is part of the Cardiff electoral ward of Riverside. The Riverside electoral ward falls into the parliamentary constituency of Cardiff West."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Pontcanna",
+                        "_text": "Ardal yng Nghaerdydd yw Pontcanna (hen sillafiad: Pontganna) sydd yn rhan o gymuned Glan'rafon. Gall fod ei henw'n cyfeirio at Santes Canna, santes o'r chweched ganrif o dde Cymru.\n'Pontaganna' - gyda threiglad oedd yr ynganiad byw fel y gwelir yn y sillafiad o 1702 mewn ewyllys ac eto yng nghofnodion Sesiwn Chwarter o 1751. Mae hyn yn dilyn yr un patrwm a: Pontgarreg, Pontgadfan, (capel y Wesleaid yn Llangadfan) a 'Threganna', ond mae 'Pontcanna' wedi hen sefydlu, bellach."
+                    }
+                ]
+            },
+            {
+                "id": "cardiff#pwll-mawr",
+                "name": "Pwll-Mawr"
+            },
+            {
+                "id": "cardiff#radyr",
+                "name": "Radyr",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Radyr",
+                    "_text": "Radyr (Welsh: Radur) is an outer suburb of Cardiff, about 4 miles (6.4 km) northwest of Cardiff city centre. Radyr is part of Radyr and Morganstown Community, for which the 2011 Census recorded a population of 6,417.\nMorganstown is north of Radyr, on the other side of the M4 Motorway. Neighbouring communities are Whitchurch to the east on the opposite bank of the River Taff, Pentyrch to the west with St Fagans and Llandaff to the south."
+                }
+            },
+            {
+                "id": "cardiff#rhiwbina",
+                "name": "Rhiwbina",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Rhiwbina",
+                    "_text": "Rhiwbina (Welsh: Rhiwbeina) is a northern suburb of Cardiff, capital of Wales. Formerly a small hamlet within the parish of Whitchurch, Rhiwbina was developed throughout the twentieth century, and is now a separate ward. It retains aspects of its former character, however, and is given a Welsh village appearance by Beulah United Reformed Church (originally Capel Beulah) at the village crossroads.\nModern Rhiwbina, which includes the Garden Village, Wenallt Hill, Rhiwbina Hill, and the Llanishen Fach and Pantmawr developments, is bordered by the suburbs of Whitchurch (Yr Eglwys Newydd) to the west, Llanishen to the east, and Birchgrove (Llwynbedw) to the south. To the north is the border with Caerphilly. The area is served by Rhiwbina railway station on the Coryton Line."
+                }
+            },
+            {
+                "id": "cardiff#rhymney",
+                "name": "Rhymney",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Rhymney",
+                    "_text": "Rhymney (\/\u02c8r\u028cmni\/; Welsh: Rhymni [\u02c8r\u0325\u0259mn\u026a]) is a town and a community located in the county borough of Caerphilly in south-east Wales, within the historic boundaries of Monmouthshire. Along with the villages of Pontlottyn, Fochriw, Abertysswg, Deri and New Tredegar, Rhymney is designated as the 'Upper Rhymney Valley' by the local Unitary Authority, Caerphilly County Borough Council. As a community, Rhymney includes the town of Rhymney, Pontlottyn, Abertysswg, Butetown and Twyncarno. Rhymney is known to many outside of Wales as a result of the song \"The Bells of Rhymney\", a musical adaptation of a poem by Idris Davies."
+                }
+            },
+            {
+                "id": "cardiff#riverside",
+                "name": "Riverside",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Riverside",
+                    "_text": "Riverside may refer to: the shorelines of a river"
+                }
+            },
+            {
+                "id": "cardiff#roath",
+                "name": "Roath",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Roath",
+                    "_text": "Roath (Welsh: Y Rhath) is a district in the east\/north-east of the city of Cardiff, capital of Wales. It lies just east\/north east of the city centre, stretching from Adamsdown in the south to Roath Park in the north. Roath contains the Plasnewydd electoral ward."
+                }
+            },
+            {
+                "id": "cardiff#roath park",
+                "name": "Roath Park",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Roath Park",
+                    "_text": "Roath Park (Welsh: Parc y Rhath) Cardiff, Wales, is one of Cardiff's most popular parks, owned by Cardiff County Council and managed by the Parks Section. It retains a classic Victorian atmosphere and has many facilities. The park has recently been awarded the prestigious Green Flag award to recognise its high quality and its importance to Cardiff. Roath Park has widely diverse environments across the park.\nThe park was built on 130 acres (0.53 km2) of reformed bogland, known then as a malarial bog, and includes a 30-acre (120,000 m2) lake 1.3 miles (2.1 km) around, formed by the damming of the Nant Fawr stream. It is a popular facility for fishing and rowing. There are four islands within a conservation area, home to many water birds. The main park includes a large playground, floral displays, the glasshouse conservatory and recreational areas.\nRoath park occupies a long strip of land stretching from Cyncoed in the north to Roath towards the southeast. The park is divided into several parts along the Roath Brook, Nant Fawr. From north to south; The Wild Gardens, Roath Park Lake, Botanical Gardens, Rose Gardens, Pleasure Gardens, Roath Park Recreation Ground, Roath Brook Gardens, Roath Mill Gardens and Waterloo Gardens."
+                }
+            },
+            {
+                "id": "cardiff#rumney",
+                "name": "Rumney",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Rumney",
+                    "_text": "Rumney may refer to:\nRalph Rumney (1934-2002), English artist\nRumney wine\n\n"
+                }
+            },
+            {
+                "id": "cardiff#splott",
+                "name": "Splott",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Splott",
+                    "_text": "Splott (Welsh: Y Sblot) is a district in the south of the city of Cardiff, capital of Wales, just east of the city centre. It was built up in the late 19th century on the land of two farms of the same name: Upper Splott and Lower Splott Farms. Splott is characterised by its once vast steelworks and rows of tightly knit terraced houses. The suburb of Splott falls into the Splott electoral ward.\nThe name is from Old English splott \"speck, blot, patch (of land),\" which is also the source of place names in the Vale of Glamorgan, Gower, and Pembrokeshire. It has frequently been noted on lists of unusual place names. Fanciful suggestions for the origin of the name have included a truncation of \"God's Plot\", as the land belonged to the Bishop of Llandaff in medieval times, and a derivation of plat, meaning a grassy area of land.\nThe population of Splott in the United Kingdom Census 2001 was 12,074, in 5,101 households of which only 183 are detached homes. Of the 8,221 adults in the area, only 1,000 have the lowest category of qualifications (Level 1 or below).\n\u2191 \"Ward population 2011\". Retrieved 9 April 2015. \n\u2191 Parker, Quentin (2010). Welcome to Horneytown, North Carolina, Population: 15: An insider's guide to 201 of the world's weirdest and wildest places. Adams Media. pp. xii. \n\u2191 \"Neighbourhood Statistics - Area: Splott Community (Parish)\". National Statistics. 2001. Retrieved 2008-01-09."
+                }
+            },
+            {
+                "id": "cardiff#st fagans",
+                "name": "St Fagans",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/St Fagans",
+                    "_text": "St Fagans (\/s\u0259nt\u02c8f\u00e6\u0261\u0259nz\/ s\u0259nt-FAG-\u0259nz; Welsh: Sain Ffagan) is an area in the west of the city of Cardiff, capital of Wales.\nTo the south lies the village of Michaelston-super-Ely, and to the east the suburb of Fairwater. St Fagans lies on the River Ely, and previously had a railway station on the South Wales Main Line, and currently there is a level crossing. St. Fagans is home to St. Fagans Cricket Club.\nIt is home to St Fagans National History Museum (formerly called the Museum of Welsh Life), St Fagans Castle, St Fagans Old Rectory and St Mary's Church.\nThe name of the area invokes Saint Fagan, according to William of Malmesbury a 2nd-century missionary to Wales, but for whom there is no reliable historical evidence.\nIn 1648, the Battle of St Fagans took place close by."
+                }
+            },
+            {
+                "id": "cardiff#st mellons",
+                "name": "St Mellons",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/St Mellons",
+                    "_text": "St Mellons (Welsh: Llaneirwg) is a district and suburb of northeastern Cardiff, the capital city of Wales. Historically in Monmouthshire, St Mellons became part of South Glamorgan and Cardiff in 1974. It consists of Old St Mellons and a newer, much larger area of modern housing and business parks."
+                }
+            },
+            {
+                "id": "cardiff#taffs well",
+                "name": "Taffs Well",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Taffs Well",
+                    "_text": "This is a redirect from a modification of the target's title; for example, its words are rearranged, or punctuation in the name is changed. In cases of modification from distinctly longer or shorter names, please use {{R from long name}} or {{R from short name}}, respectively. For more information follow the category link.\nUse this rcat instead of {{R from other capitalisation}} and {{R from plural}} in namespaces other than mainspace for those types of modification."
+                }
+            },
+            {
+                "id": "cardiff#thornhill",
+                "name": "Thornhill",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Thornhill",
+                        "_text": "Thornhill may refer to:"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Thornhill",
+                        "_text": "Mae Thornhill (Gaeleg: Cnoc na Driseig ) yn gymuned yn Dumfries a Galloway, yn yr Alban. Yn 2001 roedd y boblogaeth yn 1,512 gyda 85.85% o\u2019r rheiny wedi\u2019u geni yn yr Alban a 11.18% wedi\u2019u geni yn Lloegr."
+                    }
+                ]
+            },
+            {
+                "id": "cardiff#tongwynlais",
+                "name": "Tongwynlais",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Tongwynlais",
+                        "_text": "Tongwynlais is a village in the north of Cardiff, Wales, in the Taff Valley.\n\n"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Tongwynlais",
+                        "_text": "Mae Tongwynlais yn bentref mawr yn Ne Cymru. Mae'n gorwedd o fewn cyffiniau ward etholaeth Eglwys Newydd & Tongwynlais yng Nghaerdydd.\n\nMae'n hawdd cyrraedd y pentref ar y ffyrdd gan ei fod ger Cyffordd 32 o draffordd yr M4 a'r A470. Mae'r draffordd yn gwahanu'r pentref o ddinas Caerdydd, mae'r pentref i bob pwrpas yn faesdref o'r brifddinas. Ei adeilad mwyaf nodweddiadol yw'r castell Fictorianaidd, Castell Coch.\nMae'r band RocketGoldStar wedi ysgrifennu c\u00e2n am y pentref ac fe'i recordwyd hi ar gyfer sesiwn BBC Radio 1 yn Maidavale. Gellir lawrlwytho'r g\u00e2n am ddim [1].\nMae'n gartref i Ysgol Gynradd Tongwynlais."
+                    }
+                ]
+            },
+            {
+                "id": "cardiff#tremorfa",
+                "name": "Tremorfa",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Tremorfa",
+                    "_text": "Tremorfa (English: Tremorfa) is a district of the city of Cardiff, Wales. It falls into the Splott ward of Cardiff.\nThe 2011 UK Census classed the area as \"Economically deprived\", with 91% of residents claiming unemployment or disability benefit[1]."
+                }
+            },
+            {
+                "id": "cardiff#trowbridge",
+                "name": "Trowbridge",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Trowbridge",
+                        "_text": "Trowbridge \/\u02c8tro\u028abr\u026ad\u0292\/ is the county town of Wiltshire, England on the Biss in the west of the county, 8 miles (13 km) south east of Bath, Somerset, from which it is separated by the Mendip Hills which rise 3 miles (4.8 km) to the west.\nTrowbridge has a railway station on the Wessex Main Line. On 5 September 1848, the first train steamed through as the Wilts, Somerset and Weymouth Railway was established. Long a market town, the Kennet and Avon canal runs to the north of Trowbridge and played an instrumental part in the town's development as it enabled coal to be transported from the Somerset Coalfield and so marked the advent of steam-powered manufacturing in woollen cloth mills. The town was foremost producer of this mainstay of contemporary clothing and blankets in south west England in the late 18th and early 19th centuries by which time it held the nickname \"The Manchester of the West\".\nThe civil parish of Trowbridge had a population of 33,108 at the 2011 census. The parish encompasses the settlements of Longfield, Lower Studley, Upper Studley, Studley Green, Broadmead and Trowle Common. Adjacent parishes include Staverton, Hilperton, West Ashton, North Bradley, Southwick and Wingfield; nearby towns are Bradford on Avon, Westbury, Melksham and Devizes."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Trowbridge",
+                        "_text": "Gallai Trowbridge gyfeirio at:\nTrowbridge, dinas yn Wiltshire, Lloegr\nTrowbridge, cymuned a ward etholiadol yn ninas Caerdydd"
+                    }
+                ]
+            },
+            {
+                "id": "cardiff#ty rhiw",
+                "name": "Ty Rhiw"
+            },
+            {
+                "id": "cardiff#whitchurch",
+                "name": "Whitchurch",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Whitchurch",
+                        "_text": "Whitchurch can refer to:\nTowns in the United Kingdom:\nWhitchurch, Shropshire\nWhitchurch, Hampshire\nVillages in the United Kingdom:\nWhitchurch, Bristol\nWhitchurch, Buckinghamshire\nWhitchurch, Cardiff\nWhitchurch, Devon\nWhitchurch Canonicorum, Dorset\nWhitchurch, Herefordshire\nWhitchurch, an alternative name for Little Stanmore in the historic county of Middlesex.\nWhitchurch-on-Thames, Oxfordshire\nWhitchurch, Pembrokeshire, near St. David's\nWhitchurch-by-Cardigan, Pembrokeshire\nWhitchurch, Somerset\nWhitchurch, Warwickshire\nIn Canada:\nWhitchurch, Ontario, since 1971 part of Whitchurch\u2013Stouffville, Ontario"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Whitchurch",
+                        "_text": "Gallai Whitchurch gyfeirio at:\nYr Eglwys Newydd, un o faesdrefi Caerdydd\nTregroes, pentref yn Sir Benfro\nYr Eglwys Wen, tref yn Swydd Amwythig, Lloegr, heb fod ymhell o'r ff\u00een a Chymru\nYr Eglwys Wen, tref yn Hampshire, Lloegr"
+                    }
+                ]
+            }
+        ]
+    }
+}

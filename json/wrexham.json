@@ -1,0 +1,1557 @@
+{
+    "id": "Wrexham",
+    "population": {
+        "href": {
+
+        },
+        "_text": {
+
+        }
+    },
+    "poscodes": {
+        "postcode": [
+            "LL11",
+            "LL12",
+            "LL13",
+            "LL14",
+            "LL20",
+            "SY13",
+            "SY14"
+        ]
+    },
+    "towns": {
+        "town": [
+            {
+                "id": "wrexham#aber-oer",
+                "name": "Aber-oer"
+            },
+            {
+                "id": "wrexham#acrefair",
+                "name": "Acrefair",
+                "lat": "52.983744",
+                "lon": "-3.0801569",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Acrefair",
+                        "_text": "Acrefair (Welsh pronunciation: [\u02ccakr\u025b\u02c8v\u0251\u026ar]) is a village in the county borough of Wrexham, Wales. It was formerly part of the ancient parish of Ruabon, and is located between the towns of Wrexham and Llangollen. It is close to the villages of Trefor, Cefn Mawr, Ruabon and Plas Madoc. The name Acrefair originates from the Welsh word for acres - acrau, or acre in the local Welsh dialect - and Mair, the Welsh name for Mary. We therefore have Acre-Mair, which leads to Acre-fair, as there is a soft mutation on the second element of a composite word. The English meaning of Acrefair is Mary's Acres.\nParts of Acrefair have beautiful views across the River Dee and the Dee Valley. Acrefair has a newsagents, a petrol station, a post office, a chemist and two Chinese take-aways. It boasts many buildings built from \"Ruabon Red brick\", including several chapels which are now closed and converted.(citation)\nEdward Lloyd Rowland established an ironworks here in c.1817. Following his bankruptcy in 1825 the works were bought by the British Iron Company. The company was re-formed in 1843 as the New British Iron Company and they continued to operate the works until its closure in 1887. The site was subsequently occupied by a succession of businesses, latterly Air Products, which produced air separation equipment for industry. The site ceased to be a commercial venture in late 2009.\nAcrefair and Cefn Mawr were also home to the Monsanto Company chemical works, which had produced chemicals since before World War II. The site was the American company's first venture in Europe. Monsanto later operated the site as FlexSys, one of their subsidiaries, but production on this site ceased in 2010.\nCoal, clay and iron were also worked in the area during its industrial period.\nAcrefair railway station was formerly a station on the Ruabon to Barmouth line, it closed to passengers on Monday 18 January 1965 as part of the Beeching Axe. The Ruabon Brook Tramway passed through the village at street level, serving the Monsanto works and other local industry."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Acrefair",
+                        "_text": "Pentref ym mwrdeistref sirol Wrecsam yw Acrefair. Mae'n rhan o gymuned Cefn, sydd hefyd yn cynnwys Cefn Mawr, Penybryn, Newbridge, Plas Madog a Rhosymedre. Saif y pentref ychydig i'r gorllewin o Riwabon ac i'r gogledd o Gefn Mawr, gerllaw glan ogleddol Afon Dyfrdwy, ac ychydig i'r gogledd o'r briffordd A539 i Langollen.\nSaif gwaith cemegol Monsanto, sy'n awr yn eiddo i gwmni Flexsys, yma, ynghyd \u00e2 ffatri Air Products."
+                    }
+                ]
+            },
+            {
+                "id": "wrexham#acton",
+                "name": "Acton",
+                "lat": "53.056463",
+                "lon": "-2.981953",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Acton",
+                        "_text": "Acton may refer to:"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Acton",
+                        "_text": "Gall Acton gyfeirio at:\nEnw Saesneg Gwaunyterfyn, Wrecsam\nActon, Llundain"
+                    }
+                ]
+            },
+            {
+                "id": "wrexham#afon eitha",
+                "name": "Afon Eitha"
+            },
+            {
+                "id": "wrexham#arowry",
+                "name": "Arowry",
+                "lat": "52.946719",
+                "lon": "-2.806866",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Arowry",
+                    "_text": "Arowry (Welsh: Yr Owredd) is a small village in the community of Hanmer in the rural south-east of Wrexham county borough, Wales, near the border with England. The origin of its name is unclear but is thought to have a Welsh-language root. It has also been referred to as \"Big Arowry\", or \"Great Arowry\", in order to distinguish it from the hamlet of Little Arowry around a mile to the north near Horseman's Green.\nAlfred Palmer, the Wrexham historian, noted that the area called Arowry, before enclosure, was a \"great heath\" sometimes given the Welsh name \"Yr owredd\", and colloquially referred to as \"the Rowrey\", or \"the Arowry\". Thomas Gwynn Jones suggested that the name Owredd was originally derived from a Welsh pronunciation of the English name \"Overheath\".\nThe nineteenth-century philologist Alexander John Ellis studied the dialect of a native of Arowry, John Heatley, as part of his work, published in On Early English Pronunciation, on English dialects. The unusual dialect of the Hanmer area was later studied in the Survey of English Dialects.\nThe village is near the A539 road and is 10 kilometres (6 mi) west of the nearest major town, Whitchurch in Shropshire."
+                }
+            },
+            {
+                "id": "wrexham#ash grove",
+                "name": "Ash Grove",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Ash Grove",
+                    "_text": "Ash Grove may refer to:\nThe Ash Grove, a Welsh folk song.\nAsh Grove (music club) in Los Angeles, California, United States\nAsh Grove (plantation) in Fairfax County, Virginia, United States\nAsh Grove Cement Company in Overland Park, Kansas, United States\nAsh Grove, Kansas, US\nAsh Grove, Missouri, United States.\nAsh Grove Township, Iroquois County, Illinois, United States.\nAsh Grove Township, Shelby County, Illinois, United States.\nAsh Grove, Wrexham, Wales"
+                }
+            },
+            {
+                "id": "wrexham#bangor on dee (bangor-is-y-coed)",
+                "name": "Bangor on dee (Bangor-is-y-coed)"
+            },
+            {
+                "id": "wrexham#bangor-is-y-coed (bangor on dee)",
+                "name": "Bangor-is-y-coed (Bangor on dee)"
+            },
+            {
+                "id": "wrexham#bedwell",
+                "name": "Bedwell",
+                "lat": "53.0230322",
+                "lon": "-2.9345532",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Bedwell",
+                    "_text": "Bedwell may refer to:"
+                }
+            },
+            {
+                "id": "wrexham#bedwlwyn",
+                "name": "Bedwlwyn",
+                "lat": "51.6430785",
+                "lon": "-3.2339035"
+            },
+            {
+                "id": "wrexham#bersham",
+                "name": "Bersham",
+                "lat": "53.0355864",
+                "lon": "-3.0288897",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Bersham",
+                    "_text": "Bersham (Welsh: Y Bers) is a small Welsh village in the suburbs of the county borough of Wrexham that lies next to the River Clywedog. Wrexham owes a large amount of its original industrial heritage to Bersham, but despite this the village still retains a rural feeling."
+                }
+            },
+            {
+                "id": "wrexham#bettisfield",
+                "name": "Bettisfield",
+                "lat": "52.910979",
+                "lon": "-2.804629",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Bettisfield",
+                    "_text": "Bettisfield (Welsh: Llys Bedydd) is a small village of about 150 dwellings in Wrexham County Borough, Wales and stands on the Wales-England border. It lies south of the Llangollen Canal on the border with Shropshire, England within the historic English Maelor region which was formerly part of the historic county of Flintshire. The village lies close to Fenn's, Whixall and Bettisfield Mosses, an area of peat bog which was declared a national nature reserve in 1996 because of its importance for wildlife. The English market towns of Whitchurch, Ellesmere and Wem each lie about 6 miles distant to the northeast, west and southeast respectively.\nIt is described in the Domesday book (1086) within the Cheshire Hundred of Dudeston, recording 28 households and a value to Lord Edwin in 1066 of \u00a318 9s, reducing to \u00a33 in 1086.\nThe village no longer has a shop, post office, pub, smithy or baker.\n\n"
+                }
+            },
+            {
+                "id": "wrexham#black park",
+                "name": "Black Park",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Black Park",
+                    "_text": "Black Park is a Country Park in Wexham, Buckinghamshire, England to the north of the A412 road between Slough and Iver Heath. It is managed by Buckinghamshire County Council. Covering 530 acres (214 ha) of woodland, heathland and grassland, some areas of which are designated as a biological Site of Special Scientific Interest. The park includes an avenue of mature pine trees, an orienteering course, a lake (dug in the 18th century as a reservoir for a local farmer) with a lakeside cafe. Part of it was designated a Local Nature Reserve in 1992. The Country Parks team also manages with wildlife in mind, as the mixed woodland and grassland provides good numbers of bats, woodland birds and invertebrates. Dartford Warblers were known to be breeding here pre-2010 and other notable species on site include starfruit and hobbys."
+                }
+            },
+            {
+                "id": "wrexham#blackoe",
+                "name": "Blackoe",
+                "lat": "52.9613414",
+                "lon": "-2.7196207"
+            },
+            {
+                "id": "wrexham#borras",
+                "name": "Borras",
+                "lat": "53.071315",
+                "lon": "-2.957525",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Borras",
+                    "_text": "Borras (Welsh: Bwras) is an area to the north-east of Wrexham, Wales. It is part of the community of Holt.\nThe nearby residential area of Borras Park is named after Borras but is part of the community of Acton, Wrexham."
+                }
+            },
+            {
+                "id": "wrexham#bowling bank",
+                "name": "Bowling Bank",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Bowling Bank",
+                    "_text": "This is a redirect from a subtopic of the target article. For more information follow the category link."
+                }
+            },
+            {
+                "id": "wrexham#bradley",
+                "name": "Bradley",
+                "lat": "53.0780815",
+                "lon": "-3.0074299",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Bradley",
+                    "_text": "Bradley is an English surname derived from a place name meaning \"broad wood\" or \"broad clearing\" in Old English.\nLike many English surnames Bradley can also be used as a given name and as such has become popular.\nIt is also an Anglicisation of the Irish Gaelic name O\u2019Brolach\u00e1n (also O\u2019Brallaghan) from County Tyrone in Ireland. The family moved and spread to counties Londonderry, Donegal and Cork."
+                }
+            },
+            {
+                "id": "wrexham#broadoak",
+                "name": "Broadoak",
+                "lat": "53.1199158",
+                "lon": "-2.9535421"
+            },
+            {
+                "id": "wrexham#bronington",
+                "name": "Bronington",
+                "lat": "52.948048",
+                "lon": "-2.768994",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Bronington",
+                        "_text": "Bronington is a local government community, the lowest tier of local government, part of Wrexham County Borough in Wales. The community has an area of 3,482 hectares and a population of 1,228 (2001 Census).\nThe village church, Holy Trinity, was converted from a former brick tithe barn in 1836. To the north-east of the village is Iscoyd Hall, a stately home with surrounding parkland which was built around 1740 and enlarged in the 19th century. To the south of the village is Fenn's Moss, an area of peat bog stretching over into Shropshire, which was declared a national nature reserve in 1996 because of its importance for wildlife.\n^ a b \"2001 Census: Bronington\". Office for National Statistics. Retrieved 19 October 2008. \n^ \"Holy Trinity Church\". Wrexham County Borough Council. Retrieved 2 June 2008."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Bronington",
+                        "_text": "Pentref a chymuned ym mwrdeisdref sirol Wrecsam yw Bronington Roedd y boblogaqeth yn 2001 yn 1,228. Saif ar ochr ddwyreiniol afon Dyfrdwy ym Maelor Saesneg, yn agos i'r ff\u00een a Lloegr.\nDyddia'r eglwys o 1836; cyn hynny roedd yr adeilad yn ysgubor degwm. I'r de-ddwyrain o'r pentref, mae Plas Iscoyd, a adeiladwyd tua 1740 a'i ymestyn yn y 19eg ganrif. I'r de o'r pentref, mae Fenn's Moss, ardal o fawnog sy'n ymestyn tros y ff\u00een i Swydd Amwythig. Mae'n rhan o Warchodfa Natur Genedlaethol Mawnogydd Fenn\u2019s, Whixall a Bettisfield."
+                    }
+                ]
+            },
+            {
+                "id": "wrexham#brymbo",
+                "name": "Brymbo",
+                "lat": "53.075576",
+                "lon": "-3.057591",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Brymbo",
+                        "_text": "Brymbo is a local government community, the lowest tier of local government, part of Wrexham County Borough in Wales. It is a village situated in the hilly country to the west of Wrexham town, largely surrounded by farmland.\nAt the 2001 Census, the population of the community area (including Brymbo village, along with the villages of Tanyfron and Bwlchgwyn and a number of rural hamlets) was 3,482. It is also the name of an electoral ward of Wrexham County Borough, whose population (including Brymbo and Tanyfron only) was 2,653 at the 2001 census.\nThe area was formerly heavily dependent on coal mining and steelmaking, and the Brymbo Steelworks, which operated between 1794 and 1990, was a prominent industry for the village and much of the surrounding area. The area had a strong community spirit and at least three major railways (GWR, LNWR, LNER) made it an active center of the area."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Brymbo",
+                        "_text": "Pentref a chymuned ar gyrion Wrecsam a ward o'r dref honno yng ngogledd-ddwyrain Cymru yw Brymbo. Bu Melin Dur Brymbo yn gyflogwr pwysig yn yr ardal tan iddo gau yn ddiweddar a chafwyd gweithfeydd haearn a glo yno hefyd.\nCeir eglwys yn y pentref, sef Eglwys Fair (1872), a chapel Y Tabernacl Tun (Methodistiaid Saesneg). Trowyd capel gwreiddiol Y Tabernacl yn floc o fflatiau."
+                    }
+                ]
+            },
+            {
+                "id": "wrexham#bryn offa",
+                "name": "Bryn Offa",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Bryn Offa",
+                    "_text": "Bryn Offa is a small local-authority housing estate in the south-western suburbs of Wrexham, north-east Wales, and is close to the Wrexham Maelor hospital. The main route through Bryn Offa is the A525 road to Ruthin Road."
+                }
+            },
+            {
+                "id": "wrexham#bryn pen-y-lan",
+                "name": "Bryn Pen-y-lan"
+            },
+            {
+                "id": "wrexham#bryn-yr-eos",
+                "name": "Bryn-yr-Eos",
+                "lat": "51.6860357",
+                "lon": "-4.1278185"
+            },
+            {
+                "id": "wrexham#brynteg",
+                "name": "Brynteg",
+                "lat": "53.065927",
+                "lon": "-3.039355",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Brynteg",
+                        "_text": "Brynteg may refer to:\nPlaces\nBrynteg, Anglesey, Wales\nBrynteg, Wrexham, Wales\nOther\nYsgol Brynteg, Bridgend, Wales"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Brynteg",
+                        "_text": "Gallai Brynteg neu Bryn-teg gyfeirio at un o sawl lle:\nBrynteg (Ynys M\u00f4n)\nBrynteg (Wrecsam)"
+                    }
+                ]
+            },
+            {
+                "id": "wrexham#burton",
+                "name": "Burton",
+                "lat": "51.710955",
+                "lon": "-4.919328",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Burton",
+                        "_text": "Burton may refer to:"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Burton",
+                        "_text": "Gall Burton gyfeirio at:"
+                    }
+                ]
+            },
+            {
+                "id": "wrexham#burton green",
+                "name": "Burton Green",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Burton Green",
+                    "_text": "For the oilman and co-founder of Beverly Hills, California, see Burton E. Green.\n\nBurton Green is a village and civil parish in Warwickshire, England, some 8 km (5.0 mi) southwest of Coventry and close to Kenilworth. It is mostly residential, surrounded by farmland and has a village hall, a primary school and a pub called the 'Peeping Tom'.\nIt is situated directly on the border with Coventry and is contiguous with the city's Tile Hill Village and Westwood Heath districts.\nBurton Green comprises four roads: Red Lane, Hob Lane, Hodgetts Lane and Cromwell Lane.\nThere is a disused water tower off Cromwell Lane, which has planning permission for conversion to a private home."
+                }
+            },
+            {
+                "id": "wrexham#bwlchgwyn",
+                "name": "Bwlchgwyn",
+                "lat": "53.0721437",
+                "lon": "-3.0981526",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Bwlchgwyn",
+                        "_text": "Bwlchgwyn is a village in Wrexham county borough, Wales, on the A525 road, 5 miles (8 km) west of the town of Wrexham and 10 miles (16 km) south-east of the town of Ruthin. Bwlchgwyn is part of the community of Brymbo. In the 2011 Census the population of the village was 855."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Bwlchgwyn",
+                        "_text": "Mae Bwlchgwyn (hefyd Bwlch Gwyn) yn bentref ym mwrdeistref sirol Wrecsam. Mae Bwlchgwyn ar yr A525, 5 milltir i'r gorllewin o Wrecsam a 10 milltir i'r dwyrain o Ruthun. Mae oddeutu dwy filltir o bentref Mwynglawdd ac yn ffinio \u00e2 Rhostir Llandegla. 1148 oedd poblogaeth y pentre yn \u00f4l Cyfrifiad 2001."
+                    }
+                ]
+            },
+            {
+                "id": "wrexham#caer-estyn",
+                "name": "Caer-Estyn",
+                "lat": "53.10927",
+                "lon": "-3.0163129"
+            },
+            {
+                "id": "wrexham#cefn-bychan",
+                "name": "Cefn-bychan",
+                "lat": "51.665206",
+                "lon": "-3.144116"
+            },
+            {
+                "id": "wrexham#cefn-mawr",
+                "name": "Cefn-mawr",
+                "lat": "52.974573",
+                "lon": "-3.073175"
+            },
+            {
+                "id": "wrexham#cefn-y-bedd",
+                "name": "Cefn-y-bedd",
+                "lat": "53.100248",
+                "lon": "-3.033292",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Cefn-y-bedd",
+                        "_text": "Cefn-y-bedd is a village in Flintshire, north-east Wales. The name translates into English as Behind the grave.\nCefn-y-bedd is on the A541 road to the south of its junction with the A550 road at Abermorddu. The village is served by Cefn-y-Bedd railway station on the Borderlands Line, linking Wrexham and Bidston on the Wirral Peninsula."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Cefn-y-bedd",
+                        "_text": "Mae Cefn-y-bedd yn bentref bychan yn nwyrain Sir y Fflint, gogledd-ddwyrain Cymru, tua 6 milltir i'r gogledd o Wrecsam.\nGorwedd Cefn-y-bedd ar hyd ddwy ochr l\u00f4n yr A541 i'r de o'i chyffordd \u00e2 ffordd yr A550 yn Abermorddu. Mae gan y pentref orsaf trenau ar Reilffordd y Gororau sy'n ei gysylltu \u00e2 Wrecsam a Lerpwl."
+                    }
+                ]
+            },
+            {
+                "id": "wrexham#chirk green",
+                "name": "Chirk Green"
+            },
+            {
+                "id": "wrexham#cloy",
+                "name": "Cloy",
+                "lat": "52.9692764",
+                "lon": "-2.9007017"
+            },
+            {
+                "id": "wrexham#clywedog",
+                "name": "Clywedog",
+                "lat": "53.0361706",
+                "lon": "-2.94065",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Clywedog",
+                    "_text": "Clywedog may refer to:\nAfon Clywedog - a tributary of the River Severn at Llanidloes\nRiver Clywedog, a tributary of River Dee near Wrexham\nA tributary of the River Mawddach in Gwynedd\nClywedog Reservoir, a reservoir in Powys\nRiver Clywedog, Denbigh, a tributary of the River Clwyd\nClywedog Brook, Powys, a tributary of the Wye."
+                }
+            },
+            {
+                "id": "wrexham#cock bank",
+                "name": "Cock Bank"
+            },
+            {
+                "id": "wrexham#coedpoeth",
+                "name": "Coedpoeth",
+                "lat": "53.053809",
+                "lon": "-3.0709719",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Coedpoeth",
+                        "_text": "Coedpoeth (Welsh pronunciation: [k\u0254idp\u0254i\u03b8]) is a village and community within Wrexham County Borough in Wales."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Coedpoeth",
+                        "_text": "Pentref a chymuned ym mwrdeistref sirol Wrecsam yw Coedpoeth. Mae'r pentref yng nghanol olion diwydiant cloddio mwynau megis plwm, haearn a glo llefydd fel Brymbo, Bersham a'r Mwynglawdd (Minera)."
+                    }
+                ]
+            },
+            {
+                "id": "wrexham#commonwood",
+                "name": "Commonwood",
+                "lat": "53.0729871",
+                "lon": "-2.9170861"
+            },
+            {
+                "id": "wrexham#crabtree green",
+                "name": "Crabtree Green"
+            },
+            {
+                "id": "wrexham#craignant",
+                "name": "Craignant",
+                "lat": "52.2796962",
+                "lon": "-3.449915"
+            },
+            {
+                "id": "wrexham#cross lanes",
+                "name": "Cross Lanes"
+            },
+            {
+                "id": "wrexham#darland",
+                "name": "Darland",
+                "lat": "53.113584",
+                "lon": "-2.934523"
+            },
+            {
+                "id": "wrexham#dolywern",
+                "name": "Dolywern",
+                "lat": "52.927566",
+                "lon": "-3.1593969"
+            },
+            {
+                "id": "wrexham#drury lane",
+                "name": "Drury Lane",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Drury Lane",
+                    "_text": "Drury Lane is a street on the eastern boundary of the Covent Garden area of London, running between Aldwych and High Holborn. The northern part is in the borough of Camden and the southern part in the City of Westminster.\nThe street originated as an early medieval lane called Via de Aldwych, which probably connected St Giles Leper Hospital with the fields of Aldwych Close, owned by the hospital but traditionally said to have been granted to the Danes as part of a peace treaty with Alfred the Great in Saxon times. It acquired its name from the Suffolk barrister Sir Robert Drury, who built a mansion called Drury House on the lane around 1500. After the death in 1615 of his great-great-grandson, another Robert Drury, the property passed out of the family. It became the London house of the Earl of Craven, then a public house under the sign of his reputed mistress, the Queen of Bohemia. Subsequently the gardens and courtyards of the house were built over with rows of small houses. The remains of the house itself, which had been progressively demolished, were finally cleared in 1809. By this time Drury Lane had become one of the worst slums in London, dominated by prostitution and gin palaces. The area was eventually cleared to make way for the developments of Kingsway and Aldwych.\nThe name of the street is often used to refer to the Theatre Royal, Drury Lane, which has in different incarnations been located in Drury Lane since the 17th century, even though today the main entrance is on Catherine Street. Also in Drury Lane is the New London Theatre.\nThe street Drury Lane is where The Muffin Man lives as mentioned in the popular nursery rhyme, and also where the harlot of William Hogarth's A Harlot's Progress practises her profession.\n173 Drury Lane was the location of the first J Sainsbury store, now one of the UK's largest retailers. The store was opened in 1869.\n191 Drury Lane was the location of the Workers' Educational Society in 1847\/48. \n^ a b Bebbington, Gillian (1988) [1972]. Street Names of London. Batsford. p. 115. ISBN 978-0-7134-5449-9. \n^ Sir Richard Steele in The Tatler (No. 46) gives a picture of Drury Lane as a district divided into particular \"ladyships,\" analogous to \"lordships\" in other places, \"over which matrons of known ability preside.\"\n^ Covent Garden and Holborn Young Trails - Camden Council, 2006 (booklet)\n^ The Communist League Marx\/Engels Internet Archive"
+                }
+            },
+            {
+                "id": "wrexham#dunks, the",
+                "name": "Dunks, The"
+            },
+            {
+                "id": "wrexham#eglwys cross",
+                "name": "Eglwys Cross"
+            },
+            {
+                "id": "wrexham#erbistock",
+                "name": "Erbistock",
+                "lat": "52.967479",
+                "lon": "-2.961912",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Erbistock",
+                    "_text": "Erbistock (Welsh: Erbistog) is a village and a local government community, the lowest tier of local government, part of Wrexham County Borough in Wales. The village lies on the banks of the River Dee.\nThe community area, governed by Erbistock Community Council (Welsh: Cyngor Cymuned Erbistog) also includes the small villages of Crabtree Green and Eyton; it had a total population of 409 at the 2001 census."
+                }
+            },
+            {
+                "id": "wrexham#eyton",
+                "name": "Eyton",
+                "lat": "52.997821",
+                "lon": "-2.972886",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Eyton",
+                    "_text": "Eyton may refer to:"
+                }
+            },
+            {
+                "id": "wrexham#farndon",
+                "name": "Farndon",
+                "lat": "53.083869",
+                "lon": "-2.879133",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Farndon",
+                        "_text": "Farndon is the name of more than one place in England:\nFarndon, Cheshire\nFarndon, Nottinghamshire\nIn Northamptonshire:\nEast Farndon\nWest Farndon\n\nFictional village in Nevil Shute's novel No Highway"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Farndon",
+                        "_text": "Gallai Farndon gyfeirio at un o ddau le yn Lloegr:\nFarndon, Swydd Gaer\nFarndon, Swydd Nottingham"
+                    }
+                ]
+            },
+            {
+                "id": "wrexham#felin puleston",
+                "name": "Felin Puleston"
+            },
+            {
+                "id": "wrexham#ffos-y-go",
+                "name": "Ffos-y-go"
+            },
+            {
+                "id": "wrexham#ffrith",
+                "name": "Ffrith",
+                "lat": "53.093609",
+                "lon": "-3.07027",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Ffrith",
+                        "_text": "Ffrith is a small village in the community of Llanfynydd in Flintshire, north-east Wales."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Ffrith",
+                        "_text": "Gallai Ffrith gyfeirio at un o sawl peth:\nLlecyn coediog neu borfa, yn enwedig ar y mynydd; amrywiad ar y gair ffridd. Elfen gyffredin mewn enwau lleoedd, yn enwedig ffermydd.\nUn o ddau bentref bychan yng Nghymru:\nFfrith, Sir Ddinbych, lleoliad Traeth y Ffrith, traeth adnabyddus rhwng Y Rhyl a Phrestatyn\nFfrith, Sir y Fflint\n\n\u2191 Geiriadur Prifysgol Cymru, cyfrol I, tud. 1313."
+                    }
+                ]
+            },
+            {
+                "id": "wrexham#four crosses",
+                "name": "Four Crosses",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Four Crosses",
+                        "_text": "Four Crosses is the name of several places:\nFour Crosses, Denbighshire, Wales\nFour Crosses, Flintshire, Wales\nFour Crosses, Isle of Anglesey, Wales\nFour Crosses, Powys, Wales\nFour Crosses, Staffordshire, England\nFour Crosses, Wrexham, Wales"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Four Crosses",
+                        "_text": "Gallai Four Crosses gyfeirio at un o ddau bentref yng Nghymru (ymddengys ni cheir enwau Cymraeg amdanynt):\nFour Crosses, Powys\nFour Crosses, Sir Ddinbych"
+                    }
+                ]
+            },
+            {
+                "id": "wrexham#fron isaf",
+                "name": "Fron Isaf"
+            },
+            {
+                "id": "wrexham#fron-deg",
+                "name": "Fron-deg",
+                "lat": "53.2712046",
+                "lon": "-3.1762982"
+            },
+            {
+                "id": "wrexham#froncysyllte",
+                "name": "Froncysyllte",
+                "lat": "52.96005",
+                "lon": "-3.087077",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Froncysyllte",
+                        "_text": "Froncysyllte (\/\u02ccvr\u0252\u014bk\u0259\u02c8s\u028clte\u026a\/; Welsh pronunciation: [vr\u0254\u014bk\u0259\u02c8s\u0259\u026cte]), colloquially known as Fron, is a village in Wrexham county borough, Wales and stands on the banks of the River Dee and the Llangollen Canal. It is situated on the main A5 road which runs from London to Holyhead.\nThe name is derived from the Welsh fron, meaning a hillside or slope, along with the name Cysyllte, one of the old townships of the parish of Llangollen. The anglicised spelling Vroncysyllte was commonly used until the mid 20th century.\n\n"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Froncysyllte",
+                        "_text": "Pentref bach yn nyffryn Llangollen, Sir Wrecsam (gynt yn sir Clwyd a chyn hynny Sir Ddinbych) yw Froncysyllte.\nMae'n enwog oherwydd C\u00f4r Meibion Froncysyllte a Thraphont Pontcysyllte gerllaw."
+                    }
+                ]
+            },
+            {
+                "id": "wrexham#garden village",
+                "name": "Garden Village",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Garden Village",
+                    "_text": "Garden Village may refer to:\nGarden Village, Ebbw Vale, Wales\nThe Garden Village, Kingston upon Hull\nGarden Village, Leeds, England\nGarden Village, Lincolnshire, England\nGarden Village, Ontario, Canada\nGarden Village, Sheffield, England\nGarden Village, Swansea, Wales\nGarden Village F.C.\n\nGarden Village, Wrexham, Wales\nGarden Village, Kentucky\nGarden City, New York, a village\n\n"
+                }
+            },
+            {
+                "id": "wrexham#gatewen",
+                "name": "Gatewen",
+                "lat": "53.0546166",
+                "lon": "-3.0225427"
+            },
+            {
+                "id": "wrexham#gegin",
+                "name": "Gegin",
+                "lat": "53.064945",
+                "lon": "-3.083073"
+            },
+            {
+                "id": "wrexham#glascoed",
+                "name": "Glascoed",
+                "lat": "51.709835",
+                "lon": "-2.967851",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Glascoed",
+                    "_text": "Glascoed is a village in Monmouthshire, south east Wales, United Kingdom."
+                }
+            },
+            {
+                "id": "wrexham#glyn ceiriog",
+                "name": "Glyn Ceiriog",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Glyn Ceiriog",
+                    "_text": "Llansanffraid Glyn Ceiriog, or simply Glyn Ceiriog, is a local government community in Wrexham County Borough in Wales.\nGlyn Ceiriog is a former slate mining village in Wrexham County Borough, in Wales. It lies on the River Ceiriog and B4500 road, five miles (8km) west of Chirk and three miles (6km) south of Llangollen in the Ceiriog Valley, Clwyd South National Assembly for Wales constituency and Clwyd South parliamentary constituency.\n\n"
+                }
+            },
+            {
+                "id": "wrexham#golly",
+                "name": "Golly",
+                "lat": "53.1197609",
+                "lon": "-2.992492",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Golly",
+                    "_text": "Golly may refer to:\nFictional characters\nGolliwogg, a black character in 19th-century children's books\nGolly, a cartoon character in the 2006 live action\/animated film Re-Animated\nGolly Mackenzie, a fictional character in the TV series Monarch of the Glen\nOle Golly, a fictional character in the children's book Harriet the Spy\nOther\nGolly (program), open-source software for simulating cellular automata\nGolly! Ghost!, a video game\nGolly Bar, an ice cream snack\nGolly Pond, a body of water in Heaton Park, Greater Manchester, England\nRichard Goleszowski, an English animator"
+                }
+            },
+            {
+                "id": "wrexham#graig",
+                "name": "Graig",
+                "lat": "53.22809",
+                "lon": "-3.794957",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Graig",
+                        "_text": "Graig may refer to:\nGraig, Newport, an electoral ward and coterminous community of Newport, South Wales\nGraig, Pontypridd, a historic district of Pontypridd, South Wales\nGraig, Llanarmon-yn-Ial, a Site of Special Scientific Interest in Clwyd, North Wales"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Graig",
+                        "_text": "Gall Graig gyfeirio at:\nGraig, Casnewydd\nGraig, Pontypridd, Rhondda Cynon Taf"
+                    }
+                ]
+            },
+            {
+                "id": "wrexham#gresford",
+                "name": "Gresford",
+                "lat": "53.085946",
+                "lon": "-2.975691",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Gresford",
+                    "_text": "For the small towns of Gresford and East Gresford in New South Wales, Australia, see East Gresford, New South Wales.\n\nGresford (\/\u02c8\u0261r\u025bsf\u0259rd\/; Welsh: Gresffordd Welsh pronunciation: [\u02c8\u0261r\u025bsf\u0254r\u00f0]) is a village and a local government community, the lowest tier of local government, part of Wrexham County Borough in Wales.\nAccording to the 2001 Census, the population of the community, which also includes the village of Marford, was 5,334.\nThe former Gresford Colliery was the site of the Gresford disaster, one of Britain's worst coal mining disasters, when 266 men died in an underground explosion on 22 September 1934."
+                }
+            },
+            {
+                "id": "wrexham#gwersyllt",
+                "name": "Gwersyllt",
+                "lat": "53.076524",
+                "lon": "-3.021726",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Gwersyllt",
+                        "_text": "Gwersyllt (pronounced [\u0261w\u025brs\u026a\u026ct]) is an urban village and a local government community, the lowest tier of local government, part of Wrexham County Borough in Wales.\nThe densely populated village is one of Wrexham's largest and is situated in the north western suburbs of the town, bordering the nearby villages of Llay, Cefn-y-Bedd, and Sydallt. The community, also including the villages of Summerhill and Bradley, had a total population of 10,056 at the 2001 census.\nThe name is usually stated to be derived from the Welsh word, gwersyll, meaning \"campsite\", with the final t common in the area's dialect. This is, however, a comparatively modern form, and during the mediaeval period the name was written as \"Wershull\" or \"Wersull\", with \"Gwershull\" and \"Wersham\" occurring in the 16th century. It is therefore possible that the present name, like others in the area, is a Welsh adaptation of an earlier English name ending in \"-hull\" (i.e. \"hill\").\n\n"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Gwersyllt",
+                        "_text": "Pentref o faint sylweddol a chymuned ym mwrdeistref sirol Wrecsam yw Gwersyllt. Saif ychydig i'r gogledd o dref Wrecsam, ger y briffordd A541.\nRoedd nifer o byllau glo yn yr ardal yma. Yn 1896 roedd gan bwll glo Gwersyllt 185 o weithwyr, 167 ohonynt dan y ddaear. Yn yr 20fed ganrif adeiladwyd llawer o dai cyngor yma. Ers yr wythdegau adeiladwyd stadau preifat ar bob ochr a llenwi'r bylchau rhwng Gwersyllt, Bradle ac mae'r pentref yn cyrraedd Pendine erbyn heddiw.\nMae gan Gwersyllt orsaf tr\u00ean ar y lein Wrecsam - Bidston a thair swyddfa bost (Bradle, Gwersyllt a Brynhyfryd). Yng nghanol y pentref mae Ysgol Gyfun Bryn Alyn. Yn \u00f4l y cyfrifiad 1991 roedd 721 siaradwyr Cymraeg yn y pentref (tri ward) sef rhyw 8% o'r boblogaeth. Mae'r ffigwr wedi codi i 1018 erbyn 2001 bron 11% o'r boblogaeth. Mae'r A541 yn hollti'r pentref ac mae yst\u00e2d diwydiannol sylweddol yn y pentref ynghyd ag archfarchnad a chanolfan siopa. Mae Gorsaf Radio \"Marcher\" yn y pentref a chanolfan chwaraeon Gwyn Evans ynghlwm wrth Ysgol Bryn Alyn. Ym mis Awst 2012 torrwyd y dywarchen gyntaf ar gyfer Ysgol Gymraeg Gwersyllt."
+                    }
+                ]
+            },
+            {
+                "id": "wrexham#gwynfryn",
+                "name": "Gwynfryn",
+                "lat": "53.0648764",
+                "lon": "-3.1100356",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Gwynfryn",
+                        "_text": "Gwynfryn can represent more than one place, including:\nGwynfryn, Gwynedd, Wales\nGwynfryn, Wrexham, Wales\nGwynfryn, London, London"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Gwynfryn",
+                        "_text": "Gallai'r enw Cymraeg Gwynfryn gyfeirio at un o sawl peth:\nChwedloniaeth\n\"Y Gwynfryn yn Llundain\", safle yn chwedl Branwen ferch Ll\u0177r, yr ail o Bedair Cainc y Mabinogi, lle cleddir pen Bendigeidfran.\nLleoedd\nGwynfryn, Eifionydd, plasdy ac ystad yng Ngwynedd a ddisgrifir yn y gyfrol Pigau'r S\u00ear gan John Griffith Williams\nGwynfryn, Wrecsam\nPentre Gwynfryn, pentref bychan yn Ardudwy, Gwynedd\nPobl\nHywel Gwynfryn (g. 1942), cyflwynydd radio Cymraeg\nYsgol\nYsgol (neu Academi) y Gwynfryn , Rhydaman, a sefydlwyd gan Watcyn Wyn\nArall\nGwynfryn Cymunedol, label recordiau Cymreig\nGweler hefyd\nBryn Gwyn (gwahaniaethu)"
+                    }
+                ]
+            },
+            {
+                "id": "wrexham#gyfelia",
+                "name": "Gyfelia",
+                "lat": "53.001451",
+                "lon": "-3.000622"
+            },
+            {
+                "id": "wrexham#hall green",
+                "name": "Hall Green",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Hall Green",
+                    "_text": "Hall Green is an area in south Birmingham, England. It is also a council constituency, managed by its own district committee."
+                }
+            },
+            {
+                "id": "wrexham#halton",
+                "name": "Halton",
+                "lat": "52.95413",
+                "lon": "-3.0407183",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Halton",
+                    "_text": "Halton may refer to:"
+                }
+            },
+            {
+                "id": "wrexham#hanmer",
+                "name": "Hanmer",
+                "lat": "52.949698",
+                "lon": "-2.81027",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Hanmer",
+                        "_text": "Hanmer can refer to:"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Hanmer",
+                        "_text": "Pentref bychan a chymuned ym mwrdeistref sirol Wrecsam yw Hanmer. Gorwedd yn ardal Wrecsam Maelor, tua phum milltir i'r gorllewin o dref Whitchurch, dros y ffin yn Lloegr, a 10 milltir i'r de-ddwyrain o dref Wrecsam. Mae'n enwog am ei eglwys hynafol a gysegrir i Sant Chad.\nTua dwy cilometr i'r gogledd-ddwyrain saif hen domen mwnt a beili Castell Cop."
+                    }
+                ]
+            },
+            {
+                "id": "wrexham#higher wych",
+                "name": "Higher Wych"
+            },
+            {
+                "id": "wrexham#hightown",
+                "name": "Hightown",
+                "lat": "53.039689",
+                "lon": "-2.986494",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Hightown",
+                    "_text": "Hightown may refer to the following places:\nUnited Kingdom\nHightown, Merseyside\nHightown, West Yorkshire\nHightown, Belfast\nHightown, County Antrim, a townland in County Antrim, Northern Ireland\nHightown, Wrexham, North East Wales\nUnited States\nHightown, Virginia, an unincorporated village in Highland County, Virginia\nFictional\nHightown, a wealthy precinct in the fictional city-island of Madripoor in X-Men"
+                }
+            },
+            {
+                "id": "wrexham#holly bush",
+                "name": "Holly Bush"
+            },
+            {
+                "id": "wrexham#holt",
+                "name": "Holt",
+                "lat": "53.0784049",
+                "lon": "-2.886321",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Holt",
+                        "_text": "Holt or holte may refer to:"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Holt",
+                        "_text": "Pentref a chymuned ar Afon Dyfrdwy ym mwrdeistref sirol Wrecsam yw Holt. Mae Caerdydd 180 milltir i ffwrdd o Holt ac mae Llundain tua 190m."
+                    }
+                ]
+            },
+            {
+                "id": "wrexham#honkley",
+                "name": "Honkley",
+                "lat": "53.1260863",
+                "lon": "-2.9845291"
+            },
+            {
+                "id": "wrexham#isycoed",
+                "name": "Isycoed",
+                "lat": "53.0378436",
+                "lon": "-2.8856958",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Isycoed",
+                    "_text": "Isycoed (Welsh: Is-coed) is a local government community in Wrexham County Borough, Wales.\nIt lies around 5 miles to the east of Wrexham on the border with England.\nThere is a primary school in Bowling Bank, and a late-Georgian church, dedicated to St. Paul, in Isycoed village."
+                }
+            },
+            {
+                "id": "wrexham#johnstown",
+                "name": "Johnstown",
+                "lat": "53.010368",
+                "lon": "-3.044433",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Johnstown",
+                    "_text": "Johnstown may refer to:"
+                }
+            },
+            {
+                "id": "wrexham#knolton bryn",
+                "name": "Knolton Bryn"
+            },
+            {
+                "id": "wrexham#lavister",
+                "name": "Lavister",
+                "lat": "53.1186458",
+                "lon": "-2.9389605"
+            },
+            {
+                "id": "wrexham#lightwood green",
+                "name": "Lightwood Green"
+            },
+            {
+                "id": "wrexham#little arowry",
+                "name": "Little Arowry"
+            },
+            {
+                "id": "wrexham#little green",
+                "name": "Little Green",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Little Green",
+                    "_text": "Little Green may refer to:\nLittle Green (song), by Joni Mitchell\nThe athletic teams of Manchester Central High School, New Hampshire, USA, or the name of its student newspaper\nAlso, one of several places in England and Wales:\nLittle Green, Cambridgeshire\nLittle Green, Greater Manchester, near Middleton.\nLittle Green, Nottinghamshire\nLittle Green, Somerset\nLittle Green, Suffolk\nLittle Green, Wrexham\nLittle Green, Surrey"
+                }
+            },
+            {
+                "id": "wrexham#little overton",
+                "name": "Little Overton"
+            },
+            {
+                "id": "wrexham#llan-y-pwll",
+                "name": "Llan-y-pwll",
+                "lat": "53.0618804",
+                "lon": "-2.9374136",
+                "wikipedia": {
+                    "lang": "cy",
+                    "href": "https:\/\/cy.wikipedia.org\/wiki\/Llan-y-pwll",
+                    "_text": "Pentref bychan yn Sir Wrecsam yw Llan-y-pwll. Fe'i lleolir tua 2 filltir i'r gogledd-ddwyrain o ganol Wrecsam ar bwys y briffordd A534."
+                }
+            },
+            {
+                "id": "wrexham#llanarmon dyffryn ceiriog",
+                "name": "Llanarmon Dyffryn Ceiriog",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Llanarmon Dyffryn Ceiriog",
+                        "_text": "Llanarmon Dyffryn Ceiriog is a village in Wrexham County Borough, Wales. It lies on the Ceiriog River and is at the end of the B4500 road, five miles (8 km) south-west of Glyn Ceiriog and ten miles (16 km) north-west of Oswestry. It is within the Ceiriog Valley ward, Clwyd South National Assembly for Wales constituency and Clwyd South parliamentary constituency.\n\n"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Llanarmon Dyffryn Ceiriog",
+                        "_text": "Gweler hefyd Ceiriog (gwahaniaethu).\n\nPentref yn Sir Wrecsam ydy Llanarmon Dyffryn Ceiriog, ar lan Afon Ceiriog, ar ddiwedd y ffordd B4500, pum milltir (8 km) i'r de-orllewin o Lyn Ceiriog a deg milltir (16 km) i'r gogledd-ddwyrain o Groesoswallt yn Etholaeth Cynulliad De Clwyd, ac yn Etholaeth Seneddol De Clwyd.\nSaif dwy ywen nodedig ychydig fetrau o ddrws Eglwys Sant Garmon, sy'n enghreifftiau prin o b\u00e2r o yw; yn 1998 mesurwyd o gwmpas gwaelod y coed ac roedd yr ywen ar y chwith (wrth edrych ar yr eglwys) yn 25 troedfedd a'i phartner gwrywaidd ar y dde dros yn 25 troedfedd a hanner."
+                    }
+                ]
+            },
+            {
+                "id": "wrexham#llangollen canal",
+                "name": "Llangollen Canal",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Llangollen Canal",
+                    "_text": "The Llangollen Canal (Welsh: Camlas Llangollen) is a navigable canal crossing the border between England and Wales. The waterway links Llangollen in Denbighshire, north Wales, with Hurleston in south Cheshire, via the town of Ellesmere, Shropshire. In 2009 an eleven-mile section of the canal from Gledrid Bridge near Rhoswiel through to the Horseshoe Falls, which includes Chirk Aqueduct and Pontcysyllte Aqueduct, was declared a World Heritage site by UNESCO.\nThe waterway, from which the modern canal takes it name, was built when work to complete the Ellesmere Canal was halted in the early 19th century. The Ellesmere Canal was to be a commercial waterway that linked the Port of Liverpool to the West Midlands. However due to a variety of problems, such as rising costs and rival competition, the scheme was never finished as intended. As the waterway never reached its proposed main source of water at Moss Valley, Wrexham, a feeder channel was constructed along the side of the Vale of Llangollen to the River Dee; the work created the Horseshoe Falls at Llantisilio.\nThe Llangollen line became the primary water source from the River Dee for the central section of the incomplete Ellesmere Canal. As such it was not built as a broad-gauge waterway but as a navigable feeder branch. Eventually the Ellesmere Canal became part of the Shropshire Union network in 1846.\nIn the 1980s, British Waterways took the decision to rename the surviving central sections of the Ellesmere Canal as the Llangollen Canal. As a rebranding of Britain's industrial waterways as leisure destinations, it has encouraged usage and promoted restoration.\n\n"
+                }
+            },
+            {
+                "id": "wrexham#llay",
+                "name": "Llay",
+                "lat": "53.092664",
+                "lon": "-3.003691",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Llay",
+                    "_text": "Llay (Welsh: Llai meaning meadow) is a village and local government community, the lowest tier of local government, part of Wrexham County Borough in Wales.\nIt borders several other villages including Gwersyllt and Gresford. At the 2001 Census, the total population of the community of Llay, including Llay village, was 4,905.\nPrior to the 1960s, Llay was a coal mining village. Llay Main Colliery, at one time the largest colliery in Wales and after 1952 the deepest pit in the UK, was a major employer for the area before its coal reserves were exhausted in 1966."
+                }
+            },
+            {
+                "id": "wrexham#llwyneinion",
+                "name": "Llwyneinion",
+                "lat": "53.019987",
+                "lon": "-3.066417"
+            },
+            {
+                "id": "wrexham#llwynmawr",
+                "name": "Llwynmawr",
+                "lat": "52.924397",
+                "lon": "-3.1506789"
+            },
+            {
+                "id": "wrexham#lower threapwood",
+                "name": "Lower Threapwood"
+            },
+            {
+                "id": "wrexham#lower wych",
+                "name": "Lower Wych"
+            },
+            {
+                "id": "wrexham#marchwiel",
+                "name": "Marchwiel",
+                "lat": "53.021057",
+                "lon": "-2.957083",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Marchwiel",
+                    "_text": "Marchwiel (Welsh: Marchwiail) is a village and a local government community, the lowest tier of local government, part of Wrexham County Borough in Wales.\nIt is about 2 miles south-east of Wrexham town on the A525 road towards Bangor-on-Dee. The community has an area of 1,488 hectares and a population of 1,418 (2001 census).\nThere are several large country houses in the area including Marchwiel Hall, Bryn-y-grog, Old Sontley and Erddig Hall, now a National Trust property and a popular tourist attraction. The 19th century, Marchwiel Hall was acquired by Sir Alfred McAlpine, founder of Alfred McAlpine and son of 'Concrete' Bob McAlpine.\nIn the Middle Ages there was a church at Marchwiel dedicated to Saint Deiniol. The Welsh name of the village means \"strong twigs\", referring to the material used to build the first church. The current church building dates from 1778 and is dedicated to Saint Marcella. The church contains a number of memorials to members of the Yorke family of Erddig and has a stained-glass window showing the Yorke family tree.\n\n"
+                }
+            },
+            {
+                "id": "wrexham#marford",
+                "name": "Marford",
+                "lat": "53.096501",
+                "lon": "-2.960512",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Marford",
+                        "_text": "Marford is a village in the county borough of Wrexham near the Wales-England border.\nMarford covers some 750 acres (3.0 km2), where the hills of north-east Wales meet the Cheshire Plain. Distant landmarks that can be seen clearly from Marford include Eaton Hall, Chester Town Hall and Cathedral. Beyond that on the Cheshire plains, Peckforton Castle and its hills form the skyline, with the outcrop of rock at Beeston Castle."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Marford",
+                        "_text": "Cymuned ym mwrdeisdref sirol Wrecsam yw Marford. Nid ymddengys fod enw Cymraeg yn bodoli. Saif ychydig i'r dwyrain o'r briffordd A483, rhwng Gresffordd a Rossett. Llifa Afon Alun gerllaw. Ystyrir ward Marford a Hoseley yn un o'r tair ward gyfoethocaf yng Nghymru. Ceir dwy dafarn yma, ond nid oes siop bellach, ac mae'r ddau gapel wedi cau.\nAdeiladwyd llawer o dai y pentref gan ystad Trefalun, ac mae Marford yn enwog am ei bythynnodd yn yr arddull a elwir yn cottage orn\u00e9. Rhestrwyd amryw ohonynt gan Cadw. Ar un adeg roedd y pentref yn enwog am ei ysbrydion.\nGerllaw'r pentref mae hen chwarel, a agorwyd yn 1927 i gloddio defnydd ar gyfer Twnel Merswy. Caewyd y chwarel yn 1971. Enwyd y safle yn Safle o Ddiddordeb Gwyddonol Arbennig yn 1989, ac yn 1990 prynodd Ymddiriedolaeth Natur Gogledd Cymru 26 acer o'r safle i'w ddatblygu fel gwarchodfa."
+                    }
+                ]
+            },
+            {
+                "id": "wrexham#merehead",
+                "name": "Merehead",
+                "lat": "52.9423063",
+                "lon": "-2.8123402"
+            },
+            {
+                "id": "wrexham#minera",
+                "name": "Minera",
+                "lat": "53.058724",
+                "lon": "-3.0881303",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Minera",
+                    "_text": "Minera (Welsh: Y Mwynglawdd) is a small village, and a local government community, the lowest tier of local government, part of Wrexham County Borough in Wales.\nThe community, which in addition to Minera village includes a number of smaller hamlets such as Gwynfryn and New Brighton and large areas of farmland, had a total population of 1,608 at the 2001 census."
+                }
+            },
+            {
+                "id": "wrexham#moss",
+                "name": "Moss",
+                "lat": "53.07262",
+                "lon": "-3.042387",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Moss",
+                    "_text": "Mosses are small flowerless plants that usually grow in dense green clumps or mats, in damp or shady locations. The individual plants are usually composed of simple, one-cell thick leaves, covering a thin stem that supports them but does not conduct water and nutrients (nonvascular). They do not have seeds or any vascular tissue. At certain times they produce thin stalks topped with capsules containing spores. They are typically 1\u201310 cm (0.4\u20133.9 in) tall, though some species are much larger, like Dawsonia, the tallest moss in the world, which can grow to 50 cm (20 in) in height.\nMosses are commonly confused with lichens, hornworts, and liverworts. Lichens may superficially look like mosses, and have a common names that includes the word \"moss\" (e.g., \"reindeer moss\" or \"iceland moss\"), but are not related to mosses. Mosses, hornworts, and liverworts are collectively called \"bryophytes\". Bryophytes share the properties of not having vascular tissue and producing spores instead of flowers and seeds. Bryophytes have the haploid gametophyte generation as the dominant phase of the life cycle. This contrasts with the pattern in all vascular plants (seed plants and pteridophytes), where the diploid sporophyte generation is dominant.\nMosses are in the phylum (division) Bryophyta, which formerly also included hornworts and liverworts. These other two groups of bryophytes are now placed in their own divisions. There are approximately 12,000 species of moss classified in the Bryophyta.\nThe main commercial use of mosses is for decorative purposes, such as in gardens and in the florist trade. Traditional uses of mosses included as insulation and for the ability to absorb liquids up to 20 times their weight."
+                }
+            },
+            {
+                "id": "wrexham#mount sion",
+                "name": "Mount Sion",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Mount Sion",
+                    "_text": "Mount Sion may refer to :\nAlternate spelling of Mount Zion\nAlternate name for Mount Hermon\nMount Sion, hill in Waterford, Republic of Ireland\nMount Sion GAA, Gaelic Athletic Association club in Waterford, Republic of Ireland\nMount Sion Primary School, primary school in Waterford, Republic of Ireland"
+                }
+            },
+            {
+                "id": "wrexham#new brighton",
+                "name": "New Brighton",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/New Brighton",
+                    "_text": "New Brighton is the name of several places:"
+                }
+            },
+            {
+                "id": "wrexham#new broughton",
+                "name": "New Broughton"
+            },
+            {
+                "id": "wrexham#newbridge",
+                "name": "Newbridge",
+                "lat": "51.665206",
+                "lon": "-3.144116",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Newbridge",
+                        "_text": "Newbridge may refer to:"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Newbridge",
+                        "_text": "Gall Newbridge gyfyeirio at nifer o leoedd, fel a ganlyn:\nNewbridge, Ceredigion\nNewbridge-on-Usk\nNewbridge, Ynys Wyth"
+                    }
+                ]
+            },
+            {
+                "id": "wrexham#overton (owrtyn)",
+                "name": "Overton (Owrtyn)"
+            },
+            {
+                "id": "wrexham#overton bridge",
+                "name": "Overton Bridge"
+            },
+            {
+                "id": "wrexham#owrtyn (overton)",
+                "name": "Owrtyn (Overton)"
+            },
+            {
+                "id": "wrexham#painters green",
+                "name": "Painters Green"
+            },
+            {
+                "id": "wrexham#pandy",
+                "name": "Pandy",
+                "lat": "51.897364",
+                "lon": "-2.966638",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Pandy",
+                        "_text": "A pandy is another name (in Wales) for a fulling mill.\n\nPandy may also refer to several places in Wales:\nPandy, Monmouthshire, a village near Abergavenny\nPandy, Wrexham, a village in the Ceiriog Valley\nPandy, Powys, a village in Powys\nPandy Tudur, a village in Conwy\nPandy, an electoral ward near Llanfairfechan, Conwy"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Pandy",
+                        "_text": "Gallai Pandy gyfeirio at:\nPandy, adeilad a ddefnyddid ar gyfer pannu\nNifer o bentrefi yng Nghymru, yn cynnwys:\nPandy, Powys\nY Pandy, Sir Fynwy\nY Pandy, Wrecsam\nPandy Tudur, sir Conwy\nPandy'r Capel, sir Ddinbych"
+                    }
+                ]
+            },
+            {
+                "id": "wrexham#pant",
+                "name": "Pant",
+                "lat": "51.7726429",
+                "lon": "-3.3571127",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Pant",
+                    "_text": "Pant may refer to:\nUnderpants, an item of men's underwear\nTrousers, an article of clothing worn on the lower half of the body\nTo breathe quickly, spasmodically, or in a labored manner\nPanting is used by many furry animals as a means of thermoregulation\n\nPant (surname), a North Indian and Nepalese surname\nPublic Drinking Fountain\nPlaces\nPant (meaning \"a hollow\" in Welsh) is a common Welsh place name element\nPlaces named Pant include:\nPant, Denbighshire, Wales\nPant, Merthyr Tydfil, Wales\nPant, Shropshire, England\nPant, Wrexham, Wales\nPANT is an ICAO code for Annette Island Airport"
+                }
+            },
+            {
+                "id": "wrexham#park lane",
+                "name": "Park Lane",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Park Lane",
+                    "_text": "Park Lane may refer to:"
+                }
+            },
+            {
+                "id": "wrexham#parkside",
+                "name": "Parkside",
+                "lat": "53.088666",
+                "lon": "-2.921252",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Parkside",
+                    "_text": "Parkside may refer to:"
+                }
+            },
+            {
+                "id": "wrexham#pen-rhos",
+                "name": "Pen-rhos",
+                "lat": "53.300496",
+                "lon": "-4.600263"
+            },
+            {
+                "id": "wrexham#pen-y-bryn",
+                "name": "Pen-y-bryn",
+                "lat": "52.053908",
+                "lon": "-4.659392",
+                "wikipedia": {
+                    "lang": "cy",
+                    "href": "https:\/\/cy.wikipedia.org\/wiki\/Pen-y-bryn",
+                    "_text": "Gallai Pen-y-bryn neu Penybryn (weithiau hefyd Pen y Bryn) gyfeirio at un o sawl peth:\nPentrefi\nPen-y-bryn, Caerffili\nPen-y-bryn, Gwynedd\nPen-y-bryn, Sir Benfro\nPen-y-bryn, Wrecsam\nPen-y-bryn, Abergwyngregyn sef yr enw cyfoes am \"Garth Celyn\"\nYsgol\nYsgol Penybryn, Tywyn\nChwarel\nChwarel Pen y Bryn, Dyffryn Nantlle, Gwynedd\nNofel\nG\u0175r Pen y Bryn (1923), gan E. Tegla Davies"
+                }
+            },
+            {
+                "id": "wrexham#penley",
+                "name": "Penley",
+                "lat": "52.953762",
+                "lon": "-2.869917",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Penley",
+                    "_text": "Penley (Welsh: Llannerch Banna) is a village in the County Borough of Wrexham, in Wales close to the border with Shropshire, England\n\nThe village was, until 1974, in an exclave of the ancient county of Flintshire known as Maelor Saesneg. (English: \"English-speaking Maelor\"), sometimes called \"Flintshire Detached\", which was administered from Overton-on-Dee. Between 1974 and 1996, Penley was in the short-lived county of Clwyd.\nPenley lies on the path of the long-distance walk, the Maelor Way\n\n"
+                }
+            },
+            {
+                "id": "wrexham#pentre",
+                "name": "Pentre",
+                "lat": "51.654745",
+                "lon": "-3.491629",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Pentre",
+                    "_text": "Pentre is a village and community, near Treorchy in Rhondda valley, falling within the county borough of Rhondda Cynon Taf, Wales. The village's name is taken from the Welsh word Pentref, which translates as homestead, though Pentre is named after a large farm that dominated the area before the coming of industrialisation. The community takes in the neighbouring village of Ton Pentre."
+                }
+            },
+            {
+                "id": "wrexham#pentre broughton",
+                "name": "Pentre Broughton",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Pentre Broughton",
+                    "_text": "Pentre Broughton is a small, formerly industrial village in the community of Broughton in Wrexham county borough, Wales. It is contiguous with the neighbouring villages of Moss and Brynteg.\nThe village's name is derived from the Welsh word pentre (\"village\") along with Broughton, the name of the township of the parish of Wrexham (later Brymbo) in which it was located. The English place-name \"Broughton\" appears in the Domesday Book survey of the area and probably means \"brook town\".\nMuch of the village dates from the later 19th century, after industrial expansion in the area, but it appears on the 1873 Ordnance Survey of Denbighshire as \"Pentre\" and \"Pentre isaf\" (\"lower village\"). These place names, rather than \"Pentre Broughton\", appear on maps until the second half of the 20th century, and the village is still often referred to simply as \"Pentre\" by local residents.\nPentre Broughton's church, St. Paul's, was built in 1888-89, though it was not consecrated until 1909, shortly before Broughton was made a separate parish in its own right. The church was designed by the architect Howel Davies of Wrexham.\nMany of the villages' residents worked in coal mining, or in the Brymbo Steelworks which until its closure in 1990 dominated the view to the north of the village. The Cross Foxes on Pentre High Street was formerly the meeting place for the area's mineworkers' unions; at one 19th century meeting, over 6000 people gathered there for a demonstration."
+                }
+            },
+            {
+                "id": "wrexham#pentre bychan",
+                "name": "Pentre Bychan",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Pentre Bychan",
+                        "_text": "Pentrebychan (variously spelled as either one word or two, with the literal Welsh language meaning of \"little village\") is a semi-rural hamlet in the county borough of Wrexham, Wales\nIt is situated between Rhostyllen and Johnstown in the ward of Esclusham, some four miles south-east of Wrexham town centre."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Pentre Bychan",
+                        "_text": "Pentref ym mwrdeisdref sirol Wrecsam yw Pentre Bychan. Saif ar y ffordd B5605 rhwng Rhostyllen a Johnstown.\nAr un adeg roedd ystad Pentre Bychan o bwysigrwydd mawr yn yr ardal. Mae'r plasdy yn dyddio o'r 16eg ganrif ac yn wreiddiol perthynai i deulu Tegin. Prynwyd yr ystad gan Hugh Meredith yn 1620, a bu'r teulu Meredith yno hyd 1802. Adeiladwyd plasdy newydd yn 1823. Tynnwyd yr adeilad i lawr yn 1963, ac adeiladwyd Amlosgfa Wrecsam ar y safle. Mae rhan o Glawdd Offa gerllaw'r pentref."
+                    }
+                ]
+            },
+            {
+                "id": "wrexham#pentre cilgwyn",
+                "name": "Pentre Cilgwyn"
+            },
+            {
+                "id": "wrexham#pentre maelor",
+                "name": "Pentre Maelor"
+            },
+            {
+                "id": "wrexham#penycae",
+                "name": "Penycae",
+                "lat": "53.000067",
+                "lon": "-3.082745",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Penycae",
+                        "_text": "Penycae is a village and a local government community, the lowest tier of local government, part of Wrexham County Borough in Wales"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Penycae",
+                        "_text": "Pentref a chymuned ym mwrdeisdref sirol Wrecsam yw Penycae. Saif i'r de-orllewin o Rosllannerchrugog gyda Mynydd Rhiwabon i'r gorllewin. Ar un adeg roedd yn rhan o blwyf Rhiwabon a gelwid yr ardal yn Dinhinlle Uchaf. Ffurfiwyd plwyf Penycae yn 1879, yn cynnwys Penycae, Pentre Cristionydd, Copras, Trefechan, Tainant, Afoneitha a Stryt Isa."
+                    }
+                ]
+            },
+            {
+                "id": "wrexham#plas coch",
+                "name": "Plas Coch",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Plas Coch",
+                    "_text": "Plas Coch is an unofficial area in the Wrexham County Borough of Wales. It lies to the north-west part of the Welsh town of Wrexham. The area was originally known as lower Stansty; however, in more recent years the use of 'Plas Coch' is more common."
+                }
+            },
+            {
+                "id": "wrexham#ponciau",
+                "name": "Ponciau",
+                "lat": "53.0139205",
+                "lon": "-3.0494821",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Ponciau",
+                        "_text": "Ponciau is a village within the community of Rhosllannerchrugog, Wrexham, Wales. It is close to the villages of Legacy, Pentre Bychan and Johnstown and is overlooked by Ruabon Mountain."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Ponciau",
+                        "_text": "Pentref yn ward Rhosllannerchrugog ym mwrdeistref sirol Wrecsam yw Ponciau.\nTyfodd y pentref o gwmpas y diwydiant glo, gyda rhywfaint o gynhyrchu haearn yma hefyd. Ceir yma ysgol gynradd a swyddfa'r post, ynghyd a nifer o gapeli. Saif rhan o Glawdd Offa gerllaw, ac mae Afon Clywedog yn ffurfio rhan o ffin y ward. Yn 2001 roedd 37% o'r boblogaeth yn medru Cymraeg.\nMae Parc y Ponciau yn cynnwys trac BMX a chyfleusterau ar gyfer p\u00eal-droed, bowlio a thennis. Ceir Cerrig yr Orsedd yma o Eisteddfod Genedlaethol Cymru Rhosllannerchrugog 1961. Ar ddechrau 2007 cyhoeddwyd fod Cyngor Bwrdeistref Sirol Wrecsam a\u2019r gr\u0175p cymunedol Cyfeillion Parc y Ponciau yn cael nawdd o \u00a3504,000 gan Gronfa Treftadaeth y Loteri ar gyfer adfer y parc."
+                    }
+                ]
+            },
+            {
+                "id": "wrexham#pont cysyllte",
+                "name": "Pont Cysyllte"
+            },
+            {
+                "id": "wrexham#pontfadog",
+                "name": "Pontfadog",
+                "lat": "52.937072",
+                "lon": "-3.140982",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Pontfadog",
+                        "_text": "Pontfadog is a village in the Ceiriog Valley west of Chirk in the county borough of Wrexham, Wales; it is part of the community of Glyntraian. Like the neighbouring village of Glyn Ceiriog, the growth of Pontfadog is connected to the area's former quarrying industry.\nThe village's name translates as \"Bridge of Madoc\", taking its name from a bridge over the River Ceiriog. Until April 2013 an oak tree stood near the village, the Pontfadog Oak, reputed to be the oldest in the United Kingdom at the time, but strong winds on the 17 April 2013 caused the tree to topple overnight.\nThe Glyn Valley Tramway had a station in the village, which has now been preserved by the Glyn Valley Tramway Group. In addition to the Swan Inn, the village's pub, there is also a village shop with a post office counter."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Pontfadog",
+                        "_text": "Pentref ym mwrdeisdref sirol Wrecsam yw Pontfadog. Saif yng nghymuned Glyntraean, yn Nyffryn Ceiriog gerllaw Afon Ceiriog, ar y ffordd B4500 rhwng Y Waun a phentref Glyn Ceiriog. Sant Ioan y Bedyddiwr yw'r eglwys leol, a fFfurfiwyd plwyf newydd Pontfadog ar 15 Ebrill, 1848, o blwyf hynafol Llangollen.\nCeir yma dafarn a siop sydd hefyd yn gweithredu fel swyddfa'r post."
+                    }
+                ]
+            },
+            {
+                "id": "wrexham#pulford",
+                "name": "Pulford",
+                "lat": "53.123801",
+                "lon": "-2.939267",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Pulford",
+                        "_text": "Pulford is a village and civil parish in the unitary authority of Cheshire West and Chester and the ceremonial county of Cheshire, England. It is situated on the B5445 road, to the south west of Chester and on the border with Wales. It is believed that the name of the village is derived from the Welsh words Pwll \"marsh\" and Ffordd \"crossing\". According to the 2001 Census, the population of the entire parish was 395, increasing to 580 at the 2011 Census.\nThe parish has several notable buildings, including a castle, a church and a hotel.\nPulford Castle, which no longer exsts, only the mound of the castle remains just behind the church of S Mary, was a small Norman motte-and-bailey defensive structure, exists on the outskirts of the village. The castle was built at a strategic location protecting a road at a river crossing. Although no firm date of construction is recorded, it is believed to have been built around 1100. The castle is mentioned as having a garrison stationed at it, during the revolt of Owain Glynd\u0175r in 1403.\nPulford Parish Church is named after St. Mary. The church was rebuilt in 1844, to a design by the architect John Douglas, the benefactor being Hugh Lupus Grosvenor, 1st Duke of Westminster. Mention of a church on the site can be traced back the 12th century and the first rector is mentioned in ancient records as Hugo. The church's spire is 120 feet high. In the 1980s a fire completely destroyed the roof of the church tower, however it was later restored.\nA large hotel exists in the village, called the Grosvenor Pulford Hotel. Grosvenor is the family name of the Duke of Westminster whose seat is at nearby Eaton Hall."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Pulford",
+                        "_text": "Pentref yn Swydd Gaer (sir seremoniol), Lloegr ydy Pulford. Mae ganddo boblogaeth o oddeutu 395.\nMae'r pentref o fewn tafliad carreg i Sir y Fflint ac yn un o siroedd y Gororau. Ceir yn y pentref gastell mwnt a beili a godwyd tua 1100 ac a fu'n rhan allweddol Lloegr yn eu hymdrech i dawelu ymgyrch Owain Glynd\u0175r.\nMae'r gair yn tarddu o'r Gymraeg: \"pwll\" a \"ffordd\"."
+                    }
+                ]
+            },
+            {
+                "id": "wrexham#redbrook",
+                "name": "Redbrook",
+                "lat": "52.966257",
+                "lon": "-2.730807",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Redbrook",
+                        "_text": "Redbrook is a village in Gloucestershire, England, adjoining the border with Monmouthshire, Wales. It is located on the River Wye and is within the Wye Valley Area of Outstanding Natural Beauty."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Redbrook",
+                        "_text": "Pentref a chymuned yn Lloegr ydy Redbrook."
+                    }
+                ]
+            },
+            {
+                "id": "wrexham#rhiwabon (ruabon)",
+                "name": "Rhiwabon (Ruabon)"
+            },
+            {
+                "id": "wrexham#rhos y madoc",
+                "name": "Rhos y madoc"
+            },
+            {
+                "id": "wrexham#rhos-ddu",
+                "name": "Rhos-ddu",
+                "lat": "53.05441",
+                "lon": "-2.992112",
+                "wikipedia": {
+                    "lang": "cy",
+                    "href": "https:\/\/cy.wikipedia.org\/wiki\/Rhos-ddu",
+                    "_text": "Cymuned ym mwrdeisdref sirol Wrecsam a rhan o dref Wrecsam yw Rhos-ddu. Saif i'r gogledd-orllewin o ganol Wrecsam. Ceir yno ysgol gynradd a thafarn.\nFfurfiwyd plwyf Rhos-ddu ym 1886, o ran o blwyf Wrecsam. Daeth yn rhan o blwyf Wrecsam unwaith eto yn 1972. Adeiladwyd yr eglwys, a gysegrwyd i Sant Iago, rhwng 1874 a 1876, er na chafodd ei chysegru hyd 1886."
+                }
+            },
+            {
+                "id": "wrexham#rhosllanerchrugog",
+                "name": "Rhosllanerchrugog",
+                "lat": "53.013057",
+                "lon": "-3.057852"
+            },
+            {
+                "id": "wrexham#rhosnesni",
+                "name": "Rhosnesni",
+                "lat": "53.052948",
+                "lon": "-2.97549",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Rhosnesni",
+                    "_text": "Rhosnesni is a ward in the community of Acton in Wrexham, Wales and constitutes an electoral division of the town of Wrexham.\nThe settlement developed around the toll gate on Holt Road (the cottage of which still stands) and was expanded in the late 19th century by the addition of estate houses for the Acton Park estate. Following the breakup of the Acton estate in the 20th century much of the local land was bought up by private developers and Rhosnesni became an urban area.\nRhosnesni High School is situated in the area.\n1st Rhosnesni Scout Group and K2 Explorer Scout Unit meet in the Scout Hut which dates from the 1920s.\n\n"
+                }
+            },
+            {
+                "id": "wrexham#rhosrobin",
+                "name": "Rhosrobin",
+                "lat": "53.0729792",
+                "lon": "-3.0058453",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Rhosrobin",
+                    "_text": "Rhosrobin is a small village situated in Wrexham county borough in Wales, about 2 miles (3.2 km) north west of Wrexham town centre, close to the A483 road.\nThe population of the village has expanded considerably in recent years and many of the older landmarks have been swept away to make room for new housing and commercial development, attracted by direct access along the B5425 to Wrexham Town Centre, and easy connection to the A483 (Trunk) at Pandy, for Chester and the north West of England beyond.\nTaking the B5425 (Llay) from Wrexham, the village boundary is now marked with a brown sign alongside the new Top Farm Road housing development.\nFollowing the Main Road over the Chester \u2013 Shrewsbury railway, the main commercial centre of the village can be seen. Although clearly located in Rhosrobin, the Rhosddu Industrial Estate takes its name from the old colliery that once occupied this whole area. The colliery was opened in the 1860s by The Wrexham Coal Company and at its peak employed almost 1000 men. The colliery closed in 1924. The only surviving building can be seen at the rear of the estate \u2013 the old wheelhouse is currently occupied by a pallets business.\nThe Churchlea development to the side of the Olivet Christadelphian Chapel was built on the site of the disused North Wales Mineral Railway Company railway track. The route of the old track can be seen opposite Churchlea making its way to the long since gone Wheatsheaf junction in Gwersyllt.\nThe short unadopted road running to the rear of the Chapel originally ran the full length of the land down to the main railway line, giving access to a cottage built beside the track and also to two long terraces of houses built on higher ground. Although the terraced properties were demolished in the 1970s, the land remained undeveloped until very recently. The cottage was demolished to make way for the Churchlea development.\nThe village was served briefly by its own railway station, Rhosrobin Halt, which was actually situated in Pandy, opposite what is now known as the Pandy Business Park. The Halt was opened in 1932 by the Great Western Railway Co. and closed in October 1947. Very little remains of the structure, which was used mainly by colliers who worked at the large Gresford Colliery nearby.\nContinuing along the B5425, the former St Peter\u2019s Church building remains but is now a children\u2019s nursery, and the old Rhosrobin School, which had more recently seen service as a commercial laundry, has now been demolished to make way for a new housing development called St. Peter's Close. The old school bell moved with the laundry company to its new premises on Llay Industrial Estate.\nA murder was committed in Rhosrobin on Monday, 10 November 1902 when William Hughes shot his wife Jane Hannah Hughes. William Hughes was a native of Denbigh and served for many years in the Cheshire Regiment in India under the British Raj. On his return to Britain he worked as a collier in the Wrexham area. He married Jane Hannah Williams, his first cousin, in 1892. They separated in 1901 and Hughes was subsequently sentenced to three months in Shrewsbury prison for \"family desertion\". He was released on 6 November 1902 and on the 10th of the month he called upon his wife who by then was housekeeper to a Mr Tom Maddocks, a collier who was widowed with three children. When she came to the door Hughes discharged both barrels of a shotgun into her body from close range.\nHughes was tried at Denbigh Assizes in January 1903 and despite pleas of insanity the jury took just ten minutes to find him guilty of murder. At 8 a.m. on Tuesday 17 February 1903 William Hughes, 42, was executed on the gallows at Ruthin Gaol. Hughes is believed to be the only man to have been hanged at the Gaol."
+                }
+            },
+            {
+                "id": "wrexham#rhostyllen",
+                "name": "Rhostyllen",
+                "lat": "53.031159",
+                "lon": "-3.027841",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Rhostyllen",
+                        "_text": "Rhostyllen is a village in Wrexham county borough in Wales, south-west of the town of Wrexham. At the time of the 2001 census, area Wrexham 014A, which includes Rhostyllen itself, had a population of 1,383 in 599 households. Its name may be derived from the Welsh words rhos (\"moor\", or \"rush pasture\") and estyll (\"staves\" or \"planks\").\nRhostyllen was a part of the old township of Esclusham Below (i.e. \"below\" Offa's Dyke) and in 1879 was incorporated into the new ecclesiastical parish of Esclusham. The parish church, Holy Trinity, was completed in 1877. The corresponding civil parish of Esclusham became the community of Esclusham in 1974.\nRhostyllen is a former mining village, with Bersham (or Glanyrafon) Colliery, which before closure in December 1986 was the last working coal mine in the Denbighshire coalfield, situated to the east of Wrexham Road. Like other villages in the area, many of its buildings are nineteenth-century miners' houses built in the distinctive local \"Ruabon Red\" brick. This character is under threat as the village becomes increasingly linked to the outskirts of Wrexham by infill and commercial development along the A483 road.\nThe focal point of the village is the village hall, built in 1924, and its recreation grounds. Rhostyllen's railway station was closed to passengers as long ago as 1931; the village was also formerly served by the line of the Wrexham and District Electric Tramways Company, opened in 1903, which ran from Penybryn in Wrexham to Johnstown and Rhosllannerchrugog: the halfway passing loop was situated at the Black Lion in Rhostyllen. Rhostyllen is served by the A483 trunk road.\nThe eighteenth-century house and parkland at Erddig, now owned by the National Trust, is nearby.\n\n"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Rhostyllen",
+                        "_text": "Pentref ym mwrdeisdref sirol Wrecsam yw Rhostyllen. Saif gerllaw Afon Clywedog, ychydig oddi ar y briffordd A483 ac i'r de-orllewin o dref Wrecsam.\nYn 2007 bu protestio yn erbyn cynllun gan Yr Ymddiriedolaeth Genedlaethol i adeiladu 223 o dai ger Rhostyllen fel rhan o gynllun i ddatblygu Erddig."
+                    }
+                ]
+            },
+            {
+                "id": "wrexham#rhosymedre",
+                "name": "Rhosymedre",
+                "lat": "52.9768853",
+                "lon": "-3.064689",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Rhosymedre",
+                        "_text": "Rhosymedre is a village within the community of Cefn and the county borough of Wrexham, Wales.\nThe Anglican church, which was consecrated in 1837, is dedicated to St John the Evangelist, and is part of the Diocese of St Asaph. Former vicars include John David Edwards (vicar 1843-1885), whose most famous hymn tune composition is Rhosymedre.\nRhosymedre Halt railway station served the village from 1906 to 1959.\n\n"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Rhosymedre",
+                        "_text": "Pentref bychan ym Mwrdeisdref Sirol Wrecsam yw Rhosymedre. Mae'n rhan o gymuned Cefn. Fe'i lleolir ger Rhiwabon.\nGwasanaethodd y bardd Cymraeg Ellis Roberts (Elis Wyn o Wyrfai) fel ficer Rhosymedre o 1863 hyd 1866."
+                    }
+                ]
+            },
+            {
+                "id": "wrexham#ridleywood",
+                "name": "Ridleywood",
+                "lat": "53.055127",
+                "lon": "-2.9007164",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Ridleywood",
+                    "_text": "This is a redirect from a subtopic of the target article. For more information follow the category link."
+                }
+            },
+            {
+                "id": "wrexham#rossett",
+                "name": "Rossett",
+                "lat": "53.110472",
+                "lon": "-2.950822",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Rossett",
+                    "_text": "Rossett (Welsh: yr Orsedd, yr Orsedd Goch) is a village and a local government community, the lowest tier of local government, part of Wrexham County Borough in Wales. Rossett is served by the A483 road.\nAt the time of the 2001 Census, Rossett community (including Rossett itself and the villages of Burton, Burton Green and Lavister) had a total population of 3,336 people."
+                }
+            },
+            {
+                "id": "wrexham#ruabon (rhiwabon)",
+                "name": "Ruabon (Rhiwabon)"
+            },
+            {
+                "id": "wrexham#sandy lane",
+                "name": "Sandy Lane",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Sandy Lane",
+                    "_text": "Sandy Lane could be\nSandy Lane (resort), a resort in Barbados\nSandy Lane, Wiltshire, England\nSandy Lane, West Yorkshire, England\nSandy Lane, previous home stadium of English football team Worksop Town F.C.\nSandy Lane, proposed new home stadium of English football team Cray Wanderers F.C."
+                }
+            },
+            {
+                "id": "wrexham#singret",
+                "name": "Singret",
+                "lat": "53.0937313",
+                "lon": "-2.9873272"
+            },
+            {
+                "id": "wrexham#sontley",
+                "name": "Sontley",
+                "lat": "53.013273",
+                "lon": "-2.996898"
+            },
+            {
+                "id": "wrexham#southsea",
+                "name": "Southsea",
+                "lat": "53.058138",
+                "lon": "-3.0464159",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Southsea",
+                        "_text": "Southsea is a seaside resort and geographic area, located in Portsmouth at the southern end of Portsea Island, Hampshire, England. Southsea is located to the south of Portsmouth city centre and to the east of Old Portsmouth. It originally developed as Victorian seaside resort in the 19th century and grew into a dense residential suburb and large distinct commercial and entertainment area, separate from Portsmouth city centre itself. The name of the area originates from Southsea Castle; a fort, located on the seafront and constructed in 1544 to help defend the Solent and approaches to Portsmouth Harbour.\nThe areas surrounding Albert Road, Palmerston Road and Osborne road comprise numerous bars, restaurants and independent shops. Palmerston Road is the main High Street of Southsea and contains two national department stores, as well as the local library. Albert Road is a distinct street containing shopping and cultural venues, which includes the Kings Theatre, a regional theatre built in 1907.\n^ Quail, Sarah (2000) Southsea Past, Philimore Publishing. p.xi\n^ \"About Southsea Castle'\". Portsmouth Museums. 2015. \n^ \"Albert Road Association'\". ARTA. 2015."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Southsea",
+                        "_text": "Tref yn Portsmouth, Lloegr ydy Southsea . Mae ganddi boblogaeth o oddeutu 18,514."
+                    }
+                ]
+            },
+            {
+                "id": "wrexham#street lydan",
+                "name": "Street Lydan"
+            },
+            {
+                "id": "wrexham#stryt-issa",
+                "name": "Stryt-issa",
+                "lat": "53.003644",
+                "lon": "-3.067896"
+            },
+            {
+                "id": "wrexham#summerhill",
+                "name": "Summerhill",
+                "lat": "53.07817",
+                "lon": "-3.033461",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Summerhill",
+                        "_text": "Summerhill or Summer Hill may refer to:"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Summerhill",
+                        "_text": "Gallai Summerhill neu Summer Hill gyfeirio at:\nYr Alban\nSummerhill, Aberdeen\nSummerhill, Dumfries (maesdref)\nCymru\nBrynhyfryd, Wrecsam (Saesneg: Summerhill)\nIwerddon\nSummerhill, Swydd Fermanagh, Gogledd Iwerddon\nSummerhill, Dulyn, ardal yn ninas Dulyn\nSummerhill, Swydd Meath"
+                    }
+                ]
+            },
+            {
+                "id": "wrexham#sutton green",
+                "name": "Sutton Green",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Sutton Green",
+                    "_text": "Sutton Green can refer to any of the following:\nSutton Green, Surrey, between Guildford and Woking\nSutton Green, London, at the north end of Sutton High Street"
+                }
+            },
+            {
+                "id": "wrexham#sydallt",
+                "name": "Sydallt",
+                "lat": "53.0902455",
+                "lon": "-3.0294296"
+            },
+            {
+                "id": "wrexham#tai-nant",
+                "name": "Tai-nant",
+                "lat": "52.988585",
+                "lon": "-3.504056"
+            },
+            {
+                "id": "wrexham#tallarn green",
+                "name": "Tallarn Green"
+            },
+            {
+                "id": "wrexham#talwrn",
+                "name": "Talwrn",
+                "lat": "53.269764",
+                "lon": "-4.274374",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Talwrn",
+                        "_text": "Talwrn is a small hamlet on the Isle of Anglesey, an island off the coast of north Wales. Talwrn is most notable for the Grade II-listed 16th-century manor house of Plas Llanddyfnan, which lies just to the north of the hamlet. Plas Llanddyfnan is a Queen Anne manor house from the early 1700s. Plas Llanddyfnan was owned by seven generations of the Griffiths family.\n\nTo the west and south of Talwrn are a number of unimproved fields which have been designated as a site of special scientific interest because of the botanical assemblage supported on the neutral grassland and mire."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Talwrn",
+                        "_text": "Gallai talwrn gyfeirio at:\nPentrefi\nTalwrn, Ynys M\u00f4n\nTalwrn Green, Sir Wrecsam\nYsgol\nYsgol Talwrn, Ynys M\u00f4n\nRhaglen radio\nTalwrn y Beirdd (neu \"Y Talwrn\")"
+                    }
+                ]
+            },
+            {
+                "id": "wrexham#tanyfron",
+                "name": "Tanyfron",
+                "lat": "53.0630859",
+                "lon": "-3.0525138",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Tanyfron",
+                    "_text": "Tanyfron, also occasionally spelt Tan-y-fron, is a village in Wrexham County Borough in Wales. At the time of the 2001 census, the population of area Wrexham 006A, which includes Tanyfron and a number of other small settlements, was 1,347. The village is part of the local government Community of Brymbo and is in the Vron electoral ward."
+                }
+            },
+            {
+                "id": "wrexham#the chequer",
+                "name": "The Chequer"
+            },
+            {
+                "id": "wrexham#the nant",
+                "name": "The Nant"
+            },
+            {
+                "id": "wrexham#the wern",
+                "name": "The Wern"
+            },
+            {
+                "id": "wrexham#threapwood",
+                "name": "Threapwood",
+                "lat": "52.99936",
+                "lon": "-2.839106",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Threapwood",
+                        "_text": "Threapwood is a small village and civil parish in the unitary authority of Cheshire West and Chester and the ceremonial county of Cheshire, England. It is close to the villages of Shocklach, Worthenbury and Malpas."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Threapwood",
+                        "_text": "Pentref bychan yn Swydd Gaer (sir seremoniol), Lloegr ydy Threapwood. Saif yn Swydd Gaer, sydd o fewn tafliad carreg i Sir y Fflint ac yn un o siroedd y Gororau. Mae'n agos at bentrefi Shocklach, Worthenbury a Malpas."
+                    }
+                ]
+            },
+            {
+                "id": "wrexham#three fingers",
+                "name": "Three Fingers",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Three Fingers",
+                    "_text": "Three Fingers may refer to:"
+                }
+            },
+            {
+                "id": "wrexham#trefechan",
+                "name": "Trefechan",
+                "lat": "51.769827",
+                "lon": "-3.397947"
+            },
+            {
+                "id": "wrexham#tregeiriog",
+                "name": "Tregeiriog",
+                "lat": "52.896206",
+                "lon": "-3.220953",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Tregeiriog",
+                        "_text": "Tregeiriog (a Welsh name translating roughly as \"settlement [on the ] River Ceiriog\") is a small village in Wrexham county borough, Wales. It is in the Community of Ceiriog Ucha on the B4500 road between Glyn Ceiriog and Llanarmon Dyffryn Ceiriog.\nThe Battle of Crogen, between Welsh forces under Owain Gwynedd and English forces under Henry II of England, took place near Tregeirog in 1165.\nRichard Jones Berwyn (1838\u20131917), one of the founders of the Welsh settlement in Patagonia, was a native of the village.\nTregeiriog was formerly in the old ecclesiastical parish of Llangadwaladr, of which it was a detached township, surrounded by other parishes. The village of Tregeiriog and the surrounding area were transferred to the parish of Llanarmon Dyffryn Ceiriog in the late 1980s. Although the village had no church, there was formerly a small Calvinistic Methodist chapel in Tregeiriog.\nTregeiriog was also in the corresponding civil parish of Llangadwaladr; subsequent to the 1972 Local Government Act it was placed in the community of Ceiriog Ucha.\nThe cartographer Samuel Lewis, in his 1849 edition of A Topographical Dicitionary of Wales, recorded that \"the inhabitants have a tradition, that there were formerly a church and a considerable town at Tregeiriog; and in ploughing the land, quantities of large paving stones have been thrown up at different times, which seemed to have been placed in regular order: the name of a farm, Pen-yr-h\u00f4wl, the \"head of the street,\" is also adduced in corroboration\"."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Tregeiriog",
+                        "_text": "Pentref ym mwrdeisdref sirol Wrecsam yw Tregeiriog. Saif yn Nyffryn Ceiriog gerllaw Afon Ceiriog, ar y ffordd B4500 rhwng Glynceiriog a Llanarmon Dyffryn Ceiriog. Mae yng nghymuned Ceiriog Ucha.\nYmladdwyd Brwydr Crogen ger Tregeiriog yn 1165, pan gafodd y Cymry dan Owain Gwynedd fuddugoliaeth fawr ar fyddin y brenin Harri II o Loegr.\nBrodor o Dregeiriog oedd Richard Jones Berwyn, un o arloeswyr y Wladfa ym Mhatagonia."
+                    }
+                ]
+            },
+            {
+                "id": "wrexham#trevalyn",
+                "name": "Trevalyn",
+                "lat": "53.105483",
+                "lon": "-2.929344"
+            },
+            {
+                "id": "wrexham#trevor",
+                "name": "Trevor",
+                "lat": "52.976248",
+                "lon": "-3.090185",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Trevor",
+                    "_text": "Trevor can be a male given name or a surname."
+                }
+            },
+            {
+                "id": "wrexham#upper threapwood",
+                "name": "Upper Threapwood"
+            },
+            {
+                "id": "wrexham#whitewell",
+                "name": "Whitewell",
+                "lat": "52.965537",
+                "lon": "-2.75474",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Whitewell",
+                    "_text": "Whitewell is a hamlet within the civil parish of Bowland Forest Low and Ribble Valley borough of Lancashire, England. It is in the Forest of Bowland Area of Outstanding Natural Beauty. Prior to 1974, it lay just inside the border of the historic West Riding of Yorkshire. It stands above a bend in the River Hodder.\nThe hamlet comprises Upper and Lower Whitewell. Lower Whitewell is the site of St Michael's, a Chapel of Ease built in the late medieval period, certainly no later than 1400, which comes under the Lancashire parish of Whalley. The restaurant and hotel, The Inn at Whitewell, is also situated in Lower Whitewell."
+                }
+            },
+            {
+                "id": "wrexham#windy hill",
+                "name": "Windy Hill",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Windy Hill",
+                    "_text": "Windy Hill may refer to:\nWindy Hill, Essendon, an Australian rules football ground in the Melbourne area\nWindy Hill Open Space Preserve, a regional park in the San Francisco Bay Area\nWindy Hill, Wrexham.\nWindy Hill (Pennines), a hill on the Pennines which marks the border between Greater Manchester and West Yorkshire\nWindy Hill Beach, one of four communities merged to form North Myrtle Beach, South Carolina\nWindy Hill Wind Farm, A wind power station near Ravenshoe, Queensland.\nWindy Hill in Madison County, Montana\nConstantine Sneed House, Williamson County, Tennessee, also known as Windy Hill, listed on the U.S. National Register of Historic Places"
+                }
+            },
+            {
+                "id": "wrexham#worthenbury",
+                "name": "Worthenbury",
+                "lat": "53.007847",
+                "lon": "-2.867262"
+            },
+            {
+                "id": "wrexham#wrexham",
+                "name": "Wrexham",
+                "lat": "53.04304",
+                "lon": "-2.992494",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Wrexham",
+                    "_text": "Wrexham (\/\u02c8r\u025bks\u0259m\/ REKS-\u0259m; Welsh: Wrecsam; Welsh pronunciation: [\u02c8wr\u025bksam]) is a town in the north of Wales. It is the administrative centre of the wider Wrexham County Borough, located in the east of the region. It is situated between the Welsh mountains and the lower Dee Valley alongside the border to Cheshire, England. As the largest town in the north of Wales, it is a major centre of the region's administrative, commercial, retail and educational infrastructure.\nAt the time of the United Kingdom Census 2011, the Wrexham locality had a population of 61,603 as defined by the Office for National Statistics, the larger urban area had a population of 65,692, the fourth-largest in Wales."
+                }
+            }
+        ]
+    }
+}

@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<county name="Neath Port Talbot">
+<county id="Neath Port Talbot">
     <postcodes>
         <postcode>SA10</postcode>
         <postcode>SA11</postcode>

@@ -1,0 +1,1523 @@
+{
+    "id": "Rhondda Cynon Taff",
+    "population": {
+        "href": {
+
+        },
+        "_text": {
+
+        }
+    },
+    "poscodes": {
+        "postcode": [
+            "CF35",
+            "CF37",
+            "CF38",
+            "CF39",
+            "CF40",
+            "CF41",
+            "CF42",
+            "CF43",
+            "CF44",
+            "CF45",
+            "CF72"
+        ]
+    },
+    "towns": {
+        "town": [
+            {
+                "id": "rhondda cynon taff#aberaman",
+                "name": "Aberaman",
+                "lat": "51.6861191",
+                "lon": "-3.4322389",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Aberaman",
+                        "_text": "Aberaman is a village near Aberdare in the county borough of Rhondda Cynon Taf, south Wales. It was heavily dependent on the coal industry and the population, as a result, grew rapidly in the late nineteenth century. Most of the industry has now disappeared and a substantial proportion of the working population travel to work in Cardiff and the M4 corridor."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Aberaman",
+                        "_text": "Pentref a chymuned ar bwys Aberd\u00e2r, yn Rhondda Cynon Taf, Morgannwg yw Aberaman. Fe'i lleolir tua milltir i'r de o Aberd\u00e2r, rhwng y dref honno ac Aberpennar. Sefydlwyd gweithdy haearn yno ym 1847."
+                    }
+                ]
+            },
+            {
+                "id": "rhondda cynon taff#abercwmboi",
+                "name": "Abercwmboi",
+                "lat": "51.691895",
+                "lon": "-3.416712",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Abercwmboi",
+                        "_text": "Abercwmboi is a village in the Welsh county borough of Rhondda Cynon Taf in Wales, United Kingdom.\n\n"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Abercwmboi",
+                        "_text": "Pentref ym mwrdeistref sirol Rhondda Cynon Taf yw Abercwmboi. Saif ar y ffordd B4275, i'r de-ddwyrain o dref Aberd\u00e2r, ac ar lan Afon Cynon."
+                    }
+                ]
+            },
+            {
+                "id": "rhondda cynon taff#abercynon",
+                "name": "Abercynon",
+                "lat": "51.647512",
+                "lon": "-3.3293529",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Abercynon",
+                        "_text": "Abercynon (Welsh pronunciation: [ab\u025br\u02c8k\u0259n\u0254n]), is a village and community in the Cynon Valley in unitary authority of Rhondda Cynon Taf, Wales. As a community it is composed of the village of Abercynon itself, Carnetown, Glancynon and Park View with a population of 6428 recorded in the 2001 Census.\nAbercynon is approximately sixteen miles north of Cardiff and approximately forty miles from Swansea. The rivers Taff and Cynon converge at Watersmeet near Martin's Terrace. Abercynon used to have many churches, chapels and pubs. There are now only five public houses left - The Thorn Hotel, The Royal Oak, The Celtic Carvery, Brownies Bar and the Carne Park Hotel. The only churches still left are St. Donat's Church in Wales, its daughter church, St. Gwynno's, St. Thomas' Roman Catholic Church and the Methodist church in Martin's Lane.\n^ Davies (2008), p.4"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Abercynon",
+                        "_text": "Pentref bychan a chymuned yng Nghwm Cynon, yn Rhondda Cynon Taf, de Cymru yw Abercynon. Mae'n gorwedd ar gymer afon Cynon ac afon Taf. Mae Caerdydd 21.4 km i ffwrdd o Abercynon ac mae Llundain yn 223.4 km.\nCeir dwy orsaf drenau yno, un ar y rheilffordd o Gaerdydd i Aberd\u00e2r, a'r llall ar reilffordd Caerdydd-Merthyr Tudful.\nAbercynon oedd pen y daith reilffordd st\u00eam gyntaf yn hanes y byd pan yrrodd Richard Trevithick injan st\u00eam, ar 21 Chwefror 1804, a oedd yn tynnu haearn a theithwyr, o waith haearn Penydarren ym Merthyr Tudful i fasn Camlas Morgannwg yn Abercynon. Ceir cofebion i'r daith hanesyddol ym Mhenydarren ac yn Abercynon.\nDatblygodd y pentref fel canolfan cludiant ar gyffordd ar Gamlas Morgannwg ac ar fan cyffwrdd dwy gangen rheilffordd Cwm Taf. \"Navigation\" oedd enw'r pentref am gyfnod. Suddwyd pwll glo yno ym 1889 a ymunwyd ag Ynysybwl ac a adnabuwyd hyd ei gau yn yr wythdegau fel Glofa Abercynon Lady Windsor.\nGanwyd y paffiwr Dai Dower yno. Mae Plasty Llancaiach Fawr heb fod ymhell o'r pentref.\nMae Abercynon yn gartref i Westy'r Thorn, a ddefnyddiwyd gan Tom Jones i ymarfer ar gyfer ei berfformiadau."
+                    }
+                ]
+            },
+            {
+                "id": "rhondda cynon taff#aberdar (aberdare)",
+                "name": "Aberdar (Aberdare)"
+            },
+            {
+                "id": "rhondda cynon taff#aberdare (aberdar)",
+                "name": "Aberdare (Aberdar)"
+            },
+            {
+                "id": "rhondda cynon taff#aberpennar (mountain ash)",
+                "name": "Aberpennar (Mountain Ash)"
+            },
+            {
+                "id": "rhondda cynon taff#afon taf fawr",
+                "name": "Afon Taf Fawr",
+                "wikipedia": {
+                    "lang": "cy",
+                    "href": "https:\/\/cy.wikipedia.org\/wiki\/Afon Taf Fawr",
+                    "_text": "Afon sy'n ymuno af Afon Taf Fechan i ffurfio Afon Taf yw Afon Taf Fawr.\nMae'n tarddu ym Bannau Brycheiniog fel Blaen Taf Fawr yn y dyffryn rhwng copaon Y Gyrn a Corn Du. Llifa tua'r de, gan groesi priffordd yr A470 a llifo i mewn i Gronfa'r Bannau. Wedi gadael y gronfa yma, llifa ymlaen tua'r de trwy ddwy gronfa arall, Cronfa Cantref a Chronfa Llwyn-on.\nMae'n cyfarfod Afon Taf Fechan o gwmpas rhan ogleddol Merthyr Tydfil i ffurfio Afon Taf."
+                }
+            },
+            {
+                "id": "rhondda cynon taff#beddau",
+                "name": "Beddau",
+                "lat": "51.557795",
+                "lon": "-3.359379",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Beddau",
+                    "_text": "Beddau (English: Graves Welsh: Y Beddau) is a large former mining village around 1.5 miles from Llantrisant and 4 miles from the larger town of Pontypridd in the county borough of Rhondda Cynon Taf, South Wales. The South of the village is known as Tynant (English: House in the brook Welsh: Tyn-y-Nant & near the former Cwm Colliery & coking works now derelict and is the area where the colliery workers largely lived. It is the more traditional part of the village and has large former council housing estates. The Northern section of the village has more private housing estates and a smaller amount of former council housing. The County Borough Councillor for the Tyn-y-Nant ward is Labour Councillor Clayton Willis & for Beddau County Borough Councillor Richard Yeo also Labour both were elected in 2012."
+                }
+            },
+            {
+                "id": "rhondda cynon taff#blaen clydach",
+                "name": "Blaen Clydach"
+            },
+            {
+                "id": "rhondda cynon taff#blaencwm",
+                "name": "Blaencwm",
+                "lat": "51.677551",
+                "lon": "-3.562544",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Blaencwm",
+                        "_text": "Blaencwm (Welsh: Blaen-y-Cwm) is a village in the county borough of Rhondda Cynon Taf, Wales, lying at the head the Rhondda Fawr valley. Blaencwm is very small village and is part of the community of Treherbert."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Blaencwm",
+                        "_text": "Pentref bychan ym mhen uchaf Y Rhondda ym mwrdeisdref sirol Rhondda Cynon Taf, de Cymru, yw Blaencwm.\nLleolir tua 2 filltir i'r gorllewin o bentref Blaenrhondda, ar ffordd sy'n arwain i fyny o'r A4061, tua hanner ffordd rhwng Treorci i'r de a Hirwaun i'r gogledd. Mae ym mryniau gogledd Morgannwg."
+                    }
+                ]
+            },
+            {
+                "id": "rhondda cynon taff#blaenllechau",
+                "name": "Blaenllechau",
+                "lat": "51.664401",
+                "lon": "-3.444095",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Blaenllechau",
+                        "_text": "Blaenllechau is a small village located in the Rhondda Fach valley, Rhondda Cynon Taf. Neighbouring villages are Ferndale, Maerdy and Tylorstown. The population of Blaenllechau is less than 1000.\n\n"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Blaenllechau",
+                        "_text": "Pentref bychan yn Rhondda Cynon Taf yw Blaenllechau, sy'n gorwedd yng nghwm Rhondda Fach. Y pentrefi cyfagos yw Trerhondda (Ferndale), Maerdy a Pendyrus (Tylorstown). Mae poblogaeth Blaenllechau yn llai na 1000."
+                    }
+                ]
+            },
+            {
+                "id": "rhondda cynon taff#blaenrhondda",
+                "name": "Blaenrhondda",
+                "lat": "51.686869",
+                "lon": "-3.552841",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Blaenrhondda",
+                        "_text": "Blaenrhondda is a village in the county borough of Rhondda Cynon Taf, Wales, lying at the head the Rhondda Fawr valley. Blaenrhondda is a very small village and is part of the community of Treherbert."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Blaenrhondda",
+                        "_text": "Pentref mawr ym mhen uchaf Y Rhondda ym mwrdeisdref sirol Rhondda Cynon Taf, de Cymru, yw Blaenrhondda.\nLleolir Blaenrhondda ar bwys ffordd yr A4061 tua hanner ffordd rhwng Treorci i'r de a Hirwaun i'r gogledd. Mae ar lan Afon Rhondda Fawr yn agos i darddle'r afon honno ym mryniau gogledd Morgannwg."
+                    }
+                ]
+            },
+            {
+                "id": "rhondda cynon taff#bryn",
+                "name": "Bryn",
+                "lat": "51.6169859",
+                "lon": "-3.7123799",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Bryn",
+                        "_text": "Bryn (which is Welsh for hill) is a component ward of the Metropolitan Borough of Wigan, Greater Manchester, England. It is part of the larger town of Ashton-in-Makerfield and is geographically indistinguishable from it. It forms a separate local council ward. Served by Bryn railway station, Bryn is home to the Three Sisters Recreation Area which has been created from three large spoil tips which remain from Bryn's role in Lancashire's coal mining past. The Three Sisters Recreation Area is also the site of the Three Sisters Race Circuit, which provides race driving instruction and plays host to kart racing events and motorcycle road race meetings at clubman level.\nThe former Bryn (or Brynne) Hall was the seat of the Gerard family beginning in the thirteenth century or earlier. It was a \"safe house\" for the English Roman Catholic martyr and saint Edmund Arrowsmith and his hand was reportedly preserved there after his execution. The house, dating to the fourteenth century, has now completely collapsed and remaining stones been cleared.\nThe Unitarian Park Lane Chapel in Wigan Road was built in 1697, though its congregation was founded in 1662. It is the oldest Non-conformist chapel and congregation in the whole district. By the nineteenth century Park Lane was only one of nine non-conformist chapels in the heavily recusant area."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Bryn",
+                        "_text": "Allt neu fynydd bychan yw bryn. Yn ogystal \u00e2 bod yn elfen gyffredin iawn mewn enwau lleoedd ceir enghreifftiau ohono ar ben ei hun fel enw lle:\nCymru\nBryn (Bannau Brycheiniog); Cyfeirnod grid OS: SO073227\nBryn, Castell-nedd Port Talbot\nBryn, Llanelli\nBryn-y-Gefeiliau\nBryn-crug\nBryn Euryn\nBryn Iwan\nBryn Celli Ddu\nLlanfair-ar-y-bryn\nBryn Gwyn\nBrynrefail\nBryniau Clwyd\nLloegr\nBryn, Swydd Amwythig\nBryn, Wigan\nCyffredinol\nbryngaer\nEnw personol Cymraeg ydy Bryn, hefyd. Mae enghreifftiau o nod yn cynnwys:\nBryn F\u00f4n\nBryn Terfel"
+                    }
+                ]
+            },
+            {
+                "id": "rhondda cynon taff#bryn golau",
+                "name": "Bryn Golau"
+            },
+            {
+                "id": "rhondda cynon taff#bryncae",
+                "name": "Bryncae",
+                "lat": "51.533023",
+                "lon": "-3.452153"
+            },
+            {
+                "id": "rhondda cynon taff#brynna",
+                "name": "Brynna",
+                "lat": "51.538891",
+                "lon": "-3.463139",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Brynna",
+                        "_text": "Brynna (Welsh: Brynnau) is a small village situated between Pencoed and Llanharan. It is located at the point where the borders of two Welsh county borough's, Rhondda Cynon Taf and Bridgend, meet.\nDue to Brynna's proximity to the M4 motorway as well as both Pencoed and Llanharan railway stations, it offers residents easy access to most of South Wales.\nBrynna was originally called Brynna Gwynion but church records show that it was later shortened to Brynna from 1897 onwards."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Brynna",
+                        "_text": "Pentref bychan yn Rhondda Cynon Taf yw Brynna. Mae'n rhan o blwyf eglwysig Llanbedr-ar-fynydd. Fe'i lleolir rhwng Pencoed a Llanharan ar y ffin sirol rhwng Pen-y-bont ar Ogwr a Rhondda Cynon Taf."
+                    }
+                ]
+            },
+            {
+                "id": "rhondda cynon taff#brynsadler",
+                "name": "Brynsadler",
+                "lat": "51.517796",
+                "lon": "-3.399464",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Brynsadler",
+                        "_text": "Brynsadler is a small village situated in Rhondda Cynon Taf, Wales, it is part of the community of Pontyclun.\n\n"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Brynsadler",
+                        "_text": "Pentref yn Rhondda Cynon Taf yw Brynsadler. Fe'i lleolir ger cyffordd 34 traffordd M4.\nMae'n rhan o gymuned Pont-y-clun a phlwyf eglwysig Llantrisant."
+                    }
+                ]
+            },
+            {
+                "id": "rhondda cynon taff#carnetown",
+                "name": "Carnetown",
+                "lat": "51.6428",
+                "lon": "-3.3346546"
+            },
+            {
+                "id": "rhondda cynon taff#cefn rhigos",
+                "name": "Cefn Rhigos",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Cefn Rhigos",
+                        "_text": "Cefn Rhigos (name meaning 'behind Rhigos') is a hamlet (place) to the west of the village of Rhigos, Wales. Despite being eight (8) miles from the town centre, for postal purposes it comes under Aberdare.\nIt is the most westerly named settlement of the Cynon Valley. The border with The Vale of Neath lies a few hundred yards to the west."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Cefn Rhigos",
+                        "_text": "Pentref bychan yn Rhondda Cynon Taf yw Cefn Rhigos, a leolir rhwng Pontneddfechan a Rhigos yng ngogledd y sir, tua 8 milltir i'r gorllewin o Aberd\u00e2r. Saif ar ffordd wledig i'r de o'r briffordd A465. Mae'n rhan o gymuned Rhigos.\nCefn Rhigos yw pentref mwyaf gorllewinol Cwm Cynon. Mae'n gorwedd tua hanner milltir o'r ffin sirol rhwng Rhondda Cynon Taf a Chastell-nedd Port Talbot. I'r gogledd, dros y cwm, ceir bryniau'r Fforest Fawr ac i'r de ceir cronfa d\u0175r Llyn Fawr yng nghysgod Craig-y-llyn."
+                    }
+                ]
+            },
+            {
+                "id": "rhondda cynon taff#cefnpennar",
+                "name": "Cefnpennar",
+                "lat": "51.6974019",
+                "lon": "-3.394409",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Cefnpennar",
+                        "_text": "Cefnpennar also known as Cefn Pennar is a small rural hamlet north of the coal mining town of Mountain Ash, Rhondda Cynon Taff, in Wales. The village that has been in existence since at least 1870  is still part of the Aberdare, Rhondda Cynon Taff Parish. It is approximately 1 mile from Mountain Ash town centre and buses run daily (every 30 minutes according to DirectTransport.co.uk 2013). It has a number of streets including: Blackberry Place, Cefnpennar Road, Greenfield Terrace, Llwynbedw, The Avenue & Toncoch Terrace ."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Cefnpennar",
+                        "_text": "Pentref bychan yn Rhondda Cynon Taf yw Cefnpennar. Fe'i lleolir i'r gogledd-orllewin o Aberpennar yn ardal Y Rhondda. Mae'n rhan o blwyf eglwysig Llanwynno."
+                    }
+                ]
+            },
+            {
+                "id": "rhondda cynon taff#church village",
+                "name": "Church Village",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Church Village",
+                    "_text": "Church Village (Welsh: Pentre'r Eglwys) is a large village in the historic parish and community of Llantwit Fardre, located within the Taff Ely district of the County Borough of Rhondda Cynon Taf in Wales. The village is centrally located being around 4 miles from the local principal towns of Llantrisant to the southwest and Pontypridd to the north and is situated around 10 miles northwest of Cardiff city centre. Historically it was known as Cross Inn and fell within the traditional county of Glamorgan.\nChurch Village itself does not share the extent of industrial mining heritage of much of the rest of the county and largely comprises new and recent build housing. It is a rapidly growing urban area, today almost a town rather than a village, being much sought after to live in due to its proximity to Cardiff and Pontyclun. Church Village is also commonly used to refer to the whole CF38 postcode area of Pontypridd, comprising the adjoining principal settlements of - Beddau, Efail Isaf, Llantwit Fardre, Ton-teg, Tyn-y-Nant and Upper Church Village.\nChurch village was served by Church Village railway station on the Llantrisant and Taff Vale Junction Railway until 1964.\nCostain, under contract from Rhondda Cynon Taf County Borough Council constructed a bypass to reduce traffic congestion on the A473, Pontypridd to Bridgend (Welsh: Penybont) road, from Cross Inn, near Llantrisant, to Tonteg via Efail Isaf. The Church Village bypass, which is built as a single carriageway, with crawler and overtaking lanes around roundabouts opened in September 2010."
+                }
+            },
+            {
+                "id": "rhondda cynon taff#cilfynydd",
+                "name": "Cilfynydd",
+                "lat": "51.6213229",
+                "lon": "-3.3189784",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Cilfynydd",
+                        "_text": "Cilfynydd is a village in the county borough of Rhondda Cynon Taf, Wales, a mile from the South Wales Valleys town of Pontypridd, and 13 miles north of the capital city, Cardiff.\n\n"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Cilfynydd",
+                        "_text": "Pentref ym mwrdeisdref sirol Rhondda Cynon Taf yw Cilfynydd. Saif ar lan Afon Taf, tua milltir o dref Pontypridd, a 12 milltir i'r gogledd o ddinas Caerdydd.\nSafai'r pentref bach gwreiddiol ar hen ffordd porthmyn. Tyfodd yn gyflym wedi dechrau Glofa'r Albion yn 1887. Bu damwain fawr yma ar 23 Mehefin 1894, pan ffrwydrodd y pwll, gan ladd 290 o weithwyr. Hon oedd ail drychineb waethaf yn hanes Maes Glo De Cymru; dim ond trychineb Senghenydd yn 1913 oedd yn waeth.\nRoedd y pwll yn dal i gyflogi 991 o ddynion yn 1947, pan ddaeth dan oruchwyliaeth y Bwrdd Glo, ond caeodd yn 1966."
+                    }
+                ]
+            },
+            {
+                "id": "rhondda cynon taff#clydach vale",
+                "name": "Clydach Vale",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Clydach Vale",
+                    "_text": "Clydach Vale (Welsh: Cwmclydach and adjoining Blaenclydach) is a village adjoining Tonypandy in the county borough of Rhondda Cynon Taf, within the Rhondda Valley, Wales. It is named for its situation on the Nant Clydach, a tributary of the River Taff."
+                }
+            },
+            {
+                "id": "rhondda cynon taff#coedely",
+                "name": "Coedely",
+                "lat": "51.561359",
+                "lon": "-3.414295"
+            },
+            {
+                "id": "rhondda cynon taff#cross inn",
+                "name": "Cross Inn",
+                "wikipedia": {
+                    "lang": "cy",
+                    "href": "https:\/\/cy.wikipedia.org\/wiki\/Cross Inn",
+                    "_text": "Ceir tri lle o'r enw Cross Inn yng Nghymru:\nCross Inn, canolbarth Ceredigion, pentref tua 6 milltir i'r dwyrain o Aberaeron\nCross Inn, de Ceredigion, pentref ger Ceinewydd\nCross Inn, Rhondda Cynon Taf, pentref yn Rhondda Cynon Taf"
+                }
+            },
+            {
+                "id": "rhondda cynon taff#cwm-hwnt",
+                "name": "Cwm-hwnt",
+                "lat": "51.7004822",
+                "lon": "-3.4267596"
+            },
+            {
+                "id": "rhondda cynon taff#cwmaman",
+                "name": "Cwmaman",
+                "lat": "51.685763",
+                "lon": "-3.441969",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Cwmaman",
+                        "_text": "Cwmaman (approximate English pronunciation: \/\u02c8k\u0254\u02d0m\u0251\u02d0\u02ccm\u0251\u02d0n\/) is a former coal mining village near Aberdare, Wales. The name Cwmaman is Welsh for \"Aman Valley\", with the River Aman flowing through the village). For postal purposes the village comes under Aberdare. The village lies in the valley of several mountains. Within the village, there are two children's playgrounds and playing fields, with an outdoor pool open during the summer. At the top end of the village, there are several reservoirs, accessible via several footpaths along the river.\nCwmaman was a well-known coal-mining village which, at one time boasted several collieries. Until the 19th Century, Cwmaman was virtually uninhabited, with around 40 farm workers living in and around the community by 1841. By the end of the 1840s, the first coal pits were sunk and Cwmaman began to transform into a thriving industrial settlement, in the later years of the 19th Century Cwmaman housed the workers of five surrounding coal mines - the Fforchaman, Fforchneol, Bedwlwyn, Cwmneol, and the Cwmaman collieries. Cwmaman Colliery was also known as Shepherd\u2019s pit, in honour of its founder Thomas Shepherd, a name it shares with the village\u2019s first public house, the Shepherd\u2019s Arms, opened in 1850.\nThere is an array of parallel roads in the east part of the village. Burns Street and Spencer Street (along with the other streets collectively known as 'Poets' Corner') are amongst the steepest in the United Kingdom."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Cwmaman",
+                        "_text": "Gallai Cwmaman gyfeirio at:\nCwmaman, cymuned yn Nyffryn Aman, Sir Gaerfyrddin\nCwmaman, pentref ym mwrdeistref sirol Rhondda Cynon Taf"
+                    }
+                ]
+            },
+            {
+                "id": "rhondda cynon taff#cwmbach",
+                "name": "Cwmbach",
+                "lat": "51.707264",
+                "lon": "-3.413778",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Cwmbach",
+                    "_text": "Cwmbach is a village and community near Aberdare, in the county borough of Rhondda Cynon Taf, Wales. Cwmbach means 'Little Valley' in Welsh (Cwm = valley, Bach = little).\nAccording to the 2011 census, Cwmbach has a population of 4,283.\nPrior to the industrial revolution, Cwmbach consisted of a number of farms and homesteads; in the mid-19th century it became a significant coal mining community."
+                }
+            },
+            {
+                "id": "rhondda cynon taff#cwmdare",
+                "name": "Cwmdare",
+                "lat": "51.7188708",
+                "lon": "-3.4709219",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Cwmdare",
+                    "_text": "Cwmdare (Welsh: Cwmd\u00e2r) is a village near Aberdare, in Rhondda Cynon Taf, Wales. The village's history is intertwined with coal-mining, and since the decline of the industry in the 1980s, it has become primarily a commuter base for the larger surrounding towns of Aberdare and Merthyr Tydfil and Pontypridd, as well as the cities of Cardiff and Swansea."
+                }
+            },
+            {
+                "id": "rhondda cynon taff#cwmparc",
+                "name": "Cwmparc",
+                "lat": "51.652921",
+                "lon": "-3.518865",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Cwmparc",
+                    "_text": "Cwmparc is a village and a district of the community of Treorchy, in the Rhondda Valley, Wales.\n\n"
+                }
+            },
+            {
+                "id": "rhondda cynon taff#cwmpennar",
+                "name": "Cwmpennar",
+                "lat": "51.690955",
+                "lon": "-3.389253",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Cwmpennar",
+                        "_text": "Cwmpennar (or Cwm Pennar) is a small village in Mountain Ash which is situated in the Cynon Valley, Rhondda Cynon Taff, Wales.\nIt lies opposite an ex coal mining pit. Cwmpennar is part of the CDWA Cefnpennar District Welfare Association."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Cwmpennar",
+                        "_text": "Pentref bychan yn Rhondda Cynon Taf yw Cwmpennar (weithiau Cwm-pennar). Mae'n rhan o blwyf eglwysig Llanwynno."
+                    }
+                ]
+            },
+            {
+                "id": "rhondda cynon taff#cymmer",
+                "name": "Cymmer",
+                "lat": "51.651944",
+                "lon": "-3.647563",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Cymmer",
+                    "_text": "Cymer or Cymmer may refer to:\nCymer, Inc. a company making light sources for semiconductor fabrication\nCymer Abbey a Cistercian abbey in Wales\nThere are several places in Wales named Cymmer (standard Welsh: Cymer, meaning \"confluence\").\nCymmer, Rhondda Cynon Taf, a village and community near Porth\nCymmer, Neath Port Talbot, a village in the Afan Valley (also spelt Cymer)\nCymer (Edeirnion) (sometimes spelt Cymmer), a place in Denbighshire"
+                }
+            },
+            {
+                "id": "rhondda cynon taff#cynon",
+                "name": "Cynon",
+                "lat": "51.6681288",
+                "lon": "-3.3604278",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Cynon",
+                        "_text": "Cynon may refer to:"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Cynon",
+                        "_text": "Erthygl am y sant yw hon. Am yr arwr o'r Hen Ogledd gweler Cynon fab Clydno Eiddin.\nSant o Gymro oedd Cynon (fl. 6ed ganrif). Yn \u00f4l un ffynhonnell roedd yn un o feibion Brychan, sefydlydd traddodiadol Brycheiniog."
+                    }
+                ]
+            },
+            {
+                "id": "rhondda cynon taff#dan caerlan",
+                "name": "Dan Caerlan"
+            },
+            {
+                "id": "rhondda cynon taff#dolau",
+                "name": "Dolau",
+                "lat": "52.292138",
+                "lon": "-3.258049",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Dolau",
+                    "_text": "Dolau is a small village in Powys, mid Wales. It situated in the community of Llanfihangel Rhydithon on the edge of Radnor Forest, in the historic county of Radnorshire.\nThe village lies on the Heart of Wales Railway Line that runs from Shrewsbury to Swansea. It is served by Dolau railway station, which features a wooden waiting shelter with a clock outside. H. M. Queen Elizabeth II unveiled a plaque at the station on 12 June 2002 commemorating her visit during the Golden Jubilee visit to Wales. The station is cared for by an enthusiastic group of volunteers known as Dolau Station Action Group and over the years has won numerous awards for its floral displays, including the best kept unmanned station in the UK and Ireland. These awards are hung up in the station shelter\nThe village school is Llanfihangel Rhydithon (Dolau) County Primary School. The village has a modern community hall Dolau Community Hall which is the home for a number of active groups including Dolau Young Farmers, Dolau Youth Club, Dolau Playgroup, Dolau Mixtures Choir, Dolau Short Mat Bowls Club and Dolau WI"
+                }
+            },
+            {
+                "id": "rhondda cynon taff#edmondstown",
+                "name": "Edmondstown",
+                "lat": "51.603796",
+                "lon": "-3.433969",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Edmondstown",
+                    "_text": "Edmondstown (Irish: Baile \u00c9amainn) is an area in South Dublin. It situated on the R116 regional road, south of Ballyboden and north of Rockbrook, in the valley of the Owendoher River. Edmondstown National School is a senior primary school which serves the local area. The school has an attendance of around 80 students.\nThe area is also supported by Edmondstown Golf Course,on the Edmondstown Road. 27 remains were discovered in the 1950's at the Golf Course when work uncovered an Early Bronze Age cemetery."
+                }
+            },
+            {
+                "id": "rhondda cynon taff#edwardsville",
+                "name": "Edwardsville",
+                "lat": "51.661929",
+                "lon": "-3.321745",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Edwardsville",
+                    "_text": "Edwardsville is the name of several places in the United States:\nEdwardsville, Alabama\nEdwardsville, Illinois\nEdwardsville, Indiana\nEdwardsville, Kansas\nEdwardsville, Pennsylvania\nand a place in Wales\nEdwardsville, Merthyr Tydfil"
+                }
+            },
+            {
+                "id": "rhondda cynon taff#efail isaf",
+                "name": "Efail Isaf",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Efail Isaf",
+                        "_text": "Efail Isaf is a small village located to the south of Llantwit Fardre in south Wales and is located in the County Borough of Rhondda Cynon Taf within the community of Llantwit Fardre. The former Barry Railway ran nearby. Efail Isaf has a village hall \nCapel y Tabernacl - Tabernacl Chapel is the only place of worship in the village. In 1970, its membership had dwindled to very small numbers and the members were considering the closure of the chapel. The chapel now has almost 200 regular attenders in the Welsh language congregation, the English language congregation numbering around 20. Over recent years, the chapel has become a focal point for a significant amount of fund raising for charities. In 2008, the members of the chapel decided to renovate the old vestry to turn it into a community facility that all could use. The project was completed in summer 2010, at a cost of around \u00a3450,000.\n\n"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Efail Isaf",
+                        "_text": "Pentref bychan yn Rhondda Cynon Taf yw Efail Isaf, a leolir i'r de o dref Llanilltud Faerdref. Mae trac Rheilffordd Y Barri, sydd ddim yn cael ei ddefnyddio heddiw, yn rhedeg heibio i'r pentref.\nCeir neuadd pentref yno."
+                    }
+                ]
+            },
+            {
+                "id": "rhondda cynon taff#felindre",
+                "name": "Felindre",
+                "lat": "51.706648",
+                "lon": "-3.973735",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Felindre",
+                        "_text": "Felindre (English: Velindre) is a rural village in south Wales. The village can be found in the far north of Swansea, in the electoral ward of Mawr.\nThe nearby Lower Lliw Reservoirs are a popular venue for walking and fishing. The water mill in the village was working until the late 1960s, there was also an abbatoir and a post office in the village. It also had three shops, and two mobile shops which used to come around the village twice a week. Again this was in the late 60's and 70's. The school in the village is Welsh speaking. There is also a public house in the village, the Shepherds Inn.\n\n"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Felindre",
+                        "_text": "Ceir sawl pentref yng Nghymru o'r enw Felindre:\nFelindre, Ceredigion\nFelindre, Powys (2):\nFelindre, Maldwyn\nFelindre, Brycheiniog\n\nFelindre, Sir Abertawe\nFelindre, Sir Gaerfyrddin (4):\nFelindre, ger Llangadog\nFelindre, ger Llanegwad\nFelindre, ger Llansadwrn\nFelindre, ger Gastell Newydd Emlyn\n\nGweler hefyd\nDre-fach Felindre"
+                    }
+                ]
+            },
+            {
+                "id": "rhondda cynon taff#ferndale",
+                "name": "Ferndale",
+                "lat": "51.662619",
+                "lon": "-3.448638",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Ferndale",
+                    "_text": "Ferndale is the name of several places:\nIn Canada:\nFerndale, Bruce County, Ontario\nFerndale, Muskoka District Municipality, Ontario\nFerndale, Peel Regional Municipality, Ontario\nIn the United States:\nFerndale, California\nFerndale, Florida\nFerndale, Kentucky\nFerndale, Maryland\nFerndale (Baltimore Light Rail station), Baltimore, Maryland\n\nFerndale, Michigan\nFerndale, New York\nFerndale, Oregon\nFerndale, Pennsylvania\nFerndale, Washington\nIn other countries:\nFerndale, Rhondda Cynon Taf, Wales, United Kingdom\nFerndale, Western Australia\nFerndale, New South Wales, Australia\nFerndale, Victoria, Australia (small rural locality in Strezlecki Ranges south of Warragul)\nFerndale, South Africa\nFerndale, New Zealand, fictitious Auckland suburb in which the TVNZ soap opera Shortland Street takes place"
+                }
+            },
+            {
+                "id": "rhondda cynon taff#fernhill",
+                "name": "Fernhill",
+                "lat": "51.685477",
+                "lon": "-3.3999734",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Fernhill",
+                        "_text": "Fernhill may refer to:"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Fernhill",
+                        "_text": "Gallai Fernhill gyfeirio at:\nFernhill, Rhondda Cynon Taf, pentref\nFernhill (band), band cerddoriaeth werin\nFernhill, rhan o Rutherglen, Swydd Lanark, Yr Alban\nYsgol Fernhill, ysgol yn yr Alban"
+                    }
+                ]
+            },
+            {
+                "id": "rhondda cynon taff#gadlys",
+                "name": "Gadlys",
+                "lat": "51.7160019",
+                "lon": "-3.4497881"
+            },
+            {
+                "id": "rhondda cynon taff#gelli",
+                "name": "Gelli",
+                "lat": "51.6437529",
+                "lon": "-3.481939",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Gelli",
+                    "_text": "Gelli may refer to:"
+                }
+            },
+            {
+                "id": "rhondda cynon taff#gilfach goch",
+                "name": "Gilfach Goch",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Gilfach Goch",
+                        "_text": "Gilfach Goch, (English: Red Nook) is a small former coal mining village in the Borough of Rhondda Cynon Taff, South Wales, near the larger community of Tonyrefail. It is situated in the Cwm Ogwr Fach (Small Ogmore Valley) between the Cwm Ogwr Fawr (Large Ogmore Valley) to the west and the Cwm Rhondda (Rhondda Valley) to the east.\nThe author Richard Llewellyn stayed in Gilfach Goch (1939) for the writing of his novel 'How Green Was My Valley' that is set in a fictional mining village based on Gilfach Goch. Llewellyn would spend long summer holidays with his grandfather in the village.\nThe oldest building in the village is the Griffin Inn, a public house which is situated in low marshy ground at the bottom of a country lane.\nIn the 2001 census, of all rural areas with a population over 1,500, Gilfach Goch had the largest percentage of people in the whole of England and Wales who stated that they had no religion."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Gilfach Goch",
+                        "_text": "Mae'r Gilfach Goch yn bentref a chymuned yn Rhondda Cynon Taf, de Cymru. Saif pum milltir i'r de o Donypandy a rhai milltiroedd i'r gorllewin o Donyrefail."
+                    }
+                ]
+            },
+            {
+                "id": "rhondda cynon taff#glyncoch",
+                "name": "Glyncoch",
+                "lat": "51.6231378",
+                "lon": "-3.3343117",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Glyncoch",
+                    "_text": "Glyncoch is a village to the north of Pontypridd in Rhondda Cynon Taf, Wales."
+                }
+            },
+            {
+                "id": "rhondda cynon taff#glyntaff",
+                "name": "Glyntaff",
+                "lat": "51.5949529",
+                "lon": "-3.31604",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Glyntaff",
+                    "_text": "Glyntaff is a small village to the south-east of Pontypridd, in the County Borough of Rhondda Cynon Taf, Wales situated in the Treforest ward along with the village of Trefforest."
+                }
+            },
+            {
+                "id": "rhondda cynon taff#graig",
+                "name": "Graig",
+                "lat": "53.22809",
+                "lon": "-3.794957",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Graig",
+                        "_text": "Graig may refer to:\nGraig, Newport, an electoral ward and coterminous community of Newport, South Wales\nGraig, Pontypridd, a historic district of Pontypridd, South Wales\nGraig, Llanarmon-yn-Ial, a Site of Special Scientific Interest in Clwyd, North Wales"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Graig",
+                        "_text": "Gall Graig gyfeirio at:\nGraig, Casnewydd\nGraig, Pontypridd, Rhondda Cynon Taf"
+                    }
+                ]
+            },
+            {
+                "id": "rhondda cynon taff#groes-faen",
+                "name": "Groes-faen",
+                "lat": "51.5203142",
+                "lon": "-3.3433021",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Groes-faen",
+                    "_text": "Groes-faen is a village approximately three miles south of Llantrisant in the county borough of Rhondda Cynon Taf, Wales.\nThe village was originated as a hamlet in the 1860s near a trade route from Cowbridge to Cardiff."
+                }
+            },
+            {
+                "id": "rhondda cynon taff#groes-wen",
+                "name": "Groes-wen",
+                "lat": "51.5746623",
+                "lon": "-3.2614119"
+            },
+            {
+                "id": "rhondda cynon taff#hawthorn",
+                "name": "Hawthorn",
+                "lat": "51.580061",
+                "lon": "-3.306445",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Hawthorn",
+                    "_text": "Hawthorn may refer to:"
+                }
+            },
+            {
+                "id": "rhondda cynon taff#hendreforgan",
+                "name": "Hendreforgan",
+                "lat": "51.582982",
+                "lon": "-3.46245"
+            },
+            {
+                "id": "rhondda cynon taff#hirwaun",
+                "name": "Hirwaun",
+                "lat": "51.737733",
+                "lon": "-3.510887",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Hirwaun",
+                        "_text": "Hirwaun (Welsh \"Long Meadow\") is a village located in the nort of the Cynon Valley in the County Borough of Rhondda Cynon Taf, South Wales. It is located 4 miles (6.4 km) from the town of Aberdare, and comes under Aberdare for postal reasons. According to the 2001 census, Hirwaun has a population of 4,851 people. The Brecon Beacons National Park lies just on the northern edge of the village."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Hirwaun",
+                        "_text": "Pentref a chymuned ger Aberd\u00e2r ym mhen gogleddol Cwm Cynon, Rhondda Cynon Taf, yw Hirwaun. Yn \u00f4l y cyfrifiad diwethaf yn 2001, y mae rhyw 4,000 o drigolion yn byw yn y pentref a hynny'n tyfu o hyd wrth i fwy o ystadau tai newydd gael eu codi."
+                    }
+                ]
+            },
+            {
+                "id": "rhondda cynon taff#hopkinstown",
+                "name": "Hopkinstown",
+                "lat": "51.604707",
+                "lon": "-3.356834",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Hopkinstown",
+                    "_text": "Hopkinstown (Welsh: Trehopcyn) is a small village to the west of Pontypridd town centre in the county borough of Rhondda Cynon Taf, Wales situated alongside the banks of the River Rhondda. Hopkinstown is a former coal mining industrial community and is a district in the town of Pontypridd within the Rhondda electoral ward. It is neighboured by the settlements of Pwllgwaun, Trehafod and Pantygraigwen, and also comprises the subdistricts of Troed-Rhiw-Trwyn and Gyfeillion."
+                }
+            },
+            {
+                "id": "rhondda cynon taff#llanharan",
+                "name": "Llanharan",
+                "lat": "51.538648",
+                "lon": "-3.439496",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Llanharan",
+                        "_text": "Llanharan (Welsh: Llanharan) is a village and community in the county borough of Rhondda Cynon Taf, Wales. As a community Llanharan takes in the neighbouring settlements of Bryncae, Brynna, Llanilid, Peterson-super-Montem and Ynysmaerdy. Llanharan thrived during the British industrial revolution, with several tin and coal mines in the location providing employment to the town's residents. With the decline of heavy industry in the South Wales Coalfield, Llanharan has been in economic decline, though its proximity to the M4 motorway offers its residents easy commutable access to most of South Wales.\nThe most recognisable features of Llanharan are its historic town square, Llanharan House and Church of St Julius and Aaron."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Llanharan",
+                        "_text": "Pentref a chymuned ym mwrdeisdref sirol Rhondda Cynon Taf yw Llanharan (Cyfeirnod OS: ST002831). Saif ar y briffordd A473, rhwng Pencoed a Phontyclun. Daw'r enw o enw personol Haran, neu Aran neu efallai Aaron. Roedd y boblogaeth yn 2001 yn 3,421.\nYn wreiddiol roedd yn bentref amaethyddol, gyda phoblogaeth o 330 yn 1851. Dechreuodd diwydiant ddatblygu wedi i orsaf Rheilffordd De Cymru agor yno yn 1850. Agorwyd nifer o byllau glo yn y cylch, gyda phyllau Gogledd Llanharan a De Llanharan yn cyflogi 855 a 775 o weithwyr yn 1945.\nCysegrwyd yr eglwys i'r seintiau Julius ac Aaron o'r 3edd a'r 4edd ganrif ac a ferthyrwyd gan y Rhufeiniaid yng Nghearleon. Adeilad mwyaf nodedig y gymuned yw Llanharan House, a adeiladwyd yn niwedd yr 1740au gan Rees Powell, ac a ddatblygwyd ymhellach gan Richard Hoare Jenkins wedi iddo ef ei brynu yn 1795. Enw'r t\u0177 gwreiddiol ar y safle hon oedd T\u0177 Mawr.\nCeir pentref yn Treguier, Llydaw gyda'r un enw."
+                    }
+                ]
+            },
+            {
+                "id": "rhondda cynon taff#llanharry",
+                "name": "Llanharry",
+                "lat": "51.514763",
+                "lon": "-3.429953",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Llanharry",
+                    "_text": "Llanharry (Welsh: Llanhari) is a small village in the county borough of Rhondda Cynon Taf, Wales.\nHistorically Llanharry has been inextricably linked with iron mining as far back as the Roman period and Elizabethan era, and for a period in the 20th century it boasted the only iron mine in Wales."
+                }
+            },
+            {
+                "id": "rhondda cynon taff#llantrisant",
+                "name": "Llantrisant",
+                "lat": "51.5429188",
+                "lon": "-3.3749525",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Llantrisant",
+                        "_text": "Llantrisant (\"Parish of the Three Saints\") is a town in the county borough of Rhondda Cynon Taf in Wales, within the historic county boundaries of Glamorgan, Wales, lying on the River Ely and the Afon Clun. The three saints of the city's name are SS. Illtyd, Gwynno, and Dyfodwg. Llantrisant is a hilltop settlement, at an altitude of 174 m (565 ft) above sea level. The town is home to the Royal Mint."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Llantrisant",
+                        "_text": "Ceir mwy nag un lle o'r enw Llantrisant:\nLlantrisant, Rhondda Cynon Taf\nLlantrisant, Sir Fynwy\nLlantrisant, Ynys M\u00f4n"
+                    }
+                ]
+            },
+            {
+                "id": "rhondda cynon taff#llantwit fardre",
+                "name": "Llantwit Fardre",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Llantwit Fardre",
+                    "_text": "Llantwit Fardre (Welsh: Llanilltud Faerdref) is a large village situated on the A473, Pontypridd to Bridgend (Welsh: Penybont ar Ogwr), road near the Welsh towns of Pontypridd and Llantrisant. Confusingly, Llantwit Fardre is also the name of the old parish and the community area that takes in the villages of Llantwit Fardre, Tonteg and Church Village. It is in the county of Rhondda Cynon Taf.\nThe Welsh Government has constructed a bypass to reduce traffic congestion on the A473 road at Tonteg, Church Village (Welsh: Pentre'r Eglwys) and Llantwit Fardre. The Church Village bypass, as it is known, has been built as a single carriageway, with crawler and overtaking lanes around roundabouts, and was opened for traffic in September 2010."
+                }
+            },
+            {
+                "id": "rhondda cynon taff#llwydcoed",
+                "name": "Llwydcoed",
+                "lat": "51.731506",
+                "lon": "-3.4602281",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Llwydcoed",
+                        "_text": "Llwydcoed is a small village north of the Cwm Cynon near the town of Aberdare, Rhondda Cynon Taf, Wales.\n\n"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Llwydcoed",
+                        "_text": "Mae Llwydcoed (hefyd Llwytgoed) yn bentref a chymuned bychain wedi'i lleoli yng ngogledd Cwm Cynon, ger tref Aberd\u00e2r, ym meistref Rhondda Cynon T\u00e2f, Cymru. Roedd yn lleoliad bwysig o ran y diwylliant Haearn yn y cwm, gan fod gweithfeydd haearn Aberd\u00e2r wedi'u hagor yno ym 1800. Mae'r rheilffordd yn dal i gludo glo o waith glo agored Hirwaun (a adnabyddir gynt fel 'Glofa'r T\u0175r) yn rhedeg trwy Llwydcoed."
+                    }
+                ]
+            },
+            {
+                "id": "rhondda cynon taff#llwyn-on village",
+                "name": "Llwyn-on Village"
+            },
+            {
+                "id": "rhondda cynon taff#llwynypia",
+                "name": "Llwynypia",
+                "lat": "51.632965",
+                "lon": "-3.454214",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Llwynypia",
+                    "_text": "Llwynypia (Welsh: Llwyn-y-p\u00efa [\u02cc\u026c\u028a\u026an\u0259\u02c8pi\u02d0a]) is a village and community in Rhondda Cynon Taf, Wales, near Tonypandy in the Rhondda Fawr Valley. Before 1850 a lightly populated rural farming area, Llwynypia experienced a population boom between 1860 and 1920 with the sinking of several coal mines after the discovery of large coal deposits throughout the Rhondda Valleys.\nThe Welsh name means \"the grove of the Magpie\" or \"Magpie's Bush\" and was taken from the name of a farm that once existed in the area."
+                }
+            },
+            {
+                "id": "rhondda cynon taff#maerdy",
+                "name": "Maerdy",
+                "lat": "51.676466",
+                "lon": "-3.483457",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Maerdy",
+                        "_text": "Maerdy (Welsh: Y Maerdy) is a village and community in the county borough of Rhondda Cynon Taf, and within the historic county boundaries of Glamorgan, Wales, lying at the head of the Rhondda Fach Valley."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Maerdy",
+                        "_text": "Gallai (Y) Maerdy gyfeirio at:\nY Maerdy, Conwy\nY Maerdy, Sir Fynwy\nMaerdy, Sir Gaerfyrddin\nY Maerdy, Rhondda Cynon Taf"
+                    }
+                ]
+            },
+            {
+                "id": "rhondda cynon taff#maesycoed",
+                "name": "Maesycoed",
+                "lat": "51.5992919",
+                "lon": "-3.3519353",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Maesycoed",
+                        "_text": "Maesycoed is a settlement to the south and west of Pontypridd town centre in the county borough of Rhondda Cynon Taf, Wales. Maesycoed is a district in the town of Pontypridd within the Rhondda electoral ward and is bounded by Graig to the south, Pwllgwaun to the east and Hopkinstown and Mynydd Gelliwion to the north."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Maesycoed",
+                        "_text": "Anheddiad ac ardal yw Maesycoed o fewn tref Pontypridd, Rhondda Cynon Taf yn ne Cymru. Lleolir i'r de-orllewin i ganol tref Pontypridd."
+                    }
+                ]
+            },
+            {
+                "id": "rhondda cynon taff#miskin",
+                "name": "Miskin",
+                "lat": "51.519734",
+                "lon": "-3.376597",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Miskin",
+                    "_text": "Miskin (Welsh: Meisgyn) is a village approximately 2 miles south of Llantrisant in the county borough of Rhondda Cynon Taf, Wales.\nThe origin of the village was a small hamlet known as New Mill, which grew up around New Mill farm. Miskin is part of the Pontyclun electoral ward."
+                }
+            },
+            {
+                "id": "rhondda cynon taff#mount pleasant",
+                "name": "Mount Pleasant",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Mount Pleasant",
+                    "_text": "Mount Pleasant may refer to:"
+                }
+            },
+            {
+                "id": "rhondda cynon taff#mountain ash",
+                "name": "Mountain Ash",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Mountain Ash",
+                    "_text": "This is a redirect from a page that has been moved (renamed). This page was kept as a redirect to avoid breaking links, both internal and external, that may have been made to the old page name. For more information follow the category link.\nThis is a redirect from a misspelling or typographical error. The correct form is given by the target of the redirect. For more information follow the category link.\nThis redirect is made available to aid searches. Pages that use this link should be updated to link directly to the target without the use of a piped link that hides the correct details."
+                }
+            },
+            {
+                "id": "rhondda cynon taff#mynachdy",
+                "name": "Mynachdy",
+                "lat": "51.505795",
+                "lon": "-3.201495",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Mynachdy",
+                    "_text": "Mynachdy (Welsh 'monastery' \u2013 mynach monk + t\u0177 house) is a district of the city of Cardiff, Wales.\nMynachdy is situated between Gabalfa, Birchgrove and Cathays. It is close to a few universities such as Cardiff University and the Royal Welsh College of Music & Drama, as well as student accommodation.\nNant-Gwaedlyd (bloody brook in Welsh). A stream which rises in the Cefn range of hills, flows in a south-easterly direction through Whitchurch and is, apparently, lost in the Glamorganshire Canal at Mynachdy. It is said, with some probability, to derive its name from the great battle fought between the Welsh and the Normans on Cardiff Heath c. 1090.\nCabarn-Plwca. A place on the border between Llys-Talybont manor and the Mynachdy lands."
+                }
+            },
+            {
+                "id": "rhondda cynon taff#nant-ddu",
+                "name": "Nant-ddu",
+                "lat": "51.824896",
+                "lon": "-3.4498668",
+                "wikipedia": {
+                    "lang": "cy",
+                    "href": "https:\/\/cy.wikipedia.org\/wiki\/Nant-ddu",
+                    "_text": "Pentrefan yng nghymuned Llanfrynach, Powys, Cymru yw Nant-ddu, sydd 26.4 milltir (42.6km) o Gaerdydd a 143.9 milltir (231.6km) o Lundain.\n\nCynrychiolir Nant-ddu yn y Cynulliad Cenedlaethol gan Kirsty Williams (Y Democratiaid Rhyddfrydol) a'r Aelod Seneddol yw Roger Wiliams (Y Democratiaid Rhyddfrydol).\n\u2191 Gwefan y Cynulliad; adalwyd 24 Chwefror 2014\n\u2191 Gwefan parliament.uk; adalwyd 24 Chwefror 2014"
+                }
+            },
+            {
+                "id": "rhondda cynon taff#nantgarw",
+                "name": "Nantgarw",
+                "lat": "51.5620843",
+                "lon": "-3.2670293",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Nantgarw",
+                        "_text": "Nantgarw is a village in the county borough of Rhondda Cynon Taf, Wales, near Cardiff.\nFrom an electoral and administrative perspective Nantgarw falls within the ward of Taffs Well, a village some 2.5 miles south, but historically fell within the boundaries of Caerphilly, which is a major town located less than 2.5 miles to the east.\nThe original village was destroyed by the development of the A470 trunk road, which was situated at the location of the current Nantgarw\/A468 junction. Located close to the A470, Nantgarw is within easy reach of the town of Pontypridd (5.5 miles to the northwest) and Cardiff City centre (around 7.5 miles further south).\n\n"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Nantgarw",
+                        "_text": "Mae Nantgarw yn bentref ar ffordd yr A468 yn Rhondda Cynon Taf, Morgannwg, de Cymru, ar lannau afon Taf. Mae'n adnabyddus am ei borslen, a gynhyrchwyd rhwng 1813\u20131814, ac yn nes ymlaen rhwng 1817\u20131820, yng Nghrochendy Nantgarw, a goffheir mewn amgueddfa leol.\nYn ddiweddarach agorwyd pwll glo yn Nantgarw; fe'i caewyd yn 1982. Mae stad fasnachol Parc Nantgarw ar y safle rwan.\nCeir yn ogystal sinema a chanolfan bowlio 10 pin. Ceir campws Coleg Morgannwg yn y pentref. Gorwedd Castell Coch ger y pentref."
+                    }
+                ]
+            },
+            {
+                "id": "rhondda cynon taff#newtown",
+                "name": "Newtown",
+                "lat": "52.512112",
+                "lon": "-3.313106",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Newtown",
+                        "_text": "Newtown may refer to:"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Newtown",
+                        "_text": "Gallai Newtown gyfeirio at:"
+                    }
+                ]
+            },
+            {
+                "id": "rhondda cynon taff#pen-y-rhiw",
+                "name": "Pen-y-rhiw",
+                "lat": "52.8177192",
+                "lon": "-4.6300289"
+            },
+            {
+                "id": "rhondda cynon taff#pen-yr-englyn",
+                "name": "Pen-yr-englyn",
+                "lat": "51.670324",
+                "lon": "-3.528646",
+                "wikipedia": {
+                    "lang": "cy",
+                    "href": "https:\/\/cy.wikipedia.org\/wiki\/Pen-yr-englyn",
+                    "_text": "Pentref yn rhan uchaf Y Rhondda, ym mwrdesidref sirol Rhondda Cynon Taf, de Cymru, yw Pen-yr-englyn.\nLleolir y pentref tua 2 filltir i'r gogledd-orllewin o Dreorci, tua hanner ffordd rhwng y dref honno a Treherbert. Rhed ffordd yr A4061 trwyddo. Mae ar lan Afon Rhondda Fawr. Tua milltir i'r de ceir pentref Ynyswen."
+                }
+            },
+            {
+                "id": "rhondda cynon taff#penderyn",
+                "name": "Penderyn",
+                "lat": "51.768396",
+                "lon": "-3.530421",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Penderyn",
+                        "_text": "Penderyn may refer to:\nPenderyn (whisky), a whisky produced by Penderyn Distillery\nPenderyn, Rhondda Cynon Taf, a village in Wales\nPenderyn transmitting station, Penderyn, a relay station"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Penderyn",
+                        "_text": "Pentref ger Hirwaun yw Penderyn, yng Nghwm Cynon, yn Rhondda Cynon T\u00e2f. Mae'n gorwedd ar yr A4059 rhwng Hirwaun ac Aberhonddu, cyn cyrraedd y ffin rhwng Rhondda Cynon T\u00e2f a Phowys a Bannau Brycheiniog.\nDyma gartref y Cwmni Wisgi Cymreig."
+                    }
+                ]
+            },
+            {
+                "id": "rhondda cynon taff#penrhiwceiber",
+                "name": "Penrhiwceiber",
+                "lat": "51.671878",
+                "lon": "-3.366211",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Penrhiwceiber",
+                    "_text": "Penrhiwceiber is a small Welsh former coal mining village and community in the county borough of Rhondda Cynon Taf that lies 1 mile south of the town Aberpennar and is one of many villages in the Cwm Cynon, Wales. The village was once a highly Welsh-speaking area until around early\/mid 20th century. Penrhiwceiber is home to Cylch Meithrin Penrhiwceiber which is a Welsh language pre-school for local children. Penrhiwceiber is generally known as \"Ceiber\" to the locals. To the east of the village lies Mynydd Twyn Brynbychan which is around 1,500 ft above sea level, the village is one of the steepest in Wales, and possibly the United Kingdom."
+                }
+            },
+            {
+                "id": "rhondda cynon taff#penrhys",
+                "name": "Penrhys",
+                "lat": "51.641757",
+                "lon": "-3.443483",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Penrhys",
+                        "_text": "Penrhys is a village in the county borough of Rhondda Cynon Taf, Wales, situated on a hillside overlooking both valleys of Rhondda Fawr and Rhondda Fach. It is situated around 1,100 ft above sea level and is a district of Tylorstown. Until the late 16th century, Penrhys was one of the holiest sites for Christian pilgrims in Wales.\nThe site of Penrhys has a rich religious history dating back to mediaeval times, though few settlements other than farmsteads can be traced to the area. Penrhys is significant for a mediaeval monastery, the holy shrine of \"Our Lady\" built at the holy spring of Ffynnon Fair. During the early 16th century the antiquarian John Leland wrote during his visit to the area that he saw \"Penrise Village, where the Pilgrimage was\", suggesting that a settlement had built up in the area. In 1538 the shrine was destroyed during the English Reformation, and the area appeared to fall into decline. With the arrival of industrialisation in the Rhondda Valley during the 19th century interest in the religious history of Penrhys increased. An archaeological dig at the old chapel was carried out in 1912 and a new statue of the Virgin Mary was unveiled in 1953. In February 1927 the first burial took place at Penrhys cemetery."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Penrhys",
+                        "_text": "Am y pentref yn sir Abertawe, gweler Pen-rhys.\nPentref bychan yn Rhondda Cynon Taf yw Penrhys, a leolir 1,100 troedfedd i fyny ar fryn rhwng cymoedd Rhondda Fawr a Rhondda Fach. Mae'n rhan o gymuned Pendyrus.\nHyd at y Diwygiad Protestannaidd ar ddiwedd yr 16eg ganrif, roedd Penrhys yn ganolfan pererindod amlwg."
+                    }
+                ]
+            },
+            {
+                "id": "rhondda cynon taff#pentre",
+                "name": "Pentre",
+                "lat": "51.654745",
+                "lon": "-3.491629",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Pentre",
+                    "_text": "Pentre is a village and community, near Treorchy in Rhondda valley, falling within the county borough of Rhondda Cynon Taf, Wales. The village's name is taken from the Welsh word Pentref, which translates as homestead, though Pentre is named after a large farm that dominated the area before the coming of industrialisation. The community takes in the neighbouring village of Ton Pentre."
+                }
+            },
+            {
+                "id": "rhondda cynon taff#pentrebach",
+                "name": "Pentrebach",
+                "lat": "51.721203",
+                "lon": "-3.355544",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Pentrebach",
+                        "_text": "Pentrebach (sometimes written Pentre-Bach) (translation: small village) is a village in Merthyr Tydfil County Borough, Wales. It lies on the east side of the River Taff opposite Abercanaid, South of Merthyr and North of Troedyrhiw. To the east of the village lies the Mynydd Cilfach-yr-Encil which rises up to 445 m. Pentrebach can be translated as \"Little Village\"\nPentrebach is part of the Plymouth electoral ward which covers Pentrebach, Abercanaid and Troedyrhiw. The village was founded at the time that John Guest built the Plymouth Ironworks in 1763. The name Guest became part of the Guest, Keen and Nettelfold company (GKN). In 1818 Anthony Hill took over ownership of the business. His House was later used as an old people's home, and today has been converted into a Brewers Fayre Restaurant with a Premier Inn attached.\n\nThe original Merthyr Tramroad, built in 1802, ran alongside the site of the modern day village, on it way from Pennydarren to Abercynon, though very little of the village had been built at that time. A tunnel still exists, which can be visited on the Merthyr Road. Locomotives had to tip their chimneys while going though this tunnel due to the tunnel clearance.\nPentrebach has its own railway station. This opened in 1886 on the standard gauge Taff Vale Railway which runs from Cardiff to Merthyr alongside the River Taff. The original purpose of the railway was to carry iron ore to Cardiff Docks.\nIn 1862, on the south side of the Village, The South Duffryn Colliery was opened with two shafts which were 250 m deep. At the height of the production there were some 1300 men employed there. An opencast mine was also located on the mountainside above the village.\nThe Plymouth Ironworks closed in 1882 and the South Duffryn Colliery ceased production in 1940.\n\nAfter the war, new industries were attracted to the village. In 1945, the Kayser Bondor Factory opened making underwear, followed in 1948 by the establishment of the Hoover factory manufacturing washing machines. The factory later went on the produce the Sinclair C5 battery-powered three-wheeler car. On Friday, 6 March 2009, Hoover confirmed that it was to cease production of washing machines and other laundry products at the factory. Linde has set up a factory in the village on a site where the South Duffryn Colliery was located.\nPentrebach has two clubs: The Hills Plymouth Cricket Club, and the Pentrebach Working men's club. Pentrebach also has a chapel, Jerusalem Chapel, Greenfield School and an Integrated Children's Centre.\nThe mountain above Pentrebach has become popular with hang glider pilots in recent years."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Pentrebach",
+                        "_text": "Pentref ym mwrdeisdref sirol Merthyr Tudful yw Pentrebach, weithiau Pentre-bach.\nSaif i'r de o ganol tref Merthyr Tudful, yr ochr arall o Afon Taf i bentref Abercannaid ac i'r gogledd o bentref Troed-y-rhiw. I'r dwyrain o'r pentref mae Mynydd Cilfach-yr-Encil (445 m.).\nTyfodd y pentref wedi i John Guest sefydlu Gwaith Haearn Plymouth yn 1763. Roedd rheilffordd wreiddiol Trevethick, a adeiladwyd yn 1804, yn arwain trwy'r pentref ar ei ffordd rhwng Penydarren ac Abercynon. Mae twnel yn yn dal i'w weld yma. Agorwyd Glofa South Duffryn yn 1862."
+                    }
+                ]
+            },
+            {
+                "id": "rhondda cynon taff#penygraig",
+                "name": "Penygraig",
+                "lat": "51.612366",
+                "lon": "-3.447349",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Penygraig",
+                    "_text": "Penygraig (Head of the Rock) is a village and community in the Rhondda Valley in the county borough of Rhondda Cynon Taf, within the historic county boundaries of Glamorgan, Wales. As a community Penygraig contains the neighbouring districts of Dinas, Edmondstown, Penrhiwfer and Williamstown."
+                }
+            },
+            {
+                "id": "rhondda cynon taff#penywaun",
+                "name": "Penywaun",
+                "lat": "51.7306",
+                "lon": "-3.48812",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Penywaun",
+                    "_text": "Penywaun (Welsh: Pen-y-waun) is a north-western suburb of Aberdare in the Cynon Valley within the county borough of Rhondda Cynon Taf, Wales. At the 2011 census, the population of the ward was registered as 3,063."
+                }
+            },
+            {
+                "id": "rhondda cynon taff#perthcelyn",
+                "name": "Perthcelyn",
+                "lat": "51.6680345",
+                "lon": "-3.3710853"
+            },
+            {
+                "id": "rhondda cynon taff#pont sion norton",
+                "name": "Pont Sion Norton"
+            },
+            {
+                "id": "rhondda cynon taff#pontyclun",
+                "name": "Pontyclun",
+                "lat": "51.521579",
+                "lon": "-3.393295",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Pontyclun",
+                    "_text": "Pontyclun (or Pont-y-clun) is a village in the County Borough of Rhondda Cynon Taf, Wales. It is served by the South Wales Main Line and has its own local rugby union club. Like other surrounding towns, it has seen a sharp increase in its population in the last ten years as people migrate south from the South Wales Valleys, and west from the capital city of Cardiff.\nPontyclun translates from the Welsh language as 'bridge over the River Clun', the Clun being a tributary to the River Ely, that runs through Pontyclun. A bridge crosses the Afon Clun just before its confluence with the Ely.\nThe village is served by Pontyclun railway station.\nThe village falls into the remit of Pontyclun Community Council. Pontyclun Community Council represents the communities of Brynsadler, Castell y Mwnws, Groes-faen, Miskin, Mwyndy, Pontyclun, Talygarn, and recently the addition of Ynysddu (previously Llanharan) These eight areas together make up the 'Community of Pontyclun'."
+                }
+            },
+            {
+                "id": "rhondda cynon taff#pontygwaith",
+                "name": "Pontygwaith",
+                "lat": "51.642511",
+                "lon": "-3.432742",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Pontygwaith",
+                        "_text": "This article is about the village between Edwardsville and Merthyr Vale. For Pontygwaith in the Rhondda Valley see Pontygwaith, Rhondda.\n\nPontygwaith (Welsh,\"Bridge to work\" or \"Bridge of the Ironworks\") is a village situated in the Merthyr Valley, (now referred to as the Taff Valley), South Wales.\nA Sussex Ironmaster named Anthony Morley set up a small ironworks here in 1583.\nOn 21 February 1804 Richard Trevithick ran the first ever steam locomotive along tracks, now known as the Merthyr Tramroad, carrying both iron ore and passengers, from Penydarren near Merthyr Tydfil, via Pontygwaith, south to Abercynon.\nThere is little of the original village remaining today, which was inhabited and existed until approx 1977 as a terrace of ten houses and a farm. The site of the original village is accessible from the Taff Trail National cycle route 8. This leads down a heavily tree lined slope to the area that was the original village site.\nThe bridge over the River Taff at Pontygwait is a Grade II listed structure. and was featured in the Beauty and the Beast episode of the BBC's Merlin, where a girl has a picnic with a troll beneath the bridge.\nPontygwaith today lacks many dwellings, but one notable exception is Pontygwaith Farm, located on the hill near the bridge, which offers tea room facilities. The gardens have occasionally been opened, for charity days, by the owners.\nThe National Cycle Route 477 Taith Trevithick Trail heads up the east side of the valley from Pontygwaith to Trevithick's Tunnel - just south of Merthyr Tydfil, old stone sleepers can still be seen all around these trails on the east side of the valley where the famous tramroad ran. Cycle route 8 (the Taff Trail) also passes through the village. [1]\nPontygwaith was the birthplace of composer Mansel Thomas OBE (1909 \u2013 1986)."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Pontygwaith",
+                        "_text": "Gallai Pontygwaith neu Pont-y-gwaith gyfeirio at:\nPontygwaith, pentref ym mwrdeisdref sirol Merthyr Tudful\nPont-y-gwaith, pentref ym mwrdeisdref sirol Rhondda Cynon Taf"
+                    }
+                ]
+            },
+            {
+                "id": "rhondda cynon taff#pontypridd",
+                "name": "Pontypridd",
+                "lat": "51.600774",
+                "lon": "-3.342314",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Pontypridd",
+                        "_text": "Pontypridd \/p\u0252nt\u0259\u02c8pri\u02d0\u00f0\/ is both a community and a principal town of Rhondda Cynon Taf, Wales, and is situated 12 miles\/19 km north of the Welsh capital city of Cardiff. Pontypridd is often abbreviated to \"Ponty\" by local residents."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Pontypridd",
+                        "_text": "Mae Pontypridd yn dref yn Rhondda Cynon Taf, de Cymru. Mae wedi ei lleoli tua deuddeg milltir i\u2019r gogledd o Gaerdydd, a chanddi boblogaeth o tua 33,000. Mae Llundain yn 224.1 km.\nYn \u00f4l cyfrifiad 2001, mae 13.9% o boblogaeth Pontypridd yn medru\u2019r Gymraeg, 21.3% ag un neu ragor o fedrau yn Gymraeg, a thua chwarter plant oedran addysg gynradd y dref yn mynychu ysgolion Cymraeg.\nDeillia enw\u2019r dref o 'Pont y t\u0177 pridd'. Yn \u00f4l hanes lleol, safai t\u0177 traddodiadol wedi ei wneud o bren, gwrysg a phridd ar lan Afon Taf, a dyma\u2019r enw a roddwyd i\u2019r nifer o bontydd a godwyd dros yr afon (gweler Ifor Williams, Enwau Lleoedd, tud. 56). Erbyn heddiw, Ponty yw\u2019r enw a ddefnyddir gan drigolion yr ardal wrth gyfeirio at y dref ar lafar. Mae hi hefyd yn efeilldref gyda N\u00fcrtingen, yn yr Almaen."
+                    }
+                ]
+            },
+            {
+                "id": "rhondda cynon taff#porth",
+                "name": "Porth",
+                "lat": "51.613554",
+                "lon": "-3.407184",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Porth",
+                    "_text": "Porth (Welsh: Y Porth) is a village and a community in the county borough of Rhondda Cynon Taf, within the historic county boundaries of Glamorgan, Wales, lying in the Rhondda Valley and is regarded as the gateway to the Rhondda Fawr and Rhondda Fach valleys because both valleys meet at Porth. The Welsh word \"porth\" means \"gate\" when translated into English. Porth is a predominantly English-speaking community.\nNeighbouring villages include Trealaw, Trebanog, Trehafod and Ynyshir."
+                }
+            },
+            {
+                "id": "rhondda cynon taff#rhigos",
+                "name": "Rhigos",
+                "lat": "51.741755",
+                "lon": "-3.562555",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Rhigos",
+                    "_text": "Rhigos is a village in the north of the Cynon Valley, in the county borough of Rhondda Cynon Taf, South Wales. For postal purposes it comes under the town of Aberdare, although it is some 7 miles (11 km) from Aberdare town centre, and 2 miles (3.2 km) from Glyn Neath."
+                }
+            },
+            {
+                "id": "rhondda cynon taff#rhiwinder",
+                "name": "Rhiwinder",
+                "lat": "51.5812361",
+                "lon": "-3.4095361"
+            },
+            {
+                "id": "rhondda cynon taff#rhondda",
+                "name": "Rhondda",
+                "lat": "51.6160411",
+                "lon": "-3.4250598",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Rhondda",
+                    "_text": "Rhondda \/\u02c8r\u0252n\u00f0\u0259\/, or the Rhondda Valley (Welsh: Cwm Rhondda [k\u028am \u02c8r\u0325\u0254n\u00f0a]), is a former coal mining valley in Wales, formerly a local government district, consisting of 16 communities built around the River Rhondda. The valley is made up of two valleys, the larger Rhondda Fawr valley (mawr large) and the smaller Rhondda Fach valley (bach small). Both the singular term 'Rhondda Valley' and the plural 'Rhondda Valleys' are commonly used. In 2001 the Rhondda constituency of the National Assembly for Wales had a population of 72,443; while the National Office of Statistics described the Rhondda urban area as having a population of 59,602. Rhondda is part of Rhondda Cynon Taf County Borough and is part of the South Wales Valleys.\nThe Rhondda Valley is most notable for its historical link to the coal mining industry which was at its peak between 1840-1925 AD. The Rhondda Valleys were home to a strong early Nonconformist Christian movement which manifested itself in the Baptist chapels which moulded Rhondda values in the 19th and early 20th century. Rhondda is also famous for strong masculine cultural ties within a social community which expressed itself outside industry in the form of male voice choirs, sport and politics."
+                }
+            },
+            {
+                "id": "rhondda cynon taff#rhydyfelin",
+                "name": "Rhydyfelin",
+                "lat": "51.585862",
+                "lon": "-3.304931",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Rhydyfelin",
+                        "_text": "Rhydyfelin (Welsh pronunciation: [r\u0325\u0268d\u0259\u02c8v\u025bl\u026an], Mill Ford) is a large village and part of the community of Pontypridd, a town about two miles to its north west, in the county borough of Rhondda Cynon Taf. It is on the eastern bank of the River Taff close to the A470, and historically was in the parish of Eglwysilan.\nRhydyfelin grew from a rural hamlet to a thriving village in the 19th century, due to its location on the Glamorganshire Canal which took iron from Merthyr Tydfil to the city of Cardiff, and linking to this Dr. Richard Griffiths' canal and tramway which took coal from the Rhondda Valleys. Also of note was the nearby Iron and Tin works at Treforest. Other minor works included an ironworks on the site of the tram shed buildings.\nNeighbouring villages are Hawthorn, Treforest and Glyntaff. The village is split into two electoral wards: the lower largely historic part of the village is in Hawthorn ward along with the settlement of Upper Boat which comprises some of the nearby Treforest Estate, while the largely modern housing estates of upper Rhydyfelin are in the ward of Rhydyfelen Central and Ilan. Rhydyfelin is also known as Rhydfelen, which means Yellow ford in the Welsh language.\nRhydyfelin was once served by two railway stations- one on the Cardiff Railway, and one on the Pontypridd, Caerphilly and Newport Railway. After the Grouping, the former Cardiff Railway halt became Rhydyfelin Low Level Halt and the halt of the Pontypridd, Caerphilly and Newport Railway became Rhydyfelin High Level Halt. The halts closed in 1931 and 1953 respectively."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Rhydyfelin",
+                        "_text": "Gall Rhydyfelin gyfeirio at un o ddau bentref yng Nghymru:\nRhydyfelin, Ceredigion\nRhydyfelin, Rhondda Cynon Taf\nRhydyfelin, Powys"
+                    }
+                ]
+            },
+            {
+                "id": "rhondda cynon taff#robertstown",
+                "name": "Robertstown",
+                "lat": "51.720418",
+                "lon": "-3.447702",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Robertstown",
+                    "_text": "Robertstown is a small village situated on the banks of the Grand Canal in County Kildare, Ireland. It grew in importance on the arrival of the canal, at the highest level, 85 metres (279 ft) above sea level, of which it lies, in 1784."
+                }
+            },
+            {
+                "id": "rhondda cynon taff#stanleytown",
+                "name": "Stanleytown",
+                "lat": "51.6436979",
+                "lon": "-3.4293626",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Stanleytown",
+                    "_text": "Stanleytown may refer to:\nStanleytown, Rhondda Cynon Taf\nStanleytown, Virginia"
+                }
+            },
+            {
+                "id": "rhondda cynon taff#taff",
+                "name": "Taff",
+                "lat": "51.6028593",
+                "lon": "-3.3402409",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Taff",
+                    "_text": "Taff may refer to:\nRiver Taff, a large river in Wales\nTaff (TV series), a German tabloid news programme\nTrans-Atlantic Fan Fund, an organisation in science fiction fandom"
+                }
+            },
+            {
+                "id": "rhondda cynon taff#talbot green",
+                "name": "Talbot Green",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Talbot Green",
+                    "_text": "Talbot Green (Tonysguboriau or Tanysguboriau in Welsh) is a town just north of the M4 motorway, in the County Borough of Rhondda Cynon Taf, Wales in the United Kingdom. The town is part of Llantrisant Community Council."
+                }
+            },
+            {
+                "id": "rhondda cynon taff#thomastown",
+                "name": "Thomastown",
+                "lat": "51.5750905",
+                "lon": "-3.4376201",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Thomastown",
+                    "_text": "Thomastown (Irish: Baile Mhic And\u00e1in), historically known as Grennan, is a town in County Kilkenny in the province of Leinster in the south-east of Ireland. It is a lively market town along a stretch of the River Nore which is known for its salmon and trout, with a number of historical landmarks in the vicinity. Visitor attractions include Jerpoint Abbey, Kilfane Glen gardens, and Mount Juliet Golf Course.\nThomastown is a Local Electoral Area of County Kilkenny and includes the electoral divisions of Ballyhale, Ballyvool, Bennettsbridge, Bramblestown, Castlebanny, Clara, Coolhill, Dunbell, Famma, Freaghana, Goresbridge, Gowran, Graiguenamanagh, Inistioge, Jerpoint Church, Kilfane, Kiltorcan, Paulstown, Pleberstown, Powerstown, Shankill, Thomastown, Tullaherin, Ullard and Woolengrange."
+                }
+            },
+            {
+                "id": "rhondda cynon taff#ton pentre",
+                "name": "Ton Pentre",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Ton Pentre",
+                        "_text": "Ton Pentre (Welsh: Tonpentre) is a village in the Rhondda Valley in the county borough of Rhondda Cynon Taf, Wales. Ton Pentre, a former industrial coal mining village, is a district of the community of Pentre. The old district of Ystradyfodwg was named after the church at Ton Pentre. Ton Pentre is, perhaps, best known for an incident in 1924, when The Duke of York (later George VI of the United Kingdom) played a round of golf with Frank Hodges.\n\n"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Ton Pentre",
+                        "_text": "Pentref yn Rhondda Cynon Taf yw Ton Pentre, weithiau Tonpentre. Saif yng nghwm Rhondda Fawr, yng nghymuned Pentre. Roedd y boblogaeth yn 2004 tua 1,028.\nRoedd yr ardal lle saif Ton Pentre yn wreiddiol yn glwstwr o hafotai, a elwid 'Y Ton'. Daeth y diwydiant glo yn bwysog yma o ganol y 19eg ganrif ymlaen, gyda Glofa Maendy, a agorwyd yn 1864, yn Nhon Pentre yn un o gyflogwyr mwyaf yr ardal. Caeodd yn 1948."
+                    }
+                ]
+            },
+            {
+                "id": "rhondda cynon taff#ton-teg",
+                "name": "Ton-teg",
+                "lat": "51.5710989",
+                "lon": "-3.312396",
+                "wikipedia": {
+                    "lang": "cy",
+                    "href": "https:\/\/cy.wikipedia.org\/wiki\/Ton-teg",
+                    "_text": "Pentref bychan ger Pontypridd yn Rhondda Cynon Taf ydy Ton-teg (hefyd: Tonteg), tua 9 milltir i'r gogledd o Gaerdydd. Mae Tonteg yn eistedd wrth ymyl y pentref Pentre'r Eglwys ac nid yw'r ffiniau rhwng y ddau pentref yn glir.\nMae yna fwnt hanesyddol or 12fed ganrif o'r enw 'Tomen y Clawdd' wedi ei leoli yno ar Ffordd Gerdinan."
+                }
+            },
+            {
+                "id": "rhondda cynon taff#tonypandy",
+                "name": "Tonypandy",
+                "lat": "51.624352",
+                "lon": "-3.458067",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Tonypandy",
+                        "_text": "Tonypandy \/t\u0252n\u0259\u02c8p\u00e6ndi\/ is a town in the county borough of Rhondda Cynon Taf, within the historic county boundaries of Glamorgan, Wales, lying in the Rhondda Fawr Valley. A former industrial coal mining town, today Tonypandy is best known as the site of the Tonypandy Riots."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Tonypandy",
+                        "_text": "Mae Tonypandy yn dref a chymuned yng Nghwm Rhondda, yn Rhondda Cynon Taf, Cymru. Mae Caerdydd 24.8 km i ffwrdd o Donypandy ac mae Llundain yn 232.2 km."
+                    }
+                ]
+            },
+            {
+                "id": "rhondda cynon taff#tonyrefail",
+                "name": "Tonyrefail",
+                "lat": "51.583768",
+                "lon": "-3.428319",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Tonyrefail",
+                        "_text": "Tonyrefail is a village and community in Rhondda Cynon Taf County Borough, Wales. It is situated 4 miles (6.4 km) north west of Llantrisant at the head of the Ely Valley, south of the Rhondda, being around 1.5 miles (2.4 km) from Trebanog and around 2 miles (3.2 km) from Williamstown. It is also around 2.5 miles (4.0 km) from the village of Gilfach Goch. Historically Tonyrefail was the site of a rural hamlet, it evolved into an industrial village during the second half of the 19th century, when coal and steel became synonymous with the South Wales Valleys. It now has a population of 11,035.\n\n"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Tonyrefail",
+                        "_text": "Mae Tonyrefail yn bentref a chymuned yn Rhondda Cynon Taf, Morgannwg. Saif ar bwys y A4119 rhai milltiroedd i'r de o Ystrad Rhondda, rhwng Gilfach Goch i'r gorllewin a Pontypridd i'r dwyrain."
+                    }
+                ]
+            },
+            {
+                "id": "rhondda cynon taff#trallwn",
+                "name": "Trallwn",
+                "lat": "51.6086478",
+                "lon": "-3.3315699",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Trallwn",
+                    "_text": "Trallwn is a common place name in Wales. Places include:\nTrallwn in Pontypridd\nTrallwn near Swansea."
+                }
+            },
+            {
+                "id": "rhondda cynon taff#tre-gibbon",
+                "name": "Tre-Gibbon"
+            },
+            {
+                "id": "rhondda cynon taff#tre-ifor",
+                "name": "Tre-Ifor",
+                "lat": "52.992992",
+                "lon": "-4.427481"
+            },
+            {
+                "id": "rhondda cynon taff#trealaw",
+                "name": "Trealaw",
+                "lat": "51.622843",
+                "lon": "-3.445513",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Trealaw",
+                        "_text": "Trealaw is the longest village in the Rhondda Valley, Rhondda Cynon Taf, Wales.\nTrealaw stretches over two miles from the junction of Cemetery Road and Brithweunydd Road in the east, to the junction of Ynyscynon Road and Partridge Road to the northwest."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Trealaw",
+                        "_text": "Am y gymuned ar Ynys M\u00f4n, gweler Tref Alaw.\n\nPentref a chymuned ym mwrdeisdref sirol Rhondda Cynon Taf, de Cymru, yw Trealaw. Roedd poblogaeth y gymuned yn 2001 yn 3,908.\nSaif Trealaw yr ochr draw i afon Rhondda Fawr o Donypandy."
+                    }
+                ]
+            },
+            {
+                "id": "rhondda cynon taff#trebanog",
+                "name": "Trebanog",
+                "lat": "51.6004801",
+                "lon": "-3.4219271",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Trebanog",
+                        "_text": "Trebanog is a village in the Cymmer electoral ward lying on the southernmost outskirts of the Rhondda Valley, Rhondda Cynon Taf, Wales, located off the A4233 road between Porth the unofficial capital of the Rhondda, and the town of Tonyrefail which is at the head of the Ely Valley. Trebanog is an outlying district of the community of Cymmer, which itself is a district of the town of Porth. It is neighboured by the settlement of Edmondstown (a district of Penygraig) and it is located within the historic county of Glamorgan."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Trebanog",
+                        "_text": "Pentref yn Rhondda Cynon Taf yw Trebanog, a leolir yng ngwaelod y Rhondda rhwng Y Porth a Thonyrefail."
+                    }
+                ]
+            },
+            {
+                "id": "rhondda cynon taff#trecynon",
+                "name": "Trecynon",
+                "lat": "51.721267",
+                "lon": "-3.458639",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Trecynon",
+                        "_text": "Trecynon is a village near Aberdare situated in the Cynon Valley, in Rhondda Cynon Taf, Wales. It dates from the early nineteenth century and its developed as a result of the opening of the Aberdare Ironworks at Llwydcoed in 1800."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Trecynon",
+                        "_text": "Pentref ger Aberd\u00e2r yn Rhondda Cynon Taf, de Cymru yw Trecynon."
+                    }
+                ]
+            },
+            {
+                "id": "rhondda cynon taff#treforest",
+                "name": "Treforest",
+                "lat": "51.59431",
+                "lon": "-3.3268985",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Treforest",
+                    "_text": "Treforest (Welsh: Trefforest) is a village in the south-east of Pontypridd in the county borough of Rhondda Cynon Taf, Wales situated in the Treforest electoral ward along with the village of Glyntaff (or Glyn-Taf), being part of the Pontypridd Community. Treforest runs along the west bank of the River Taff (Welsh: Afon Taf) while Glyntaff runs along its east bank.\nTreforest extends from immediately south east of Ynysangharad Park where the A4058 link from the A470 joins the A473 Broadway (south of the adjoining wards of Graig and Trallwn), all the way to join the Tonteg ward in the south (part of the community of Llantwit Fardre).\nThe village is historically connected with the Crawshay family who established a major tinplate works in 1835. Treforest is now known for its association with the University of South Wales, originally established as The School of Mines at Treforest in 1913.\nTreforest Industrial Estate is not part of Treforest or its electoral ward, most of which is not even within Pontypridd. Instead this falls partly within the area of Upper Boat (Pontypridd), but mostly within the Willowford area of Ton-Teg (Llantwit Fardre) and Nantgarw (Taffs Well ward)"
+                }
+            },
+            {
+                "id": "rhondda cynon taff#trehafod",
+                "name": "Trehafod",
+                "lat": "51.6097548",
+                "lon": "-3.3834798",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Trehafod",
+                        "_text": "Trehafod is a village and community in the Rhondda Valley between Porth and Pontypridd in the county borough of Rhondda Cynon Taf, Wales, although in administrative terms is split between the electoral division of Cymmer (Rhondda) to the West and Rhondda (Pontypridd) to the East. A former coal mining area, the village is now best known as the site of the Rhondda Heritage Park, a tourist attraction reflecting industrial life of coal mining Rhondda."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Trehafod",
+                        "_text": "Pentref a chymuned ym mwrdeisdref sirol Rhondda Cynon Taf, de Cymru, yw Trehafod. Roedd poblogaeth y gymuned yn 2001 yn 816.\nTrehafod yw'r fwyaf deheuol o gymunedau'r Rhondda. Mae Parc Treftadaeth Cwm Rhondda ar safle Glofa Lewis Merthyr, a arferai fod yn un o byllau glo mwyaf cynhyrchiol Cymru."
+                    }
+                ]
+            },
+            {
+                "id": "rhondda cynon taff#treherbert",
+                "name": "Treherbert",
+                "lat": "51.675007",
+                "lon": "-3.537165",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Treherbert",
+                        "_text": "Treherbert is a village and community situated at the head of the Rhondda Fawr valley in the county borough of Rhondda Cynon Taf, Wales. Treherbert is a former industrial coal mining village which was at its economic peak between 1850 and 1920. Treherbert is the upper most community of the Rhondda Fawr and encompasses the districts of Blaencwm, Blaenrhondda, Tynewydd and Pen-yr-englyn."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Treherbert",
+                        "_text": "Mae Treherbert yn dref yn Rhondda Cynon Taf, yn ne Cymru. Mae Caerdydd 32.5 km i ffwrdd o Dreherbert ac mae Llundain yn 237.6 km. Y ddinas agosaf ydy Abertawe sy'n 30.2 km i ffwrdd."
+                    }
+                ]
+            },
+            {
+                "id": "rhondda cynon taff#treorchy (treorci)",
+                "name": "Treorchy (Treorci)"
+            },
+            {
+                "id": "rhondda cynon taff#treorci (treorchy)",
+                "name": "Treorci (Treorchy)"
+            },
+            {
+                "id": "rhondda cynon taff#tyle-garw",
+                "name": "Tyle-garw",
+                "lat": "51.5255387",
+                "lon": "-3.3988498"
+            },
+            {
+                "id": "rhondda cynon taff#tylorstown",
+                "name": "Tylorstown",
+                "lat": "51.649572",
+                "lon": "-3.429584",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Tylorstown",
+                    "_text": "Tylorstown (Welsh: Pendyrus) is a village and community located in the Rhondda valley, in the county borough of Rhondda Cynon Taf, Wales. It was founded by Alfred Tylor who set up an early coal mining operation in the location in the mid-19th century.\nThe last working mine in the village closed in the 1960s setting off a long period of economic decline which worsened following the 1984\u201385 national miners' strike which resulted in pits in nearby locations such as Maerdy closing. The local passenger train line closed in the 1960s following the Beeching Axe which also limited the prospects of easy commuting to Cardiff.\nIt is neighboured by the villages of Blaenllechau, Ferndale, Penrhys, Pontygwaith and Stanleytown."
+                }
+            },
+            {
+                "id": "rhondda cynon taff#tynant",
+                "name": "Tynant",
+                "lat": "52.988585",
+                "lon": "-3.504056"
+            },
+            {
+                "id": "rhondda cynon taff#tynewydd",
+                "name": "Tynewydd",
+                "lat": "51.679093",
+                "lon": "-3.54632",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Tynewydd",
+                        "_text": "Tynewydd is a village located in the County Borough of Rhondda Cynon Taf, south Wales. With Treherbert, Blaencwm, Blaenrhondda and Pen-yr-englyn it is part of a community of Treherbert. The village lies in the former industrial coal mining area at the head of Rhondda Fawr, the larger of the Rhondda Valleys."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Tynewydd",
+                        "_text": "Pentref bychan yn Rhondda Cynon Taf yw Tynewydd. Mae'n gorwedd yn rhan uchaf Cwm Rhondda ger Blaencwm."
+                    }
+                ]
+            },
+            {
+                "id": "rhondda cynon taff#tyntetown",
+                "name": "Tyntetown"
+            },
+            {
+                "id": "rhondda cynon taff#upper boat",
+                "name": "Upper Boat",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Upper Boat",
+                    "_text": "Upper Boat (Welsh: Glan-bad) is a village on the southernmost outskirts of the town of Pontypridd, within the electoral ward of Hawthorn, Rhondda Cynon Taf, Wales, and comprises part of the Treforest Industrial Estate. Historically it fell within the parish of Eglwysilan, Mid Glamorgan. From 2006 to 2012 it was known in media circles for being home to BBC Wales's Upper Boat Studios, where the hit revised version of Doctor Who, as well as spin-offs Torchwood and The Sarah Jane Adventures, were produced before production moved to Roath Lock, Cardiff.\n\n"
+                }
+            },
+            {
+                "id": "rhondda cynon taff#upper church village",
+                "name": "Upper Church Village"
+            },
+            {
+                "id": "rhondda cynon taff#wattstown",
+                "name": "Wattstown",
+                "lat": "51.635072",
+                "lon": "-3.41843",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Wattstown",
+                        "_text": "Wattstown (Welsh: Aberllechau) is a village located in the Rhondda Valley in the county borough of Rhondda Cynon Taf, Wales. Located in the Rhondda Fach valley it is a district of the community of Ynyshir. Prior to mid 19th century industrialisation the area was once little more than a wooded area, sparsely populated by farmsteads. With the coming of the coal industry Wattstown became a busy, densely populated village, but with the closure of the collieries Wattstown suffered an economic downturn that still affects the village today.\nWattstown is named after Edmund Hannay Watts, who at one time owned the National Colliery in Wattstown."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Wattstown",
+                        "_text": "Pentref yn Rhondda Cynon Taf yw Wattstown (ymddengys nad oes enw Cymraeg am y pentref), a leolir ar lan afon Rhondda Fach yng nghymuned Ynys-hir."
+                    }
+                ]
+            },
+            {
+                "id": "rhondda cynon taff#williamstown",
+                "name": "Williamstown",
+                "lat": "51.6061051",
+                "lon": "-3.4396686",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Williamstown",
+                    "_text": "Williamstown or Williamtown is the name of several places in the world:\nAustralia\nWilliamtown, New South Wales\nRAAF Base Williamtown, New South Wales\n\nWilliamstown, South Australia\nWilliamstown, Victoria\nWilliamstown railway line\nWilliamstown railway station, Melbourne\nWilliamstown Beach railway station\n\nElectoral district of Williamstown, an electoral district in Victoria\nCameroon\nWilliamstown, Bimbia, a historical village in the kingdom of Bimbia, now no longer in existence\nCanada\nWilliamstown, Ontario\nthe historical name of Strange, Ontario\nIreland\nWilliamstown, County Dublin\nWilliamstown, County Galway\nWilliamstown, County Roscommon\nUnited Kingdom\nWilliamstown, Rhondda Cynon Taf, Wales\nUnited States\nWilliamstown, Indiana\nWilliamstown, Iowa, alternative name for Frytown, Iowa\nWilliamstown, Kansas\nWilliamstown, Kentucky\nWilliamstown, Massachusetts\nWilliamstown, New Jersey\nWilliamstown, New York\nWilliamstown, Pennsylvania\nWilliamstown, Vermont\nWilliamstown, West Virginia\nWilliamstown, Wisconsin\nWilliamstown Township, Michigan"
+                }
+            },
+            {
+                "id": "rhondda cynon taff#ynysboeth",
+                "name": "Ynysboeth",
+                "lat": "51.657124",
+                "lon": "-3.344099",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Ynysboeth",
+                    "_text": "This is a redirect from a subtopic of the target article. For more information follow the category link."
+                }
+            },
+            {
+                "id": "rhondda cynon taff#ynyshir",
+                "name": "Ynyshir",
+                "lat": "51.625199",
+                "lon": "-3.412899",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Ynyshir",
+                    "_text": "Ynyshir  is a village and a community located in the Rhondda Valley, within Rhondda Cynon Taf, South Wales. Ynyshir is pronounced (\u0259n\u0268\u031es-hir) according to the International Phonetic Alphabet (IPA), and means \"Long Meadow\" or \"Long Island\" in Welsh. The village takes its name from a farm in the area, falling within the historic parishes of Ystradyfodwg and Llanwynno (Llanwonno). The community of Ynyshir lies between the small adjoining village of Wattstown and the larger town of neighbouring Porth.\nYnyshir has its own library, post office, doctor's surgery and a number of shops and other significant amenities, although these represent a fraction of the businesses that once fronted the main road \u2013 Ynyshir Road during the village's heyday. It is also home to local football teams Ynyshir Albions and Ynyshir and Wattstown Boys Club.\n^ 2001 Census: Census Area Statistics: National Statistics. UK government. Retrieved 6 January 2010.\n^ & Wattstown Communities First communitiesfirst.co.uk\n^ Y Geiriadur Mawr\/The Complete Welsh English, English Welsh Dictionary, Gwasg Gomer 1958 et seq\n^ Ynyshir in the Parish of Ystradyfodwg genuki.org.uk\n^ Ynyshir in the Rhondda Valleys, Glamorgan anglesey.info"
+                }
+            },
+            {
+                "id": "rhondda cynon taff#ynysmaerdy",
+                "name": "Ynysmaerdy",
+                "lat": "51.5506839",
+                "lon": "-3.396995",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Ynysmaerdy",
+                        "_text": "Ynysmaerdy is a village near Talbot Green and Llantrisant in Rhondda Cynon Taf, Wales. Even though there is no direct access to the village of Llanharan, due to older parish boundaries it falls under the community of Llnaharan. It is home to the Royal Glamorgan Hospital."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Ynysmaerdy",
+                        "_text": "Pentref yn Rhondda Cynon Taf yw Ynysmaerdy. Fe'i lleolir ar yr A4119 ger Llantrisant, tua 5 milltir i'r de-orllewin o Bontypridd, yn ne'r sir. Llifa Afon El\u00e1i heibio i'r pentref.\nLleolir Ysbyty Brenhinol Morgannwg yn y pentref."
+                    }
+                ]
+            },
+            {
+                "id": "rhondda cynon taff#ynyswen",
+                "name": "Ynyswen",
+                "lat": "51.803514",
+                "lon": "-3.689441",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Ynyswen",
+                        "_text": "Ynyswen is a village in the community of Treorchy, in the county borough of Rhondda Cynon Taf, Wales.\nYnyswen consists mostly of housing. It has an industrial estate which was once the site of Burberry's factory, one shop, and the Forest View Medical Centre.\nThe area has several chapels and churches as well as Ynyswen Infant school and Ynyswen Welsh School.\nYnyswen infant's school takes children until the age of 7. From then they must go to a different primary school: usually Penyrenglyn Primary School or Treorchy Primary School. Ynyswen Welsh School is a Welsh-speaking primary school that serves the Rhondda Valley. There is no nearby Welsh-speaking comprehensive school and so pupils mostly attend a Welsh school some miles away.\nYnyswen railway station is on the Rhondda Line."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Ynyswen",
+                        "_text": "Pentrefan yng nghymuned Tawe Uchaf, Powys, Cymru yw Ynyswen, sydd 31.4 milltir (50.6km) o Gaerdydd a 154 milltir (247.8km) o Lundain.\nCynrychiolir Ynyswen yn y Cynulliad Cenedlaethol gan Kirsty Williams (Y Democratiaid Rhyddfrydol) a'r Aelod Seneddol yw Roger Wiliams (Y Democratiaid Rhyddfrydol)."
+                    }
+                ]
+            },
+            {
+                "id": "rhondda cynon taff#ynysybwl",
+                "name": "Ynysybwl",
+                "lat": "51.639356",
+                "lon": "-3.360219",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Ynysybwl",
+                    "_text": "Ynysybwl (Welsh: Ynys-y-b\u0175l [\u0259n\u026as\u0259\u02c8b\u028al]) is a village in Cwm Clydach in Wales. It is situated in the county borough of Rhondda Cynon Taf, roughly 20 miles (32 km) north-north-west of Cardiff, 4 miles (6 km) north of Pontypridd and 10 miles (16 km) south of Merthyr Tydfil, and forms part of the community of Ynysybwl and Coed-y-cwm.\nCwm Clydach is flanked by the Rhondda and Cynon Valleys. The market town of Pontypridd lies to the south at the meeting point of the three valleys; and to the north lies the large Llanwynno forestry. Before the local government reforms of 1996 Ynysybwl was in the Cynon Valley district of Morgannwg Ganol, and the area is historically a part of Glamorgan (Morgannwg)."
+                }
+            },
+            {
+                "id": "rhondda cynon taff#ystrad",
+                "name": "Ystrad",
+                "lat": "51.644183",
+                "lon": "-3.462833",
+                "wikipedia": {
+                    "lang": "cy",
+                    "href": "https:\/\/cy.wikipedia.org\/wiki\/Ystrad",
+                    "_text": "Ystyr y gair ystrad yw 'dyffryn', 'glyn' neu 'wastadedd'. Mae'n air Cymraeg cynhenid sy'n tarddu o'r gwraidd Celteg *strato-. Dan ddylanwad y gair Lladin cytras strata, datblygodd yr ystyr hynafiaethol 'stryd' hefyd. Mae'n elfen gyffredin mewn enwau lleoedd, yn cynnwys:\nYstrad Aeron, pentref yn Nyffryn Aeron, Ceredigion\nYstrad Alun, cantref canoloesol yn ne-ddwyrain Cymru\nYstrad Clud, teyrnas Frythonig yn yr Hen Ogledd\nYstrad Fflur (Abaty Ystrad Fflur; Strata Florida), Ceredigion\nYstradgynlais, tref yng Nghwm Tawe Uchaf, Powys\nYstrad Marchell, cwmwd canoloesol, Powys\nAbaty Ystrad Marchell (Strata Marcella)\n\nYstrad Meurig, pentref yng Ngheredigion\nCastell Ystrad Meurig\n\nYstrad Mynach, tref ym mwrdeistref sirol Caerffili\nYstrad Rhondda (neu 'Ystrad'), pentref yn Rhondda Cynon Taf\nYstrad Tywi, rhanbarth hanesyddol, Sir Gaerfyrddin\nHefyd:\nAfon Ystrad, Clwyd\nLlanfihangel Ystrad, Ceredigion\nYr Ystrad, cymuned yn Rhondda Cynon Taf"
+                }
+            }
+        ]
+    }
+}

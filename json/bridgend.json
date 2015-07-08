@@ -1,0 +1,100 @@
+{
+    "id": "Bridgend",
+    "population": {
+        "href": {
+
+        },
+        "_text": {
+
+        }
+    },
+    "poscodes": {
+        "postcode": [
+            "CF31",
+            "CF32",
+            "CF33",
+            "CF34",
+            "CF35",
+            "CF36"
+        ]
+    },
+    "towns": {
+        "town": [
+            {
+                "id": "bridgend#brackla",
+                "name": "Brackla",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Brackla",
+                    "_text": "Brackla is a community and a large housing estate in the east of Bridgend in Bridgend County Borough, Wales. Along with the communities of Bridgend and Coychurch Lower, it makes up the town of Bridgend. At the 2001 census the community of Brackla has a population of 10,113, increasing to 11,749 at the 2011 Census, making up nearly a quarter of Bridgend's population."
+                }
+            },
+            {
+                "id": "bridgend#bridgend",
+                "name": "Bridgend",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Bridgend",
+                        "_text": "Bridgend (English pronunciation: \/br\u0268\u02c8d\u0292\u025bnd\/; Welsh: Pen-y-bont ar Ogwr, meaning \"The main bridge on the River Ogmore\" or alternatively \"Bridgehead on the River Ogmore\" (suggesting a battle), is a town in Bridgend County Borough in Wales, 18-mile (29 km) west of the capital Cardiff and 20-mile (32 km) east of Swansea. The river crossed by the original bridge, which gave the town its name, is the River Ogmore, but the River Ewenny also passes to the south of the town.\nHistorically a part of Glamorgan, Bridgend has greatly expanded in size since the early 1980s - the 2001 census recorded a population of 39,429 for the town and the 2011 census reports that the Bridgend Local Authority had a population of 139,200 up from 128,700 in 2001. This 8.2% rise was the largest rise in Wales except for Cardiff. The town is undergoing a redevelopment project, with the town centre pedestrianised and a new business park opened."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Bridgend",
+                        "_text": "Enw lle yw Bridgend. Gallai gyfeirio at nifer o leoedd:\nLleoedd\nBridgend, Ceredigion\nPen-y-bont ar Ogwr\nBridgend, Gorllewin Lothian"
+                    }
+                ]
+            },
+            {
+                "id": "bridgend#maesteg",
+                "name": "Maesteg",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Maesteg",
+                        "_text": "Maesteg (English translation: 'Fair field') is a town and community in Bridgend County Borough, Wales. Maesteg lies at the northernmost end of the Llynfi Valley, close to the border with Neath Port Talbot. In 2011, Maesteg had a population of 20,612.\nHistorically a part of Glamorgan, the growth of the town started with the opening of ironworks in the 1820s and 1830s. Once a coal mining area, the last pit closed in 1985. With the decline of the coal industry and, more recently, the closure of one large factory producing cosmetics and another manufacturing vehicle components, the valley has become a residential\/dormitory area for the Port Talbot, Bridgend and Cardiff journey to work areas. 11% (1,867 out of 20,702) of the town's population speak Welsh.\n^ Census 2011, Bridgend B.C. Ward Statistics for the upper Llynfi Valley (Caerau, Maesteg East and West, Llangynwyd). Retrieved 15 February 2013.\n^ Davies, John; Jenkins, Nigel (2008). The Welsh Academy Encyclopaedia of Wales. Cardiff: University of Wales Press. p. 531. ISBN 978-0-7083-1953-6. \n^ http:\/\/www.ons.gov.uk\/ons\/rel\/census\/cyfrifiad-2011\/ystadegau-allweddol-ar-gyfer-awdurdodau-unedol-yng-nghymru\/stb-2011-key-statistics-for-wales---welsh.html"
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Maesteg",
+                        "_text": "Mae Maesteg yn dref a chymuned ym mwrdeistref sirol Pen-y-bont ar Ogwr yn ne Cymru. Mae Caerdydd 36.2 km i ffwrdd o Faesteg ac mae Llundain yn 246.2 km. Y ddinas agosaf ydy Abertawe sy'n 21.2 km i'r gorllewin. Yn 2011 roedd ei phoblogaeth yn 17,580, o'i gymharu \u00e2 17,859 yn 2001. Mae ganddi arwynebedd o 2,721 ha ac yn cwmpasu rhan uchaf Afon Llyfni. Gellir olrhain twf Maesteg i'r gwaith haearn a thunplat treflannau fel Porth-cawl, Llynfi a Llwydarth."
+                    }
+                ]
+            },
+            {
+                "id": "bridgend#pencoed",
+                "name": "Pencoed",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Pencoed",
+                    "_text": "Pencoed is a town in the county borough of Bridgend, Wales, United Kingdom, 15 miles from Wales's largest city of Cardiff. Lying on the Ewenny River it has a population of around 11,000 (latest figures show 11,832)."
+                }
+            },
+            {
+                "id": "bridgend#porthcawl",
+                "name": "Porthcawl",
+                "wikipedia": [
+                    {
+                        "lang": "en",
+                        "href": "https:\/\/en.wikipedia.org\/wiki\/Porthcawl",
+                        "_text": "Porthcawl is a town and community on the south coast of Wales in the county borough of Bridgend, 25 miles (40 km) west of the capital city, Cardiff and 19 miles (31 km) southeast of Swansea. Situated on a low limestone headland on the South Wales coast, overlooking the Bristol Channel, Porthcawl developed as a coal port during the 19th century, but its trade was soon taken over by more rapidly developing ports such as Barry. Northwest of the town, in the dunes known as Kenfig Burrows, are hidden the last remnants of the town and Kenfig Castle, which were overwhelmed by sand about 1400."
+                    },
+                    {
+                        "lang": "cy",
+                        "href": "https:\/\/cy.wikipedia.org\/wiki\/Porthcawl",
+                        "_text": "Mae Porthcawl yn dref glan-m\u00f4r ar arfodir deheuol Cymru, ym mwrdeistref sirol Pen-y-bont ar Ogwr. Mae Caerdydd 36 km i ffwrdd o Borthcawl ac mae Llundain yn 249 km. Y ddinas agosaf ydy Abertawe sy'n 24.7 km i ffwrdd."
+                    }
+                ]
+            },
+            {
+                "id": "bridgend#pyle",
+                "name": "Pyle",
+                "wikipedia": {
+                    "lang": "en",
+                    "href": "https:\/\/en.wikipedia.org\/wiki\/Pyle",
+                    "_text": "Pyle (Welsh: Y P\u00eel ) is a village and community in Bridgend county borough, Wales. This large village is served by the A48 road, and lies less than one mile from Junction 37 of the M4 motorway, and is therefore only a half-hour journey from the capital city of Wales, Cardiff; in fact it lies approximately equidistant between the capital (Cardiff) and the second city (Swansea). The nearest town is the seaside resort of Porthcawl. Within the Community, to the northeast of Pyle, is the adjoining settlement of Kenfig Hill."
+                }
+            }
+        ]
+    }
+}
